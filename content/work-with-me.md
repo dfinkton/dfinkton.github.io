@@ -3,8 +3,6 @@ title: "Work With Me"
 description: "Media requests, speaking engagements, consulting, and coaching with Darryl Finkton Jr."
 ---
 
-# Work With Me
-
 My books, essays, and videos are free and open source. If you want to go deeper, here are the ways we can work together.
 
 ## Media Requests
