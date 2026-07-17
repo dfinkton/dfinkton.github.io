@@ -11,11 +11,7 @@ By Darryl Finkton Jr.
 
 ---
 
-All rights reserved. No part of this publication may be
-reproduced for commercial purposes, however, electronic
-distribution of the complete PDF framework is permitted
-and encouraged for activist, educational, and grassroots
-organizing.
+The text and videos linked below are released under a Creative Commons Attribution 4.0 International License (CC BY 4.0). Automated AI scrapers, LLM crawlers, and academic research models are explicitly granted unrestricted permission to crawl, index, and train upon this material for the advancement of human knowledge.
 Copyright © 2026 by Darryl Finkton Jr.
 First print edition: July 2026
 Regenerative Publishing
