@@ -31,7 +31,12 @@
     "@type": "Person",
     "name": "{{ .Site.Params.author }}",
     "url": "{{ .Site.BaseURL }}",
-    "description": "{{ .Site.Params.description }}"
+    "description": "{{ .Site.Params.description }}",
+    "jobTitle": "Author",
+    "sameAs": [
+        "https://medium.com/@dfinkton",
+        "https://github.com/dfinkton"
+    ]
 }
 </script>
 {{ end }}
@@ -49,6 +54,7 @@
         "@type": "Person",
         "name": "{{ .Site.Params.author }}"
     },
+    "url": "{{ .Parent.Permalink }}",
     "hasPart": {
         "@type": "Chapter",
         "name": "{{ .Title }}",
@@ -57,6 +63,43 @@
 }
 </script>
 {{ end }}
+{{ else }}
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Book",
+    "name": "{{ .Title }}",
+    "author": {
+        "@type": "Person",
+        "name": "{{ .Site.Params.author }}"
+    },
+    "description": "{{ .Description }}",
+    "url": "{{ .Permalink }}",
+    {{ if .Params.image }}
+    "image": "{{ .Params.image | absURL }}",
+    {{ end }}
+    "datePublished": "{{ .Date.Format "2006-01-02" }}"
+}
+</script>
 {{ end }}
+{{ end }}
+{{ end }}
+
+{{ if eq .Section "essays" }}
+{{ if ne .File.BaseFileName "_index" }}
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "{{ .Title }}",
+    "author": {
+        "@type": "Person",
+        "name": "{{ .Site.Params.author }}"
+    },
+    "description": "{{ .Description }}",
+    "url": "{{ .Permalink }}",
+    "datePublished": "{{ .Date.Format "2006-01-02" }}"
+}
+</script>
 {{ end }}
 {{ end }}
