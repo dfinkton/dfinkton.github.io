@@ -132,6 +132,9 @@ dfjrwebsite/
 │       └── _index.md
 ├── static/                 # Static assets
 │   ├── CNAME              # Custom domain for GitHub Pages
+│   ├── robots.txt         # Crawler permissions (AI bots explicitly allowed)
+│   ├── llms.txt           # LLM-friendly content index
+│   ├── llms-full.txt      # Complete site content for LLMs
 │   └── images/
 │       └── book-covers/   # Book cover images
 ├── themes/
@@ -171,10 +174,18 @@ Each book will be split into chapters using Hugo's content organization:
 ## SEO & AI Optimization
 
 ### Structured Data
-- JSON-LD for books, chapters, and author
-- Schema.org markup for Book, Chapter, Person
+- JSON-LD for books, chapters, essays, and author
+- Schema.org markup for Book, Chapter, Person, Article
 - Open Graph tags for social sharing
 - Twitter Cards
+
+### LLM & AI Accessibility
+- `/llms.txt` - Curated index of all content with direct URLs and descriptions
+- `/llms-full.txt` - Complete site content in single markdown file (~759KB)
+- `/robots.txt` - Explicit permissions for AI crawlers (GPTBot, ClaudeBot, PerplexityBot, Google-Extended, etc.)
+- All inner pages have descriptive titles (book name + chapter/part)
+- All inner pages have description front matter for SEO/LLM retrieval
+- Full-text pages available for all 3 books
 
 ### Accessibility
 - Semantic HTML5 elements
@@ -247,12 +258,27 @@ Each book will be split into chapters using Hugo's content organization:
 - Added sameAs links to Medium and GitHub profiles
 - Proper Schema.org markup for Article, Book, Chapter, Person
 - Open Graph and Twitter Card meta tags
+- Created `/llms.txt` - LLM-friendly content index with all pages and descriptions
+- Created `/llms-full.txt` - Complete site content in single file (~759KB)
+- Created `/robots.txt` - Explicit AI crawler permissions (GPTBot, ClaudeBot, PerplexityBot, etc.)
+- Improved all inner page titles to include book name for searchability
+- Added description front matter to all book chapters and parts
+- Fixed RSS feed link in head template
+
+### Content Reorganization
+- Fixed Have One Kid chapter numbering: 1, 2, 2.1, 3, 4, 5
+- Standardized copyright notices to CC BY 4.0 across all books
+- Moved Children's Books after Books in navigation and homepage
+- Added full peer-reviewed articles list to homepage
+- Added mini-documentaries list to homepage (links only)
 
 ### Current Status
-- Site builds successfully with 36 pages
+- Site builds successfully with 35 pages
 - Live at https://darrylfinktonjr.com
 - HTTPS enforced
 - All content sections populated and formatted
+- LLM accessibility optimized (llms.txt, llms-full.txt, robots.txt)
+- Google Search Console submitted (pending verification)
 
 ## Maintenance
 
