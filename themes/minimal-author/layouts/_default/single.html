@@ -1,0 +1,55 @@
+{{ define "main" }}
+<article class="single-content">
+    <header class="article-header">
+        <h1 class="article-title">{{ .Title }}</h1>
+        {{ if .Params.book }}
+        <p class="article-book"><a href="{{ .Site.BaseURL }}books/{{ urlize .Params.book }}/">{{ .Params.book }}</a></p>
+        {{ end }}
+        {{ if .Date }}
+        <time class="article-date" datetime="{{ .Date.Format "2006-01-02" }}">
+            {{ .Date.Format "January 2, 2006" }}
+        </time>
+        {{ end }}
+    </header>
+    
+    <div class="article-body">
+        {{ .Content }}
+    </div>
+    
+    {{ if eq .Section "books" }}
+    {{ if .File }}
+    {{ if ne .File.BaseFileName "_index" }}
+    <nav class="chapter-nav">
+        {{ $pages := where .Parent.Pages "Kind" "page" }}
+        {{ $pages = sort $pages "Params.weight" "asc" }}
+        {{ $current := . }}
+        {{ $prev := false }}
+        {{ $next := false }}
+        {{ $found := false }}
+        {{ range $pages }}
+            {{ if $found }}
+                {{ if not $next }}
+                    {{ $next = . }}
+                {{ end }}
+            {{ end }}
+            {{ if eq .File.UniqueID $current.File.UniqueID }}
+                {{ $found = true }}
+            {{ else }}
+                {{ if not $found }}
+                    {{ $prev = . }}
+                {{ end }}
+            {{ end }}
+        {{ end }}
+        
+        {{ if $prev }}
+        <a href="{{ $prev.Permalink }}" class="nav-prev">&larr; {{ $prev.Title }}</a>
+        {{ end }}
+        {{ if $next }}
+        <a href="{{ $next.Permalink }}" class="nav-next">{{ $next.Title }} &rarr;</a>
+        {{ end }}
+    </nav>
+    {{ end }}
+    {{ end }}
+    {{ end }}
+</article>
+{{ end }}

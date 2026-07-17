@@ -1,0 +1,28 @@
+{{ define "main" }}
+<section class="list-content">
+    <header class="section-header">
+        <h1 class="section-title">{{ .Title }}</h1>
+        {{ if .Description }}
+        <p class="section-description">{{ .Description }}</p>
+        {{ end }}
+    </header>
+    
+    <div class="section-body">
+        {{ .Content }}
+    </div>
+    
+    {{ $pages := where .Pages "Kind" "page" }}
+    {{ if $pages }}
+    <ul class="content-list">
+        {{ range sort $pages "Params.weight" "asc" }}
+        <li class="content-item">
+            <a href="{{ .Permalink }}" class="content-link">{{ .Title }}</a>
+            {{ if .Description }}
+            <p class="content-excerpt">{{ .Description }}</p>
+            {{ end }}
+        </li>
+        {{ end }}
+    </ul>
+    {{ end }}
+</section>
+{{ end }}
