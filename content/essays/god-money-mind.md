@@ -1,7 +1,7 @@
 ---
 title: "God, Money, & Mind"
-date: 2025-03-01
+date: 2025-03-03
 description: "An essay on the intersection of spirituality, economics, and consciousness."
 ---
 
-Read on Medium: [God, Money, & Mind](https://medium.com/@dfinkton/god-money-mind)
+Read on Medium: [God, Money, & Mind](https://endpovertymaketrillions.medium.com/god-money-mind-aa33c228d73f)
