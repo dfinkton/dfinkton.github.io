@@ -17,11 +17,15 @@
 
 ## In Progress
 
-- [ ] Test locally and refine design
+(none)
 
 ## Remaining
 
-- [ ] Launch site
+- [ ] Set up custom domain (darrylfinktonjr.org or similar)
+  - Register domain
+  - Configure DNS records
+  - Update Hugo config `baseURL`
+  - Set up HTTPS/SSL via GitHub Pages
 
 ## Notes
 
@@ -32,3 +36,4 @@
 - GitHub Pages: **LIVE** at https://dfinkton.github.io/
 - GitHub Actions workflow deployed successfully
 - Source PDFs/docx excluded from repo via .gitignore
+- Work With Me page added with media, speaking, consulting, coaching sections
