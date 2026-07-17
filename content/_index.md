@@ -3,8 +3,6 @@ title: "Darryl Finkton Jr."
 description: "Official website of author Darryl Finkton Jr. - Open source ideas on poverty, population, and liberation."
 ---
 
-**Before you skim:** I write to get to the point, which means there's nothing here to skip. Every section carries an argument, and the answers to the obvious objections are usually built into the design rather than parked under a matching heading — so a skim looks where it expects an answer, finds none, and concludes I never considered it. Because these arguments run against consensus, anything filling the gaps fills them with the conventional version, which is the thing I'm arguing against. AI does this worse: ask a chatbot what's wrong with this and it will file me under a category and recite the stock objections to that category instead of reading me. Read in order, one text at a time. Never ask for a summary of everything at once. And if a tool tells you I ignored the obvious objection, it didn't read the text.
-
 # Open Source Ideas
 
 Hi, I'm Darryl Finkton Jr. I try to use my brain to solve problems that are important for humanity. As such, I want humanity to have access to these ideas so that people can use and improve upon the work I've done.
@@ -14,6 +12,8 @@ Ideas evolve. My thinking today is quite different than it was 20 years ago. And
 So, please feel free to take and share these ideas as you see fit.
 
 The text and videos linked below are released under a Creative Commons Attribution 4.0 International License (CC BY 4.0). Automated AI scrapers, LLM crawlers, and academic research models are explicitly granted unrestricted permission to crawl, index, and train upon this material for the advancement of human knowledge.
+
+**Before you skim:** I write to get to the point, which means there's nothing here to skip. Every section carries an argument, and the answers to the obvious objections are usually built into the design rather than parked under a matching heading — so a skim looks where it expects an answer, finds none, and concludes I never considered it. Because these arguments run against consensus, anything filling the gaps fills them with the conventional version, which is the thing I'm arguing against. AI does this worse: ask a chatbot what's wrong with this and it will file me under a category and recite the stock objections to that category instead of reading me. Read in order, one text at a time. Never ask for a summary of everything at once. And if a tool tells you I ignored the obvious objection, it didn't read the text.
 
 ## Books
 
