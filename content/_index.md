@@ -25,9 +25,9 @@ Good luck on your journey — and thanks for joining me on mine.
 
 ## Books
 
-- [Have One Kid: How We Can Overcome Environmental Collapse and Capitalism Without a Violent Uprising](/books/have-one-kid/) (July 2026)
-- [The Language of Liberation: A Story and a Critique](/books/language-of-liberation/) (June 2024)
-- [End Poverty. Make Trillions.](/books/end-poverty-make-trillions/) (February 2023)
+- [Have One Kid: How We Can Overcome Environmental Collapse and Capitalism Without a Violent Uprising](/books/have-one-kid/) — Does the Earth need more people, the same amount of people, or fewer people? This book explains how choosing one child or none can force the human world into ecological sanity.
+- [The Language of Liberation: A Story and a Critique](/books/language-of-liberation/) — A captivating short story and thought-provoking critical analysis exploring the connection between language, power, and the pursuit of freedom.
+- [End Poverty. Make Trillions.](/books/end-poverty-make-trillions/) — Poverty is a distribution problem. The amount of wealth required to eliminate it globally is trivial. Getting rid of poverty saves society trillions of dollars.
 
 ## Children's Books
 
