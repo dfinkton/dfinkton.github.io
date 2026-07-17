@@ -2,7 +2,7 @@ baseURL = "https://darrylfinktonjr.com/"
 locale = "en-us"
 title = "Darryl Finkton Jr."
 theme = "minimal-author"
-enableRobotsTXT = true
+enableRobotsTXT = false
 enableGitInfo = false
 disableKinds = ["taxonomy", "term"]
 

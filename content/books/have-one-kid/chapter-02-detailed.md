@@ -1,7 +1,8 @@
 ---
 title: "Have One Kid — Chapter 2.1: Too Many People (Detailed Version)"
- book: "Have One Kid"
- weight: 3
+book: "Have One Kid"
+weight: 3
+description: "Fully sourced and detailed version of Chapter 2. The case that there are too many people on Earth, with citations and evidence."
 ---
 Version) This is the fully sourced and detailed version of Chapter 2: Too Many People. If you have no interest in these details, please skip forward to Chapter 3: Slaves to Growth on page 84.
 

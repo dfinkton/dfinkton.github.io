@@ -1,7 +1,8 @@
 ---
 title: "Have One Kid — Chapter 5: Will the Empire Strike Back?"
- book: "Have One Kid"
- weight: 6
+book: "Have One Kid"
+weight: 6
+description: "What happens when governments fight population decline. Russian authorities track pregnancies and strip abortion licenses to trap women."
 ---
 The Easy Way When an airline files for bankruptcy, the planes don't fall out of the sky. The pilots still show up to work. The fuel trucks still pump jet fuel. The mechanics still fix the engines.
 

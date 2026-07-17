@@ -1,7 +1,8 @@
 ---
 title: "Have One Kid — Chapter 4: Bankruptcy Is Better Than Starving"
- book: "Have One Kid"
- weight: 5
+book: "Have One Kid"
+weight: 5
+description: "How economic systems can reset without ecological collapse. When an airline files for bankruptcy, the planes don't fall out of the sky."
 ---
 Starving Infinite Growth Every government on Earth, no matter its political system, measures its success by a single number: Gross Domestic Product, or GDP. GDP is basically the total price tag of everything a country produces and consumes in a year. Even as the physical environment breaks down from too much consumption, governments do not want this number to stay steady. Every recognized country on the planet operates with a GDP growth target [1]. When politicians and international banks draft their annual budgets, they universally set goals to expand the economy, usually by 2 to 5 percent every single year. Developing countries often target even higher rates. If a country fails to hit this target and the economy shrinks, it is called a recession. Consuming less is globally defined as a disaster.
 

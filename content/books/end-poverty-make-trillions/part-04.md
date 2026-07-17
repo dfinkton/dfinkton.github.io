@@ -2,6 +2,7 @@
 title: "End Poverty. Make Trillions. — Part IV: Questions and Answers"
 book: "End Poverty. Make Trillions."
 weight: 4
+description: "Chapter 12: Lack of Understanding Leading Us Away from Unity. Frequently asked questions about the Seed Money Act and responses."
 ---
 
 Part 4

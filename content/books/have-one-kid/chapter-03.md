@@ -1,7 +1,8 @@
 ---
 title: "Have One Kid — Chapter 3: Slaves to Growth"
- book: "Have One Kid"
- weight: 4
+book: "Have One Kid"
+weight: 4
+description: "Why the global financial system demands continued growth and how population decline threatens interest on debt, stock prices, and government finances."
 ---
 Every serious ecological signal says the pressure on the planet has to come down. Yet every major institution insists the economy must keep growing. When national birth rates fall, leaders do not express ecological relief; they panic.
 
