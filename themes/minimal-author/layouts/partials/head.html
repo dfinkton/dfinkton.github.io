@@ -85,6 +85,36 @@
 {{ end }}
 {{ end }}
 
+{{ if eq .Section "books" }}
+{{ if .File }}
+{{ if ne .File.BaseFileName "_index" }}
+{{ $pages := where .Parent.Pages "Kind" "page" }}
+{{ $pages = where $pages "File.BaseFileName" "not in" (slice "full-text" "endnotes" "_index") }}
+{{ $pages = sort $pages "Params.weight" "asc" }}
+{{ $current := . }}
+{{ $prev := false }}
+{{ $next := false }}
+{{ $found := false }}
+{{ range $pages }}
+    {{ if $found }}
+        {{ if not $next }}
+            {{ $next = . }}
+        {{ end }}
+    {{ end }}
+    {{ if eq .File.UniqueID $current.File.UniqueID }}
+        {{ $found = true }}
+    {{ else }}
+        {{ if not $found }}
+            {{ $prev = . }}
+        {{ end }}
+    {{ end }}
+{{ end }}
+{{ if $prev }}<link rel="prev" href="{{ $prev.Permalink }}">{{ end }}
+{{ if $next }}<link rel="next" href="{{ $next.Permalink }}">{{ end }}
+{{ end }}
+{{ end }}
+{{ end }}
+
 {{ if eq .Section "essays" }}
 {{ if ne .File.BaseFileName "_index" }}
 <script type="application/ld+json">

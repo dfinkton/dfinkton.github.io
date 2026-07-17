@@ -28,9 +28,22 @@
     {{ if eq .Section "books" }}
     {{ if .File }}
     {{ if ne .File.BaseFileName "_index" }}
+    {{ $allPages := where .Parent.Pages "Kind" "page" }}
+    {{ $allPages = where $allPages "File.BaseFileName" "not in" (slice "full-text" "endnotes" "_index") }}
+    {{ $allPages = sort $allPages "Params.weight" "asc" }}
+    {{ if gt (len $allPages) 1 }}
+    <nav class="book-toc" aria-label="Chapters in this book">
+        <h3>Chapters in this book</h3>
+        <ol>
+            {{ range $allPages }}
+            <li{{ if eq .File.UniqueID $.File.UniqueID }} class="current"{{ end }}><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+            {{ end }}
+        </ol>
+        <p><a href="{{ .Parent.Permalink }}full-text/">Read full book on one page</a></p>
+    </nav>
+    {{ end }}
     <nav class="chapter-nav">
-        {{ $pages := where .Parent.Pages "Kind" "page" }}
-        {{ $pages = sort $pages "Params.weight" "asc" }}
+        {{ $pages := $allPages }}
         {{ $current := . }}
         {{ $prev := false }}
         {{ $next := false }}
