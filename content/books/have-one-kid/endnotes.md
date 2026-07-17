@@ -2,6 +2,7 @@
 title: "Have One Kid — Endnotes"
 book: "Have One Kid"
 weight: 7
+description: "Endnotes and citations for Have One Kid: How We Can Overcome Environmental Collapse and Capitalism Without a Violent Uprising."
 ---
 
 Endnotes

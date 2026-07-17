@@ -2,6 +2,7 @@
 title: "End Poverty. Make Trillions. — Part II: Defying Gravity"
 book: "End Poverty. Make Trillions."
 weight: 2
+description: "Chapter 7: I Think I'll Try Defying Gravity. Moving to Los Angeles, spending time in nature, and listening to intuition about life's direction."
 ---
 
 Part 2

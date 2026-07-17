@@ -2,7 +2,7 @@
 title: "Have One Kid — Chapter 1: The One Child Revolution"
 book: "Have One Kid"
 weight: 1
-description: "It is rare these days to hear good news about the environment. I believe this is great news."
+description: "Introduction to voluntary population decline. How choosing one child or none can force the human world into ecological sanity."
 ---
 
 It is rare these days to hear good news about the environment. I believe this is great news.

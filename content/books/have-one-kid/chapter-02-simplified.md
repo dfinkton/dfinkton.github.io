@@ -2,7 +2,7 @@
 title: "Have One Kid — Chapter 2: Too Many People (Simplified Version)"
 book: "Have One Kid"
 weight: 2
-description: "The easiest way to picture sustainability is to imagine a community of people living entirely off the fish in a single pond."
+description: "The case that there are too many people on Earth, in accessible form. Total consumption equals consumption per person times total people."
 ---
 
 The easiest way to picture sustainability is to imagine a community of people living entirely off the fish in a single pond. A certain number of fish will grow to adulthood every year. If the people living on the shore only eat that exact number of new adult fish, the total fish population stays the same. The system replaces what is taken. The people are living off the interest.

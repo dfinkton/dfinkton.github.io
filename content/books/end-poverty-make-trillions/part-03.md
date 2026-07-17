@@ -2,6 +2,7 @@
 title: "End Poverty. Make Trillions. — Part III: The Seed Money Act"
 book: "End Poverty. Make Trillions."
 weight: 3
+description: "Chapter 11: The Seed Money Act — How to End Poverty in the United States and Make Trillions Doing It. The silver bullet is a seed money grant set at an amount equal to the federal poverty guidelines."
 ---
 
 Part 3
