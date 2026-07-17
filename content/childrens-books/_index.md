@@ -3,8 +3,6 @@ title: "Children's Books"
 description: "Children's books by Darryl Finkton Jr."
 ---
 
-# Children's Books
-
 ## What Do You Need?
 
 By Darryl W. Finkton Jr.
