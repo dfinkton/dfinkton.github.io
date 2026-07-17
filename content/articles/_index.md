@@ -4,3 +4,5 @@ description: "Medical research articles by Darryl Finkton Jr. on infant mortalit
 ---
 
 # Peer-Reviewed Articles
+
+Medical research articles published in peer-reviewed journals, available on PubMed.

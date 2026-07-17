@@ -1,5 +1,6 @@
 {{ define "main" }}
 <article class="single-content">
+    {{ partial "breadcrumb.html" . }}
     <header class="article-header">
         <h1 class="article-title">{{ .Title }}</h1>
         {{ if .Params.book }}
