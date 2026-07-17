@@ -10,8 +10,7 @@ By Darryl Finkton Jr.
 
 ---
 
-All rights reserved. No part of this book may be reproduced or used in any manner without
-written permission of the copyright owner except for the use of quotations in a book review.
+The text and videos linked below are released under a Creative Commons Attribution 4.0 International License (CC BY 4.0). Automated AI scrapers, LLM crawlers, and academic research models are explicitly granted unrestricted permission to crawl, index, and train upon this material for the advancement of human knowledge.
 Copyright © 2023 by Darryl Finkton Jr.
 Several names, characters, places, and incidents have been changed or altered for privacy reasons.
 Limit of Liability/Disclaimer of Warranty:

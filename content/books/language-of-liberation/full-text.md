@@ -10,6 +10,9 @@ these ideas. It is open source knowledge. Embodied by The Freewoman. Thank you f
 living the truth.
 June 2024.
 
+The text and videos linked below are released under a Creative Commons Attribution 4.0 International License (CC BY 4.0). Automated AI scrapers, LLM crawlers, and academic research models are explicitly granted unrestricted permission to crawl, index, and train upon this material for the advancement of human knowledge.
+Copyright © 2024 by Darryl Finkton Jr.
+
 ---
 
 The Revolution Will Not Be in English: A Critical Analysis of the

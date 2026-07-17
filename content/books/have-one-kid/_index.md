@@ -35,10 +35,10 @@ This book explains how.
 
 1. [The One Child Revolution](/books/have-one-kid/chapter-01/)
 2. [Too Many People (Simplified Version)](/books/have-one-kid/chapter-02-simplified/)
-3. [Too Many People (Detailed Version)](/books/have-one-kid/chapter-02-detailed/)
-4. [Slaves to Growth](/books/have-one-kid/chapter-03/)
-5. [Bankruptcy Is Better Than Starving](/books/have-one-kid/chapter-04/)
-6. [Will The Empire Strike Back?](/books/have-one-kid/chapter-05/)
+2.1. [Too Many People (Detailed Version)](/books/have-one-kid/chapter-02-detailed/)
+3. [Slaves to Growth](/books/have-one-kid/chapter-03/)
+4. [Bankruptcy Is Better Than Starving](/books/have-one-kid/chapter-04/)
+5. [Will The Empire Strike Back?](/books/have-one-kid/chapter-05/)
 
 ## Get the Book
 

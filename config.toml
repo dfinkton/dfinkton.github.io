@@ -22,6 +22,11 @@ disableKinds = ["taxonomy", "term"]
     url = "/books/"
     weight = 10
   [[menu.main]]
+    identifier = "childrens-books"
+    name = "Children's Books"
+    url = "/childrens-books/"
+    weight = 15
+  [[menu.main]]
     identifier = "essays"
     name = "Essays"
     url = "/essays/"
@@ -36,11 +41,6 @@ disableKinds = ["taxonomy", "term"]
     name = "Videos"
     url = "/videos/"
     weight = 40
-  [[menu.main]]
-    identifier = "childrens-books"
-    name = "Children's Books"
-    url = "/childrens-books/"
-    weight = 50
   [[menu.main]]
     identifier = "about"
     name = "About"
