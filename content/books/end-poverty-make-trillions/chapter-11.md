@@ -1,18 +1,10 @@
 ---
-title: "End Poverty. Make Trillions. — Part III: The Seed Money Act"
+title: "End Poverty. Make Trillions. — Chapter 11: The Seed Money Act"
 book: "End Poverty. Make Trillions."
-weight: 3
-description: "Chapter 11: The Seed Money Act — How to End Poverty in the United States and Make Trillions Doing It. The silver bullet is a seed money grant set at an amount equal to the federal poverty guidelines."
+weight: 12
+description: "The Seed Money Act: How to End Poverty in the United States and Make Trillions Doing It. An unconditional, permanent, regular grant to every US household set at the federal poverty guidelines."
 ---
 
-Part 3
-
----
-
-| 129
-CHAPTER 11: THE SEED MONEY ACT —
-HOW TO END POVERTY IN THE UNITED STATES
-AND MAKE TRILLIONS DOING IT
 I’ve spent my life thinking about how to help the poor because I
 lived and felt poverty. Still, like nearly everyone else in this country,
 I missed the answer that was right in front of me. The fact is, we can
@@ -35,7 +27,6 @@ seed money should be adjusted each year to reflect updates to the federal
 
 ---
 
-130 | END POVERTY. MAKE TRILLIONS.
 guidelines and must be the first step in the Congressional budgeting
 process. Other federal spending comes after ensuring everyone has a vote
 in our economic system and can purchase the basic human rights of
@@ -109,7 +100,6 @@ genocide the world has seen.
 
 ---
 
-132 | END POVERTY. MAKE TRILLIONS.
 realistic chance to gain wealth. As a bonus, we’ll also make trillions of
 dollars doing it.
 Benefits of the Seed Money Act
@@ -181,7 +171,6 @@ everyone that choice.
 
 ---
 
-134 | END POVERTY. MAKE TRILLIONS.
 The Seed Money Act will eradicate these extreme poverty centers, but
 it won’t stop gentrification. In a market economy where scarce resources
 are auctioned off to the highest bidder, only the wealthiest citizens
@@ -251,7 +240,6 @@ I think we can agree it wouldn’t be wise to start a business selling
 
 ---
 
-136 | END POVERTY. MAKE TRILLIONS.
 goods and services to people that have no money. Even if it was a great
 idea and it filled a need, if the people who’d benefit from your idea didn’t
 have any money, you’d have no customers.
@@ -324,7 +312,6 @@ Seed money offers a better solution for human rights and dignity.
 
 ---
 
-138 | END POVERTY. MAKE TRILLIONS.
 The Seed Money Act guarantees provisions for the basic human rights
 of food, clothing, shelter, and transportation. This will end the use of
 basic goods and services as motivation to work. We’ll still work to satisfy
@@ -397,7 +384,6 @@ implement the Seed Money Act. For this reason, it will not be discussed here.
 
 ---
 
-140 | END POVERTY. MAKE TRILLIONS.
 people of all gender, race, and ethnicity groups earned substantially less
 prior to their incarceration than their non-incarcerated counterparts of
 similar ages,” according to the Bureau of Justice Statistics.
@@ -469,7 +455,6 @@ A single mom has the most resources available to her family when she
 
 ---
 
-142 | END POVERTY. MAKE TRILLIONS.
 works full time at a wage of $8.25 to $12 an hour. Disturbingly, taking a
 pay increase to $18 an hour can leave her with about one-third fewer total
 resources (net income and government benefits). To make work ‘pay’ again,
@@ -541,7 +526,6 @@ much in this country to provide safe work environments for employees.
 
 ---
 
-144 | END POVERTY. MAKE TRILLIONS.
 We should continue to do so. I’m only suggesting we evaluate the
 necessity of and consider removing minimum wage laws if we have the
 Seed Money Act in place.
@@ -614,7 +598,6 @@ to those businesses that remain. We wouldn’t need to bail out companies
 
 ---
 
-146 | END POVERTY. MAKE TRILLIONS.
 because we’d instead bail out consumers. This would be an extremely
 efficient and equitable way to manage the money supply.
 Workforce Training
@@ -684,7 +667,6 @@ Access to loans and increased liquidity are key for wealth creation.
 
 ---
 
-148 | END POVERTY. MAKE TRILLIONS.
 2020. That’s an effective tax rate of two percent. If we believe unearned
 seed money is good for rich kids, then why is it bad for poor kids? It’s
 not. Wealthy families understand the massive head start an inheritance
@@ -756,7 +738,6 @@ social benefit spending.
 
 ---
 
-150 | END POVERTY. MAKE TRILLIONS.
 adults to figure out which basket of essential goods they need to purchase
 and at what price.
 Americans are creative people. An ‘extreme couponer’ can bring
@@ -826,7 +807,6 @@ line with the average deficit per family, we get a more precise estimate of
 
 ---
 
-152 | END POVERTY. MAKE TRILLIONS.
 the cost of getting everyone in America to the poverty line. That number
 is approximately $155 billion.22
 I’ve rounded up to $200 billion to lessen the marginal tax rate on the
@@ -905,7 +885,6 @@ through an income tax.
 
 ---
 
-154 | END POVERTY. MAKE TRILLIONS.
 their right as a US citizen.
 With the Seed Money Act, Society Has a Baseline Level
 of Economic Dignity
@@ -973,7 +952,6 @@ increase in total program cost.
 
 ---
 
-156 | END POVERTY. MAKE TRILLIONS.
 Therefore, by making the seed money investments, we increase the total
 wealth in our country by the amount of the economic cost of poverty
 itself.
@@ -1051,7 +1029,6 @@ twenty million American households, with a ten and a half percent poverty rate, 
 
 ---
 
-158 | END POVERTY. MAKE TRILLIONS.
 now don’t work at all. That number is equal to the total spent in 2019
 of Earned Income Tax Credits, HUD, SNAP, TANF, and school meal
 subsidies. In this scenario, where absolutely no one who’s currently poor
@@ -1122,7 +1099,6 @@ that in 2016, of the forty-eight million Americans living in poverty,
 
 ---
 
-160 | END POVERTY. MAKE TRILLIONS.
 twenty-five million of our nation’s poor lived in districts represented by
 Republicans, while twenty-three million lived in districts represented by
 Democrats.
@@ -1198,7 +1174,6 @@ of their seed money to more needy families if they so choose.32
 
 ---
 
-162 | END POVERTY. MAKE TRILLIONS.
 • The focus is on communities with concentrated extreme poverty.
 By alleviating poverty clusters, we can reap community-level
 benefits.
@@ -1272,7 +1247,6 @@ varying levels. Social safety nets are nothing new.
 
 ---
 
-164 | END POVERTY. MAKE TRILLIONS.
 When the major item an individual needed to overcome poverty was
 food, it made sense to give that person a choice of food. In Judaism, Pe’ah
 refers to the corner of a field that must be left unharvested so the poor
@@ -1347,7 +1321,6 @@ reduce the overall cost of the Seed Money Act.
 
 ---
 
-166 | END POVERTY. MAKE TRILLIONS.
 Given our massive spending on inefficiently solving this problem, and
 the well-proven economic consequences of poverty, we’ll actually make
 trillions of dollars in the first decade of this transition alone. We just need
@@ -1417,7 +1390,6 @@ if we already know being poor leads to really crappy outcomes, why do
 
 ---
 
-168 | END POVERTY. MAKE TRILLIONS.
 we need to do any more research or field testing or put any more ‘time’
 into figuring out that giving people money changes their outcomes for
 the better?
@@ -1436,4 +1408,3 @@ The time to do this is now.
 
 ---
 
-| 169

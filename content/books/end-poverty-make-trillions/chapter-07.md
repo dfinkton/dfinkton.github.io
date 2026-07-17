@@ -1,0 +1,394 @@
+---
+title: "End Poverty. Make Trillions. — Chapter 7: I Think I'll Try Defying Gravity"
+book: "End Poverty. Make Trillions."
+weight: 8
+description: "Moving to Los Angeles, visiting Skid Row, and deciding to dedicate my life to ending poverty."
+---
+
+As humans, we’re designed to be able to connect easily with
+ourselves and each other through our emotions and our feelings.
+We’re created with a sense of intuition allowing us to feel the
+direction our life should follow. When we listen to it, intuition helps us to
+make better decisions, but overtime, we learn to ignore it. That’s because
+we often must do things in life that don’t feel right inside. Society teaches
+us that the key to success is doing things we don’t want to do. And of
+course, when you’re poor and utterly reliant on your paycheck, you don’t
+feel you have much choice in the matter. Putting your head down and
+grinding away at a job you hate is a way of ignoring your intuition, and
+over time, you get better and better at it.
+To be able to be truly fulfilled in life, you need to pay attention to
+that inner voice.
+I decided to move to Los Angeles to spend time in nature. The idea of
+being close to the beach appealed to me. Everything else was closed due
+to the pandemic, and the outdoors had always helped me think better
+and made me feel alive.
+One day, shortly after I’d moved to LA, I visited the arts district
+downtown with a friend. I’d asked my friend if they wanted to visit Skid
+Row, which I knew was nearby, but they weren’t interested. While we
+were driving, however, we made a wrong turn and somehow ended up in
+
+---
+
+Skid Row anyway.
+For those of you who are unfamiliar with the area, Skid Row is an
+area of about fifty city blocks in downtown LA that’s ‘home’ to one of
+the country’s largest homeless populations. It’s received a lot of attention
+because it’s in the middle of an otherwise wealthy part of town.
+Driving through Skid Row was like being in a third-world country. It
+wasn’t just adults there, either. There were families with children too, all
+living in tents and makeshift shelters. We saw kids going through garbage
+cans looking for anything of value. There was a pervading feeling of
+hopelessness. It reminded me of the places I’d visited during my college
+days.
+Once in a rural Caribbean village, I noticed several dog houses made
+from corrugated steel. They were tiny, ramshackle structures stacked on
+top of each other on a hill next to the river that separated Haiti from
+the Dominican Republic. When I asked why there were so many dog
+houses, I was informed that they were inhabited by people, not animals.
+I couldn’t believe it. Looking across the water, I could see the homes on
+the Dominican Republic side. The houses there weren’t lavish, but they
+were nice-looking regardless. It was shocking to see that kind of wealth
+disparity in such close proximity.
+When we turned that corner into Skid Row, I was transported back
+to all those memories. I couldn’t believe my eyes. My shock wasn’t at the
+extreme poverty. What I couldn’t believe was that this level of poverty
+existed right next to some of the most expensive real estate on the planet.
+As I drove home, I couldn’t stop thinking about what I saw. Block
+after block of abject poverty and squalor, right next to multi-million-
+dollar condominiums.
+Back at home, I started watching a documentary on Skid Row. A few
+minutes into it, I realized I’d seen it before. But this time, as I watched,
+I felt it. The ‘homeless’ who were filmed in the documentary were the
+poorest people in America. They were all people just like you or me; they’d
+just had a string of bad luck that resulted in them becoming homeless.
+Most of us have been trained to think homeless people are this
+
+---
+
+CHAPTER 7: I THINK I’LL TRY DEFYING GRAVITY | 81
+different group of people who became homeless on purpose. We think
+they must’ve done something bad to deserve that kind of life, or that they
+have mental health problems, or any number of other prejudicial reasons
+you can come up with. There’s a stigma that says they’re all on drugs
+or addicted to something. Most people don’t stop to think about what
+might have gotten them there in the first place. It’s easier to think they
+want to be homeless, rather than asking ourselves why we ignore their
+suffering and choose not to help them. These were the least fortunate
+members of our society, and we’ve all decided it’s okay to let them rot
+away. We’re pretending like they aren’t humans, I thought.
+When I drove through Skid Row that day, I realized I’d been ignoring
+my inner voice for far too long.
+Having lost my faith in religion at an early age, I never gave much
+thought to intuition and gut-feelings, as I associated those with faith. I’d
+always put my faith in my own intelligence, hard work, and determination
+to help me accomplish whatever goals I set for myself and to helping
+others. Believing that something natural lied within us that could lead us
+to our greater purpose seemed naïve and childish.
+It’s called an existential crisis when you start to question the meaning
+of your life. Anyone who’s taken a behavioral science class will be familiar
+with a theory called Maslow’s hierarchy of needs. It’s a theory that explains
+what motivates people by ascending order of need, from physical, to
+social, to psychological.
+When you’re poor, you’re focused on survival and meeting your basic,
+most fundamental needs. As your economic situation improves, you can
+satisfy other non-essential but very important needs such as safety and
+security, love and belonging, esteem and respect, and finally the need
+for self-actualization—which essentially means fulfilling your desire to
+become your best self.
+The downside to buying into Maslow’s hierarchy of needs is that you
+end up believing that finding your higher purpose belongs at the end
+of life and is an outcome reserved solely for the well-off. Ironically, as
+my own needs evolved beyond the physical and emotional and became
+
+---
+
+more about seeking spiritual fulfillment, the stronger my sense of
+disillusionment grew.
+I can see now that this profound dissatisfaction was my body’s way
+of compelling me toward my highest purpose. My unhappiness was the
+consequence of not listening to my intuition.
+We get side-tracked from our higher purpose because we don’t realize
+how easy it is to connect with the collective unconscious, or God, or
+whatever it is you choose to call it. If we all listen to our intuition and
+work collaboratively together, we’re spiritually aligned, and we can
+accomplish anything. We don’t need to be told what our purpose is, and
+we don’t need someone else directing our actions when we listen to our
+own divine. When we make this sort of connection, we feel in synch with
+the universe, and everything unfolds before us naturally. If we allow it to
+happen, and we let that voice tell us what we truly want to achieve and
+what we care about, we’ll be able to accomplish it because it’s what the
+universe designed us for. It’ll just make sense.
+The answer to the poverty problem in our country hit me with a wave
+of clarity. I saw my mispriced idea. I’d never experienced anything like
+that in my life. I could fully see the math, messaging, partnerships, and
+policy. My wrong turn was no coincidence. I knew exactly how we could
+not only end poverty worldwide, but how we could make trillions of
+dollars doing it! Having spent virtually my entire life relying on logic and
+empirical data, this incredible sense of instant awareness was completely
+new for me.
+I was able to see how all the experiences of my life—the childhood
+poverty, the achievements in academics and sports, the international
+development and community outreach efforts, the corporate success, the
+finance, investment, and wealth lifestyle experiences—had all prepared
+me for what lay in front of me. I realized how I could use my collective
+gifts and experiences to serve a greater purpose, and everything I’d been
+feeling finally made sense.
+I started writing that night and couldn’t stop. When I ran out of
+steam, I went to sleep, woke up, and got right back to it in the morning.
+
+---
+
+CHAPTER 7: I THINK I’LL TRY DEFYING GRAVITY | 83
+The ideas were pouring out, and I felt like if I didn’t write them down,
+they’d disappear. It was all there, fully formed in my mind. I just needed
+to get it out. I still had a day job, but I got my work done as quickly as
+possible so I could get back to writing and planning.
+In two weeks, I’d captured it all on paper.
+I’d written a complete analysis on how we could drastically improve
+our society through a minor reform that would save taxpayers enormous
+amounts of money and stimulate the economy. I figured all that was left
+to do was to share it with the right individuals. Thanks to my time as a
+Rhodes Scholar, I knew a fair amount of people working in government.
+I shared my essay with them and asked for feedback. I made edits
+here and there based on the feedback I received, but the core analysis
+stood up to all their questions. It all made sense.
+But that’s where it stopped.
+Everyone agreed the plan would end poverty and save taxpayers
+trillions of dollars, but so what? Having a great idea was one thing, but
+it was about more than a new business idea. It was about solving one of
+the greatest problems the world has ever faced. It wasn’t just a long shot
+in their minds—it was a fantasy. They didn’t see what I saw. I saw exactly
+who I needed to get onboard, and how we could get it done.
+Others only saw the obstacles; I could see far beyond them.
+I saw my life’s work in front of me and knew I was being called to do
+something bigger than myself. I saw the investment of a lifetime, and I
+decided to push in all the chips. I walked away from my career in finance
+and started working to end poverty.
+“You’re throwing your life away!”
+“How can you just turn your back on everything you’ve built for
+yourself?”
+“You’re not their savior!”
+“You need professional help.”
+“I’m worried about you!”
+“You used to be so normal.”
+“If you have to pick a battle, at least pick one you have a chance of
+
+---
+
+winning.”
+Those were but a few of the comments I heard from co-workers and
+friends when I told them my plans to drop out of the wealth race. It
+was amazing to see the polarizing effect my decision had on the people
+around me. Some took my plans as a personal affront or judgement on
+their own life choices, while others just shook their heads and turned
+their backs.
+Nearly every one of my colleagues in finance thought I’d completely
+lost my mind. So did practically all my Harvard and Oxford friends.
+Although Rhodes Scholars typically arrive at Oxford determined to fight
+the world’s fight, over time, we have the tendency to become somewhat
+self-centered. Prizes carrying that much prestige have a way of making
+people obsess about status and the acquisition of additional prizes and
+accomplishments rather than leaning further into service. The ego is
+powerful.
+But I didn’t care. I understood where their judgement was coming
+from. Instead of giving myself and my family an opportunity to build
+generational wealth, which was something most of those around me
+could relate to, I was turning everything on its head. I was no longer on
+a path to reach maximum financial success, so to a lot of former friends
+and colleagues, I was no longer useful.
+I was more surprised by the reactions of many friends who’d also
+escaped from poverty. I figured they would be on board with my plan,
+but most weren’t. In retrospect, I get it. When you’re poor, it only takes
+one misstep for everything to come crashing down. My goals had always
+been, in order, to get myself out of poverty, to get my family out of
+poverty, then to do good in the world. Fear of falling back into poverty
+had always been my motivator, and the accumulation of wealth had been
+a comforting security blanket. For kids like me who were climbing their
+way up from the bottom, we didn’t have safety nets our whole lives.
+Because of this, we learned to be unbelievably careful with everything we
+did. Never rock the boat. Never deviate from the path. And there I was,
+rocking the hell out of it.
+
+---
+
+CHAPTER 7: I THINK I’LL TRY DEFYING GRAVITY | 85
+In their eyes, I was taking too much risk, and they’d worked too hard
+to get to where they were to be involved. These were the hardest losses. I
+saw how much we all were fighting to be accepted by people who would
+never truly ever accept us. From day one in life, we were told that we
+didn’t matter because we were poor or because we were part of some
+minority. It’s impossible not to take messages like that to heart.
+Instead of deciding to fight against a system that determined
+someone’s worth by the color of their skin and the size of their bank
+account, many of us tried our best to stop being poor, to stop being Black
+or Latino or whatever other minority group we’d previously identified
+with. Teaching people to hate themselves is a powerful trick. It worked
+on me for years. But I wasn’t going to let it stop me this time. I was on to
+something special. Neither the fear of failure or anything else was going
+to deter me from following this journey to its completion.
+A select number of humanitarian-minded souls stood by and listened
+to my plan, intrigued. “Help me to understand,” they urged. I’m fortunate
+to have a small but mighty collection of friends who care deeply enough
+about other human beings to not only encourage me to take the leap but
+to lend hours of support editing my essay, making introductions, poking
+holes in my talking points, and rolling up their sleeves to work right
+alongside me. It didn’t hurt that those were some of the smartest people
+on the planet—many of them with deep policy and legislative expertise.
+I was starting out on a journey to ensure every human being had
+access to enough wealth to meet their basic human needs: food, water,
+clothing, shelter, transportation—and information. It was the biggest
+leap of faith I’d ever taken. It was also, hands down, the best decision I
+ever made.
+I’d come up with a way to end poverty and save taxpayers trillions in
+the process. I call this proposal the Seed Money Act. It’s a plan that would
+provide an unconditional, permanent, regular grant (called seed money)
+to every American household in an amount that is equal to the federal
+poverty guidelines. The proposal outlines a fiscally responsible way to
+pay for the grants that’ll result in trillions in tax savings for our country.
+
+---
+
+With the help of many, I was able to turn this proposal into a draft
+bill. My goal was to get the bill sponsored and approved by Congress
+so it could become a legislative reality. (You will learn all about the Seed
+Money Act in Part 3.)
+I gave myself one year to get it done. A common saying goes that people
+grossly overestimate what they can do in one year and underestimate
+what’s possible in ten. In my case, the maxim was right. I figured that
+once enough really smart people in positions of power read how simple
+it was to end poverty and save taxpayers trillions along the way, it would
+take no more than a year before we got the legislation passed. But after
+a few months, it became obvious that finding the solution was the easy
+part, and I’d need to invest well over a year to get it done.
+I may not be very materialistic, but I have just as much ego as anyone
+else. And that ego made me scared as hell to walk away from all the social
+status I’d accumulated over life. When I decided to leave finance and try
+to end poverty, I lost a lot of friends. It turns out, when you live your life
+focused on accomplishments, you attract people who like you for those
+accomplishments. Once you no longer play that game, they no longer
+love you. I was saddened by how many people stopped answering my
+calls when I wasn’t reaching out to talk about making money or partying,
+but I wasn’t shocked. I took one last look at my life and asked, “What
+am I here for?”
+It was difficult to explain to others the passion that had awakened
+inside me. I’d experienced a deeply spiritual personal epiphany, and I’d
+connected so completely to my own truth that I couldn’t have ignored
+it, even if I’d wanted to. I could only accept it as the gift that it was and
+trust things would unfold the way they were meant to.
+The knowledge that I was following my own inner guide gave me the
+courage to let go of my old life and move forward without regret.
+I knew a lot of people wouldn’t like what I had to say. I worried about
+that for a while, but then I realized something very liberating; I’m not
+here on Earth to earn anyone else’s approval. Trust me, it’s a daily fight,
+but I’m determined to live a life of service to the world instead of serving
+
+---
+
+CHAPTER 7: I THINK I’LL TRY DEFYING GRAVITY | 87
+my ego. The more you ‘rise’ in the world, the more everything becomes a
+competition. Who is the smartest? Who is the fastest? Who is the richest?
+Who has the prettiest partner? I knew that by walking away from my
+career, I’d be seen as a ‘loser’ to those still playing the game.
+“Would you rather have a five-million-dollar home or a one-million-
+dollar home and four-million-dollars that you could use to help those
+in need?” I asked a woman I’d been on a few dates with. She looked at
+me like I’d asked the dumbest question she’d ever heard. I felt an instant
+flutter of relief, assuming she also thought that a one-million-dollar
+home was plenty.
+“I like nice things,” she replied.
+I’ve spent enough time around wealthy people to know most of
+them, like the woman on that date, aren’t bad people. Poverty just isn’t
+real to them. It’s nearly impossible to understand an experience you’ve
+never seen, let alone lived. In general, the rich are like everyone else:
+they think mostly about their own lives. Poverty is a problem that rarely
+affects them—until it’s too late.
+We live in a world where we just don’t care all that much about other
+people. I don’t blame the girl on the date or anyone else, for that matter,
+for wanting to accumulate wealth and status. I went through it. I get it.
+We dance around it, but our entire social hierarchy is based on wealth.
+We say it’s “nice things” that we’re after, but underneath everything, it’s
+status we crave.
+There’s a reason companies care so much about branding. We don’t
+buy expensive things because of the quality of the product. We buy luxury
+goods because of the statement it makes. No one spends $1,500 on a $75
+bottle of champagne at a club because they like nice things; they do it to
+feel superior. They reason, “This is expensive, which makes it better. And
+I have it, so that makes me better!”
+We’ve come up with all these different systems to convince people
+that having money makes you better than everybody else. Our society
+convinces us that the people on the bottom are stupid, lazy, dirty, etc.
+Using this logic, it’s easy to think people who have less than you aren’t
+
+---
+
+important and don’t matter. There’s a power hierarchy in play that says
+as long as I have even a little more money than someone else, I have
+some power. So, there are a lot of people in the world who don’t want to
+see poor people do better. Giving poor people money would shift that
+hierarchy and create a change in the power dynamic.
+It’s a threatening prospect for many, and it’s at the root of why some
+people are resistant to my proposal.
+One of the greatest tragedies of our time is that we’ve created a society
+where the rich and the middle class live separately from poor people. We
+use that classism mentality to justify why it’s okay that we’re living in a
+house and have everything we could possibly want, while right across the
+street, we can see people who are freezing to death while they sleep on
+the streets.
+We saw a similar mentality during the Irish potato famine in the
+mid-nineteenth century. Although the potato crops suffered, there was
+plenty of other food to eat. The problem wasn’t that there was no food,
+it was that, at the time, the British had control over Ireland, and they
+exported all the food that was available, leaving the Irish to starve to
+death. This same separation exists in the US today. The distance between
+rich and poor neighborhoods prevents those with money from seeing the
+effect many of their decisions have on poor people.
+When I worked at the hedge fund, I was around people worth more
+than most humans can imagine. The thing most of those individuals had
+in common was that they had a complete disregard for the environment
+and the rest of the world. It wasn’t because they were horrible people.
+They’d simply grown up in a world where all they thought about was
+their own wealth and comparing their wealth to that of their peers.
+If you’re a billionaire, you must separate yourself from people who
+don’t have as much money, because those less fortunate people are
+constantly asking you for what they don’t have. This narrows the pool of
+friends you can choose from. So, who do you hang out with? The answer
+is other people who have hundreds of millions or billions of dollars.
+Ultra-rich people are no different from any other group of people in
+
+---
+
+CHAPTER 7: I THINK I’LL TRY DEFYING GRAVITY | 89
+the sense that they’ve got their circle of friends, and they want to be the
+highest-ranking member in that circle. The difference is, when it comes
+to very wealthy people, the defining factor of why they’re all together is
+their wealth. And the way they determine their internal social hierarchy
+is based on who has the most money.
+Within these social circles, you find situations where one billionaire
+will be frustrated because another billionaire has more money. They’ll
+obsess about it.
+It was fascinating to see because it’s extremely stressful for them.
+Obsessing about who has more money isn’t something they enjoy or do
+on purpose. As somebody who grew up in poverty, I could see how these
+people were helping to create a more difficult world for those who were
+on the bottom, but they weren’t even aware they were doing it. It’s one of
+the reasons I’m confident about achieving my goal—because most rich
+people aren’t evil. They’re just oblivious.
+If you have extreme wealth and you want to gain more, you must tell
+yourself that other people’s needs are unimportant. You have to become
+blind to the rest of the world, and our social isolation of classes makes
+this disturbingly easy. So, when I told friends that I wanted to walk away
+from that bubble and dedicate my life to helping the poor, they looked at
+me with a blank stare, as if I’d said I wanted to go live on another planet.
+Because to them, poverty does indeed exist, but only in another world.
+Losing people in life is always painful. But the fact is, growth is
+traumatic. When you want to change, the people that liked the old
+you may not like the new you. So be it. I knew how unfulfilling that
+old life had been for me, and I was done with it. There were too many
+people with barely enough to survive for me to feel comfortable living a
+life chasing excess. I don’t blame others for seeking wealth because they
+didn’t create the society we live in. We were all born into this mess. But
+I was done following.
+It was time to lead.
+
+---
+

@@ -1,18 +1,10 @@
 ---
-title: "End Poverty. Make Trillions. — Part IV: Questions and Answers"
+title: "End Poverty. Make Trillions. — Chapter 12: Questions and Answers"
 book: "End Poverty. Make Trillions."
-weight: 4
-description: "Chapter 12: Lack of Understanding Leading Us Away from Unity. Frequently asked questions about the Seed Money Act and responses."
+weight: 13
+description: "Frequently asked questions about the Seed Money Act and responses. Addressing concerns about cost, affordability, marginal tax rates, and implementation."
 ---
 
-Part 4
-
----
-
-| 171
-CHAPTER 12: LACK OF UNDERSTANDING LEADING
-US AWAY FROM UNITY
-When I first introduce my proposal for The Seed Money Act,
 there are often questions. I’ve compiled a list of the most
 frequently asked questions, as well as the responses for each
 below.
@@ -30,7 +22,6 @@ wages.
 
 ---
 
-172 | END POVERTY. MAKE TRILLIONS.
 How did you come up with the amount of $200 billion?
 The US census calculates how many households are below the poverty
 line and by how much. If we multiply the total number of households
@@ -97,7 +88,6 @@ Act can be judged on its own merits.
 
 ---
 
-174 | END POVERTY. MAKE TRILLIONS.
 Won’t government bureaucracy get in the way?
 The US government proved it could quickly step up to provide
 economic stimulus during the coronavirus pandemic. As of March 7th,
@@ -164,7 +154,6 @@ There are two types of poverty: relative and absolute. Relative
 
 ---
 
-176 | END POVERTY. MAKE TRILLIONS.
 poverty means having less than someone else. Absolute poverty means
 lacking basic human needs like food, clothing and shelter. The Seed
 Money Act eliminates absolute poverty, which means there’ll be no more
@@ -230,7 +219,6 @@ on survival and worrying about things like getting shot at or starving
 
 ---
 
-178 | END POVERTY. MAKE TRILLIONS.
 to death. They’re free to think about building businesses, innovation,
 human capital, and solving problems. Poverty is a drag on the entire
 society.
@@ -301,7 +289,6 @@ biggest welfare recipients tend to be the wealthiest citizens.
 
 ---
 
-180 | END POVERTY. MAKE TRILLIONS.
 I thought poor people were mostly criminals. Are we helping
 criminals?
 When someone is living in extreme poverty, the urge to steal can be
@@ -366,7 +353,6 @@ decisions for themselves and is the ultimate sign of respect.
 
 ---
 
-182 | END POVERTY. MAKE TRILLIONS.
 How will the Seed Money Act influence arts and culture in our
 country?
 Art can influence change in the world. Artists of all kinds, including
@@ -380,7 +366,6 @@ pursue their craft without fear of poverty.
 
 ---
 
-| 183
 FINAL THOUGHTS
 Now that you have a clear understanding of the plan, I ask you join me
 in recommending that Congress grant seed money to all US households
@@ -397,7 +382,6 @@ need to make ending poverty a worldwide topic of discussion.
 Please follow End Poverty. Make Trillions. on social media and
 visit the website endpovertymaketrillions.com. Like, comment,
 and share your favorite content, or create your own content using
-#endpovertymaketrillions.
 2. Write to Congress! Send your representative a letter or e-mail
 with the subject: “Let’s End Poverty. Make Trillions!” Let them
 know why you want everyone to have at least some opportunity.
@@ -416,7 +400,6 @@ creature on this planet. Whether we like it or not, we’re all in this
 
 ---
 
-184 | END POVERTY. MAKE TRILLIONS.
 together. We’ll no longer ignore people sleeping on the street or
 crying out for help. Be the salt and the light of the earth.
 I truly thank you for caring enough about either ending poverty or
@@ -430,3 +413,4 @@ proposal, or to reach me, visit www.endpovertymaketrillions.com.
 I look forward to the discussions and am hopeful about the change
 we can make. We’ll never have a perfect society, but we can try. Let that
 be our purpose.
+
