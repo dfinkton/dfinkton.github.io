@@ -84,11 +84,16 @@ Medical research articles on infant mortality, fetal development, and health out
 dfjrwebsite/
 ├── AGENTS.md                 # This file - project documentation
 ├── README.md                 # User-facing documentation
-├── config.toml              # Hugo configuration
+├── config.toml              # Hugo configuration (baseURL: darrylfinktonjr.com)
+├── .github/
+│   └── workflows/
+│       └── hugo.yml         # GitHub Actions deployment workflow
 ├── content/                 # All content in Markdown
 │   ├── _index.md           # Homepage
 │   ├── about.md            # About the author
+│   ├── work-with-me.md     # Collaboration page
 │   ├── books/              # Books organized by title
+│   │   ├── _index.md       # Books listing page
 │   │   ├── have-one-kid/
 │   │   │   ├── _index.md   # Book overview
 │   │   │   ├── chapter-01.md
@@ -96,57 +101,55 @@ dfjrwebsite/
 │   │   │   ├── chapter-02-detailed.md
 │   │   │   ├── chapter-03.md
 │   │   │   ├── chapter-04.md
-│   │   │   └── chapter-05.md
+│   │   │   ├── chapter-05.md
+│   │   │   ├── endnotes.md
+│   │   │   └── full-text.md
 │   │   ├── end-poverty-make-trillions/
 │   │   │   ├── _index.md
 │   │   │   ├── part-01.md
 │   │   │   ├── part-02.md
 │   │   │   ├── part-03.md
-│   │   │   └── part-04.md
+│   │   │   ├── part-04.md
+│   │   │   └── full-text.md
 │   │   └── language-of-liberation/
 │   │       ├── _index.md
 │   │       └── full-text.md
-│   ├── essays/             # Essays (links to Medium or full text)
+│   ├── essays/             # 8 individual essay pages with Medium links
 │   │   ├── _index.md
-│   │   └── ...
-│   ├── articles/           # Peer-reviewed articles
-│   │   ├── _index.md
-│   │   └── ...
-│   ├── videos/             # Video content
-│   │   ├── _index.md
-│   │   ├── informational.md
-│   │   └── documentaries.md
-│   └── childrens-books/    # Children's books (future)
+│   │   ├── loving-attention-is-all-you-need.md
+│   │   ├── i-dream-of-village.md
+│   │   ├── god-money-mind.md
+│   │   ├── it-pays-to-end-poverty.md
+│   │   ├── ubi-and-the-environmental-crisis.md
+│   │   ├── right-amount-of-ubi.md
+│   │   ├── how-do-we-pay-for-ubi.md
+│   │   └── jesus-year.md
+│   ├── articles/           # 7 peer-reviewed articles with PubMed links
+│   │   └── _index.md
+│   ├── videos/             # 5 informational + 11 documentary videos
+│   │   └── _index.md
+│   └── childrens-books/    # 3 children's books with IngramSpark widgets
 │       └── _index.md
-├── static/                 # Static assets (images, PDFs, etc.)
-│   ├── images/
-│   │   ├── author.jpg
-│   │   └── book-covers/
-│   └── files/
-│       └── pdfs/          # Original PDFs for download
-├── themes/                 # Hugo themes
+├── static/                 # Static assets
+│   ├── CNAME              # Custom domain for GitHub Pages
+│   └── images/
+│       └── book-covers/   # Book cover images
+├── themes/
 │   └── minimal-author/    # Custom minimal theme
 │       ├── layouts/
 │       │   ├── _default/
 │       │   │   ├── baseof.html
-│       │   │   ├── single.html
-│       │   │   ├── list.html
-│       │   │   └── home.html
-│       │   ├── partials/
-│       │   │   ├── header.html
-│       │   │   ├── footer.html
-│       │   │   ├── head.html
-│       │   │   └── navigation.html
-│       │   └── shortcodes/
+│       │   │   ├── single.html    # Individual page template
+│       │   │   └── list.html      # Section listing template
+│       │   └── partials/
+│       │       ├── header.html
+│       │       ├── footer.html
+│       │       ├── head.html      # Meta tags, structured data
+│       │       ├── navigation.html
+│       │       └── breadcrumb.html # Breadcrumb navigation
 │       └── static/
-│           ├── css/
-│           │   └── style.css
-│           └── js/
-│               └── main.js
-├── data/                   # Site data files
-│   ├── books.toml         # Book metadata
-│   ├── essays.toml        # Essay metadata and links
-│   └── articles.toml      # Article metadata and links
+│           └── css/
+│               └── style.css
 └── public/                 # Generated site (gitignored)
 ```
 
@@ -200,24 +203,56 @@ Each book will be split into chapters using Hugo's content organization:
 2. ~~Set up Hugo with custom theme~~ (Complete)
 3. ~~Create initial content structure~~ (Complete)
 4. ~~Add book cover images~~ (Complete)
-5. Configure GitHub Pages deployment
-6. Test locally and refine design
-7. Launch site
+5. ~~Configure GitHub Pages deployment~~ (Complete)
+6. ~~Test locally and refine design~~ (Complete)
+7. ~~Launch site~~ (Complete - Live at darrylfinktonjr.com)
 
 ## Completed Work
 
+### Initial Build
 - Extracted all 3 books from PDFs
 - Split "Have One Kid" into 6 chapters + endnotes
 - Split "End Poverty. Make Trillions." into 4 parts
 - "The Language of Liberation" kept as single full text
 - Created content structure with _index.md files for each section
-- Captured all links from Google Site (books, essays, articles, videos, children's books)
 - Built Hugo theme with clean, modern design optimized for readability
 - Implemented responsive CSS with mobile-first approach
-- Added JSON-LD structured data for SEO
-- Created navigation system with chapter prev/next links
 - Added book cover images for all 3 books
-- Site builds successfully with 27 pages
+
+### Domain & Deployment
+- Connected custom domain darrylfinktonjr.com via Cloudflare
+- Updated config.toml with new baseURL
+- Created static/CNAME file for GitHub Pages
+- Created GitHub Actions workflow (.github/workflows/hugo.yml) for automated deployment
+- Configured HTTPS enforcement
+
+### Content & Formatting
+- Fixed PDF extraction issues in all book chapters (removed page numbers, fixed line breaks, proper paragraphs)
+- Created 8 individual essay pages with Medium links
+- Added 7 peer-reviewed articles with PubMed links
+- Added 5 informational videos and 11 mini-documentaries with YouTube links
+- Updated Work With Me page to be more open-ended
+- Changed contact email to dfinkton@gmail.com
+- Added About page content
+- Added IngramSpark embed widgets for children's books
+
+### UX & Navigation
+- Added breadcrumb navigation for better wayfinding
+- Fixed duplicate headers on list pages
+- Fixed books page not displaying content (added missing _index.md)
+- Updated list template to show both regular pages and sections
+
+### SEO & AI Optimization
+- Enhanced JSON-LD structured data for books, chapters, essays, and author
+- Added sameAs links to Medium and GitHub profiles
+- Proper Schema.org markup for Article, Book, Chapter, Person
+- Open Graph and Twitter Card meta tags
+
+### Current Status
+- Site builds successfully with 36 pages
+- Live at https://darrylfinktonjr.com
+- HTTPS enforced
+- All content sections populated and formatted
 
 ## Maintenance
 
