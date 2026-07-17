@@ -3,6 +3,8 @@ title: "End Poverty. Make Trillions. — Chapter 11: The Seed Money Act"
 book: "End Poverty. Make Trillions."
 weight: 12
 description: "The Seed Money Act: How to End Poverty in the United States and Make Trillions Doing It. An unconditional, permanent, regular grant to every US household set at the federal poverty guidelines."
+aliases:
+  - /books/end-poverty-make-trillions/part-03/
 ---
 
 I’ve spent my life thinking about how to help the poor because I

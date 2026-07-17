@@ -3,6 +3,8 @@ title: "End Poverty. Make Trillions. — Chapter 12: Questions and Answers"
 book: "End Poverty. Make Trillions."
 weight: 13
 description: "Frequently asked questions about the Seed Money Act and responses. Addressing concerns about cost, affordability, marginal tax rates, and implementation."
+aliases:
+  - /books/end-poverty-make-trillions/part-04/
 ---
 
 there are often questions. I’ve compiled a list of the most
