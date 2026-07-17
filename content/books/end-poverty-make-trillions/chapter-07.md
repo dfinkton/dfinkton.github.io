@@ -3,6 +3,8 @@ title: "End Poverty. Make Trillions. — Chapter 7: I Think I'll Try Defying Gra
 book: "End Poverty. Make Trillions."
 weight: 8
 description: "Moving to Los Angeles, visiting Skid Row, and deciding to dedicate my life to ending poverty."
+aliases:
+  - /books/end-poverty-make-trillions/part-02/
 ---
 
 As humans, we’re designed to be able to connect easily with

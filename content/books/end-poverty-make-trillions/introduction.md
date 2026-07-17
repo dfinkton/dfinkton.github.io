@@ -3,6 +3,8 @@ title: "End Poverty. Make Trillions. — Introduction"
 book: "End Poverty. Make Trillions."
 weight: 1
 description: "Introduction to ending poverty in the United States. Why people react with skepticism when you say 'end poverty' and why the vast majority of poor individuals do indeed have a job."
+aliases:
+  - /books/end-poverty-make-trillions/part-01/
 ---
 
 ## Introduction
