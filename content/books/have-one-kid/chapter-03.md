@@ -1,0 +1,1014 @@
+---
+title: "Chapter 3: Slaves to Growth"
+book: "Have One Kid"
+weight: 4
+---
+
+Chapter 3: Slaves to Growth
+Every serious ecological signal says the pressure on the planet
+has to come down. Yet every major institution insists the
+economy must keep growing. When national birth rates fall,
+leaders do not express ecological relief; they panic.
+If overshoot—using resources faster than the planet
+can replace them—is real, why does the whole system still
+demand more bodies?
+Modern capitalism did not appear from nowhere.
+It is the latest iteration of an older machine. To understand
+how we got here, we have to look at the origins and
+evolution of human civilization.
+The Dawn of Civilization
+Twelve thousand years ago, the Earth's climate stabilized [1].
+Before this, the planet's orbit and tilt pushed the Earth in
+and out of ice ages. Because the climate was unpredictable,
+humans moved, following food.
+When the seasons became predictable, human
+behavior could change. Humans already knew how to
+collect seeds and spread plants, and stable seasons made it
+possible to apply that knowledge to a fixed location. Wheat,
+rice, oats, barley, and other domesticated grains are
+drastically different from their wild versions. These plants
+84
+
+---
+
+are grasses, and what humans eat is their seeds. Wild seeds
+evolved to hitch a ride with animals in their fur so they
+could spread further out. When a heavy animal hits a wild
+grain plant, the seed head immediately shatters into pieces,
+scattering the seeds across the soil. This defense mechanism
+ensures that a single animal cannot eat the entire harvest,
+leaving seeds behind to grow next year. Humans were just
+one of the many animals gathering these wild seeds.
+Early humans noticed that some mutant plants did
+not shatter upon touch. Because this made the plants much
+easier to harvest, humans intentionally planted these seeds to
+grow more of them. Over time, these mutants—which
+otherwise would have been at an evolutionary
+disadvantage—spread rapidly because they had a partner:
+humans [2]. Nomadic groups knew this and practiced this
+kind of selective farming well before they became settled in
+one place.
+As the environment shifted to a more predictable
+pattern, it became far less necessary to move. People often
+stayed put, continually planting the versions of foods they
+preferred until the plants became domesticated. The grains
+were now dependent upon humans to spread, and humans
+became dependent upon the grains.
+Prior to 12,000 years ago, the human population
+grew slowly at around 0.05 percent per year. Following the
+widespread adoption of agriculture, the demographic
+growth rate in some regions jumped to over 1 percent, an
+increase of more than twenty-fold [3].
+85
+
+---
+
+Grains changed the mathematics of human reproduction.
+Humans and other great ape infants are highly
+dependent on their mothers. A chimpanzee or gorilla
+mother will breastfeed her child until four to five years of
+age; an orangutan mother nurses for six to seven years. Apes
+wean their offspring precisely when the young animal is
+capable of foraging for itself.
+Human maturation is one of the slowest in the
+animal kingdom, and human diets rely heavily on cooking
+and processing food. Nomadic mothers tended to stop
+breastfeeding their babies around three to four years of age
+[4]. Because a four-year-old human still cannot feed itself,
+the mother relied on the support of a broader community to
+help feed the child after weaning. This timeline is critical
+because breastfeeding suppresses ovulation, acting as
+nature’s birth control. A woman who is breastfeeding
+frequently has a lower chance of getting pregnant again,
+allowing her to successfully raise her child to maturity.
+Ancient humans were aware of how weaning
+affected birth spacing. Mammalian males in general are a
+danger to the offspring of nursing mothers, because they
+know that a female will not be receptive to mating while she
+is nursing [5]. Prehistoric humans understood the
+consequences of early weaning: the population would grow.
+These groups were deeply aware of the impact of a rapidly
+growing population. They had experienced overhunting and
+habitat destruction, recording those ecological limits in their
+86
+
+---
+
+stories and collective memories. Early human populations
+also possessed an extensive knowledge of plant-based
+medicines to prevent or end pregnancies, such as acacia and
+silphium [6]. There was no reason for a community to
+intentionally trigger rapid population growth.
+When humans stayed put, a mother had new
+options. She could supplement breastfeeding with porridge
+or mashed-up grain meal. Transitioning from foraging to
+agriculture significantly increased the daily hours of labor
+required to survive. Processing grain, weeding, and hauling
+water are continuous, physically exhausting tasks. While
+mothers can and do farm with infants, early weaning via
+grain porridge allowed a mother to conserve her physical
+energy. She could keep working in this system that
+demanded her labor following the planting cycles.
+The capacity for rapid population growth was
+unlocked, and density surged. To keep feeding a denser
+population, people had to grow more of that easily
+harvested, easily processed food.
+They needed more domesticated grain.
+This required a shift in scale that fundamentally
+changed how humans impacted the land. An intact habitat
+functions as a biological loop. Above ground, it supports
+insects, amphibians, birds, and mammals. Below ground,
+networks of fungi, bacteria, and earthworms form a soil
+food web. Waste and dead organic matter are rapidly broken
+87
+
+---
+
+down and cycled back into the system. The ecosystem
+maintains its own fertility. Mobile foraging populations
+existed within these systems at low densities, typically less
+than one person per square kilometer. A grain-based density
+could be 100 times that or more.
+Farming breaks the biological loop on purpose. To
+make a farm, humans fence out wild animals, pull up
+competing plants, and pack the desired crops together
+tightly. When those packed plants grow, they extract what
+they need from the soil. But unlike a wild ecosystem, those
+plants do not die and rot where they stand. Humans harvest
+them, put them in carts, and transport them away. The
+nutrients are physically stripped from the land. To stop the
+earth from dying, early farmers had to haul fertility back. In
+the wild, animals deposit their waste where they eat, directly
+returning nutrients like phosphorus and nitrogen to the
+surface. Foragers move on before their own waste can make
+them sick. The living ecosystem rapidly breaks down the
+waste into more life.
+Farming humans needed to find a way to bring
+nutrients back to the farms. If you gather enough human
+and animal waste to fertilize large agricultural fields, you
+either take your time and process it (i.e., composting), or
+you bring sickness with the nutrients. Piling up untreated
+waste where you live breeds parasites and waterborne
+disease.
+Then there is the water. A densely packed field of
+crops often drinks far more water than naturally falls on it.
+88
+
+---
+
+To keep the plants alive, humans had to drag water from
+rivers out to dry fields. That is what irrigation is: the
+brute-force movement of water. With trees cut down to
+make room for planting fields, the natural water recycling
+engine was gone.
+Human hands then had to do its work. They hauled the
+waste, dug the canals, and pulled the weeds.
+As populations became stationary and dependent
+on grains, their health declined. When bioarchaeologists
+examine skeletons from the Mediterranean before
+agriculture, they find mobile foragers who were robust, with
+men averaging five-foot-nine. After the shift to farming,
+average male height dropped to five-foot-three [7]. We see
+this baseline physical toll clearly in the Indus Valley.
+Skeletons from this period show a reduction in stature,
+dental degradation from a carbohydrate-heavy diet, and
+markers of diseases caused by living in high densities.
+Larger populations also meant more fights over
+territory. The Indus Valley civilizations had mountains to
+protect them from invasion. They also possessed abundant
+copper and tin ores located close together. Because these
+metals were widely available, many people knew how to
+forge bronze, a copper and tin alloy used to make the most
+advanced fighting tools at the time. This wide distribution
+of resources prevented any single group from establishing a
+monopoly on violence to dominate the region.
+89
+
+---
+
+Their physical footprint reflects a society of equals.
+Excavations at Mohenjo-Daro and Harappa reveal
+standardized baked-brick housing, with nearly every home
+featuring its own well and drainage system. The largest
+buildings in the city were a public facility known as the
+Great Bath, and the granaries for food storage. Their
+artifacts feature standardized weights for trade, terra-cotta
+toys, and seals depicting animals and nature. Archaeologists
+have never found carvings, reliefs, or monuments depicting
+mass warfare [8]. People in the Indus Valley appear to have
+voluntarily participated to gain access to grain storage,
+irrigation, and markets. Blessed with the gift of a flooding,
+nutrient-rich river as well, the population in the Indus
+Valley never came close to densities in the Nile Valley. There
+was no reason to pack as many people in as tightly as
+possible. And there was no one forcing them to do so
+anywhere. There is no archaeological evidence of an
+emperor, king, pharaoh, or ruling class of any kind in the
+roughly 2,000-year history of these civilizations [8].
+This was not what happened in the vast majority of early
+civilizations.
+In other regions, the materials required to make
+advanced weapons were scarce. A small group could control
+the supply. Once a group secured this monopoly on
+violence, they took the exact principles they had learned
+from domesticating plants and animals—fencing them in,
+90
+
+---
+
+selective breeding, early weaning, and harvesting
+surplus—and applied them to other human beings. This
+marks the emergence of empires built on enslaved labor.
+In anthropology, monumental architecture—such
+as Egyptian pyramids or Mesopotamian ziggurats—is
+understood not just as a building, but as a physical display of
+power that requires the deliberate diversion of human
+energy. Every hour a laborer spent digging, drying,
+transporting, and stacking mud bricks for a temple was an
+hour of caloric energy forcibly redirected away from
+growing food for their own family, rest, or play. The massive
+structure serves a specific cultural purpose: it provides a
+permanent, physical reminder of the ruling class's
+supremacy and legitimizes the hierarchy [9].
+To understand the scale of this extraction, we have
+to look at the skeletal remains of the laborers who built these
+monuments. Bioarchaeological evidence from the North
+Tombs Cemetery at Amarna in Egypt reveals the mortality
+rate of the laboring class. More than 90 percent of the
+skeletons in this worker cemetery belonged to individuals
+between the ages of 7 and 25. The teenagers show
+compressed vertebrae and spinal fractures from carrying
+standard limestone building blocks weighing over 150
+pounds. Their skeletons exhibit scurvy and severe porotic
+hyperostosis—spongy lesions on the skull caused by
+malnutrition and anemia [10]. In early China, excavations
+of the Shang Dynasty royal city of Anyang reveal massive
+tombs surrounded by the mass graves of thousands of
+91
+
+---
+
+laborers and field slaves who were either worked to death or
+sacrificed to serve the ruling class in the afterlife [11]. People
+did not look at that physical collapse and volunteer to join it.
+As anthropologist James C. Scott summarizes the
+archaeological consensus: "There is no evidence that anyone
+voluntarily became a state subject." [12]
+The extraction of materials required the same
+systemic redirection of calories. The Royal Cemetery of Ur
+in Mesopotamia contained tombs overflowing with gold
+and lapis lazuli. Lapis lazuli is not found in Mesopotamia; it
+had to be mined in the mountains of Afghanistan and
+transported over a thousand miles.
+The Indus Valley redirected its surplus energy
+horizontally, investing in public baths, household wells, and
+municipal drainage. The early empires of Egypt,
+Mesopotamia, and China redirected their surplus energy
+vertically. The laboring classes under a hierarchy were
+worked to death before reaching full adulthood to build
+structures that served no biological purpose to the
+population [13].
+Early enslavement agricultural states required
+concentrated populations to work, pay taxes, and supply
+conscripts.
+Both hierarchically dominated and egalitarian
+agricultural civilizations produced shorter, sicker lives than
+mobile foraging. However, the physical damage to the
+human body under dominant hierarchies was starkly
+different from that in flat societies. In egalitarian centers like
+92
+
+---
+
+Harappa, bioarchaeologists observe the expected baseline
+toll of early farming: worn joints from daily fieldwork, high
+rates of dental cavities from sticky, grain-based diets, and the
+presence of density-related infections. Yet, skeletal trauma
+from interpersonal violence was exceptionally rare during
+their peak urban phase, and mortality was distributed
+naturally across a normal lifespan [22].
+In contrast, the bioarchaeological record of
+hierarchical states reveals institutionalized, forced physical
+abuse. In addition to the severe spinal compression found in
+Egyptian adolescents hauling stone, skeletons from
+state-level societies frequently exhibit "parry
+fractures"—broken forearms sustained when raising an arm
+to block a blow from a taskmaster, guard, or weapon. In
+Shang Dynasty China, the physical damage extended to
+systemic human sacrifice, with thousands of laborers ritually
+decapitated [11]. The skeletal record demonstrates that
+while farming universally degraded human health, ruling
+hierarchies weaponized that degradation to physically break
+the human body for expansion.
+Geography determined where these states
+successfully formed, emerging most easily where productive
+agricultural land was surrounded by terrain that was
+difficult to survive in [14].
+Egypt is the primary example. The Nile Valley
+provided a narrow agricultural corridor bounded by desert.
+The river enabled dense farming, but the desert made it
+extremely difficult for a farming household to leave and
+93
+
+---
+
+survive outside the state's reach. Because exit was
+geographically blocked, rulers could impose heavy taxation
+and forced, unpaid labor without losing their workforce
+[15].
+The Bible preserves what ancient people
+understood about Egypt: it was a slave state surrounded by a
+desert that limited escape.
+When a group of slaves attempts to leave, they are
+told no and worked harder. After acts of divine intervention
+devastate the kingdom, the slaves are allowed to flee. The
+kingdom decides to follow the escaping slaves to slaughter
+them. More divine intervention saves them, and they escape
+into the desert, where they spend the next forty years
+wandering.
+Where geography offered an exit, people took it.
+Southern Mesopotamia contained productive
+rivers, but it also bordered marshes and open grasslands
+where people could fish, herd, and evade state control. In
+Southeast Asia, highland forests provided refuge from valley
+states. The presence of these refuge zones meant the state
+had to actively prevent its population from leaving [16].
+This requirement produced the earliest administrative
+technologies. Sumerian clay tablets functioned as centralized
+ledgers where administrators recorded grain production,
+livestock, and people. The ledgers tracked field assignments
+and captured slaves, tracking human beings as property
+94
+
+---
+
+alongside the grain. Scribes pressed marks into clay to count
+female slaves in the exact same format they used to count
+flocks of sheep. The Sumerian written symbol for a female
+slave literally combined the symbol for "woman" with the
+symbol for "mountain"—meaning a woman captured from
+the foreign hills [17].
+To maintain this system, specialized classes formed.
+A military class managed enforcement and capture. An
+administrative class managed the ledgers. Religious and
+political authority fused to justify the hierarchy [18]. To
+keep this inventory from walking away, rulers carved
+containment laws into stone. The Code of Hammurabi (c.
+1750 BC) states clearly in Law 15: "If any one takes a male
+or female slave... outside the city gates, he shall be put to
+death." Law 16 mandates: "If any one receives into his house
+a runaway male or female slave... he shall be put to death."
+[19]
+The physical architecture of early cities reflected
+this need for containment. The walls built around early
+settlements protected against outside attacks, but they also
+functioned to keep the labor force inside [20]. When
+geography protected populations who fled, the state
+attacked the geography. History consistently shows states
+engineering projects to drain wetlands and clear forests that
+shelter populations living outside the system.
+The early slave state did not grow because it was
+inherently attractive. It grew because it was an
+95
+
+---
+
+administrative machine that required constant inputs of
+land and labor to maintain itself.
+For the ruling class, expansion meant more power
+over human lives. An individual human has a biological
+limit on what they can consume, but a ruling class storing
+wealth in a vault is not under such a limit. More wealth
+simply means more ability to expand. A larger enslaved
+population means more concubines, cooks, gardeners,
+farmers, entertainers, craftsmen, miners, alchemists,
+engineers, soldiers, and priests at your disposal.
+The phrase all roads lead to Rome does not describe
+travel; it describes a one-way extraction funnel. Roman road
+networks were engineered specifically to move armies
+outward and drain resources, goods, and wealth from the
+edges of the empire directly into the capital [21].
+This mechanism exists in nature. A common
+biological equivalent is cancerous growth. In a healthy
+biological system, energy flows sustain the whole organism.
+A cancer cell breaks this loop, redirecting the body's energy
+flows strictly into its own growth and replication. It builds
+its own blood vessels to siphon nutrients from the host
+body, demanding continuous resources [22]. The empire is
+the macro-version of this biology. The hierarchy redirects
+energy flows of the society—its labor, its grain, its
+wealth—away from the health of the population. That
+energy is funneled to the ruling class, who then demand and
+direct it toward more conquest, prioritizing infinite growth
+until it inevitably kills the host.
+96
+
+---
+
+Extract, Deplete, Expand, Repeat
+The earliest surviving work of written literature comes from
+Mesopotamia. Dating to roughly 2100 BC, the Epic of
+Gilgamesh tells the story of a king who decides to travel to
+the distant Cedar Forest. He wants to build massive city
+walls and monuments to secure everlasting fame for himself,
+and to bring glory to his people.
+The forest is a vast wilderness protected by
+Humbaba, a guardian placed there by the chief god to deter
+humans from harming the forest. Upon arriving, Gilgamesh
+and his companion, Enkidu, immediately begin cutting
+down the massive cedars. Humbaba attacks to defend the
+trees, but Gilgamesh overpowers him. Pinned to the ground,
+the guardian attempts to negotiate, offering to serve the
+human king: "Let me go, Gilgamesh... The trees that I grew,
+I will cut down for you." Enkidu advises Gilgamesh not to
+trust the guardian.
+"Gilgamesh heard the word of his companion. He
+took the axe in his hand, he drew the sword from
+his belt. Gilgamesh struck him on the neck...
+Humbaba fell... Gilgamesh felled the trees, while
+Enkidu searched out the best timber." [23]
+97
+
+---
+
+With the protector dead, they clear-cut the sacred cedars,
+bind the timber into a massive raft, and float it down the
+Euphrates River to Uruk.
+Long before the development of agriculture,
+humans had mined the earth for resources like obsidian,
+ochre, and flint. They transported these materials across
+hundreds of miles, returning to the same deposits for
+thousands of years [24]. Because early populations were
+small and used simple tools, the impact was limited.
+The establishment of cities changed the scale. Cities
+needed clay and sand for brickmaking, stone for
+monuments, and massive amounts of charcoal to melt
+metals. As cities grew, their material demands grew with
+them. Cities rapidly burned through the resources
+immediately surrounding them.
+By 2000 BC, the global human population was
+between 25 and 35 million [25]. The overwhelming
+majority were now engaged in farming or herding
+domesticated animals. Human activity had already pulled
+roughly one to two percent of the planet's land entirely out
+of the wild—cleared, farmed, grazed, or built upon [26].
+Gilgamesh came from the ancient civilization of
+Sumer, located in Mesopotamia (modern-day Iraq). To feed
+densely packed populations in the hot, dry climate, the
+empire relied heavily on irrigation—hauling water from
+rivers to dry fields. The local water contained small amounts
+of dissolved salt. When the fields were repeatedly flooded
+98
+
+---
+
+under the hot sun, the water evaporated, but the salt was left
+behind in the soil. Year after year, the salt built up.
+The civilization tracked this degradation in their
+clay tablets. Wheat is highly sensitive to salt in the dirt,
+whereas barley is much more tolerant. The tablets show a
+forced shift: fields that once grew wheat were converted
+entirely to barley just to keep producing food. By 3500 BC,
+wheat made up roughly 16 percent of the crop. By 2100 BC,
+it had dropped to 2 percent. By 1700 BC, wheat disappeared
+from the accounting records entirely [27]. Eventually, the
+rising salt levels killed the barley, too. Grain yields in affected
+parts of Sumer fell to roughly one-third of what they had
+been a thousand years earlier. As the dirt turned white with
+salt crusts, the fields were abandoned [28]. The Sumerian
+collapse demonstrated what happens when a society ignores
+the environmental impact of its activities. The land failed.
+The logic of the hierarchical empire kept running
+in other places. The mechanism operated on a fixed loop:
+more land produced more food; more food supported more
+people; more people supplied larger armies; and larger
+armies seized more land. Two thousand years later, the
+Roman Empire was operating this system at a continental
+scale. By the first and second centuries AD, the global
+population had grown to somewhere between 170 and 300
+million [29]. Five to ten percent of the Earth's land had been
+transformed into human habitats. Wetlands were drained,
+native pastures were grazed bare, and rivers were diverted
+[30].
+99
+
+---
+
+The physical damage to the land was obvious to the
+people living within the system. Writing in Greece around
+360 BC, Plato documented a landscape that had already
+passed the point of return. He noted that in his
+grandfather's time, the hills were covered in deep soil and
+thick forests. After generations of clear-cutting and
+overgrazing, the topsoil had mostly washed away. Plato
+described the surviving land exactly as he saw it:
+"What now remains compared with what then
+existed is like the skeleton of a sick man, all the fat and soft
+earth having wasted away, and only the bare framework of
+the land being left." [31] Rome expanded this depletion
+across Europe and North Africa. The empire's silver mines
+in Spain were worked by tens of thousands of enslaved
+people simultaneously, using high-pressure water to wash
+entire mountainsides away to reach the ore [32].
+The Roman capital was fed by massive annual
+shipments of Egyptian grain, grown by populations trapped
+by the surrounding desert and forced to pay taxes in food
+[33]. The scale of Rome's extraction remains visible in the
+Arctic ice. To melt silver and lead for its coins and pipes, the
+empire burned staggering amounts of wood in massive
+furnaces. When scientists drill deep into the ice sheets of
+Greenland, they find an unnatural spike in lead pollution
+that perfectly tracks the rise of the Roman Republic. The
+pollution stays in the ice for centuries. When the empire
+collapsed and the furnaces stopped burning, the lead levels
+crashed [34].
+100
+
+---
+
+As enormous as its impact was, the Roman Empire
+was ultimately limited by its energy. Roughly half the work
+in the ancient world was done by human muscle, most of it
+formally enslaved people. Animals forced into labor
+contributed another twenty to thirty percent, and burning
+wood powered the rest [35]. The future world would not be
+under the same limitations.
+Around the year 1800, the global human
+population reached one billion. As we showed in Chapter 2,
+the earth could likely sustain 40 to 170 million humans
+without agriculture. Empires spent thousands of years
+reshaping the planet's surface to produce food at a scale
+nature does not to pass that one-billion-person mark. This
+reshaping was globally visible. Fifteen to twenty percent of
+the Earth's land had been converted to human use. Over 700
+million hectares of native forest had been
+removed—roughly ten to fifteen percent of the total forest
+cover that existed at the start of the Holocene [36]. Global
+trade networks connected distant lands into a single
+economic system, where the price of goods in European
+capitals directly dictated whether a forest in India was
+cleared or left standing.
+The physical limit on the system's expansion was
+finally broken when humans began digging up deep, buried
+energy. Coal and oil are stored energy—millions of years of
+ancient sunlight, captured by plants, and compressed by the
+earth's pressure into a dense fuel. When a barrel of fuel is
+101
+
+---
+
+burned, it releases heat that took the planet an almost
+incomprehensible amount of time to store.
+Fossil fuels did not create a new economic model.
+They gave the old system a new kind of worker. This stored
+energy never tired, did not need to eat farm crops, and could
+not rebel. The logic remained the same: capture work,
+extract surplus, and expand. The waste from this rapidly
+expanding industrial system immediately began changing
+the water and the air. Industrial cities dumped heavy metals,
+coal byproducts, and raw human waste directly into rivers.
+In the summer of 1858, the River Thames became so foul
+that the physical stench disrupted the British government.
+Lawmakers had to soak the curtains of Parliament in
+chloride of lime simply to remain in the building [37].
+The physical expansion required the destruction of
+wild habitats to make room for more agriculture. The great
+prairies of North America—complex environments that
+took millions of years to stabilize—were plowed under
+within a few generations. The native bison herds, which had
+numbered between 30 and 60 million animals, were
+intentionally wiped out to clear the land for farming and
+starve out the indigenous people. By 1889, fewer than 600
+wild bison remained [38].
+Despite this massive land expansion, farming was
+hitting a biological wall. In the natural world, plant growth
+is strictly limited by the availability of nitrogen. For
+thousands of years, the only way to return nitrogen to the
+soil was biological: farmers had to rest the field, plant
+102
+
+---
+
+nitrogen-fixing legumes, or apply animal waste. This
+biological rest phase served as a hard physical speed limit on
+agricultural extraction. The economic system viewed this
+limit as an existential threat. In an 1898 address to the
+British Association for the Advancement of Science, Sir
+William Crookes warned that global wheat yields were
+approaching a hard ceiling, declaring: "It is the chemist who
+must come to the rescue of the threatened communities. It
+is through the laboratory that starvation may ultimately be
+turned into plenty." [39]
+In 1909, German chemists Fritz Haber and Carl
+Bosch broke the limit. They developed an industrial process
+to pull nitrogen directly out of the atmosphere and convert
+it into synthetic ammonia. The breakthrough was globally
+celebrated as a miracle—the ability to make "bread from air."
+The nitrogen did not come from nothing. The
+Haber-Bosch process requires extreme heat and pressure,
+consuming massive amounts of energy. It also relies on
+hydrogen, which is stripped directly from fossil fuels like
+natural gas. By turning fossil fuels into synthetic fertilizer,
+the system created a dangerous illusion. Because they had
+bypassed the nitrogen bottleneck, agricultural
+administrators assumed they had conquered the biological
+limits of the soil entirely. They no longer needed to rest the
+land. With the limits of human muscle and soil nitrogen
+removed, the consequences accelerated.
+Where native forests were not entirely cleared for
+this booming agriculture, they were permanently cut into
+103
+
+---
+
+pieces by roads, railways, and fences. The passenger pigeon,
+which had numbered in the billions within living memory,
+was driven extinct by 1914. While commercial hunting
+reduced their numbers, the population collapsed completely
+because the system clear-cut the massive, unbroken forests
+the birds required to nest together in massive groups [40].
+Soon, oil joined coal as a primary fuel. A single
+barrel of crude oil contains the energy equivalent of roughly
+four to five years of continuous, hard manual labor by a
+human. By 1927, the world was consuming approximately
+1.2 billion barrels of oil per year. Alongside this, coal
+consumption added the energy equivalent of another three
+to four billion barrels [41]. Combined, burning fossil fuels
+added the working power of 10 to 20 billion humans to the
+system every year.
+The global population, which had taken the
+entirety of human history to reach one billion, doubled to
+two billion in just 123 years, crossing the threshold in 1927.
+By this time, thirty to thirty-five percent of the Earth's land
+had been converted to agriculture or grazing [42].
+For the first time, human activity was measurably
+altering the makeup of the air itself. Before industrialization,
+the atmosphere held a concentration of roughly 280 parts
+per million of carbon dioxide—a level that had remained
+highly stable since the beginning of the Holocene [43]. By
+1927, burning stored energy had pushed that number past
+306 ppm [43]. Carbon dioxide is one of the major
+greenhouse gases that is heating up the planet.
+104
+
+---
+
+The physical limits of the soil were tested at the
+exact same time. On the American Great Plains, native
+prairie grasses had held the dry topsoil in place for
+thousands of years. Their root systems went six feet deep,
+binding the earth even through high winds. When
+mechanized farming arrived, the deep native roots were
+plowed under to plant fields of wheat [44].
+When a multi-year drought struck in the 1930s, the
+soil could not hold together. Without the native roots, the
+exposed topsoil simply blew away. In May 1934, a single
+storm lifted an estimated 300 million tons of topsoil,
+carrying it across the continent and dropping dust onto the
+eastern seaboard. The physical collapse of the farmland
+forced 3.5 million people to abandon their homes [45].
+Agricultural pioneers watched this chemical
+transition with alarm. In 1940, Sir Albert Howard, one of
+the founders of the organic movement, warned that the
+system had fallen victim to an "NPK mentality" (referring to
+Nitrogen, Phosphorus, and Potassium). Howard wrote that
+the system was making an error by treating the soil as a
+factory machine rather than a living organism: "The entire
+mystery of soil fertility had been solved... Since treating the
+soil as a machine seemed to work well enough, at least in the
+short term, there no longer seemed any need to worry about
+such quaint things as earthworms and humus." [46]
+In reality, forcing the earth to produce massive,
+continuous crop yields without biological rest rapidly
+accelerated the depletion of the soil's entire profile. Because
+105
+
+---
+
+the crops were forced to grow faster and larger, they
+aggressively drained the earth of dozens of essential trace
+minerals and micronutrients. The system attempted to
+patch this depletion by strip-mining phosphorus and
+potassium to apply synthetically alongside the nitrogen,
+reinforcing the exact mentality Howard warned about,
+while the broader biological complexity of the soil collapsed.
+More critically, pumping synthetic chemicals onto
+continuous monoculture crops burned through the soil's
+organic carbon. The living microbiome of the earth starved.
+The soil lost its physical structure and its natural ability to
+absorb water. It degraded from a self-sustaining biological
+loop into an inert, physical sponge whose only remaining
+function was to hold fossil-fuel chemicals just long enough
+for the crop roots to absorb them. The trajectory of the
+system was set.
+The alternatives to endless growth had been
+forgotten. The empires were operating as if they could, and
+should, turn the entire planet into ever expanding farms and
+pavement.
+Terminal Growth
+In 1927, the global human population reached two billion.
+It had taken the entirety of human history to reach that
+number. It took less than one hundred years to quadruple it
+to eight billion.
+106
+
+---
+
+The energy required to support this expansion grew
+at the same pace. In 1924, the global economy consumed
+roughly 2.8 million barrels of oil per day. One century later,
+that number crossed 102 million barrels per day—a nearly
+thirty-six-fold increase [47]. The system did not move away
+from older fuels to achieve this. The burning of coal and
+natural gas hit historic highs at the same time. Renewable
+energy infrastructure like solar and wind expanded faster
+than at any point in history, but they did not replace fossil
+fuels. They were added on top of them to meet the demand
+for growth [48]. This stored energy allowed the system to
+alter the physical crust of the Earth. By the 2020s, the global
+economy was extracting roughly 106 billion metric tons of
+material from the planet every single year [49]. To picture
+that physical mass: the Great Pyramid of Giza weighs an
+estimated six million tons. The modern economic machine
+digs up, processes, and moves the weight of more than
+seventeen thousand Great Pyramids annually.
+Nearly half of that annual weight is sand and gravel,
+dug up to mix concrete and pave the planet's surface.
+Because land-based sand deposits have been heavily drained,
+the system now dredges the ocean floor to keep up the
+supply, systematically destroying the living ecosystems at the
+bottom of the sea in the process [50].
+The shift to a digital, service-based economy did
+not separate this growth from the physical world. The
+internet requires immense physical resources. By 2024,
+global data centers consumed massive amounts of industrial
+107
+
+---
+
+electricity—over 400 terawatt-hours annually. Because these
+sprawling warehouses of computer servers generate extreme
+heat, they require constant liquid cooling. An average data
+center evaporates hundreds of thousands of gallons of
+freshwater every day. Driven by the massive processing
+power required for artificial intelligence, the digital sector's
+cooling demands are projected to require over a trillion liters
+of freshwater every year by the end of the decade [51].
+The draining of fresh water is planetary in scale. As
+surface rivers were diverted or polluted by industrial waste,
+the agricultural system began drilling into underground
+aquifers. These deep, subterranean water reserves took
+thousands of years to accumulate. Between 1993 and 2010
+alone, the system pumped over two trillion tons of this
+groundwater to the surface. The physical weight of the
+water moved from beneath the continents into the oceans
+was so immense that it measurably shifted the Earth's
+rotational axis, tilting the planet roughly eighty centimeters
+[52].
+The soil above those aquifers is being mined just as
+aggressively. Driven by the continuous dumping of synthetic
+chemicals and the use of heavy machinery, the Earth's
+agricultural topsoil is currently washing or blowing away
+between one hundred and one thousand times faster than
+the natural rate at which it forms [53].
+The destruction of the physical earth directly
+dictates the collapse of the biological web. An ecosystem is
+not a collection of individual animals; it is a highly
+108
+
+---
+
+connected engine of energy transfer. When the physical
+foundation is removed, the life it supports is wiped out.
+In the last thirty years, 420 million hectares of
+native forest have been cleared [54]. In the Amazon, roughly
+twenty percent of the total forest has been removed, and
+another seventeen percent is heavily damaged [55]. Because
+the Amazon generates its own rainfall by pulling moisture
+from the ground and sweating it into the air, physically
+removing the trees breaks the water cycle. The forest begins
+to dry out from the inside, triggering massive fires that start
+on their own and clear more land without any human
+involvement.
+As the natural habitats are paved, plowed, or
+burned, the populations of the animals living within them
+collapse. In the fifty years between 1970 and 2020,
+monitored populations of wild animals with
+backbones—mammals, birds, amphibians, reptiles, and
+fish—declined by an average of 73 percent globally. That
+drop is from the already depleted baseline of 1970. In Latin
+America and the Caribbean, those tracked wildlife
+populations fell by 95 percent [56].
+The wipeout extends into the oceans. The oceans
+absorb roughly a quarter of the carbon dioxide pollution
+created by the fossil fuel economy. This changes the
+chemistry of the water, making it more acidic. The oceans
+also absorb over ninety percent of the excess heat trapped in
+the atmosphere. The combination of heat stress and acidic
+109
+
+---
+
+water has killed roughly half of all living coral reefs since the
+1950s [57].
+The massive scale of this extinction means there is
+no longer an "outside" to the economic model. Even in
+untouched wilderness areas entirely free from plows,
+bulldozers, or pesticides, the base of the food web is failing.
+In a remote, protected mountain meadow in Colorado,
+researchers tracking flying insects over two decades recorded
+a 72 percent collapse in the population. The cause was a
+general rise in summer temperatures driven by air pollution
+generated thousands of miles away [58].
+Insects pollinate three-quarters of the human food
+supply and form the foundational food base for the rest of
+the animal kingdom. Globally, insect populations have
+dropped by an estimated 45 percent over forty years [59].
+The waste generated by this 106-billion-ton annual
+extraction cycle infects what remains of the living world.
+Chemical leftovers from oil refining are turned into plastics,
+a material that does not break down naturally. Since the
+1950s, plastic production has grown by a factor of over two
+hundred. The material has shattered into microscopic pieces
+and entered the planetary water cycle. It is now heavily
+concentrated in the soil, in the deepest ocean trenches, and
+in the flesh of the animals at the top of the food chain. It is
+consistently detected in human blood, lung tissue, and the
+placenta of developing fetuses [60].
+The distribution of this waste reveals the
+underlying structure of the system. Wealthy, highly
+110
+
+---
+
+industrialized nations generate the majority of the material
+consumption and chemical waste. A significant percentage
+of this waste, including toxic electronic components and
+non-recyclable plastics, is shipped to poorer nations that
+lack the facilities to safely process it.
+The economic reward of this 106-billion-ton
+extraction does not distribute evenly; it pools at the top. By
+2026, global billionaire wealth had surged to historic highs.
+A small group of just twelve individuals now controls the
+exact same amount of wealth as the bottom half of
+humanity combined—roughly 4.1 billion people [61].
+To manage the populations entirely excluded from
+this wealth, the system relies on physical containment.
+Globally, there are over 11.7 million humans currently held
+in cages [62]. In the United States alone, roughly 1.9 million
+people are in cages. The Thirteenth Amendment of the US
+Constitution abolished slavery, but explicitly kept it "as a
+punishment for crime whereof the party shall have been
+duly convicted." Under this legal exception, people in prison
+are stripped of workplace protections and forced to labor
+under the threat of solitary confinement, producing billions
+of dollars in goods and services for pennies an hour, or
+entirely for free [63].
+For the populations outside the cages, the
+economic machine extracts their physical health and their
+time. A 2023 report by the International Labour
+Organization revealed that 2.93 million workers die every
+single year as a direct result of work-related
+111
+
+---
+
+factors—equivalent to roughly 8,000 human beings killed
+by their jobs every day [64].
+The vast majority of these deaths are not sudden
+accidents, but slow biological extraction. A 2018 United
+Nations human rights report documented the catastrophic
+toll of the system’s chemical footprint, stating bluntly: "One
+worker dies at least every 30 seconds from exposure to toxic
+industrial chemicals, pesticides, dust, radiation, and other
+hazardous substances." [65]
+The physical realities of this extraction are
+staggering. To satisfy the global demand for cheap steel, the
+massive, thirty-year-old cargo ships of the global supply
+chain are intentionally run aground on the beaches of
+Bangladesh. There, workers break the toxic ships apart by
+hand, using gas torches without meaningful protection.
+They suffocate from poisonous gas trapped in the ship
+chambers or are crushed by falling steel plates so massive
+that locals refer to the impacts as "earthquakes." [66]
+In the sewers of India, informal sanitation workers
+descend into total darkness to manually clear human waste.
+The World Health Organization estimates that one
+sanitation worker dies every five days in these sewers,
+suffocating from lethal gases because they are not provided
+with protective breathing equipment [67].
+Even the "clean" digital economy is built on a
+foundation of human extraction. The smartphones and
+electric vehicles of the modern era are powered by batteries
+that require cobalt. Roughly 75 percent of the world's
+112
+
+---
+
+cobalt is dug out of the Democratic Republic of the Congo.
+Hundreds of thousands of informal miners, including tens
+of thousands of children as young as seven, dig this metal
+out of the earth by hand, breathing toxic dust that causes
+severe lung disease and birth defects. In his investigation of
+the supply chain, researcher Siddharth Kara documented
+the physical reality of the mines, quoting a Congolese
+worker: "We work in our graves... Please tell the people in
+your country, a child in the Congo dies every day so that
+they can plug in their phones." [68]
+When the digital hardware is finally assembled, the
+extraction shifts to the psychological limits of the workers.
+In 2010, the grueling, twelve-hour shifts and
+hyper-controlled environments at the Foxconn
+manufacturing plants in China led to a wave of worker
+suicides, with over a dozen employees jumping to their
+deaths from the factory rooftops. The system’s response was
+not to change the economic demands of the assembly line.
+The company simply built large nets around the outside of
+the factory to catch the falling bodies, and temporarily
+forced workers to sign pledges promising not to kill
+themselves [69].
+This extraction translates directly into biological
+time. A child born at the top of the global economic
+pyramid can expect to live significantly longer than one born
+at the bottom. The World Health Organization documents
+a 33-year gap in life expectancy based simply on the country
+in which a human is born [70]. Even within the wealthiest
+113
+
+---
+
+nations, the divide is stark. In the United States, men in the
+top one percent of income live an average of fifteen years
+longer than men in the bottom one percent, whose life
+expectancies mirror those in poorer nations like Sudan and
+Pakistan [71].
+When archaeologists excavate the skeletal remains
+of the Roman Empire, they do not need to look at written
+records to find the inequality; they look at the bones. The
+skeletons of the laboring classes show extreme rates of linear
+enamel hypoplasia—permanent horizontal grooves carved
+into their teeth caused by severe childhood starvation and
+stress. Their spines and joints show severe bone breakdown
+from relentless heavy labor [72].
+The modern empire does the same thing.
+According to 2024 data from the World Health
+Organization, over 148 million children under the age of
+five—nearly a quarter of all children on Earth—are
+currently physically stunted by chronic malnutrition [73].
+Their skeletal and neurological growth is permanently
+arrested by an economic model that extracts agricultural
+wealth from their regions while leaving them
+undernourished.
+For those who enter the labor force, the physical
+extraction continues. Across the sugarcane fields of Central
+America, an epidemic of chronic kidney disease has killed
+tens of thousands of young agricultural workers [74].
+114
+
+---
+
+Epidemiological research confirms the primary driver is
+occupational heat stress and dehydration—kidneys
+systematically failing under the demands of heavy manual
+labor in hot environments. At the other end of the supply
+chain, in the informal e-waste yards where the hardware of
+the digital economy is dismantled by hand, workers absorb
+extreme levels of cadmium and lead. Cadmium toxicity
+specifically targets the skeletal system, leaching calcium and
+causing the workers' bones to physically demineralize [75].
+The economic machine carves its hierarchy directly
+into the bone density, stunted growth, chronic illness, and
+shortened lifespans of the global poor. The modern
+capitalist system did not emerge from a vacuum. It is a
+continuation of an ancient system of extraction.
+Thousands of years ago, the Indus Valley
+civilization built vast, organized cities across modern-day
+Pakistan and northwest India. They engineered complex
+city-wide plumbing systems, standardized their weights and
+measures for trade, and managed densely packed urban
+populations for centuries. Yet archaeologists have found no
+monuments to divine kings, no sprawling palaces, and no
+evidence of the massive wealth divides and aggressive
+military expansions that defined other empires of their time
+[76]. They proved that large, highly organized human
+societies do not inherently require a rigid, extractive
+hierarchy.
+The modern economic system did not inherit the
+ideology of the Indus Valley. It is the direct descendant of
+115
+
+---
+
+Mesopotamia, of the Egyptian pharaohs, and of the Roman
+Senate. It inherited the belief that the natural world is a
+warehouse of raw materials waiting to be turned into
+wealth, and that human beings are units of labor meant to
+fuel that conversion. The core logic has not changed in five
+thousand years. Modern capitalism remodeled ancient
+empire ideology and scaled it across the entire planet.
+In 2026, every nation on the planet set a goal for
+more consumption, more economic growth, and more
+people.
+116
+
+---
