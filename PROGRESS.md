@@ -17,12 +17,10 @@
 
 ## In Progress
 
-- [ ] Initialize git repository
-- [ ] Configure GitHub Pages deployment (GitHub Actions workflow)
+- [ ] Test locally and refine design
 
 ## Remaining
 
-- [ ] Test locally and refine design
 - [ ] Launch site
 
 ## Notes
@@ -30,5 +28,7 @@
 - baseURL: `https://dfinkton.github.io/`
 - Hugo version: v0.164.0 extended
 - Theme: custom `minimal-author`
-- No git repo initialized yet
-- No GitHub Actions workflow yet
+- GitHub repo: https://github.com/dfinkton/dfinkton.github.io
+- GitHub Pages: **LIVE** at https://dfinkton.github.io/
+- GitHub Actions workflow deployed successfully
+- Source PDFs/docx excluded from repo via .gitignore
