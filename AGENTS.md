@@ -180,12 +180,14 @@ Each book will be split into chapters using Hugo's content organization:
 - Twitter Cards
 
 ### LLM & AI Accessibility
-- `/llms.txt` - Curated index of all content with direct URLs and descriptions
+- `/llms.txt` - Clean index of all content with direct URLs (simplified approach)
 - `/llms-full.txt` - Complete site content in single markdown file (~759KB)
 - `/robots.txt` - Explicit permissions for AI crawlers (GPTBot, ClaudeBot, PerplexityBot, Google-Extended, etc.)
 - All inner pages have descriptive titles (book name + chapter/part)
 - All inner pages have description front matter for SEO/LLM retrieval
 - Full-text pages available for all 3 books
+- Homepage includes "before you skim" guidance for AI tool usage
+- Removed per-book llms files - users can paste individual chapters or use PDFs instead
 
 ### Accessibility
 - Semantic HTML5 elements
@@ -217,6 +219,11 @@ Each book will be split into chapters using Hugo's content organization:
 5. ~~Configure GitHub Pages deployment~~ (Complete)
 6. ~~Test locally and refine design~~ (Complete)
 7. ~~Launch site~~ (Complete - Live at darrylfinktonjr.com)
+8. Explore open source book publishing platforms for wider distribution and AI accessibility
+   - Consider Pressbooks, PubPub, or similar platforms
+   - Evaluate GitHub organization for book content
+   - Investigate Archive.org integration
+   - Goal: Make books more discoverable and accessible to AI tools
 
 ## Completed Work
 
@@ -272,6 +279,13 @@ Each book will be split into chapters using Hugo's content organization:
 - Added full peer-reviewed articles list to homepage
 - Added mini-documentaries list to homepage (links only)
 
+### AI Accessibility Simplification
+- Removed per-book llms files (llms-have-one-kid.txt, llms-end-poverty.txt, llms-language-of-liberation.txt, llms-essays.txt) - too large and redundant
+- Simplified llms.txt to clean index with URLs only
+- Updated homepage "before you skim" section with clearer guidance for AI tool usage
+- Updated homepage books section to match books page format with descriptions
+- Rationale: Users can paste individual chapters or use PDFs directly; large concatenated files were getting truncated
+
 ### Current Status
 - Site builds successfully with 35 pages
 - Live at https://darrylfinktonjr.com
@@ -279,6 +293,8 @@ Each book will be split into chapters using Hugo's content organization:
 - All content sections populated and formatted
 - LLM accessibility optimized (llms.txt, llms-full.txt, robots.txt)
 - Google Search Console submitted (pending verification)
+- Simplified AI accessibility approach - removed per-book llms files
+- Homepage books section matches books page format
 
 ## Maintenance
 
