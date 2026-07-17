@@ -1,5 +1,5 @@
 ---
-title: "Part IV"
+title: "End Poverty. Make Trillions. — Part IV: Questions and Answers"
 book: "End Poverty. Make Trillions."
 weight: 4
 ---

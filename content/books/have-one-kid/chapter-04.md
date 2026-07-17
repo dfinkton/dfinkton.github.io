@@ -1,5 +1,5 @@
 ---
- title: "Chapter 4: Bankruptcy is Better Than Starving"
+title: "Have One Kid — Chapter 4: Bankruptcy Is Better Than Starving"
  book: "Have One Kid"
  weight: 5
 ---

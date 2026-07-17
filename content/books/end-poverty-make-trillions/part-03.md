@@ -1,5 +1,5 @@
 ---
-title: "Part III"
+title: "End Poverty. Make Trillions. — Part III: The Seed Money Act"
 book: "End Poverty. Make Trillions."
 weight: 3
 ---

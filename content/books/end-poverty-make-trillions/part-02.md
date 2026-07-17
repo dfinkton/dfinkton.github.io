@@ -1,5 +1,5 @@
 ---
-title: "Part II"
+title: "End Poverty. Make Trillions. — Part II: Defying Gravity"
 book: "End Poverty. Make Trillions."
 weight: 2
 ---

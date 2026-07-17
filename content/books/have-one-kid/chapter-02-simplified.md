@@ -1,5 +1,5 @@
 ---
-title: "Chapter 2: Too Many People (Simplified Version)"
+title: "Have One Kid — Chapter 2: Too Many People (Simplified Version)"
 book: "Have One Kid"
 weight: 2
 description: "The easiest way to picture sustainability is to imagine a community of people living entirely off the fish in a single pond."

@@ -1,5 +1,5 @@
 ---
-title: "Part I"
+title: "End Poverty. Make Trillions. — Part I: Introduction"
 book: "End Poverty. Make Trillions."
 weight: 1
 ---
