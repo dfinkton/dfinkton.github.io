@@ -257,6 +257,44 @@ th {
     margin-bottom: 0;
 }
 
+.book-toc {
+    background-color: #f9f9f9;
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.book-toc h3 {
+    font-size: 1.1rem;
+    margin-top: 0;
+    margin-bottom: 0.75rem;
+}
+
+.book-toc ol {
+    margin-bottom: 0.75rem;
+    padding-left: 1.5rem;
+}
+
+.book-toc li {
+    margin-bottom: 0.35rem;
+    font-size: 0.95rem;
+}
+
+.book-toc li.current {
+    font-weight: 600;
+    color: var(--color-text);
+}
+
+.book-toc li.current a {
+    color: var(--color-text);
+}
+
+.book-toc p {
+    font-size: 0.9rem;
+    margin-bottom: 0;
+}
+
 .article-body {
     margin-bottom: 3rem;
 }
