@@ -12,7 +12,9 @@
         {{ .Content }}
     </div>
     
-    {{ $pages := where .Pages "Kind" "page" }}
+    {{ $regularPages := .RegularPages }}
+    {{ $sections := .Sections }}
+    {{ $pages := $regularPages | append $sections }}
     {{ if $pages }}
     <ul class="content-list">
         {{ range sort $pages "Params.weight" "asc" }}
