@@ -1,5 +1,5 @@
 ---
-title: "Endnotes"
+title: "Have One Kid — Endnotes"
 book: "Have One Kid"
 weight: 7
 ---

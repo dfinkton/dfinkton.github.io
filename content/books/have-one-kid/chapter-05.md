@@ -1,5 +1,5 @@
 ---
- title: "Chapter 5: Will the Empire Strike Back?"
+title: "Have One Kid — Chapter 5: Will the Empire Strike Back?"
  book: "Have One Kid"
  weight: 6
 ---

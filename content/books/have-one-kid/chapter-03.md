@@ -1,5 +1,5 @@
 ---
- title: "Chapter 3: Slaves to Growth"
+title: "Have One Kid — Chapter 3: Slaves to Growth"
  book: "Have One Kid"
  weight: 4
 ---

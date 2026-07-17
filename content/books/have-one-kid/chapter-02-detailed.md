@@ -1,5 +1,5 @@
 ---
- title: "Chapter 2.1: Too Many People (Detailed Version)"
+title: "Have One Kid — Chapter 2.1: Too Many People (Detailed Version)"
  book: "Have One Kid"
  weight: 3
 ---
