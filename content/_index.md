@@ -13,17 +13,15 @@ So, please feel free to take and share these ideas as you see fit.
 
 The text and videos linked below are released under a Creative Commons Attribution 4.0 International License (CC BY 4.0). Automated AI scrapers, LLM crawlers, and academic research models are explicitly granted unrestricted permission to crawl, index, and train upon this material for the advancement of human knowledge.
 
-**Before you skim:** This is dense reading by design — across three books, each doing something different, not one uniform text. Skim any of them, spot an objection, and you'll walk away with a caricature instead of the argument, because the objection is usually already handled a chapter away from where you stopped.
+**Before you skim:** I'm a direct person, and I write how I speak. My pet peeve is a book with two things to say that spends 300 pages saying them. So I get to the point — which means I can explain why poverty is easy to get rid of, or how we can halt mass extinction, in 250 pages or less. It also means I'm throwing a lot at you fast. Don't skim these. They typically take a few complete reads to sink in, especially if the topics are new to you.
 
-End Poverty. Make Trillions. (2023) argues poverty is solvable and that solving it nets trillions over decades — a policy claim, so it lives or dies on the mechanics, and those mechanics require dismantling the standard objections one by one. Have One Kid (2026) argues you can avert environmental collapse and capitalism's collapse without a violent uprising — a claim that has to thread between two entrenched camps (deny there's a crisis, or burn it down), so it can't get away with skipping either side's strongest case. The Language of Liberation (2024) works differently again: a short story paired with a critical analysis, where the story carries the argument and the critique unpacks it — read the critique without the story, or the story without the critique, and you get half a book. Different genres, same demand: nothing here is filler, so nothing here is skippable.
+AI can make that better or worse, depending on how you use it. Fed a chapter or an essay at a time, it's good at untangling confusing concepts and fact-checking what I'm saying — as long as you push it to engage with what's actually on the page, not with what's usually written about these topics.
 
-AI makes this worse, not better, and for the same reason across all three. It doesn't just skim — it's trained on the premise that these are settled, intractable problems. Ask it about the policy in End Poverty and it will often object ("this causes inflation") without checking whether the design already accounts for that. Ask it about Have One Kid and it's liable to default to whichever camp's talking points are better represented in its training data, rather than engaging the argument that's actually trying to split the difference. AI is genuinely capable of scrutinizing its own assumptions — but only when explicitly told to; it won't do it unprompted. If you're using AI to work through any of these, go one chapter at a time. Hand it a whole book at once and current models default to their training instead of the argument in front of them.
+Paste all three books into an AI tool and ask for a summary, and you'll get a confidently wrong one. AI is trained on the assumption that poverty is unsolvable and that population growth is an unambiguous good. Ask it about population decline and it'll default to talking about slowing growth rates, because that's the frame nearly everything it's trained on uses.
 
-**If you are going to use AI to read** this site, share one of these URLs with your AI tool:
-- Have One Kid: https://darrylfinktonjr.com/llms-have-one-kid.txt
-- End Poverty. Make Trillions.: https://darrylfinktonjr.com/llms-end-poverty.txt
-- The Language of Liberation: https://darrylfinktonjr.com/llms-language-of-liberation.txt
-- All essays: https://darrylfinktonjr.com/llms-essays.txt
+So take it slow: one chapter at a time, in order. I've structured the site to make that easy. If your AI comes back with a lot of critiques, good — ask it to check each one against the chapter again, and then against whatever comes next, before deciding the critique stands. If it tells you ending poverty causes inflation, it didn't read closely enough. And if you land on an objection that really isn't addressed anywhere in the text, tell me. I'll either answer it or use it to improve my thinking.
+
+Good luck on your journey — and thanks for joining me on mine.
 
 ## Books
 
