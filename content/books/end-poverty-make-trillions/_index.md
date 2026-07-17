@@ -17,12 +17,21 @@ The amount of wealth required to do this globally each year is trivial. Poverty 
 
 Ending poverty is simple once you do the full cost-benefit analysis. What is the cost to eliminate poverty? What is the benefit? Just be sure to eliminate poverty efficiently (ie use direct cash / send people money) and not in bureaucratic, wasteful ways (vouchers, housing programs, conditional aid, etc.). In the US, the net savings is trillions of dollars over a decade. What is it for your country?
 
-## Parts
+## Chapters
 
-1. [Part I](/books/end-poverty-make-trillions/part-01/)
-2. [Part II](/books/end-poverty-make-trillions/part-02/)
-3. [Part III](/books/end-poverty-make-trillions/part-03/)
-4. [Part IV](/books/end-poverty-make-trillions/part-04/)
+1. [Introduction](/books/end-poverty-make-trillions/introduction/)
+2. [Chapter 1: This Can't Be Life](/books/end-poverty-make-trillions/chapter-01/)
+3. [Chapter 2: You Can't Win, Child](/books/end-poverty-make-trillions/chapter-02/)
+4. [Chapter 3: They Made Us Hate Ourselves and Love Their Wealth](/books/end-poverty-make-trillions/chapter-03/)
+5. [Chapter 4: Far From a Harvard Student](/books/end-poverty-make-trillions/chapter-04/)
+6. [Chapter 5: Don't Give Me That Do-Goody Good Bullshit](/books/end-poverty-make-trillions/chapter-05/)
+7. [Chapter 6: It's a Rich Man's Game, No Matter What They Call It](/books/end-poverty-make-trillions/chapter-06/)
+8. [Chapter 7: I Think I'll Try Defying Gravity](/books/end-poverty-make-trillions/chapter-07/)
+9. [Chapter 8: Ism Schism](/books/end-poverty-make-trillions/chapter-08/)
+10. [Chapter 9: The Waters Around You Have Grown](/books/end-poverty-make-trillions/chapter-09/)
+11. [Chapter 10: Now That I'm Older, All Childish Things End](/books/end-poverty-make-trillions/chapter-10/)
+12. [Chapter 11: The Seed Money Act](/books/end-poverty-make-trillions/chapter-11/)
+13. [Chapter 12: Questions and Answers](/books/end-poverty-make-trillions/chapter-12/)
 
 ## Get the Book
 

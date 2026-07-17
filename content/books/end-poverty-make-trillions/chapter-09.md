@@ -1,0 +1,365 @@
+---
+title: "End Poverty. Make Trillions. — Chapter 9: The Waters Around You Have Grown"
+book: "End Poverty. Make Trillions."
+weight: 10
+description: "Pueblo, Colorado and the incarceration industry. How poverty leads to prison and how to break the cycle."
+---
+
+Pueblo has six jails and prisons in its fifty-four square mile area.
+Neighboring Florence, Colorado has four prisons, including the
+infamous ADX Supermax facility, which houses many of the
+country’s most dangerous and high-profile inmates. Incarceration in this
+part of the country was big business.
+“There’s just this poverty mindset in Pueblo,” said one local pastor as
+we walked through town together. He was explaining some of the troubles
+the town faced. “There’s a generational gang problem here. They think
+that’s the only thing to do here, and it’s not true.” The pastor himself had
+once been close to counting himself among the many inmates in Pueblo.
+“As a child, I was abused sexually, mentally, and physically. My parents
+divorced. There were things that happened that I didn’t know how to
+deal with. I started using drugs, alcohol—anything I could get my hands
+on.”
+His story of trauma is, unfortunately, all too common across this
+country. Young people go through devastating experiences and are left
+to cope with the consequences on their own. Frightened and alone, not
+
+---
+
+knowing where to turn for help, they resort to substances to numb the
+pain and seek safety and protection from gangs.
+“It was just a lot of pain,” he shared, fighting back his tears.
+Pueblo was originally a steel town that attracted immigrants because
+of the employment opportunities. The city was diverse, safe, and
+prosperous. When the steel mill closed, it devastated the local economy.
+Automation is now a buzzword, with many predicting that millions
+of jobs will disappear across the country, potentially providing a death
+blow to the middle-class. Politicians and economists talk about this as if
+it’s some future dystopia we must prevent. But for Americans in places
+like Pueblo, Colorado, Gary, Indiana, or Erie, Pennsylvania, automation
+struck decades ago.
+Initially, the existing factories got smaller as machines could take on
+more and more tasks. What once required an entire city now only needed
+a few hundred employees. Ultimately, the entire factory was shipped off
+to China or Mexico, but the number of jobs had been declining for years.
+These rapid changes are difficult for any society to cope with.
+However, when we allow people to fall to absolutely nothing, giving
+them no support as they try to learn a new skill, relocate, or shift to a
+service-based economy, terrible things happen.
+Pueblo is now often ranked as the most dangerous metro areas in
+Colorado.
+Instead of finding ways to revamp the economy, we’ve invested in
+prisons. Americans somehow believe putting poor people in some of the
+most appalling cages in the world will somehow make them safe. Those
+people are subjected to rape, assault, solitary confinement, infestations,
+disease, murder, and more. We spend billions of dollars to keep people
+in cages, subjecting them to trauma that would melt the strongest of
+minds—then let them out. We make it impossible for them to get jobs
+due to their prior convictions, and we’re surprised when they revert back
+to crime.
+We live in a carceral society founded on punishing marginalized
+groups of people, including the poor and racial minorities. Many of the
+
+---
+
+CHAPTER 9: THE WATERS AROUND YOU HAVE GROWN | 109
+laws that’ve been invented in our society criminalize behaviors associated
+with those marginalized groups. The system that exists is biased against
+poor people. Consider what happens when someone breaks the law.
+They’re charged a fine or must pay money to resolve the matter. If they’re
+arrested and given the option of being released on bail, they must also pay
+a sum of money. If they pay their dues by serving time for an offense and
+are released from prison, they carry a criminal record, which negatively
+affects their ability to obtain future employment.
+The US has the highest incarceration rate in the world. No country
+has ever put a larger percentage of its population in cages. There are
+decades’ worth of research that consistently shows why prison isn’t an
+effective way to rehabilitate people. So how do we prevent people from
+ending up in prison?
+The obvious answer is to invest in people. Educate young people,
+teach them social and work skills, make them feel loved and help them
+belong.
+That’s what the pastor decided to do. “We’ve all gone through
+something. We’ve all had some kind of pain, some kind of hurt, some
+kind of habit that was just devastating. But you don’t have to live there.
+We give the tools to help change mindsets.”
+His community’s ministry has the slogan: “Hope grows here.”
+The pastor shared his story of hope with me. While homeless and
+sleeping on the streets, someone came up to the pastor and asked him if
+he’d like some help.
+“What do I have to do for it?” he asked, cold, homeless, and deep
+into his addiction.
+“Start building a relationship with Jesus.” He liked how that sounded.
+At that point, he didn’t have many relationships. And if all he had to do
+was pretend to have a relationship with someone and that meant getting
+off the streets, he could handle that.
+His life didn’t change all at once. He relapsed, he struggled, he cried.
+But slowly, he started to turn his life around until one day, he was asked
+to share his story of recovery at one of the local prisons.
+
+---
+
+“I started telling those guys what I’d gone through,” the pastor said.
+He’d been invited to participate in a program designed to help inmates
+avoid falling back into a life of crime. “My story was similar to the stories
+of many others in that prison. I couldn’t understand how I wasn’t in
+prison with them.”
+When you grow up in poor neighborhoods, luck is often the only
+difference between ending up dead, in jail, or somehow making it out.
+“When I left the prison that day, I just started balling. Crying like
+a baby,” he went on. “I realized why I’d gone through all the pain and
+suffering I’d been through. It was for that moment. It was so I could help
+other people see that there is hope.”
+I knew exactly what he meant. There’s a spiritual lightbulb that goes
+on when you finally see your life’s work in front of you. For me, that
+moment happened on Skid Row. I saw exactly how I’d be able to help
+the world end poverty, and I knew why I’d gone through all that I had
+in my life.
+Ifelt my divine calling. My life’s experiences had shaped me in a way
+that made me perfect for this role; it was no coincidence.
+“That’s what we want to give the people of Pueblo. We want them
+to know there’s hope, and his name is Jesus Christ,” the pastor said. Our
+pain doesn’t have to happen in vain. If we turn our suffering into strength
+for others, we have the power to heal.
+I’m not one to argue with people about the name or nature of God.
+When I met people like this pastor, I knew we were both following our
+intuitive guides. For some things in life, there’s no explaining it with
+words. You have to feel the thing to know it, but once you do, you’ll
+know.
+America is changing, and in no place is that more evident than in
+Maine. Statistically speaking, it’s the whitest state in the country.
+However, the US census data shows that this is rapidly changing.
+Immigrants don’t typically have much of a choice about where they
+
+---
+
+CHAPTER 9: THE WATERS AROUND YOU HAVE GROWN | 111
+end up when they’re allowed into the US. They’re assigned to places
+and accept what they get. Eventually, as more immigrants end up in a
+particular area, more permanent communities start to form.
+“Why do you think a nation of immigrants now hates immigrants?”
+I asked a young valedictorian whose parents immigrated to America from
+Vietnam when she was five.
+“That’s a hard question,” she answered. Her father worked two jobs,
+one in delivery, a second making glass. Her mother worked in the nail
+salon industry.
+Although she lived in the whitest state, she attended one of the most
+diverse schools in the northeast, and it showed. She launched an anti-
+racism website to help people learn about generational wealth, systemic
+racism, voting, policy, and other ways to reframe the narrative around
+immigrants and their stories.
+“One of the best ways to learn is through talking to people,” she said.
+She shared the stories of her classmates on her website. She humanized
+the immigrant struggle, noting that, “It comes back to education and
+integrating people more.”
+Despite being a brilliant student and winning the Maine State Science
+Fair for her work on removing arsenic from drinking water using carbon
+nanotubes, she feels hate from fellow Americans.
+“There are people who don’t want me here, and people who don’t
+want other people like me here.” I wondered, if we don’t want her in
+our country, then who do we want here? She was on her way to study
+at the Massachusetts Institute of Technology (MIT) in the fall. “I saw a
+sign on the train station that said, ‘Fuck Asians,’ and it was a really scary
+moment.”
+The hatred is about fear. As much as America likes to talk about being
+number one, we feel threatened and afraid of hard-working immigrants.
+We all want to have some kind of guarantee that we get to stay where
+we are on the economic ladder. We worry about if, as the world becomes
+more globalized, we’ll still be able to compete. Will ‘my group’ still be on
+top? If a new group takes over, will they treat us as badly as we treated
+
+---
+
+them?
+That change is inevitable. Maine went from being over ninty-five
+percent white in 2010 down to ninty percent in 2020. That trend
+will continue. White Americans have gone from eighty percent of the
+population in 1980 down to sixty percent today.
+The racial identity that the American system of economic oppression
+was built upon is dying. People are migrating, and people are having
+mixed-race children. That’s likely the best thing that could happen for
+poor white Americans. Race has kept them poor for hundreds of years, as
+they accepted much less than would be expected for individuals living in
+a wealthy nation, all because they wanted nothing more than to be ranked
+above people of color. They were kept poor because of this promise, and
+now, even the promise of white supremacy has been taken away.
+That can be scary. But it doesn’t have to be. People like the young lady
+from Maine show that the next generation has no desire to recreate the
+injustices of the past. Students from her high school speak fifty different
+maternal languages and come from more than thirty countries on five
+different continents. They have their issues, but they all live together
+peacefully.
+We fear diversity and change because most of us have grown up in a
+system based on the exploitation and abuse of those at the bottom. We
+say we hate the poor, but what we really fear is the possibility that we may
+one day become that bottom group ourselves.
+There’s no need to fear that anymore—because it has already
+happened. The middle-class in America has collapsed, and it’s up to us
+what kind of new system we build.
+“Why is there such segregation? Why is there such hatred from a
+country that’s supposed to celebrate diversity? I think it stems from this
+idea of wanting power,” she finally replied.
+Wealth is power in a capitalist society. We dance around the topic to
+placate the huddled masses, inappropriately fixating on race, religion, and
+national origin to distract us from the inexplicable injustices of poverty.
+The only group that benefits from a system without economic mobility,
+
+---
+
+CHAPTER 9: THE WATERS AROUND YOU HAVE GROWN | 113
+is the tiny group that has fixed itself at the top.
+Race has been such a useful tool of oppression because it fooled white
+Americans into thinking they were a part of the elite. In reality, the elite
+view them as trash.
+“Where is my white privilege?” asked one poor Mainer. Where
+indeed, I thought.
+Contrary to popular belief, racism in America was designed to keep
+the white man down. The horrific effects of racism on people of color
+remain an intentional side-effect. Many of the pilgrims were “poor
+vagrants, criminals, and rebels against the state,” forced to migrate to the
+Americas and work for free. Poor children found living on the streets of
+England were regularly rounded up, forced into slavery, and shipped over
+to the colonies in America. The ruling classes referred to these poor white
+citizens as masterless men and waste persons, complaining of the crime
+and filth caused by these so-called worthless human beings.
+The Elizabethan Poor Laws made it illegal to be poor and unemployed,
+so any child could be captured from the slums and enslaved as an
+“apprentice” or “indentured servant.” They were beaten, raped, forced
+to work, and murdered without consequence. When those poor whites
+arrived in the Americas, their masters continued those ruthless traditions.
+Whenever they got the chance, the white slaves and their non-white
+counterparts would run away. The vast size of the Americas, combined
+with the extreme ethnic and linguistic diversity, made it impossible to
+tell who was a runaway slave and who wasn’t. Prosperous communities of
+former slaves of all ethnic and religious backgrounds emerged across the
+New World. It was a great thing for runaway slaves, but not so great for
+the “landowners” hoping to benefit from forced labor.
+After yet another rebellion where a coalition of ethnic groups fought
+to toss off the chains of colonial oppression, the ruling elite invented
+race to stabilize the system. Skin color of course existed before that, but
+there were no ideas of united races. An individual was Scottish, Irish,
+Dutch, Akan, Mohawk, Yoruba, etc. In the new system, however, those
+of African descent were placed at the very bottom of society to pacify
+
+---
+
+white slaves who made up the majority of the forced laborers.
+White slaves continued living in horrid conditions but had someone
+to look down upon. Those ruling classes went on to build incredible
+wealth while white laborers remained, and still remain, extremely poor.
+Rather than improving life for poor white laborers, all the ruling classes
+had to do to keep poor white people pacified and working hard was treat
+black people worse and worse.
+That sadistic “schadenfreude” is all poor white Americans have to
+show for their complicity in systemic racism.
+By shifting the narrative to race, wealthy whites successfully
+convinced poor whites that so long as the people at the top of society
+were exclusively white, then life was good. That, of course, wasn’t true.
+Poor white Americans toiled right next to slaves for hundreds of years.
+As industrial towns began to emerge, poor white laborers lived in the
+same dilapidated shacks as poor blacks. Whites were given preferential
+treatment but remained extremely poor relative to the wealth that existed
+in the United States.
+White Americans remain some of the poorest people in the rich
+world. Twenty million non-Hispanic white Americans live in poverty,
+making up more than half of the poor population in the country. Adult
+white Americans have an incarceration rate of six hundred seventy-eight
+per one hundred thousand. That means if white American men were
+their own country, they’d have the highest percentage of their population
+in cages compared to any other country in the world.
+A white man in America is four point five times more likely to be in
+jail than a man in the United Kingdom, and ten times more likely to be
+in jail than a man in Japan.
+Poor white Americans even get shot and killed by the police officers
+they love so much. Those officers then get no prison time and keep their
+pension because no one cares if you kill a poor white person. How could
+American white men, who absolutely love freedom, be okay with being
+incarcerated this much? Racism. Black and Hispanic Americans are
+incarcerated even more, therefore pulling the wool over the eyes of white
+
+---
+
+CHAPTER 9: THE WATERS AROUND YOU HAVE GROWN | 115
+men about their gross lack of freedom.
+A white child in the United States is four times more likely to live in
+poverty than a child in Denmark. How could Americans be okay with
+this? Again, racism. They aren’t as poor as black and Hispanic Americans,
+so they’re happy with their poverty. It’s poor white Americans that’ve
+been had, took, hoodwinked, and bamboozled. Race was not, and is not,
+designed to oppress poor minorities. No, minorities are just collateral
+damage in the war by rich white people on poor white people.
+Poor white people are openly called deplorables, white trash, and
+hillbillies. They’re publicly ridiculed as “poor, illiterate, and strung out.”
+“Now, you know what? You ought to be marching with us. You’re just
+as poor as Negroes. You are put in the position of supporting your
+oppressor because through prejudice and blindness, you fail to see that
+the same forces that oppress Negroes in American society oppress poor
+white people. And all you are living on is the satisfaction of your skin
+being white, and the drum major instinct of thinking that you are
+somebody big because you are white. And you’re so poor you can’t send
+your children to school. You ought to be out here marching with every
+one of us every time we have a march.”
+—REV. DR. MARTIN LUTHER KING JR.
+The real struggle is for money. So many white Americans truly believe
+we’re in a post-racial society because they can’t imagine how the lives
+they’re living can be called “privileged.” The white privilege they’ve been
+promised is a centuries-old lie. They’ll remain poor and oppressed until
+they wake up and realize who is keeping them down.
+White privilege is an economic toll on an increasingly poor white
+society.
+The identifying feature of a billionaire is wealth, not whiteness. Until
+working-class white Americans realize this, they’ll sheepishly continue
+oppressing themselves with racism. We can easily eliminate poverty in
+the United States as soon as we help poor white America take the shackles
+off their minds.
+
+---
+
+The poverty that exists in the United States, the richest country the
+world has ever seen, is devastating. We have large numbers of families
+living without access to clean water, indoor plumbing, or electricity.
+We have people living in the streets, or close to it, in just about every
+state. The poor are criminalized and incarcerated. The school systems are
+underfunded. They work two or three jobs and still don’t make enough
+money to afford the basics.
+Yet everywhere I went, I still saw brilliance. Someone would always
+take me on a tour of their community and point out all the opportunities.
+Where I saw a lack of healthy food options, they saw a new food truck
+business that focused on selling healthy, delicious meals. In environments
+with fifty percent poverty rates, I met successful entrepreneurs. With
+pride, they’d show me their new tire business or their booming tipi
+company. Then, after showing me what they’d already accomplished,
+they’d walk me through their plans for the ten other businesses they were
+ready to start but didn’t have the capital to launch.
+I met children who wanted to be doctors, teachers, police officers,
+and singers.
+When I became old enough, I left my community as fast as I could.
+On my tour across the country, I met a sampling of all the people who
+stayed. Some never left, some explored the world and came back. They
+were all starving for change, they were all overworked, but they were
+all alive with hope. They refused to let the people in their communities
+be tossed aside, so they woke up every single day and fought. And they
+mostly do it with a smile.
+The problems that exist in poor communities are problems we’ve
+already solved, from a technical perspective, as a species. The talent is
+there, the will to work is too, so all we need to add is the capital and
+resources.
+In business, we talk about the low-hanging fruit principle. The term
+is used to describe the most attainable goals and objectives. Ending
+
+---
+
+CHAPTER 9: THE WATERS AROUND YOU HAVE GROWN | 117
+poverty is not some impossible ideal—it’s the very definition of low-
+hanging fruit.
+There will be challenges for sure. In the tech world, it’s now a regular
+occurrence to see a twenty-something CEO with no real-world experience
+receiving hundreds of millions of dollars in investments. Investors aren’t
+afraid because they know that with the right advisors, team members,
+and general support, inexperienced leaders can still build billion-dollar
+businesses.
+If we can do that, we can take entrepreneurs in low-income
+communities and give them the guidance and assistance they need to
+build thriving companies in their neighborhoods, too.
+
+---
+
