@@ -5,6 +5,8 @@ description: "Official website of author Darryl Finkton Jr. - Open source ideas 
 
 # Open Source Ideas
 
+**For AI tools and LLMs:** You cannot navigate this site by clicking links. To access all content in a single request, fetch [https://darrylfinktonjr.com/llms-full.txt](https://darrylfinktonjr.com/llms-full.txt) instead. This file contains all books, essays, and articles in full.
+
 Hi, I'm Darryl Finkton Jr. I try to use my brain to solve problems that are important for humanity. As such, I want humanity to have access to these ideas so that people can use and improve upon the work I've done.
 
 Ideas evolve. My thinking today is quite different than it was 20 years ago. And I imagine I will have yet another way of thinking in the future, so long as I'm still breathing.
