@@ -25,39 +25,9 @@ Good luck on your journey — and thanks for joining me on mine.
 
 ## Books
 
-### Have One Kid: How We Can Overcome Environmental Collapse and Capitalism Without a Violent Uprising (July 2026)
-
-- [Book Overview](/books/have-one-kid/)
-- [Chapter 1: The One Child Revolution](/books/have-one-kid/chapter-01/)
-- [Chapter 2: Too Many People (Simplified)](/books/have-one-kid/chapter-02-simplified/)
-- [Chapter 2.1: Too Many People (Detailed)](/books/have-one-kid/chapter-02-detailed/)
-- [Chapter 3: Slaves to Growth](/books/have-one-kid/chapter-03/)
-- [Chapter 4: Bankruptcy Is Better Than Starving](/books/have-one-kid/chapter-04/)
-- [Chapter 5: Will The Empire Strike Back?](/books/have-one-kid/chapter-05/)
-- [Full Text](/books/have-one-kid/full-text/)
-
-### The Language of Liberation: A Story and a Critique (June 2024)
-
-- [Book Overview](/books/language-of-liberation/)
-- [Full Text](/books/language-of-liberation/full-text/)
-
-### End Poverty. Make Trillions. (February 2023)
-
-- [Book Overview](/books/end-poverty-make-trillions/)
-- [Introduction](/books/end-poverty-make-trillions/introduction/)
-- [Chapter 1: This Can't Be Life](/books/end-poverty-make-trillions/chapter-01/)
-- [Chapter 2: You Can't Win, Child](/books/end-poverty-make-trillions/chapter-02/)
-- [Chapter 3: They Made Us Hate Ourselves and Love Their Wealth](/books/end-poverty-make-trillions/chapter-03/)
-- [Chapter 4: Far From a Harvard Student](/books/end-poverty-make-trillions/chapter-04/)
-- [Chapter 5: Don't Give Me That Do-Goody Good Bullshit](/books/end-poverty-make-trillions/chapter-05/)
-- [Chapter 6: It's a Rich Man's Game, No Matter What They Call It](/books/end-poverty-make-trillions/chapter-06/)
-- [Chapter 7: I Think I'll Try Defying Gravity](/books/end-poverty-make-trillions/chapter-07/)
-- [Chapter 8: Ism Schism](/books/end-poverty-make-trillions/chapter-08/)
-- [Chapter 9: The Waters Around You Have Grown](/books/end-poverty-make-trillions/chapter-09/)
-- [Chapter 10: Now That I'm Older, All Childish Things End](/books/end-poverty-make-trillions/chapter-10/)
-- [Chapter 11: The Seed Money Act](/books/end-poverty-make-trillions/chapter-11/)
-- [Chapter 12: Questions and Answers](/books/end-poverty-make-trillions/chapter-12/)
-- [Full Text](/books/end-poverty-make-trillions/full-text/)
+- [Have One Kid: How We Can Overcome Environmental Collapse and Capitalism Without a Violent Uprising](/books/have-one-kid/) (July 2026)
+- [The Language of Liberation: A Story and a Critique](/books/language-of-liberation/) (June 2024)
+- [End Poverty. Make Trillions.](/books/end-poverty-make-trillions/) (February 2023)
 
 ## Children's Books
 
