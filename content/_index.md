@@ -90,6 +90,7 @@ When readers engage with complex, paradigm-shifting texts, they often unconsciou
 - [UBI and the Environmental Crisis](/essays/ubi-and-the-environmental-crisis/) (March 2024)
 - [What's the Right Amount of UBI?](/essays/right-amount-of-ubi/) (March 2024)
 - [How Do We Pay for Universal Basic Income?](/essays/how-do-we-pay-for-ubi/) (February 2024)
+- [Economic modeling of how to end poverty in the United States while saving taxpayers trillions of dollars](https://endpovertymaketrillions.medium.com/economic-modeling-of-how-to-end-poverty-in-the-united-states-while-saving-taxpayers-trillions-of-1679b751d0c0) (June 2022)
 - [Using my Jesus year to End Poverty. Make Trillions.](/essays/jesus-year/) (January 2022)
 
 ## Peer-Reviewed Articles
