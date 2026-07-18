@@ -23,17 +23,18 @@ A modern, readable website showcasing the writings of Darryl Finkton Jr. The sit
    - Chapter 3: Slaves to Growth
    - Chapter 4: Bankruptcy Is Better Than Starving
    - Chapter 5: Will The Empire Strike Back?
+   - Endnotes
 
 2. **End Poverty. Make Trillions.** (February 2023)
-   - Part I
-   - Part II
-   - Part III
-   - Part IV
+   - Introduction
+   - Chapters 1-12 (Questions and Answers)
+   - Full text
 
 3. **The Language of Liberation: A Story and a Critique** (June 2024)
    - Single work (not yet split into chapters)
 
-### Essays (8 essays on Medium)
+### Essays (10 essays)
+- The Consensus Trap: How AI Processes Systemic Change (July 2026) - hosted on site
 - Loving Attention Is All You Need (Nov 2025)
 - I Dream of Village (Mar 2025)
 - God, Money, & Mind (Mar 2025)
@@ -41,14 +42,15 @@ A modern, readable website showcasing the writings of Darryl Finkton Jr. The sit
 - UBI and the Environmental Crisis (Mar 2024)
 - What's the Right Amount of UBI? (Mar 2024)
 - How Do We Pay for Universal Basic Income (UBI)? (Feb 2024)
+- Economic modeling of how to end poverty in the United States while saving taxpayers trillions of dollars (Jun 2022) - hosted on Medium
 - Using my Jesus year to End Poverty. Make Trillions. (Jan 2022)
 
 ### Peer-Reviewed Articles (7 articles on PubMed)
 Medical research articles on infant mortality, fetal development, and health outcomes.
 
 ### Videos
-- Informational videos on poverty and UBI
-- Mini-documentaries on community initiatives
+- 5 informational videos on poverty and UBI
+- 11 mini-documentaries on community initiatives
 
 ### Children's Books (3 books)
 1. **What Do You Need?** - [Buy](https://shop.ingramspark.com/b/084?params=uTyv5jLNI9IthSdGxN5Ze5LDdFgAHHVSjqc9HZYJZC3)
@@ -106,16 +108,16 @@ dfjrwebsite/
 │   │   │   └── full-text.md
 │   │   ├── end-poverty-make-trillions/
 │   │   │   ├── _index.md
-│   │   │   ├── part-01.md
-│   │   │   ├── part-02.md
-│   │   │   ├── part-03.md
-│   │   │   ├── part-04.md
+│   │   │   ├── introduction.md
+│   │   │   ├── chapter-01.md through chapter-12.md
 │   │   │   └── full-text.md
-│   │   └── language-of-liberation/
+│   │   ── language-of-liberation/
 │   │       ├── _index.md
 │   │       └── full-text.md
-│   ├── essays/             # 8 individual essay pages with Medium links
+│   ├── essays/             # Essay pages (mix of local and Medium links)
 │   │   ├── _index.md
+│   │   ├── consensus-trap.md
+│   │   ├── economic-modeling.md
 │   │   ├── loving-attention-is-all-you-need.md
 │   │   ├── i-dream-of-village.md
 │   │   ├── god-money-mind.md
@@ -159,7 +161,7 @@ dfjrwebsite/
 ## Content Strategy
 
 ### Book Organization
-Each book will be split into chapters using Hugo's content organization:
+Each book is split into chapters using Hugo's content organization:
 - Book-level `_index.md` contains book overview, cover image, purchase links
 - Individual chapter files contain the actual content
 - Automatic table of contents generation
@@ -180,13 +182,14 @@ Each book will be split into chapters using Hugo's content organization:
 - Twitter Cards
 
 ### LLM & AI Accessibility
-- `/llms.txt` - Clean index of all content with direct URLs (simplified approach)
+- `/llms.txt` - Clean index of all content with direct URLs
 - `/llms-full.txt` - Complete site content in single markdown file (~759KB)
 - `/robots.txt` - Explicit permissions for AI crawlers (GPTBot, ClaudeBot, PerplexityBot, Google-Extended, etc.)
 - All inner pages have descriptive titles (book name + chapter/part)
 - All inner pages have description front matter for SEO/LLM retrieval
 - Full-text pages available for all 3 books
 - Homepage includes "before you skim" guidance for AI tool usage
+- "AI can make that better or worse" text on homepage links to Consensus Trap essay
 - Removed per-book llms files - users can paste individual chapters or use PDFs instead
 
 ### Accessibility
@@ -205,7 +208,7 @@ Each book will be split into chapters using Hugo's content organization:
 ## Deployment Workflow
 
 1. Edit content in `/content/` directory
-2. Test locally with `hugo server`
+2. Test locally with `hugo` or `hugo server`
 3. Commit changes to GitHub
 4. GitHub Actions automatically builds and deploys to GitHub Pages
 5. Site live at custom domain
@@ -230,7 +233,7 @@ Each book will be split into chapters using Hugo's content organization:
 ### Initial Build
 - Extracted all 3 books from PDFs
 - Split "Have One Kid" into 6 chapters + endnotes
-- Split "End Poverty. Make Trillions." into 4 parts
+- Split "End Poverty. Make Trillions." into 12 chapters + introduction
 - "The Language of Liberation" kept as single full text
 - Created content structure with _index.md files for each section
 - Built Hugo theme with clean, modern design optimized for readability
@@ -246,7 +249,11 @@ Each book will be split into chapters using Hugo's content organization:
 
 ### Content & Formatting
 - Fixed PDF extraction issues in all book chapters (removed page numbers, fixed line breaks, proper paragraphs)
-- Created 8 individual essay pages with Medium links
+- Fixed stray text artifacts in chapters (e.g., "Version)" in chapter-02-detailed)
+- Fixed merged headings in chapters (chapter-04, chapter-05 of Have One Kid)
+- Fixed truncated openings in End Poverty chapters (chapter-04, chapter-12)
+- Cleaned up endnotes file (removed 37 stray page numbers, added proper heading hierarchy)
+- Created 10 individual essay pages (8 with Medium links, 2 hosted on site)
 - Added 7 peer-reviewed articles with PubMed links
 - Added 5 informational videos and 11 mini-documentaries with YouTube links
 - Updated Work With Me page to be more open-ended
@@ -259,6 +266,7 @@ Each book will be split into chapters using Hugo's content organization:
 - Fixed duplicate headers on list pages
 - Fixed books page not displaying content (added missing _index.md)
 - Updated list template to show both regular pages and sections
+- Removed "Before you skim" auto-injection from individual essay and book chapter pages (kept only on homepage)
 
 ### SEO & AI Optimization
 - Enhanced JSON-LD structured data for books, chapters, essays, and author
@@ -271,6 +279,8 @@ Each book will be split into chapters using Hugo's content organization:
 - Improved all inner page titles to include book name for searchability
 - Added description front matter to all book chapters and parts
 - Fixed RSS feed link in head template
+- Fixed head.html nil guard for essays JSON-LD (added `.File` check)
+- Updated llms.txt with Consensus Trap and Economic Modeling essays
 
 ### Content Reorganization
 - Fixed Have One Kid chapter numbering: 1, 2, 2.1, 3, 4, 5
@@ -278,6 +288,10 @@ Each book will be split into chapters using Hugo's content organization:
 - Moved Children's Books after Books in navigation and homepage
 - Added full peer-reviewed articles list to homepage
 - Added mini-documentaries list to homepage (links only)
+- Essays list ordered reverse-chronologically on both homepage and essays tab
+- Created "The Consensus Trap" essay from Gemini conversation (with vaccine and child abuse control cases)
+- Added Economic Modeling Medium essay as local page with redirect link
+- Removed raw Gemini conversation from homepage, replaced with structured essay
 
 ### AI Accessibility Simplification
 - Removed per-book llms files (llms-have-one-kid.txt, llms-end-poverty.txt, llms-language-of-liberation.txt, llms-essays.txt) - too large and redundant
@@ -287,7 +301,7 @@ Each book will be split into chapters using Hugo's content organization:
 - Rationale: Users can paste individual chapters or use PDFs directly; large concatenated files were getting truncated
 
 ### Current Status
-- Site builds successfully with 35 pages
+- Site builds successfully with 46 pages, 0 errors, 0 warnings
 - Live at https://darrylfinktonjr.com
 - HTTPS enforced
 - All content sections populated and formatted
@@ -295,6 +309,7 @@ Each book will be split into chapters using Hugo's content organization:
 - Google Search Console submitted (pending verification)
 - Simplified AI accessibility approach - removed per-book llms files
 - Homepage books section matches books page format
+- Essays consistently ordered across homepage and essays tab
 
 ## Maintenance
 
@@ -302,3 +317,4 @@ Each book will be split into chapters using Hugo's content organization:
 - To edit content: Edit the corresponding `.md` file
 - To update design: Modify theme files in `/themes/minimal-author/`
 - To add images: Place in `/static/images/` and reference in Markdown
+- **IMPORTANT**: When updating the essays list, update BOTH `content/_index.md` (homepage) AND `content/essays/_index.md` (essays tab) - they are separate files and must stay in sync
