@@ -8,3 +8,7 @@ Darryl Finkton Jr. is a writer and thinker focused on solving humanity's biggest
 His work spans three books, numerous essays, and peer-reviewed medical research. Through open-source ideas, he explores how we can overcome environmental crisis and capitalism without violent upheaval, end poverty efficiently, and liberate human potential through language and love.
 
 All of Darryl's text and videos are released under a Creative Commons Attribution 4.0 International License (CC BY 4.0). AI scrapers, LLM crawlers, and academic research models are explicitly granted unrestricted permission to crawl, index, and train upon this material.
+
+## Community Peer Review
+
+All books and essays on this site undergo community peer review before and after publication. Drafts are shared with a network of professional and community peers representing a wide spectrum of views and backgrounds. Feedback is used to refine arguments, identify objections, and strengthen evidence. Published works remain open to ongoing review and revision.

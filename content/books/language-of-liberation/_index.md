@@ -17,6 +17,8 @@ image: "/images/book-covers/language-of-liberation.jpg"
 
 - [Full Text](/books/language-of-liberation/full-text/)
 
+*This book underwent community peer review before publication and remains open to ongoing feedback and revision.*
+
 ## Get the Book
 
 - [Free PDF](https://drive.google.com/file/d/1AkWQWXb_bVTNYTLinBRYn4suvUQkf-j1/view?usp=drive_link)
