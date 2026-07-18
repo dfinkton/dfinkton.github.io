@@ -7,17 +7,11 @@ aliases:
   - /books/end-poverty-make-trillions/part-04/
 ---
 
-there are often questions. I’ve compiled a list of the most
-frequently asked questions, as well as the responses for each
-below.
-What is the Seed Money Act?
-The Seed Money Act is a socially and fiscally responsible way to abolish
-poverty and restore balance to the federal budget. Once it becomes law,
-the Act will be an unconditional, permanent, regular grant to every
-American household, set to an amount that’s equal to the federal poverty
-guidelines.
-For example, for a single-person US household in 2020, this amount
-would be just over $1,000 per month. For our repayment scheme, we
+When you propose something as ambitious as ending poverty, there are often questions. I've compiled a list of the most frequently asked questions, as well as the responses for each below.
+
+**What is the Seed Money Act?**
+
+The Seed Money Act is a socially and fiscally responsible way to abolish poverty and restore balance to the federal budget. Once it becomes law, the Act will be an unconditional, permanent, regular grant to every American household, set to an amount that's equal to the federal poverty guidelines. For example, for a single-person US household in 2020, this amount would be just over $1,000 per month. For our repayment scheme, we
 ensure that everyone has repaid their seed money grants by the time their
 earned income reaches a set threshold through a tax deducted from their
 wages.

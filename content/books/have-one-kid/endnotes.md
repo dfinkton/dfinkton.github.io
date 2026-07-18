@@ -5,14 +5,14 @@ weight: 7
 description: "Endnotes and citations for Have One Kid: How We Can Overcome Environmental Collapse and Capitalism Without a Violent Uprising."
 ---
 
-Endnotes
-Chapter 1
+## Endnotes
+### Chapter 1
 [1] Dattani, S., Rodés-Guirao, L., & Roser, M. (2025).
 Fertility Rate. Our World in Data. [2] Roser, M., Ritchie,
 H., & Samborska, V. (2023). How Has World Population
 Growth Changed Over Time? Our World in Data, archived
 March 26, 2026.
-Chapter 2.1
+### Chapter 2.1
 [1] Durand, J. D. (1977). Historical estimates of world
 population: An evaluation. Population and Development
 Review, 3(3), 253–296. https://doi.org/10.2307/1971891
@@ -29,7 +29,6 @@ The Lifeways of Hunter-Gatherers. Cambridge University
 Press.
 [6] Ritchie, H., & Roser, M. (2019). "Land Use." Our
 World in Data.
-201
 
 ---
 
@@ -61,7 +60,6 @@ Global Change.
 [17] Erb, K. H., et al. (2018). "Unexpectedly large impact
 of forest management and grazing on global vegetation
 biomass." Nature.
-202
 
 ---
 
@@ -92,7 +90,6 @@ extinction." Science Advances.
 [27] McGuire, V. L. (2017). "Water-Level and Recoverable
 Water in Storage Changes, High Plains Aquifer." U.S.
 Geological Survey.
-203
 
 ---
 
@@ -122,7 +119,6 @@ Global proven reserves-to-production ratios.
 [38] Van den Bergh, J. C. J. M., & Rietveld, P. (2004).
 "Reconsidering the Limits to World Population:
 Meta-analysis and Meta-prediction." BioScience.
-204
 
 ---
 
@@ -152,7 +148,6 @@ Food Sovereignty." Monthly Review, 61(3), 102.
 [43] Sanders, W. T., Parsons, J. R., & Santley, R. S.
 (1979). The Basin of Mexico: Ecological Processes in the
 Evolution of a Civilization. Academic Press.
-205
 
 ---
 
@@ -184,7 +179,6 @@ Landscape of Bali Province: the Subak System as a
 Manifestation of the Tri Hita Karana Philosophy."
 [53] Vickers, A. (1989). Bali: A Paradise Created. Periplus
 Editions.
-206
 
 ---
 
@@ -214,7 +208,6 @@ A Volcanic Eruption in Indonesia and Its Aftermath."
 Indonesia, (60), 37-60.
 [62] Raffles, T. S. (1817). The History of Java (Vol. 1).
 Black, Parbury, and Allen.
-207
 
 ---
 
@@ -245,7 +238,6 @@ sediment to basin in late Quaternary time." Marine Geology,
 133(1-2), 1-19.
 [73] Butzer, K. W. (1976). Early Hydraulic Civilization in
 Egypt.
-208
 
 ---
 
@@ -276,7 +268,6 @@ sediment to basin in late Quaternary time." Marine Geology,
 133(1-2), 1-19.
 [85] Food and Agriculture Organization of the United
 Nations (FAO). (2022). Fertilizer use by crop in Egypt.
-209
 
 ---
 
@@ -308,7 +299,6 @@ Articulation with the State." Journal of Asian Studies, vol.
 25, no. 1.
 [97] Ooms, Herman. (1996). Tokugawa Village Practice:
 Class, Status, Power, Law. University of California Press.
-210
 
 ---
 
@@ -340,7 +330,6 @@ Dehesas." Agroforestry in Europe, Springer.
 [109] Malefakis, Edward E. (1970). Agrarian Reform and
 Peasant Revolution in Spain: Origins of the Civil War. Yale
 University Press.
-211
 
 ---
 
@@ -371,7 +360,6 @@ Research Press.
 A Contemporary Perspective.
 [118] Kenoyer, Jonathan Mark. (2000). "Wealth and
 Socioeconomic Hierarchies of the Indus Valley
-212
 
 ---
 
@@ -396,13 +384,12 @@ no. 4, pp. 339-342.
 Disease, and Biosocial Processes at the End of the Indus
 Civilization." PLOS ONE, vol. 8, no. 12.
 [124] Ibid.
-Chapter 3
+### Chapter 3
 [1] Walker, M., et al. (2009). "Formal definition and dating
 of the first GSSP for the base of the Holocene." Journal of
 Quaternary Science.
 [2] Pourkheirandish, M., et al. (2015). "Evolution of the
 grain dispersal system in barley." Cell, 162(3), 527-539.
-213
 
 ---
 
@@ -432,7 +419,6 @@ World Archaeology, 22(2), 119-132.
 [10] Kemp, B. J., et al. (2013). "Life, Death and Beyond in
 Akhenaten's Egypt: Excavating the South Tombs Cemetery
 at Amarna." Antiquity, 87(335), 64-78.
-214
 
 ---
 
@@ -462,7 +448,6 @@ by L.W. King.
 [20] Scott, J. C. (2017). Against the Grain.
 [21] Laurence, R. (1999). The Roads of Roman Italy:
 Mobility and Cultural Change. Routledge.
-215
 
 ---
 
@@ -494,7 +479,6 @@ Lusitania: Mining and Garum Production.
 Empire. Cambridge University Press.
 [34] McConnell, J. R., et al. (2018). "Lead pollution
 recorded in Greenland ice indicates European emissions
-216
 
 ---
 
@@ -524,7 +508,6 @@ anthropogenic changes in atmospheric CO2 over the last
 Geophysical Research, 101(D2), 4115-4128.
 [44] Worster, D. (1979). Dust Bowl: The Southern Plains in
 the 1930s. Oxford University Press.
-217
 
 ---
 
@@ -556,7 +539,6 @@ Nations (FAO). (2015). Status of the World's Soil Resources.
 [54] FAO. (2020). Global Forest Resources Assessment 2020.
 [55] Lovejoy, T. E., & Nobre, C. (2018). "Amazon
 Tipping Point." Science Advances, 4(2).
-218
 
 ---
 
@@ -586,7 +568,6 @@ A call for safer and healthier working environments.
 Report of the Special Rapporteur on the implications for
 human rights of the environmentally sound management
 and disposal of hazardous substances and wastes.
-219
 
 ---
 
@@ -617,13 +598,12 @@ driven by occupational heat stress." Revista Panamericana
 de Salud Pública.
 [75] California Department of Public Health (CDPH).
 (2010). Electronic Waste Recycling: Working Safely.
-220
 
 ---
 
 [76] Wright, R. P. (2009). The Ancient Indus: Urbanism,
 Economy, and Society. Cambridge University Press.
-Chapter 4
+### Chapter 4
 [1] European Environmental Bureau. (2019). Decoupling
 Debunked: Evidence and arguments against green growth as
 a sole strategy for sustainability.
@@ -646,7 +626,6 @@ Assembly of Pakistan. Ministry of Finance (Pakistan).
 [8] Chaves, R. (2023). National Strategy for Debt
 Restructuring and Macroeconomic Growth. Presidencia de
 la República de Costa Rica.
-221
 
 ---
 
@@ -678,7 +657,6 @@ Demographic Rearmament and State Services. Élysée Palace.
 States of Births Conference. Consiglio dei Ministri (Italy).
 [19] Putin, V. (2023). Presidential Address to the World
 Russian People's Council. Kremlin Records.
-222
 
 ---
 
@@ -709,7 +687,6 @@ Demographic and Sterilization Study Dynamics.
 Study Memorandum 200: Implications of Worldwide
 Population Growth for U.S. Security and Overseas Interests
 (The Kissinger Report).
-223
 
 ---
 
@@ -739,7 +716,6 @@ United Nations.
 [43] McNamara, R. S. (1977). Address to the
 Massachusetts Institute of Technology. World Bank Group
 Archives.
-224
 
 ---
 
@@ -770,7 +746,6 @@ BCE.
 [56] Roberts, A. (2012). America's First Great Depression:
 Economic Crisis and Political Disorder After the Panic of
 1837. Cornell University Press.
-225
 
 ---
 
@@ -801,7 +776,6 @@ Finance to the Jubilee Year. ISLET-Verlag.
 [69] Blustein, P. (2005). And the Money Kept Rolling In
 (and Out): Wall Street, the IMF, and the Bankrupting of
 Argentina. PublicAffairs.
-226
 
 ---
 
@@ -832,7 +806,6 @@ Depression and the Old Middle Class on the Northern
 Plains. University of North Carolina Press.
 [80] Wallace, H. A. (1934). New Frontiers. Reynal &
 Hitchcock, pp. 174-175.
-227
 
 ---
 
@@ -863,7 +836,6 @@ Conquest of New Spain.
 [95] King James I. (1610, March 21). Speech to Parliament.
 [96] Hoster, W. Quoted in The Rockefeller Billions (1965).
 [97] Carnegie, A. (1889). The Gospel of Wealth.
-228
 
 ---
 
@@ -895,7 +867,6 @@ billionaire Adolf Merckle commits suicide."
 Economics and Marine Architecture of Mega-Yachts.
 [111] Osnos, E. (2017, January 23). "Doomsday Prep for
 the Super-Rich." The New Yorker.
-229
 
 ---
 
@@ -924,11 +895,10 @@ Goddard Space Flight Center.
 [124] SpaceX Strategy Portfolio. (2024). Multiplanetary
 Architectural Engineering Requirements and Resource
 Allocations.
-230
 
 ---
 
-Chapter 5
+### Chapter 5
 [1] Treggiari, S. (1991). Roman Marriage: Iusti Coniuges
 from the Time of Cicero to the Time of Ulpian. Oxford
 University Press.
@@ -956,7 +926,6 @@ citing finances as the primary limitation on family size.
 [10] The Children's Agenda (2024). "Parents are cutting
 back on child care as costs stretch budgets," documenting
 working parents priced out of care.
-231
 
 ---
 
@@ -988,7 +957,6 @@ Hungary: Lessons and Imaginaries."
 [21] YuWa Population Research Institute (2024). Data
 widely cited confirming South Korea's child-rearing costs at
 7.79x GDP per capita.
-232
 
 ---
 
@@ -1019,7 +987,6 @@ Connecticut.
 [29] Society of Family Planning. (2024). #WeCount
 Report. Data showing national abortion totals increased via
 telehealth and pill distribution following the Dobbs decision.
-233
 
 ---
 
@@ -1051,7 +1018,6 @@ Birthing a Slave: Motherhood and Medicine in the
 Antebellum South. Harvard University Press.
 [37] Jefferson, T. (1792). Letter to George Washington.
 Also documented in Wiencek, H. (2012). Master of the
-234
 
 ---
 
@@ -1081,7 +1047,6 @@ Arizona State University.
 of the Communist Regime in Romania." History of
 Communism in Europe, 4, 105-128. Details the maternal
 mortality rates and the orphanage system.
-235
 
 ---
 
@@ -1111,7 +1076,6 @@ First Day on the Somme. Penguin Books.
 [52] Patch, H., & van Emden, R. (2007). The Last
 Fighting Tommy: The Life of Harry Patch, the Oldest
 Surviving Veteran of the Trenches. Bloomsbury.
-236
 
 ---
 
@@ -1142,7 +1106,6 @@ outlets such as The New York Times and Reuters, regarding
 First Person View (FPV) drone strikes on armored columns.
 [59] Ware, J. (2023). "3D-printed guns are helping
 Myanmar's rebels fight the military junta." The Telegraph.
-237
 
 ---
 
