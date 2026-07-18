@@ -4,7 +4,7 @@ book: "Have One Kid"
 weight: 3
 description: "Fully sourced and detailed version of Chapter 2. The case that there are too many people on Earth, with citations and evidence."
 ---
-Version) This is the fully sourced and detailed version of Chapter 2: Too Many People. If you have no interest in these details, please skip forward to Chapter 3: Slaves to Growth on page 84.
+This is the fully sourced and detailed version of Chapter 2: Too Many People. If you have no interest in these details, please skip forward to Chapter 3: Slaves to Growth on page 84.
 
 This book is not designed for the reader to have to read every chapter. Only engage with the chapters that answer questions that you have. If at any point while reading the below you feel like you get it, stop reading. Move on to the next chapter. Diving deep into our current planetary reality is a lot. I suggest taking breaks when the evidence becomes too painful to hold.
 

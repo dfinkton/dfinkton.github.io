@@ -5,19 +5,7 @@ weight: 5
 description: "Getting a call from Harvard's basketball coach and arriving at Harvard feeling like an outsider."
 ---
 
-to feel comfortable in my own skin. I’d somehow managed to
-become a decent basketball player on one of the top teams in
-the country. I worked several jobs to buy a car, go to prom, dress a little
-better, and eat out from time to time. I graduated with highest honors
-and accepted the offer to attend Harvard University on a full scholarship.
-I had solid footing on the ladder to success, whatever that was.
-Before starting my first semester at Harvard, I remember walking
-into Foot Locker with pride and stocking up on the oversized ‘tall t-shirts’
-everyone from my neighborhood wore back then. I bought a pair of Air
-Jordan basketball shoes—something I’d never considered splurging on
-before—and a pair of Timberland boots. I had to make sure I didn’t step
-in any of that Boston snow and ruin my new footwear.
-It was one of the most expensive shopping days of my life, but I was
+I'd somehow managed to become a decent basketball player on one of the top teams in the country. I worked several jobs to buy a car, go to prom, dress a little better, and eat out from time to time. I graduated with highest honors and accepted the offer to attend Harvard University on a full scholarship. I had solid footing on the ladder to success, whatever that was. Before starting my first semester at Harvard, I remember walking into Foot Locker with pride and stocking up on the oversized 'tall t-shirts' everyone from my neighborhood wore back then. I bought a pair of Air Jordan basketball shoes—something I'd never considered splurging on before—and a pair of Timberland boots. I had to make sure I didn't step in any of that Boston snow and ruin my new footwear. It was one of the most expensive shopping days of my life, but I was
 on my way to Harvard, and I wanted to look the part.
 I didn’t have the money to ship any of my things to Boston, so I
 stuffed everything I owned into two suitcases I’d won at a carnival. One

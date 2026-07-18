@@ -4,7 +4,11 @@ book: "Have One Kid"
 weight: 6
 description: "What happens when governments fight population decline. Russian authorities track pregnancies and strip abortion licenses to trap women."
 ---
-The Easy Way When an airline files for bankruptcy, the planes don't fall out of the sky. The pilots still show up to work. The fuel trucks still pump jet fuel. The mechanics still fix the engines.
+## Will the Empire Strike Back?
+
+### The Easy Way
+
+When an airline files for bankruptcy, the planes don't fall out of the sky. The pilots still show up to work. The fuel trucks still pump jet fuel. The mechanics still fix the engines.
 
 The physical reality of moving humans through the air continues seamlessly. The shareholders, management, and creditors reach a new agreement in a boardroom. A lot of paper wealth disappears, the debt is reset, and life goes on.
 

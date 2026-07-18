@@ -116,6 +116,7 @@
 {{ end }}
 
 {{ if eq .Section "essays" }}
+{{ if .File }}
 {{ if ne .File.BaseFileName "_index" }}
 <script type="application/ld+json">
 {
@@ -131,5 +132,6 @@
     "datePublished": "{{ .Date.Format "2006-01-02" }}"
 }
 </script>
+{{ end }}
 {{ end }}
 {{ end }}
