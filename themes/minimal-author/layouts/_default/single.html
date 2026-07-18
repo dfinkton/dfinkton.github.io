@@ -13,14 +13,6 @@
         {{ end }}
     </header>
     
-    {{ if or (eq .Section "books") (eq .Section "essays") }}
-    {{ if ne .File.BaseFileName "_index" }}
-    <div class="before-you-skim">
-        <p><strong>Before you skim:</strong> I write to get to the point, which means there's nothing here to skip. Every section carries an argument, and the answers to the obvious objections are usually built into the design rather than parked under a matching heading — so a skim looks where it expects an answer, finds none, and concludes I never considered it. Because these arguments run against consensus, anything filling the gaps fills them with the conventional version, which is the thing I'm arguing against. AI does this worse: ask a chatbot what's wrong with this and it will file me under a category and recite the stock objections to that category instead of reading me. Read in order, one text at a time. Never ask for a summary of everything at once. And if a tool tells you I ignored the obvious objection, it didn't read the text.</p>
-    </div>
-    {{ end }}
-    {{ end }}
-    
     <div class="article-body">
         {{ .Content }}
     </div>
