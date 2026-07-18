@@ -17,6 +17,8 @@ The amount of wealth required to do this globally each year is trivial. Poverty 
 
 Ending poverty is simple once you do the full cost-benefit analysis. What is the cost to eliminate poverty? What is the benefit? Just be sure to eliminate poverty efficiently (ie use direct cash / send people money) and not in bureaucratic, wasteful ways (vouchers, housing programs, conditional aid, etc.). In the US, the net savings is trillions of dollars over a decade. What is it for your country?
 
+*This book underwent community peer review before publication and remains open to ongoing feedback and revision.*
+
 ## Chapters
 
 1. [Introduction](/books/end-poverty-make-trillions/introduction/)

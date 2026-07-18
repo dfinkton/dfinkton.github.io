@@ -31,6 +31,8 @@ Choosing one child or none can force the human world into ecological sanity.
 
 This book explains how.
 
+*This book underwent community peer review before publication and remains open to ongoing feedback and revision.*
+
 ## Chapters
 
 1. [The One Child Revolution](/books/have-one-kid/chapter-01/)
