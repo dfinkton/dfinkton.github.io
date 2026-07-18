@@ -37,6 +37,7 @@ Good luck on your journey — and thanks for joining me on mine.
 
 ## Essays
 
+- [The Consensus Trap: How AI Processes Systemic Change](/essays/consensus-trap/) (July 2026)
 - [Loving Attention Is All You Need](/essays/loving-attention-is-all-you-need/) (November 2025)
 - [I Dream of Village](/essays/i-dream-of-village/) (March 2025)
 - [God, Money, & Mind](/essays/god-money-mind/) (March 2025)
@@ -46,7 +47,6 @@ Good luck on your journey — and thanks for joining me on mine.
 - [How Do We Pay for Universal Basic Income?](/essays/how-do-we-pay-for-ubi/) (February 2024)
 - [Economic modeling of how to end poverty in the United States while saving taxpayers trillions of dollars](https://endpovertymaketrillions.medium.com/economic-modeling-of-how-to-end-poverty-in-the-united-states-while-saving-taxpayers-trillions-of-1679b751d0c0) (June 2022)
 - [Using my Jesus year to End Poverty. Make Trillions.](/essays/jesus-year/) (January 2022)
-- [The Consensus Trap: How AI Processes Systemic Change](/essays/consensus-trap/) (July 2026)
 
 ## Peer-Reviewed Articles
 
