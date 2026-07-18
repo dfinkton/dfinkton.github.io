@@ -15,7 +15,7 @@ The text and videos linked below are released under a Creative Commons Attributi
 
 **Before you skim:** I'm a direct person, and I write how I speak. My pet peeve is a book with two things to say that spends 300 pages saying them. So I get to the point — which means I can explain why poverty is easy to get rid of, or how we can halt mass extinction, in 250 pages or less. It also means I'm throwing a lot at you fast. Don't skim these. They typically take a few complete reads to sink in, especially if the topics are new to you.
 
-AI can make that better or worse, depending on how you use it. Fed a chapter or an essay at a time, it's good at untangling confusing concepts and fact-checking what I'm saying — as long as you push it to engage with what's actually on the page, not with what's usually written about these topics.
+[AI can make that better or worse, depending on how you use it.](/essays/consensus-trap/) Fed a chapter or an essay at a time, it's good at untangling confusing concepts and fact-checking what I'm saying — as long as you push it to engage with what's actually on the page, not with what's usually written about these topics.
 
 Paste all three books into an AI tool and ask for a summary, and you'll get a confidently wrong one. AI is trained on the assumption that poverty is unsolvable and that population growth is an unambiguous good. Ask it about population decline and it'll default to talking about slowing growth rates, because that's the frame nearly everything it's trained on uses.
 
