@@ -27,6 +27,11 @@ disableKinds = ["taxonomy", "term"]
     url = "/childrens-books/"
     weight = 15
   [[menu.main]]
+    identifier = "embodied-emotional-intelligence"
+    name = "Embodied Emotional Intelligence"
+    url = "/embodied-emotional-intelligence/"
+    weight = 18
+  [[menu.main]]
     identifier = "essays"
     name = "Essays"
     url = "/essays/"

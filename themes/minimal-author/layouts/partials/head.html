@@ -5,6 +5,7 @@
 <meta name="author" content="{{ .Site.Params.author }}">
 
 <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+<link rel="icon" type="image/svg+xml" href="{{ "favicon.svg" | relURL }}">
 
 {{ with .OutputFormats.Get "RSS" }}
 <link rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" href="{{ .Permalink }}">

@@ -35,12 +35,16 @@ Good luck on your journey — and thanks for joining me on mine.
 - [I'm Sorry I Hurt You](/childrens-books/)
 - [Thank You for the Love Glasses](/childrens-books/)
 
+## Embodied Emotional Intelligence
+
+- [42 Prayers for Peace Love and Liberation](/embodied-emotional-intelligence/42-prayers-for-peace-love-and-liberation/) — A collection of prayers for inner peace, loving connection, and collective liberation.
+- [Loving Attention Is All You Need](/embodied-emotional-intelligence/loving-attention-is-all-you-need/) (November 2025)
+- [God, Money, & Mind](/embodied-emotional-intelligence/god-money-mind/) (March 2025)
+
 ## Essays
 
 - [The Consensus Trap: How AI Processes Systemic Change](/essays/consensus-trap/) (July 2026)
-- [Loving Attention Is All You Need](/essays/loving-attention-is-all-you-need/) (November 2025)
 - [I Dream of Village](/essays/i-dream-of-village/) (March 2025)
-- [God, Money, & Mind](/essays/god-money-mind/) (March 2025)
 - [It Pays To End Poverty](/essays/it-pays-to-end-poverty/) (April 2024)
 - [UBI and the Environmental Crisis](/essays/ubi-and-the-environmental-crisis/) (March 2024)
 - [What's the Right Amount of UBI?](/essays/right-amount-of-ubi/) (March 2024)
