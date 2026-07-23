@@ -33,11 +33,9 @@ A modern, readable website showcasing the writings of Darryl Finkton Jr. The sit
 3. **The Language of Liberation: A Story and a Critique** (June 2024)
    - Single work (not yet split into chapters)
 
-### Essays (10 essays)
+### Essays (8 essays)
 - The Consensus Trap: How AI Processes Systemic Change (July 2026) - hosted on site
-- Loving Attention Is All You Need (Nov 2025)
 - I Dream of Village (Mar 2025)
-- God, Money, & Mind (Mar 2025)
 - It Pays To End Poverty (Apr 2024)
 - UBI and the Environmental Crisis (Mar 2024)
 - What's the Right Amount of UBI? (Mar 2024)
@@ -58,7 +56,7 @@ Medical research articles on infant mortality, fetal development, and health out
 3. **Thank You for the Love Glasses** - [Buy](https://shop.ingramspark.com/b/084?params=3rR0dsiYrf8tHAW0cKMW5iAqVVRMZQT13B2NpVjRlKH)
 
 ### Embodied Emotional Intelligence
-- **42 Prayers for Peace Love and Liberation** - Prayer collection (2 PDF formats)
+- **42 Prayers for Peace Love and Liberation** - Prayer collection (full text on site + 2 PDF formats)
 - **Loving Attention Is All You Need** (Nov 2025) - Medium essay
 - **God, Money, & Mind** (Mar 2025) - Medium essay
 - *Additional pieces planned*
