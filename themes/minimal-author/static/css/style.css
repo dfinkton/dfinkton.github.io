@@ -414,6 +414,45 @@ th {
     color: var(--color-text);
 }
 
+/* Prayer styling */
+.prayers-container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.prayer {
+    margin-bottom: 3rem;
+    padding-bottom: 2.5rem;
+    border-bottom: 1px solid var(--color-border);
+}
+
+.prayer:last-child {
+    border-bottom: none;
+}
+
+.prayer-number {
+    font-size: 0.9rem;
+    color: var(--color-text-light);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 1rem;
+}
+
+.prayer-text {
+    font-family: var(--font-heading);
+    font-size: 1.25rem;
+    line-height: 1.9;
+    white-space: pre-line;
+    margin-bottom: 0.5rem;
+}
+
+.prayer-emoji {
+    font-size: 1.5rem;
+    line-height: 1;
+    display: block;
+    margin-top: 1rem;
+}
+
 @media (max-width: 768px) {
     html {
         font-size: 16px;
@@ -452,5 +491,9 @@ th {
     
     h2 {
         font-size: 1.5rem;
+    }
+    
+    .prayer-text {
+        font-size: 1.1rem;
     }
 }

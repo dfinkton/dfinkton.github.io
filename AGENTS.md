@@ -57,6 +57,12 @@ Medical research articles on infant mortality, fetal development, and health out
 2. **I'm Sorry I Hurt You** - [Buy](https://shop.ingramspark.com/b/084?params=v5XwIMrNlH4bEp9NxlN2TJ2LOKPaZpUrza4pvyBbjiZ)
 3. **Thank You for the Love Glasses** - [Buy](https://shop.ingramspark.com/b/084?params=3rR0dsiYrf8tHAW0cKMW5iAqVVRMZQT13B2NpVjRlKH)
 
+### Embodied Emotional Intelligence
+- **42 Prayers for Peace Love and Liberation** - Prayer collection (2 PDF formats)
+- **Loving Attention Is All You Need** (Nov 2025) - Medium essay
+- **God, Money, & Mind** (Mar 2025) - Medium essay
+- *Additional pieces planned*
+
 ## Tech Stack
 
 ### Static Site Generator: Hugo
@@ -130,8 +136,13 @@ dfjrwebsite/
 │   │   └── _index.md
 │   ├── videos/             # 5 informational + 11 documentary videos
 │   │   └── _index.md
-│   └── childrens-books/    # 3 children's books with IngramSpark widgets
-│       └── _index.md
+│   ├── childrens-books/    # 3 children's books with IngramSpark widgets
+│   │   └── _index.md
+│   └── embodied-emotional-intelligence/  # Prayers, meditations, emotional wellness
+│       ├── _index.md
+│       ├── 42-prayers-for-peace-love-and-liberation.md
+│       ├── loving-attention-is-all-you-need.md
+│       └── god-money-mind.md
 ├── static/                 # Static assets
 │   ├── CNAME              # Custom domain for GitHub Pages
 │   ├── robots.txt         # Crawler permissions (AI bots explicitly allowed)
@@ -301,7 +312,7 @@ Each book is split into chapters using Hugo's content organization:
 - Rationale: Users can paste individual chapters or use PDFs directly; large concatenated files were getting truncated
 
 ### Current Status
-- Site builds successfully with 46 pages, 0 errors, 0 warnings
+- Site builds successfully with 48 pages, 0 errors, 0 warnings
 - Live at https://darrylfinktonjr.com
 - HTTPS enforced
 - All content sections populated and formatted
@@ -310,6 +321,7 @@ Each book is split into chapters using Hugo's content organization:
 - Simplified AI accessibility approach - removed per-book llms files
 - Homepage books section matches books page format
 - Essays consistently ordered across homepage and essays tab
+- New Embodied Emotional Intelligence section created with 42 Prayers PDFs and moved essays
 
 ## Maintenance
 
