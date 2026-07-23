@@ -28,7 +28,7 @@ disableKinds = ["taxonomy", "term"]
     weight = 15
   [[menu.main]]
     identifier = "embodied-emotional-intelligence"
-    name = "Embodied Emotional Intelligence"
+    name = "Emotions"
     url = "/embodied-emotional-intelligence/"
     weight = 18
   [[menu.main]]
