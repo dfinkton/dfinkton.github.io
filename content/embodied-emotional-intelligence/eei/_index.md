@@ -1,6 +1,7 @@
 ---
 title: "Embodied Emotional Intelligence"
 description: "A 42-essay series on embodied emotional intelligence maturing into emotional wisdom."
+weight: 20
 ---
 
 **Intelligence** is your brain's ability to learn, reason, solve problems, and adapt to new situations. It is the capacity and machinery you actively use to figure the world out. This is different from instinct, which is a built-in, automatic reaction—like flinching when you hear a loud noise. Intelligence is an active process.

@@ -1,6 +1,7 @@
 ---
 title: "42 Prayers for Peace, Love, and Liberation"
 description: "A collection of prayers for inner peace, loving connection, and collective liberation."
+weight: 10
 ---
 
 A prayer collection available in two formats:
