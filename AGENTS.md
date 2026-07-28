@@ -319,7 +319,7 @@ Each book is split into chapters using Hugo's content organization:
 - Added 7 peer-reviewed articles with PubMed links
 - Added 5 informational videos and 11 mini-documentaries with YouTube links
 - Updated Work With Me page to be more open-ended
-- Changed contact email to dfinkton@gmail.com
+- Changed contact email to darrylfinktonjr@gmail.com
 - Added About page content
 - Added IngramSpark embed widgets for children's books
 

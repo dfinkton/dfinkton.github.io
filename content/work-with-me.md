@@ -15,4 +15,4 @@ I'm available for:
 - Coaching and mentoring
 - Creative collaborations and new projects
 
-If you have an idea or want to explore working together, reach out at [dfinkton@gmail.com](mailto:dfinkton@gmail.com) with a brief description of what you have in mind.
+If you have an idea or want to explore working together, reach out at [darrylfinktonjr@gmail.com](mailto:darrylfinktonjr@gmail.com) with a brief description of what you have in mind.
