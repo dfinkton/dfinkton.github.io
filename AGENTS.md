@@ -59,7 +59,47 @@ Medical research articles on infant mortality, fetal development, and health out
 - **42 Prayers for Peace Love and Liberation** - Prayer collection (full text on site + 2 PDF formats)
 - **Loving Attention Is All You Need** (Nov 2025) - Medium essay
 - **God, Money, & Mind** (Mar 2025) - Medium essay
-- *Additional pieces planned*
+- **Embodied Emotional Intelligence** - 42-essay series in development (see dedicated section below)
+
+## Embodied Emotional Intelligence (EEI) Project
+
+**Quick reference:** When user says "EEI", this is the project. Working folder is `Embodied Emotional Intelligence/`.
+
+### Project Overview
+A 42-essay series on embodied emotional intelligence maturing into emotional wisdom. Each essay explores a specific emotional capacity, backed by research, with practical exercises.
+
+### Architecture
+```
+Embodied Emotional Intelligence/
+├── eei-essay-guide.md              # Series overview, writing constraints, cross-references
+├── an-introduction-to-...md        # The intro essay (already written)
+├── notes/                          # One file per essay (research notes)
+│   ├── 01-focus-and-attention.md
+│   ├── 02-emotional-awareness.md
+│   ├── ...
+│   └── 42-flourishing.md
+└── essays/                         # Completed drafts (ready to publish)
+```
+
+### Workflow for Writing an Essay
+1. Load the note file: `notes/XX-essay-name.md`
+2. Read the research notes, cross-references, and honest notes
+3. Write the essay draft
+4. Save completed draft to `essays/XX-essay-name.md`
+5. When ready to publish: copy to `content/embodied-emotional-intelligence/eei/` with Hugo front matter
+
+### Essay List (42 essays in 6 parts)
+**Part One — Attention and Observation:** Focus, Emotional Awareness, Observation, Gratitude, States of Mind, Rumination, Judgment
+**Part Two — The Drives:** Fear/Anger, Anxiety, Shame, Boundaries, Sadness/Grief, Impermanence, Joy/Play, Care, Status, Sexual Attraction
+**Part Three — The Choice:** Listening, Overriding, Breath, Distress Tolerance
+**Part Four — Other People:** Touch, Co-regulation, Belonging, Talk About It, Stopping A Fight, De-escalation, Repair, Compassion, Sympathetic Joy
+**Part Five — Conditions:** Sleep, Food/Water, Money, Substances, Movement, Nature
+**Part Six — Design and Horizon:** Designing the Room, Dose/Difficulty, Turning It Up, Purpose/Storytelling, Mastery & Wisdom, Flourishing
+
+### Key Writing Constraints
+- **Self-containment:** Each essay must stand alone (2-3 sentences of re-grounding)
+- **Division of labour:** Essays 5, 6, 7, 9 all touch abstraction — keep separate
+- **Series thesis:** Sensitivity without acceptance is worse than not sensing at all
 
 ## Tech Stack
 
@@ -122,9 +162,7 @@ dfjrwebsite/
 │   │   ├── _index.md
 │   │   ├── consensus-trap.md
 │   │   ├── economic-modeling.md
-│   │   ├── loving-attention-is-all-you-need.md
 │   │   ├── i-dream-of-village.md
-│   │   ├── god-money-mind.md
 │   │   ├── it-pays-to-end-poverty.md
 │   │   ├── ubi-and-the-environmental-crisis.md
 │   │   ├── right-amount-of-ubi.md
@@ -136,11 +174,25 @@ dfjrwebsite/
 │   │   └── _index.md
 │   ├── childrens-books/    # 3 children's books with IngramSpark widgets
 │   │   └── _index.md
-│   └── embodied-emotional-intelligence/  # Prayers, meditations, emotional wellness
-│       ├── _index.md
-│       ├── 42-prayers-for-peace-love-and-liberation.md
-│       ├── loving-attention-is-all-you-need.md
-│       └── god-money-mind.md
+│   └── embodied-emotional-intelligence/  # Emotional wisdom section
+│       ├── _index.md                    # Landing page (links to 3 subsections)
+│       ├── 42-prayers/                  # Prayer collection
+│       │   ├── _index.md
+│       │   └── 42-prayers-for-peace-love-and-liberation.md
+│       ├── eei/                         # 42-essay series
+│       │   ├── _index.md               # Introduction essay
+│       │   └── (essays published here)
+│       └── essays/                      # Other emotional essays
+│           ├── _index.md
+│           ├── loving-attention-is-all-you-need.md
+│           └── god-money-mind.md
+├── Embodied Emotional Intelligence/  # EEI essay project (working docs, not published)
+│   ├── eei-essay-guide.md
+│   ├── an-introduction-to-embodied-emotional-intelligence.md
+│   ├── notes/                        # 42 individual essay note files
+│   │   ├── 01-focus-and-attention.md
+│   │   └── ... (42 total)
+│   └── essays/                       # Completed essay drafts
 ├── static/                 # Static assets
 │   ├── CNAME              # Custom domain for GitHub Pages
 │   ├── robots.txt         # Crawler permissions (AI bots explicitly allowed)
@@ -262,7 +314,8 @@ Each book is split into chapters using Hugo's content organization:
 - Fixed merged headings in chapters (chapter-04, chapter-05 of Have One Kid)
 - Fixed truncated openings in End Poverty chapters (chapter-04, chapter-12)
 - Cleaned up endnotes file (removed 37 stray page numbers, added proper heading hierarchy)
-- Created 10 individual essay pages (8 with Medium links, 2 hosted on site)
+- Created individual essay pages (mix of local and Medium links)
+- Created "Embodied Emotional Intelligence" section for prayers and emotional wellness content
 - Added 7 peer-reviewed articles with PubMed links
 - Added 5 informational videos and 11 mini-documentaries with YouTube links
 - Updated Work With Me page to be more open-ended
@@ -302,13 +355,6 @@ Each book is split into chapters using Hugo's content organization:
 - Added Economic Modeling Medium essay as local page with redirect link
 - Removed raw Gemini conversation from homepage, replaced with structured essay
 
-### AI Accessibility Simplification
-- Removed per-book llms files (llms-have-one-kid.txt, llms-end-poverty.txt, llms-language-of-liberation.txt, llms-essays.txt) - too large and redundant
-- Simplified llms.txt to clean index with URLs only
-- Updated homepage "before you skim" section with clearer guidance for AI tool usage
-- Updated homepage books section to match books page format with descriptions
-- Rationale: Users can paste individual chapters or use PDFs directly; large concatenated files were getting truncated
-
 ### Current Status
 - Site builds successfully with 48 pages, 0 errors, 0 warnings
 - Live at https://darrylfinktonjr.com
@@ -320,6 +366,11 @@ Each book is split into chapters using Hugo's content organization:
 - Homepage books section matches books page format
 - Essays consistently ordered across homepage and essays tab
 - New Embodied Emotional Intelligence section created with 42 Prayers PDFs and moved essays
+- Removed per-book llms files (llms-have-one-kid.txt, llms-end-poverty.txt, llms-language-of-liberation.txt, llms-essays.txt) - too large and redundant
+- Simplified llms.txt to clean index with URLs only
+- Updated homepage "before you skim" section with clearer guidance for AI tool usage
+- Updated homepage books section to match books page format with descriptions
+- Rationale: Users can paste individual chapters or use PDFs directly; large concatenated files were getting truncated
 
 ## Maintenance
 
