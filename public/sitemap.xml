@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://darrylfinktonjr.com/embodied-emotional-intelligence/42-prayers-for-peace-love-and-liberation/</loc>
+    <loc>https://darrylfinktonjr.com/embodied-emotional-intelligence/42-prayers/42-prayers-for-peace-love-and-liberation/</loc>
     <lastmod>2026-07-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -71,7 +71,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://darrylfinktonjr.com/embodied-emotional-intelligence/loving-attention-is-all-you-need/</loc>
+    <loc>https://darrylfinktonjr.com/embodied-emotional-intelligence/essays/loving-attention-is-all-you-need/</loc>
     <lastmod>2025-11-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -92,8 +92,13 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://darrylfinktonjr.com/embodied-emotional-intelligence/god-money-mind/</loc>
+    <loc>https://darrylfinktonjr.com/embodied-emotional-intelligence/essays/god-money-mind/</loc>
     <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://darrylfinktonjr.com/embodied-emotional-intelligence/42-prayers/</loc>
+    <lastmod>2026-07-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -129,6 +134,11 @@
   </url><url>
     <loc>https://darrylfinktonjr.com/books/have-one-kid/full-text/</loc>
     <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://darrylfinktonjr.com/embodied-emotional-intelligence/essays/</loc>
+    <lastmod>2025-11-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -192,6 +202,10 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://darrylfinktonjr.com/childrens-books/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://darrylfinktonjr.com/embodied-emotional-intelligence/eei/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
