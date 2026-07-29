@@ -2,9 +2,9 @@
 <nav class="breadcrumb" aria-label="Breadcrumb">
     <ol>
         <li><a href="{{ .Site.BaseURL }}">Home</a></li>
-        {{ if .Parent }}
-            {{ if not .Parent.IsHome }}
-                <li><a href="{{ .Parent.Permalink }}">{{ .Parent.Title }}</a></li>
+        {{ range .Ancestors.Reverse }}
+            {{ if not .IsHome }}
+                <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
             {{ end }}
         {{ end }}
     </ol>
