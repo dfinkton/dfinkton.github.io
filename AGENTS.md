@@ -244,14 +244,14 @@ Each book is split into chapters using Hugo's content organization:
 
 ### LLM & AI Accessibility
 - `/llms.txt` - Clean index of all content with direct URLs
-- `/llms-full.txt` - Complete site content in single markdown file (~759KB)
+- `/llms-full.txt` - Complete site content in a single markdown file (~700KB)
 - `/robots.txt` - Explicit permissions for AI crawlers (GPTBot, ClaudeBot, PerplexityBot, Google-Extended, etc.)
 - All inner pages have descriptive titles (book name + chapter/part)
 - All inner pages have description front matter for SEO/LLM retrieval
 - Full-text pages available for all 3 books
 - Homepage includes "before you skim" guidance for AI tool usage
 - "AI can make that better or worse" text on homepage links to Consensus Trap essay
-- Removed per-book llms files - users can paste individual chapters or use PDFs instead
+- Deliberately no per-book llms-*.txt files - users can paste individual chapters or use PDFs directly; large concatenated files were getting truncated by AI tools
 
 ### Accessibility
 - Semantic HTML5 elements
@@ -274,103 +274,12 @@ Each book is split into chapters using Hugo's content organization:
 4. GitHub Actions automatically builds and deploys to GitHub Pages
 5. Site live at custom domain
 
-## Next Steps
+The site is live at https://darrylfinktonjr.com. For a detailed history of what's been built, see `git log` — this file documents current state and how to work in the repo, not a changelog.
 
-1. ~~Extract text from PDFs and convert to Markdown chapters~~ (Complete)
-2. ~~Set up Hugo with custom theme~~ (Complete)
-3. ~~Create initial content structure~~ (Complete)
-4. ~~Add book cover images~~ (Complete)
-5. ~~Configure GitHub Pages deployment~~ (Complete)
-6. ~~Test locally and refine design~~ (Complete)
-7. ~~Launch site~~ (Complete - Live at darrylfinktonjr.com)
-8. Explore open source book publishing platforms for wider distribution and AI accessibility
-   - Consider Pressbooks, PubPub, or similar platforms
-   - Evaluate GitHub organization for book content
-   - Investigate Archive.org integration
-   - Goal: Make books more discoverable and accessible to AI tools
+## Open Ideas
 
-## Completed Work
-
-### Initial Build
-- Extracted all 3 books from PDFs
-- Split "Have One Kid" into 6 chapters + endnotes
-- Split "End Poverty. Make Trillions." into 12 chapters + introduction
-- "The Language of Liberation" kept as single full text
-- Created content structure with _index.md files for each section
-- Built Hugo theme with clean, modern design optimized for readability
-- Implemented responsive CSS with mobile-first approach
-- Added book cover images for all 3 books
-
-### Domain & Deployment
-- Connected custom domain darrylfinktonjr.com via Cloudflare
-- Updated config.toml with new baseURL
-- Created static/CNAME file for GitHub Pages
-- Created GitHub Actions workflow (.github/workflows/hugo.yml) for automated deployment
-- Configured HTTPS enforcement
-
-### Content & Formatting
-- Fixed PDF extraction issues in all book chapters (removed page numbers, fixed line breaks, proper paragraphs)
-- Fixed stray text artifacts in chapters (e.g., "Version)" in chapter-02-detailed)
-- Fixed merged headings in chapters (chapter-04, chapter-05 of Have One Kid)
-- Fixed truncated openings in End Poverty chapters (chapter-04, chapter-12)
-- Cleaned up endnotes file (removed 37 stray page numbers, added proper heading hierarchy)
-- Created individual essay pages (mix of local and Medium links)
-- Created "Embodied Emotional Intelligence" section for prayers and emotional wellness content
-- Added 7 peer-reviewed articles with PubMed links
-- Added 5 informational videos and 11 mini-documentaries with YouTube links
-- Updated Work With Me page to be more open-ended
-- Changed contact email to darrylfinktonjr@gmail.com
-- Added About page content
-- Added IngramSpark embed widgets for children's books
-
-### UX & Navigation
-- Added breadcrumb navigation for better wayfinding
-- Fixed duplicate headers on list pages
-- Fixed books page not displaying content (added missing _index.md)
-- Updated list template to show both regular pages and sections
-- Removed "Before you skim" auto-injection from individual essay and book chapter pages (kept only on homepage)
-
-### SEO & AI Optimization
-- Enhanced JSON-LD structured data for books, chapters, essays, and author
-- Added sameAs links to Medium and GitHub profiles
-- Proper Schema.org markup for Article, Book, Chapter, Person
-- Open Graph and Twitter Card meta tags
-- Created `/llms.txt` - LLM-friendly content index with all pages and descriptions
-- Created `/llms-full.txt` - Complete site content in single file (~759KB)
-- Created `/robots.txt` - Explicit AI crawler permissions (GPTBot, ClaudeBot, PerplexityBot, etc.)
-- Improved all inner page titles to include book name for searchability
-- Added description front matter to all book chapters and parts
-- Fixed RSS feed link in head template
-- Fixed head.html nil guard for essays JSON-LD (added `.File` check)
-- Updated llms.txt with Consensus Trap and Economic Modeling essays
-
-### Content Reorganization
-- Fixed Have One Kid chapter numbering: 1, 2, 2.1, 3, 4, 5
-- Standardized copyright notices to CC BY 4.0 across all books
-- Moved Children's Books after Books in navigation and homepage
-- Added full peer-reviewed articles list to homepage
-- Added mini-documentaries list to homepage (links only)
-- Essays list ordered reverse-chronologically on both homepage and essays tab
-- Created "The Consensus Trap" essay from Gemini conversation (with vaccine and child abuse control cases)
-- Added Economic Modeling Medium essay as local page with redirect link
-- Removed raw Gemini conversation from homepage, replaced with structured essay
-
-### Current Status
-- Site builds successfully with 48 pages, 0 errors, 0 warnings
-- Live at https://darrylfinktonjr.com
-- HTTPS enforced
-- All content sections populated and formatted
-- LLM accessibility optimized (llms.txt, llms-full.txt, robots.txt)
-- Google Search Console submitted (pending verification)
-- Simplified AI accessibility approach - removed per-book llms files
-- Homepage books section matches books page format
-- Essays consistently ordered across homepage and essays tab
-- New Embodied Emotional Intelligence section created with 42 Prayers PDFs and moved essays
-- Removed per-book llms files (llms-have-one-kid.txt, llms-end-poverty.txt, llms-language-of-liberation.txt, llms-essays.txt) - too large and redundant
-- Simplified llms.txt to clean index with URLs only
-- Updated homepage "before you skim" section with clearer guidance for AI tool usage
-- Updated homepage books section to match books page format with descriptions
-- Rationale: Users can paste individual chapters or use PDFs directly; large concatenated files were getting truncated
+- Explore open source book publishing platforms for wider distribution and AI accessibility (Pressbooks, PubPub, Archive.org integration, or a dedicated GitHub organization for book content). Goal: make the books more discoverable and accessible to AI tools.
+- Google Search Console was submitted for this domain but verification status hasn't been rechecked recently.
 
 ## Maintenance
 
@@ -379,3 +288,4 @@ Each book is split into chapters using Hugo's content organization:
 - To update design: Modify theme files in `/themes/minimal-author/`
 - To add images: Place in `/static/images/` and reference in Markdown
 - **IMPORTANT**: When updating the essays list, update BOTH `content/_index.md` (homepage) AND `content/essays/_index.md` (essays tab) - they are separate files and must stay in sync
+- **IMPORTANT**: `public/` is gitignored and must never be committed. The GitHub Actions workflow (`.github/workflows/hugo.yml`) rebuilds Hugo from scratch from `content/`/`static/` on every push to `main` - the local `public/` folder is throwaway build output, not the source of what deploys. If a page is moved or removed, add an `aliases:` entry in its front matter (see existing examples in `content/books/end-poverty-make-trillions/`) so the old URL redirects instead of 404ing.
