@@ -3,6 +3,7 @@ title: "The Language of Liberation: A Story and a Critique"
 date: 2024-06-01
 description: "A captivating short story and thought-provoking critical analysis exploring the connection between language, power, and the pursuit of freedom."
 image: "/images/book-covers/language-of-liberation.jpg"
+hide_list: true
 ---
 
 ![The Language of Liberation cover](/images/book-covers/language-of-liberation.jpg)

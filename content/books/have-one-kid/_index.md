@@ -3,6 +3,7 @@ title: "Have One Kid: How We Can Overcome Environmental Collapse and Capitalism 
 date: 2026-07-01
 description: "Does the Earth need more people, the same amount of people, or fewer people? This book explains how choosing one child or none can force the human world into ecological sanity."
 image: "/images/book-covers/have-one-kid.jpg"
+hide_list: true
 ---
 
 ![Have One Kid cover](/images/book-covers/have-one-kid.jpg)

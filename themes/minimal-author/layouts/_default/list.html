@@ -12,6 +12,7 @@
         {{ .Content }}
     </div>
     
+    {{ if not .Params.hide_list }}
     {{ $regularPages := .RegularPages }}
     {{ $sections := .Sections }}
     {{ $pages := $regularPages | append $sections }}
@@ -26,6 +27,7 @@
         </li>
         {{ end }}
     </ul>
+    {{ end }}
     {{ end }}
 </section>
 {{ end }}

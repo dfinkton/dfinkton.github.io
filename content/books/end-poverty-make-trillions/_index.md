@@ -3,6 +3,7 @@ title: "End Poverty. Make Trillions."
 date: 2023-02-01
 description: "Poverty is a distribution problem. The amount of wealth required to eliminate it globally is trivial. Getting rid of poverty saves society trillions of dollars."
 image: "/images/book-covers/end-poverty-make-trillions.jpg"
+hide_list: true
 ---
 
 ![End Poverty. Make Trillions. cover](/images/book-covers/end-poverty-make-trillions.jpg)
