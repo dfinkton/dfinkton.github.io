@@ -197,7 +197,6 @@ dfjrwebsite/
 │   ├── CNAME              # Custom domain for GitHub Pages
 │   ├── robots.txt         # Crawler permissions (AI bots explicitly allowed)
 │   ├── llms.txt           # LLM-friendly content index
-│   ├── llms-full.txt      # Complete site content for LLMs
 │   └── images/
 │       └── book-covers/   # Book cover images
 ├── themes/
@@ -244,8 +243,8 @@ Each book is split into chapters using Hugo's content organization:
 
 ### LLM & AI Accessibility
 - `/llms.txt` - Clean index of all content with direct URLs
-- `/llms-full.txt` - Complete site content in a single markdown file (~700KB)
 - `/robots.txt` - Explicit permissions for AI crawlers (GPTBot, ClaudeBot, PerplexityBot, Google-Extended, etc.)
+- No bulk/concatenated content files - per-book and whole-site versions were both tried and removed. They get truncated by AI tools and go stale fast since they're hand-maintained outside Hugo's build. Every book has its own `/full-text/` page instead, which stays current automatically.
 - All inner pages have descriptive titles (book name + chapter/part)
 - All inner pages have description front matter for SEO/LLM retrieval
 - Full-text pages available for all 3 books
@@ -287,5 +286,6 @@ The site is live at https://darrylfinktonjr.com. For a detailed history of what'
 - To edit content: Edit the corresponding `.md` file
 - To update design: Modify theme files in `/themes/minimal-author/`
 - To add images: Place in `/static/images/` and reference in Markdown
-- **IMPORTANT**: When updating the essays list, update BOTH `content/_index.md` (homepage) AND `content/essays/_index.md` (essays tab) - they are separate files and must stay in sync
+- **IMPORTANT**: The essays tab (`content/essays/_index.md`) has no manual list - the theme's `list.html` auto-generates it from the individual essay files, sorted by date. Only `content/_index.md` (homepage) has a hand-written essays list. When adding a new essay, give it a `date` in front matter (that's what controls its position on the essays tab) and separately add it to the homepage list yourself.
+- **IMPORTANT**: `static/llms.txt` is also hand-maintained and not auto-generated - when adding or moving a page, update it too, or it will silently drift (this already happened once with stale Embodied Emotional Intelligence links).
 - **IMPORTANT**: `public/` is gitignored and must never be committed. The GitHub Actions workflow (`.github/workflows/hugo.yml`) rebuilds Hugo from scratch from `content/`/`static/` on every push to `main` - the local `public/` folder is throwaway build output, not the source of what deploys. If a page is moved or removed, add an `aliases:` entry in its front matter (see existing examples in `content/books/end-poverty-make-trillions/`) so the old URL redirects instead of 404ing.

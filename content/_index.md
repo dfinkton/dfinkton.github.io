@@ -37,9 +37,10 @@ Good luck on your journey — and thanks for joining me on mine.
 
 ## Embodied Emotional Intelligence
 
-- [42 Prayers for Peace Love and Liberation](/embodied-emotional-intelligence/42-prayers-for-peace-love-and-liberation/) — A collection of prayers for inner peace, loving connection, and collective liberation.
-- [Loving Attention Is All You Need](/embodied-emotional-intelligence/loving-attention-is-all-you-need/) (November 2025)
-- [God, Money, & Mind](/embodied-emotional-intelligence/god-money-mind/) (March 2025)
+- [42 Prayers for Peace Love and Liberation](/embodied-emotional-intelligence/42-prayers/42-prayers-for-peace-love-and-liberation/) — A collection of prayers for inner peace, loving connection, and collective liberation.
+- [An Introduction to Embodied Emotional Intelligence and Wisdom](/embodied-emotional-intelligence/eei/) — The opening essay of a 42-part series on emotional intelligence maturing into wisdom.
+- [Loving Attention Is All You Need](/embodied-emotional-intelligence/essays/loving-attention-is-all-you-need/) (November 2025)
+- [God, Money, & Mind](/embodied-emotional-intelligence/essays/god-money-mind/) (March 2025)
 
 ## Essays
 
