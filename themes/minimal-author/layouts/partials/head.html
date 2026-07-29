@@ -136,3 +136,22 @@
 {{ end }}
 {{ end }}
 {{ end }}
+
+{{ if eq .Section "embodied-emotional-intelligence" }}
+{{ if .Content }}
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "{{ .Title }}",
+    "author": {
+        "@type": "Person",
+        "name": "{{ .Site.Params.author }}"
+    },
+    "description": "{{ .Description }}",
+    "url": "{{ .Permalink }}"{{ if not .Date.IsZero }},
+    "datePublished": "{{ .Date.Format "2006-01-02" }}"{{ end }}
+}
+</script>
+{{ end }}
+{{ end }}

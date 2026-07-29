@@ -278,7 +278,7 @@ The site is live at https://darrylfinktonjr.com. For a detailed history of what'
 ## Open Ideas
 
 - Explore open source book publishing platforms for wider distribution and AI accessibility (Pressbooks, PubPub, Archive.org integration, or a dedicated GitHub organization for book content). Goal: make the books more discoverable and accessible to AI tools.
-- Google Search Console was submitted for this domain but verification status hasn't been rechecked recently.
+- Google Search Console was submitted for this domain but verification status hasn't been rechecked recently. No verification file or meta tag currently exists anywhere in the repo, so if it was ever verified it was via a DNS TXT record (Cloudflare) rather than anything tracked here.
 
 ## Maintenance
 

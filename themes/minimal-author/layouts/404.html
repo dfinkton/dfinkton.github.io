@@ -1,0 +1,16 @@
+{{ define "main" }}
+<article class="single-content">
+    <header class="article-header">
+        <h1 class="article-title">{{ .Title }}</h1>
+    </header>
+
+    <div class="article-body">
+        <p>The page you're looking for doesn't exist, or has moved.</p>
+        <ul>
+            <li><a href="{{ "/" | relURL }}">Go to the homepage</a></li>
+            <li><a href="{{ "/books/" | relURL }}">Browse the books</a></li>
+            <li><a href="{{ "/essays/" | relURL }}">Browse the essays</a></li>
+        </ul>
+    </div>
+</article>
+{{ end }}
