@@ -1,5 +1,5 @@
 ---
-essay: 21
+lesson: 21
 title: "Distress Tolerance"
 part: "Part Three — The Choice"
 status: notes

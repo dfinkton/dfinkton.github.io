@@ -1,5 +1,5 @@
 ---
-essay: 39
+lesson: 39
 title: "Turning It Up"
 part: "Part Six — Design and Horizon"
 status: notes

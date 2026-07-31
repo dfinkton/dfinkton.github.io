@@ -1,5 +1,5 @@
 ---
-essay: 30
+lesson: 30
 title: "Sympathetic Joy"
 part: "Part Four — Other People"
 status: notes
@@ -7,7 +7,7 @@ cross_references: [4, 14, 29]
 ---
 
 ## Scope
-Attention pointed at someone else's good fortune. The inward-facing version is essay 4.
+Attention pointed at someone else's good fortune. The inward-facing version is lesson 4.
 
 ## Correction
 Earlier note said direct evidence was thin. That was wrong. There is a systematic research programme on muditā, published largely by Chinese researchers under the term **appreciative joy** — which is why searching Western affective-science vocabulary returned nothing.

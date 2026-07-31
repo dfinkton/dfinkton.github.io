@@ -1,5 +1,5 @@
 ---
-essay: 7
+lesson: 7
 title: "Judgment: Reading Intent, Reading Your Own Thoughts"
 part: "Part One — Attention and Observation"
 status: notes
@@ -7,7 +7,7 @@ cross_references: [3, 5, 6, 9, 24]
 ---
 
 ## Scope
-Owns decentering as a technique. The states it operates in belong to essay 5.
+Owns decentering as a technique. The states it operates in belong to lesson 5.
 
 ## What it's for
 Two judgments that go wrong in similar ways — *did they mean it?* and *is this thought true?*
@@ -35,7 +35,7 @@ Seeing a thought as a mental event rather than a fact. Naming the thought as a t
 - Bernstein, A., Hadash, Y., Lichtash, Y., Tanay, G., Shepherd, K., & Fresco, D. M. (2015). Decentering and related constructs. *Perspectives on Psychological Science.* — Three-process model: meta-awareness, disidentification from internal experience, reduced reactivity to thought content.
 - Zettle, Rains & Hayes (2011) — defusion mediated depression outcome in ACT but not CBT. Hoge et al. (2015) — decentering mediated MBSR outcome for GAD. Arch et al. (2012) — defusion mediated worry and quality of life in both CBT and ACT.
 
-## The insight that ties the essay together
+## The insight that ties the lesson together
 Cognitive restructuring works when you have enough distance to examine evidence. Decentering works when you are too activated for examination to get traction. Restructuring is a cold-state tool; decentering is available hot. Depressed patients show lower decentering ability than controls, and decentering can be trained through both CBT and MBCT.
 
 Note also that the three-process model is the series thesis again: meta-awareness is monitoring; disidentification and reduced reactivity are the acceptance half.

@@ -1,13 +1,17 @@
 ---
-title: "Embodied Emotional Intelligence — Essay Guide"
+title: "Embodied Emotional Intelligence — Lesson Guide"
 subtitle: "Series overview, writing constraints, and cross-references"
 date: 2026-07-25
 status: internal working document
 ---
 
-# Essay Guide
+# Lesson Guide
 
-Individual essay notes are in the `notes/` folder, one file per essay. Completed drafts go in `essays/`.
+Individual lesson notes are in the `notes/` folder, one file per lesson. Completed drafts go in `lessons/`.
+
+The structure every lesson follows — the seven sections, citation handling, and the
+publishing checklist — is in `lesson-format.md`. This file covers the series: what it's
+for, the thesis, and which lessons have to stay out of each other's way.
 
 ## What this series is for
 
@@ -19,13 +23,13 @@ Neuroscience earns its place only twice — when it gives a reader a usable imag
 
 Sensitivity without acceptance is worse than not sensing at all. The two capacities have to be trained together. Supported at three scales — beginner mechanism over weeks (Monitor and Acceptance Theory), social-emotional capacity (empathy vs. compassion training), and endpoint after decades (expert practitioner data). The decentering literature is a fourth instance of the same shape: meta-awareness, then disidentification, then reduced reactivity.
 
-## Writing constraints for every essay
+## Writing constraints for every lesson
 
 ### Self-containment
-Readers will land on a single essay from a search without having read the others. Each one must re-establish enough to stand alone — the dashboard framing, the notice-and-allow distinction where relevant — without becoming a repeat of the introduction. Aim for two or three sentences of re-grounding, then get to the material.
+Readers will land on a single lesson from a search without having read the others. Each one must re-establish enough to stand alone — the dashboard framing, the notice-and-allow distinction where relevant — without becoming a repeat of the introduction. Aim for two or three sentences of re-grounding, then get to the material.
 
 ### Division of labour
-Four essays converge on abstraction and distance from thought. Keep them separate or they will repeat each other:
+Four lessons converge on abstraction and distance from thought. Keep them separate or they will repeat each other:
 - **States of Mind (5)** owns hot versus cold, and the default mode network.
 - **Rumination (6)** owns abstract-versus-concrete self-focus, backward-facing.
 - **Judgment (7)** owns decentering as a technique — seeing a thought as an event.
@@ -33,7 +37,7 @@ Four essays converge on abstraction and distance from thought. Keep them separat
 
 Two overlap pairs to write knowing about each other: **Care (15)** is the drive, **Compassion (29)** is the trained capacity. **Gratitude (4)** points attention at your own life, **Sympathetic Joy (30)** at someone else's.
 
-## Essay list
+## Lesson list
 
 | # | Title | Part |
 |---|-------|------|
@@ -82,11 +86,11 @@ Two overlap pairs to write knowing about each other: **Care (15)** is the drive,
 
 ## Open research
 
-**Two essays where the gap is my searching, not the field:** Boundaries (11) — assertiveness-training literature untouched. Sexual Attraction (17) — responsive versus spontaneous desire, Basson's model, untouched.
+**Two lessons where the gap is my searching, not the field:** Boundaries (11) — assertiveness-training literature untouched. Sexual Attraction (17) — responsive versus spontaneous desire, Basson's model, untouched.
 
-**Essays where the evidence is genuinely thin, and the essay should say so:** Sadness and Grief (12), De-escalation (26), Turning It Up (37).
+**Lessons where the evidence is genuinely thin, and the lesson should say so:** Sadness and Grief (12), De-escalation (26), Turning It Up (37).
 
-**A search-failure pattern to guard against.** Impermanence (13) and Sympathetic Joy (29) were both logged here as thin. Both were wrong. The literatures exist under other names — *nonattachment* and *equanimity* for the first, *appreciative joy* for the second, the latter published mostly by Chinese researchers. Searching in the vocabulary of Western clinical and affective science returned absence. **Before recording any construct as unstudied, search its name in the tradition it comes from, and in the journals and languages that tradition publishes in.** Listening (18) is a framing rather than a findings essay.
+**A search-failure pattern to guard against.** Impermanence (13) and Sympathetic Joy (29) were both logged here as thin. Both were wrong. The literatures exist under other names — *nonattachment* and *equanimity* for the first, *appreciative joy* for the second, the latter published mostly by Chinese researchers. Searching in the vocabulary of Western clinical and affective science returned absence. **Before recording any construct as unstudied, search its name in the tradition it comes from, and in the journals and languages that tradition publishes in.** Listening (18) is a framing rather than a findings lesson.
 
 ## Verification list
 

@@ -1,5 +1,5 @@
 ---
-essay: 2
+lesson: 2
 title: "Emotional Awareness"
 part: "Part One — Attention and Observation"
 status: notes

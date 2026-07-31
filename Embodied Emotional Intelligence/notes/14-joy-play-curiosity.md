@@ -1,5 +1,5 @@
 ---
-essay: 14
+lesson: 14
 title: "Joy, Play, and Curiosity"
 part: "Part Two — The Drives"
 status: notes

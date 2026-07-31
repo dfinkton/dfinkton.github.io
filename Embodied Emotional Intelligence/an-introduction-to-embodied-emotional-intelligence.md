@@ -71,7 +71,7 @@ Your raised voice arrives in someone else's body as threat, and their fear syste
 Conditions
 None of this works equally well at all times. Reasoning that is fully available when you are calm is often unavailable when you are not—every adult knows this from the inside, having worked out exactly what they should have said about twenty minutes after the conversation ended.
 
-Certain conditions also weaken the whole system, and most people carry several at once. Sleep loss is the best documented. Alcohol, hunger, long-running stress, and money pressure all measurably reduce the capacity this work runs on. Each gets its own essay, because each matters more than it looks.
+Certain conditions also weaken the whole system, and most people carry several at once. Sleep loss is the best documented. Alcohol, hunger, long-running stress, and money pressure all measurably reduce the capacity this work runs on. Each gets its own lesson, because each matters more than it looks.
 
 If you have tried to be steadier and failed, this is usually the explanation. Not that you lack the ability—that you were attempting a genuinely difficult skill in conditions that weaken it.
 
@@ -113,12 +113,12 @@ They did not substitute for each other.
 
 So embodied emotional intelligence is not a single meter that goes up. It is a set of separate capacities, and you will almost certainly have some and not others. Someone can be excellent at catching their own anger before it lands and hopeless at recognizing when a friend has gone quiet for a reason. Someone else can read a room instantly and have no idea what their own chest is doing.
 
-That is why what follows is a set of essays rather than a single method. You will need different ones than I did.
+That is why what follows is a curriculum of separate lessons rather than a single method. You will need different ones than I did.
 
 What's Ahead: A Curriculum in Spirals
 Embodied emotional intelligence is not a straight line. You cannot pause your life, your marriage, or your job to spend three months mastering your attention before you are allowed to deal with your anger. Human beings learn in spirals. We learn a basic tool, test it against the friction of real life, and then return to it later at a deeper level.
 
-That is how the essays ahead are organized. We will begin with the raw machinery, move outward into the friction inside you and the friction between you and other people, and finally arrive at wisdom.
+That is how the lessons ahead are organized. We will begin with the raw machinery, move outward into the friction inside you and the friction between you and other people, and finally arrive at wisdom.
 
 Spiral One: The Baseline (The Immediate Reality)
 This is the smallest set of tools that will actually work. Before attempting to untangle the history of your relationships, you must first be able to turn the dashboard on, recognize the signals, and make sure your body is in good enough shape for the machinery to run.

@@ -1,5 +1,5 @@
 ---
-essay: 36
+lesson: 36
 title: "Nature"
 part: "Part Five — Conditions"
 status: notes
@@ -10,7 +10,7 @@ cross_references: [4, 6]
 The most reliably restorative condition available, and the one with the clearest dose.
 
 ## The finding that connects it to the rest of the series
-Bratman, G. N., Hamilton, J. P., Hahn, K. S., Daily, G. C., & Gross, J. J. (2015). Nature experience reduces rumination and subgenual prefrontal cortex activation. *PNAS, 112*(28), 8567–8572. A 90-minute walk in a natural setting **reduced rumination** and the neural activity associated with it, compared with an equivalent urban walk. Rumination is essay 6; this is one of the few interventions shown to move it directly.
+Bratman, G. N., Hamilton, J. P., Hahn, K. S., Daily, G. C., & Gross, J. J. (2015). Nature experience reduces rumination and subgenual prefrontal cortex activation. *PNAS, 112*(28), 8567–8572. A 90-minute walk in a natural setting **reduced rumination** and the neural activity associated with it, compared with an equivalent urban walk. Rumination is lesson 6; this is one of the few interventions shown to move it directly.
 
 ## Dose, which is unusually well specified for this field
 - White, M. P., et al. (2019). Spending at least 120 minutes a week in nature is associated with good health and wellbeing. *Scientific Reports, 9*, 7730.
@@ -26,14 +26,14 @@ Bratman, G. N., Hamilton, J. P., Hahn, K. S., Daily, G. C., & Gross, J. J. (2015
 - Kavanaugh, J., et al. (2022). Randomised controlled trial of a shinrin-yoku intervention on healthcare professional burnout. *IJERPH, 19*(21), 14505.
 - Morita et al. (2007) and Xiang et al. (2012): **participants reporting the highest stress showed the greatest reduction** — the same concentration-in-those-who-need-it pattern that runs through this series.
 
-## Exposure versus connectedness — the distinction that makes the essay
+## Exposure versus connectedness — the distinction that makes the lesson
 These are separable, and connectedness may be the operative variable.
 - Nisbet, E. K., Zelenski, J. M., & Murphy, S. A. (2009). Nature Relatedness Scale.
 - Pritchard et al. (2020), meta-analysis: connectedness to nature is associated with increased eudaimonic and, less strongly, hedonic wellbeing.
 - **Bakir-Demir, T., Berument, S. K., & Akkaya, S. (2021). Nature connectedness boosts the bright side of emotion regulation, which in turn reduces stress. *Journal of Environmental Psychology, 76*, 101642.** Nature connectedness → emotion regulation → reduced stress. Directly on this series' subject.
 - Martin et al.: time and visits in nature may function partly as proxies for connectedness.
 
-This is the same shape as essay 4's finding about gratitude: **a bolt-on dose behaves differently from an embedded orientation.**
+This is the same shape as lesson 4's finding about gratitude: **a bolt-on dose behaves differently from an embedded orientation.**
 
 ## Theory
 Attention Restoration Theory (Kaplan & Kaplan, 1989) — directed attention fatigues and natural settings restore it. Stress Reduction Theory (Ulrich et al., 1991).

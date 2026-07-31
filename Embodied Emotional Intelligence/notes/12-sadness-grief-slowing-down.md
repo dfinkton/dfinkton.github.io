@@ -1,5 +1,5 @@
 ---
-essay: 12
+lesson: 12
 title: "Sadness, Grief, and Slowing Down"
 part: "Part Two — The Drives"
 status: notes

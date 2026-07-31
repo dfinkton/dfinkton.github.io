@@ -1,12 +1,12 @@
 ---
-essay: 28
+lesson: 28
 title: "Repair"
 part: "Part Four — Other People"
 status: notes
 cross_references: [10, 26, 27]
 ---
 
-## The finding that organizes the essay
+## The finding that organizes the lesson
 In Tronick's work on caregiver-infant interaction, **roughly 70% of ordinary interactions involve mismatch.** Normal, healthy connection is mostly misattunement punctuated by repair — not sustained attunement. The skill is not avoiding rupture. It is the cycle.
 
 Gianino and Tronick found that successful repair gives the infant a sense of efficacy at having changed the interaction, and is how self-regulatory capacity develops. When repair fails — as in the still-face episode, where the caregiver goes unresponsive — the infant shifts to self-regulation and coping: gaze aversion, self-soothing, hand-to-mouth. Tronick reframes trauma accordingly, as **the accumulation of repeated misattunements** and the meanings made of them, rather than as single events.
@@ -19,4 +19,4 @@ Gianino and Tronick found that successful repair gives the infant a sense of eff
 - **Verify the 70% mismatch figure against a primary Tronick source before publishing** — I have it from a secondary summary attributing it to his micro-analytic work.
 
 ## Handling note
-Gottman's marriage-prediction accuracy claims have been methodologically criticised. Build on Tronick and on the repair-attempt coding work in essay 26 rather than on the popular marriage material.
+Gottman's marriage-prediction accuracy claims have been methodologically criticised. Build on Tronick and on the repair-attempt coding work in lesson 26 rather than on the popular marriage material.

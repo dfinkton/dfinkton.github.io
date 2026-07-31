@@ -1,5 +1,5 @@
 ---
-essay: 23
+lesson: 23
 title: "Co-regulation"
 part: "Part Four — Other People"
 status: notes

@@ -1,5 +1,5 @@
 ---
-essay: 32
+lesson: 32
 title: "Food and Water"
 part: "Part Five — Conditions"
 status: notes

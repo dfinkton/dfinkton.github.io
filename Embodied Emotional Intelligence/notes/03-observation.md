@@ -1,5 +1,5 @@
 ---
-essay: 3
+lesson: 3
 title: "Observation: Monitoring and Acceptance"
 part: "Part One — Attention and Observation"
 status: notes

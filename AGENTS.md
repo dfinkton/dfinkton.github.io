@@ -56,39 +56,61 @@ Medical research articles on infant mortality, fetal development, and health out
 3. **Thank You for the Love Glasses** - [Buy](https://shop.ingramspark.com/b/084?params=3rR0dsiYrf8tHAW0cKMW5iAqVVRMZQT13B2NpVjRlKH)
 
 ### Embodied Emotional Intelligence
-- **42 Prayers for Peace Love and Liberation** - Prayer collection (full text on site + 2 PDF formats)
+- **42 Prayers for Peace Love and Liberation** - Prayer collection (2 PDF formats: standard and pocketbook; no full text on site)
 - **Loving Attention Is All You Need** (Nov 2025) - Medium essay
 - **God, Money, & Mind** (Mar 2025) - Medium essay
-- **Embodied Emotional Intelligence** - 42-essay series in development (see dedicated section below)
+- **Embodied Emotional Intelligence** - 42-lesson curriculum in development (see dedicated section below)
 
 ## Embodied Emotional Intelligence (EEI) Project
 
-**Quick reference:** When user says "EEI", this is the project. Working folder is `Embodied Emotional Intelligence/`.
+**Quick reference:** When user says "EEI", this is the project. Working folder is `Embodied Emotional Intelligence/` (repo root, NOT under `content/`).
+
+### The 42 are LESSONS, not essays
+
+They were called essays until July 2026 and renamed deliberately — an essay is an author working something out, while these are structured, instructional, and meant to be re-run. Use "lesson" everywhere, internally and on the site. **Nothing under `content/essays/` or `content/embodied-emotional-intelligence/essays/` is part of this project** — those are genuinely essays and keep the name.
+
+| Path | What it is | Part of EEI? |
+|------|-----------|--------------|
+| `Embodied Emotional Intelligence/` | **The 42-lesson curriculum. This is EEI.** Working drafts + notes, repo root. | Yes |
+| `content/embodied-emotional-intelligence/eei/_index.md` | The published **introduction** to the curriculum | Yes — but see below |
+| `content/embodied-emotional-intelligence/essays/` | "Other Emotional Essays" — 2 stubs linking to Medium | No |
+| `content/essays/` | The 8 UBI/poverty essays | No |
+
+Two more things that are **not** part of the 42, despite sitting in the same site section:
+
+- **The introduction is not a template.** It is a single orienting piece that defines terms and lays out the four spirals. It uses organic headers and carries no citations. The 42 lessons use a fixed seven-section structure with citations throughout (`lesson-format.md`). Do not infer the lesson format from the introduction.
+- **42 Prayers is a separate work.** It shares the site section and the number 42. It has nothing to do with the curriculum.
 
 ### Project Overview
-A 42-essay series on embodied emotional intelligence maturing into emotional wisdom. Each essay explores a specific emotional capacity, backed by research, with practical exercises.
+A 42-lesson curriculum on embodied emotional intelligence maturing into emotional wisdom. Each lesson is a **workbook lesson** — it teaches one emotional capacity, backed by research cited throughout, and gives the reader a practice (usually several methods, ordered by effectiveness) for embodying it. Written for someone working on this themselves, or someone helping another person.
 
 ### Architecture
 ```
 Embodied Emotional Intelligence/
-├── eei-essay-guide.md              # Series overview, writing constraints, cross-references
-├── an-introduction-to-...md        # The intro essay (already written)
-├── notes/                          # One file per essay (research notes)
+├── eei-lesson-guide.md             # Curriculum overview, writing constraints, cross-references
+├── lesson-format.md                # The 7-section structure every lesson follows
+├── an-introduction-to-...md        # The introduction (already written, published)
+├── notes/                          # One file per lesson (research notes)
 │   ├── 01-focus-and-attention.md
 │   ├── 02-emotional-awareness.md
 │   ├── ...
 │   └── 42-flourishing.md
-└── essays/                         # Completed drafts (ready to publish)
+└── lessons/                        # Completed drafts (ready to publish) — currently empty
 ```
 
-### Workflow for Writing an Essay
-1. Load the note file: `notes/XX-essay-name.md`
-2. Read the research notes, cross-references, and honest notes
-3. Write the essay draft
-4. Save completed draft to `essays/XX-essay-name.md`
-5. When ready to publish: copy to `content/embodied-emotional-intelligence/eei/` with Hugo front matter
+**Current state:** the format is agreed and written down. Zero of the 42 are drafted. The introduction is published; nothing else in the curriculum is.
 
-### Essay List (42 essays in 6 parts)
+### Workflow for Writing a Lesson
+1. Read `lesson-format.md` — the 7-section structure is fixed and applies to all 42
+2. Load the note file: `notes/XX-lesson-name.md`
+3. Read the research notes, cross-references, and honest notes
+4. **Pass one** — write the draft for clarity. Full nuance, whatever vocabulary the idea needs. Do not simplify yet.
+5. **Pass two** — go back and replace words a 7th-grade reader wouldn't know. Change words, never claims. See "Writing in two passes" in `lesson-format.md`.
+6. Save completed draft to `lessons/XX-lesson-name.md`
+7. When ready to publish: copy to `content/embodied-emotional-intelligence/eei/` with Hugo front matter, after clearing the `unverified:` list
+8. Link it from the spiral lists in the introduction (`content/embodied-emotional-intelligence/eei/_index.md`) — that's the curriculum's navigation hub — and add it to `static/llms.txt`. Both are hand-maintained and drift silently.
+
+### Lesson List (42 lessons in 6 parts)
 **Part One — Attention and Observation:** Focus, Emotional Awareness, Observation, Gratitude, States of Mind, Rumination, Judgment
 **Part Two — The Drives:** Fear/Anger, Anxiety, Shame, Boundaries, Sadness/Grief, Impermanence, Joy/Play, Care, Status, Sexual Attraction
 **Part Three — The Choice:** Listening, Overriding, Breath, Distress Tolerance
@@ -97,9 +119,13 @@ Embodied Emotional Intelligence/
 **Part Six — Design and Horizon:** Designing the Room, Dose/Difficulty, Turning It Up, Purpose/Storytelling, Mastery & Wisdom, Flourishing
 
 ### Key Writing Constraints
-- **Self-containment:** Each essay must stand alone (2-3 sentences of re-grounding)
-- **Division of labour:** Essays 5, 6, 7, 9 all touch abstraction — keep separate
+- **Structure is fixed:** Quotation → The Overview → The Challenge → The Benefit → The Practice → What to Expect → The Evidence. Same headers in all 42. Full spec in `lesson-format.md`.
+- **Self-containment:** Each lesson must stand alone (2-3 sentences of re-grounding, terms defined even if defined elsewhere)
+- **Division of labour:** Lessons 5, 6, 7, 9 all touch abstraction — keep separate
 - **Series thesis:** Sensitivity without acceptance is worse than not sensing at all
+- **No target length:** It depends on the topic. Never pad a thin section to match a fuller chapter.
+- **Two passes:** Clarity first, vocabulary second — never both at once. 7th-grade *vocabulary* carrying adult *content*, not 7th-grade content. Pass two changes words, never claims; expect chapters to get longer, not shorter. "7th grade" is a heuristic for word choice, never a readability score to write toward.
+- **Plain English:** Technical terms defined as used, except where the term *is* the concept — those get kept and taught. Link the study rather than printing effect sizes and confidence intervals.
 
 ## Tech Stack
 
@@ -176,23 +202,23 @@ dfjrwebsite/
 │   │   └── _index.md
 │   └── embodied-emotional-intelligence/  # Emotional wisdom section
 │       ├── _index.md                    # Landing page (links to 3 subsections)
-│       ├── 42-prayers/                  # Prayer collection
-│       │   ├── _index.md
-│       │   └── 42-prayers-for-peace-love-and-liberation.md
-│       ├── eei/                         # 42-essay series
-│       │   ├── _index.md               # Introduction essay
-│       │   └── (essays published here)
+│       ├── 42-prayers/                  # Prayer collection (PDF links only)
+│       │   └── _index.md
+│       ├── eei/                         # 42-lesson curriculum
+│       │   ├── _index.md               # The introduction
+│       │   └── (lessons published here)
 │       └── essays/                      # Other emotional essays
 │           ├── _index.md
 │           ├── loving-attention-is-all-you-need.md
 │           └── god-money-mind.md
-├── Embodied Emotional Intelligence/  # EEI essay project (working docs, not published)
-│   ├── eei-essay-guide.md
+├── Embodied Emotional Intelligence/  # EEI lesson curriculum (working docs, not published)
+│   ├── eei-lesson-guide.md
+│   ├── lesson-format.md
 │   ├── an-introduction-to-embodied-emotional-intelligence.md
-│   ├── notes/                        # 42 individual essay note files
+│   ├── notes/                        # 42 individual lesson note files
 │   │   ├── 01-focus-and-attention.md
 │   │   └── ... (42 total)
-│   └── essays/                       # Completed essay drafts
+│   └── lessons/                      # Completed lesson drafts
 ├── static/                 # Static assets
 │   ├── CNAME              # Custom domain for GitHub Pages
 │   ├── robots.txt         # Crawler permissions (AI bots explicitly allowed)

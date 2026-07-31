@@ -1,5 +1,5 @@
 ---
-essay: 16
+lesson: 16
 title: "Status Seeking and Testosterone"
 part: "Part Two — The Drives"
 status: notes

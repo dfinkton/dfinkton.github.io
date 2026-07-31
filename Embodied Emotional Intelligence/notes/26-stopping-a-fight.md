@@ -1,5 +1,5 @@
 ---
-essay: 26
+lesson: 26
 title: "Stopping A Fight"
 part: "Part Four — Other People"
 status: notes
@@ -18,7 +18,7 @@ His definition is deliberately broad: any statement or action, silly or otherwis
 - Building a personal repertoire. Gottman's six categories, derived from asking thousands of couples which phrases would actually calm them: *I feel* / *I'm sorry* / *Get to yes* / *I need to calm down* / *Stop action* / *I appreciate*.
 - **Timing.** His coding work found evidence for pre-emptive repair in the first three minutes, and that these were the most effective. The common failure is attempting repair after someone is already flooded.
 - **Accepting one.** The harder half. It requires dropping being right while still activated, and it is the half the research says predicts outcome.
-- **Practicing in low-stakes friction** so the move is available in high-stakes conflict — the graduated-difficulty principle from essay 30.
+- **Practicing in low-stakes friction** so the move is available in high-stakes conflict — the graduated-difficulty principle from lesson 30.
 - Taking a break, and returning. A break that does not end in return is stonewalling.
 
 ## Studies

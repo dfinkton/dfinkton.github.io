@@ -1,5 +1,5 @@
 ---
-essay: 20
+lesson: 20
 title: "Breath"
 part: "Part Three — The Choice"
 status: notes

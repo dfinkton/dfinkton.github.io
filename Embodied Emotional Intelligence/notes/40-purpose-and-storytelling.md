@@ -1,5 +1,5 @@
 ---
-essay: 40
+lesson: 40
 title: "Purpose and Storytelling"
 part: "Part Six — Design and Horizon"
 status: notes
@@ -9,7 +9,7 @@ cross_references: [25]
 ## What it's for
 The long arc. Everything else in this series operates on minutes and days; this operates on the account you give of your own life, and on where you think you are going.
 
-## Why they are one essay
+## Why they are one lesson
 Purpose is largely narrative-constructed. McAdams and McLean define narrative identity as the internalised, evolving life story that integrates reconstructed past and imagined future to provide **unity, purpose and meaning.** Direction and account are the same operation looking forward and backward. Split them only if the drafting demands it.
 
 ---
@@ -21,7 +21,7 @@ Hill, P. L., & Turiano, N. A. (2014). Purpose in life as a predictor of mortalit
 
 Alongside it: Boyle, P. A., Barnes, L. L., Buchman, A. S., & Bennett, D. A. (2009). Purpose in life is associated with mortality among community-dwelling older persons. *Psychosomatic Medicine, 71*(5), 574–579. · Boyle et al. (2010), *Archives of General Psychiatry, 67*, 304–310 — purpose and reduced risk of incident Alzheimer's disease and mild cognitive impairment.
 
-## The counterweight, and it must be in the essay
+## The counterweight, and it must be in the lesson
 Sias and Turtle found the purpose–mortality relation **substantially attenuated or disappeared at longer horizons and when using more comprehensive measures of current health**, concluding that purpose interventions are likely less effective than the existing evidence suggests. And there is strong evidence that **negative health shocks cause a decline in purpose** — a statistically meaningful contemporaneous drop for 12 of 14 health metrics examined. That is reverse causation, and it would produce the observed correlation without purpose protecting anyone.
 
 ## A definition worth using
@@ -34,7 +34,7 @@ Damon's work on adolescent purpose; Bronk (2011, 2012, 2013); Burrow, A. L., & H
 
 ## STORYTELLING
 
-## The finding that makes this essay causal rather than correlational
+## The finding that makes this lesson causal rather than correlational
 Adler, J. M. (2012). Living into the story: Agency and coherence in a longitudinal study of narrative identity development and mental health over the course of psychotherapy. *Journal of Personality and Social Psychology, 102*(2), 367–389. Over fifteen weeks of treatment, the theme of **agency** in clients' stories increased — and **those increases temporally preceded the increases in mental health.** The story changed first. Patients whose narratives shifted toward agency, communion and redemption showed better outcomes than patients whose symptoms improved without narrative shift.
 
 That temporal precedence is rare in this field and it is the strongest thing in this entry.
@@ -52,7 +52,7 @@ Same events. Different account. Different outcome.
 - **Directly on this series' subject:** meaning-making during high- and low-point life story episodes has been found to predict **emotion regulation two years later.**
 - Narrative therapy (White & Epston, 1990) — externalising the problem, locating unique outcomes where the problem did not dominate, re-authoring. Evidence base is **growing but smaller than CBT**; RCTs show benefits for depression, PTSD and family conflict, and it is particularly used in cross-cultural and community settings.
 
-## The connection to essay 25
+## The connection to lesson 25
 This is the same mechanism as *Talk About It*, at a longer timescale. Disclosure organises an episode; narrative identity organises a life. Both work through articulation and coherence rather than through discharge. Cross-reference them.
 
 ## Honest limits

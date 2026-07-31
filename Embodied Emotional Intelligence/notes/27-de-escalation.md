@@ -1,5 +1,5 @@
 ---
-essay: 27
+lesson: 27
 title: "De-escalation"
 part: "Part Four — Other People"
 status: notes

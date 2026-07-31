@@ -1,5 +1,5 @@
 ---
-essay: 38
+lesson: 38
 title: "Dose, Difficulty, and How You'd Know"
 part: "Part Six — Design and Horizon"
 status: notes

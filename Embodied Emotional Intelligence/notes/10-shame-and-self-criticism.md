@@ -1,5 +1,5 @@
 ---
-essay: 10
+lesson: 10
 title: "Shame and Self-Criticism"
 part: "Part Two — The Drives"
 status: notes
@@ -9,7 +9,7 @@ cross_references: [8, 28, 29]
 ## What it's for
 The emotion most likely to stop someone from doing any of this work. A person who believes their anger means they are bad will not observe their anger. It is absent from Panksepp's list because it is a self-conscious emotion requiring self-representation — worth explaining rather than skipping.
 
-## The distinction that organizes the essay — now verified
+## The distinction that organizes the lesson — now verified
 Shame is a global negative feeling about the self, attributing a transgression to a fixed character flaw. Guilt is a negative feeling about a specific behaviour, attributing it to a correctable error. Shame-proneness goes with avoidance and withdrawal; guilt-proneness with approach and reparative action.
 
 - Tangney, J. P., Wagner, P., Fletcher, C., & Gramzow, R. (1992). Shamed into anger? *JPSP.* Two studies, 243 and 252 undergraduates. Shame-proneness correlated consistently with anger arousal, suspiciousness, resentment, irritability, a tendency to blame others for negative events, and **indirect but not direct** hostility. Proneness to "shame-free" guilt was **inversely** related to externalisation of blame and to several indices of anger, hostility and resentment.
@@ -20,11 +20,11 @@ Shame is a global negative feeling about the self, attributing a transgression t
 ## Tangney's proposed mechanism for the anger
 Shame impairs a sense of agency and control; redirecting anger outward is an attempt to regain it. That makes the aggression defensive rather than characterological — a useful thing for a reader to hear about themselves.
 
-## The counterpoint, which belongs in the essay
-Gausel & Leach (2011) and Leach & Cidam's (2015) meta-analysis argue shame has approach-oriented, prosocial forms — apology, repair, self-improvement — that emerge when the failure or damaged social image is appraised as **reparable**, and that the standard measure (TOSCA-3) does not capture these. So the moderator is whether the person believes repair is possible. That connects this essay directly to essay 28.
+## The counterpoint, which belongs in the lesson
+Gausel & Leach (2011) and Leach & Cidam's (2015) meta-analysis argue shame has approach-oriented, prosocial forms — apology, repair, self-improvement — that emerge when the failure or damaged social image is appraised as **reparable**, and that the standard measure (TOSCA-3) does not capture these. So the moderator is whether the person believes repair is possible. That connects this lesson directly to lesson 28.
 
 ## Practices
-Compassionate Mind Training exercises. Noticing the shift from *I did a bad thing* to *I am a bad thing*. Directing the compassion practice from essay 29 inward. Gilbert's three affect regulation systems — threat/protection, incentive/resource-seeking, soothing/contentment — as a usable map.
+Compassionate Mind Training exercises. Noticing the shift from *I did a bad thing* to *I am a bad thing*. Directing the compassion practice from lesson 29 inward. Gilbert's three affect regulation systems — threat/protection, incentive/resource-seeking, soothing/contentment — as a usable map.
 
 ## Studies
 - Gilbert, P. Compassion Focused Therapy — developed specifically for people with high shame and self-criticism who respond poorly to traditional therapies.

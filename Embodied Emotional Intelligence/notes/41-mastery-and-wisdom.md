@@ -1,5 +1,5 @@
 ---
-essay: 41
+lesson: 41
 title: "Mastery & Wisdom"
 part: "Part Six — Design and Horizon"
 status: notes

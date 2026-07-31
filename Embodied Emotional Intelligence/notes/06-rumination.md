@@ -1,5 +1,5 @@
 ---
-essay: 6
+lesson: 6
 title: "Rumination"
 part: "Part One — Attention and Observation"
 status: notes
@@ -7,10 +7,10 @@ cross_references: [2, 4, 5, 7, 9, 25, 36]
 ---
 
 ## Scope
-Owns abstract-versus-concrete self-focus, backward-facing. Worry and the forward-facing version belong to essay 9.
+Owns abstract-versus-concrete self-focus, backward-facing. Worry and the forward-facing version belong to lesson 9.
 
 ## What it's for
-The inverse of this entire series, and the reason it needs its own essay. Everything here teaches attending closely to internal states. Rumination is attending closely to internal states in the way that makes things worse. Without this essay drawn explicitly, a reader could finish the observation essay and begin ruminating on purpose, believing they are practicing.
+The inverse of this entire series, and the reason it needs its own lesson. Everything here teaches attending closely to internal states. Rumination is attending closely to internal states in the way that makes things worse. Without this lesson drawn explicitly, a reader could finish the observation lesson and begin ruminating on purpose, believing they are practicing.
 
 It also earns standalone treatment because it keeps showing up as the *mediator* — the pathway through which other practices work — rather than as an outcome.
 
@@ -30,7 +30,7 @@ Catching the switch from concrete to abstract. Asking *what happened* rather tha
 - Watkins, E. R., & Nolen-Hoeksema, S. (2014). A habit-goal framework of depressive rumination. *Journal of Abnormal Psychology, 123*(1), 24–34.
 - Aldao, A., Nolen-Hoeksema, S., & Schweizer, S. (2010). Meta-analysis — rumination significantly related to depression, anxiety, eating, and alcohol symptoms.
 - McLaughlin, K. A., & Nolen-Hoeksema, S. (2011). Rumination as a transdiagnostic factor in depression and anxiety. *Behaviour Research and Therapy, 49*(3), 186–193.
-- Miranda, R., & Nolen-Hoeksema, S. (2007). Brooding and reflection: Rumination predicts suicidal ideation at 1-year follow-up. *Behaviour Research and Therapy, 45*(12), 3088–3095. — **Handle with care in a public essay; do not include method or plan detail, and point toward support.**
+- Miranda, R., & Nolen-Hoeksema, S. (2007). Brooding and reflection: Rumination predicts suicidal ideation at 1-year follow-up. *Behaviour Research and Therapy, 45*(12), 3088–3095. — **Handle with care in a public lesson; do not include method or plan detail, and point toward support.**
 - Rumination-focused CBT — Jacobs et al. (2016), *PLOS One*, pilot RCT in adolescents at risk for depressive relapse.
 - Pérez et al. (2011) — rumination as the mediator through which thanksgiving prayer works.
 

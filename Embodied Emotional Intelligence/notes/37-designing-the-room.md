@@ -1,5 +1,5 @@
 ---
-essay: 37
+lesson: 37
 title: "Designing the Room"
 part: "Part Six — Design and Horizon"
 status: notes

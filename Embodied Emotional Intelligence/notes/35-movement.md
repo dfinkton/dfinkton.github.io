@@ -1,5 +1,5 @@
 ---
-essay: 35
+lesson: 35
 title: "Movement"
 part: "Part Five — Conditions"
 status: notes
@@ -7,7 +7,7 @@ cross_references: [20]
 ---
 
 ## What it's for
-A series called *embodied* with no essay on moving the body is a structural oddity. Exercise has moderate, consistent effects on mood and executive function.
+A series called *embodied* with no lesson on moving the body is a structural oddity. Exercise has moderate, consistent effects on mood and executive function.
 
 ## Practices
 Regular movement as a regulation decision rather than a fitness one. Movement during or after high arousal.
@@ -27,7 +27,7 @@ Better outcomes were associated with three or more sessions per week, durations 
 The executive-function story is smaller and narrower than usually presented. In adults with depression: working memory improved (ES = 0.33, 95% CI [0.04, 0.61]), inhibition did not reach significance (ES = 0.28), and cognitive flexibility was trivial (ES = 0.09). A Bayesian meta-analysis of acute exercise in healthy young adults — 651 effect sizes, 113 studies, 4,390 participants — found **g = 0.13**. Small. So: exercise moves working memory a little, not general thinking a lot.
 
 ## And one null worth stating
-Exercise did not show a statistically significant effect on suicidal tendencies or suicide risk. **If this appears in the essay, handle it carefully — it is a limit on what exercise does, not a comment on anyone's situation, and the essay should point toward support rather than leaving the reader with a bare negative.**
+Exercise did not show a statistically significant effect on suicidal tendencies or suicide risk. **If this appears in the lesson, handle it carefully — it is a limit on what exercise does, not a comment on anyone's situation, and the lesson should point toward support rather than leaving the reader with a bare negative.**
 
 ## Studies
 - The acute affective response to physical activity in people with depression: a meta-analysis, *Journal of Affective Disorders* (2022).
@@ -38,4 +38,4 @@ Exercise did not show a statistically significant effect on suicidal tendencies 
 - Ren, F. F., et al. (2023). Effects of exercise training on executive functioning in adults with depression. *Sports Medicine, 53*, 1765–1788.
 
 ## Handling note
-Do not give specific numeric targets or programs — see the disordered-eating caution in essay 26, which applies here too.
+Do not give specific numeric targets or programs — see the disordered-eating caution in lesson 26, which applies here too.

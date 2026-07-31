@@ -1,5 +1,5 @@
 ---
-essay: 24
+lesson: 24
 title: "Belonging"
 part: "Part Four — Other People"
 status: notes
@@ -18,12 +18,12 @@ van Kessel et al. (2025), meta-analysis, 26 studies and over 68,000 students. Be
 ## The intervention, and it is remarkable
 Walton, G. M., & Cohen, G. L. (2011). A brief social-belonging intervention improves academic and health outcomes of minority students. *Science.* Randomised controlled trial, N = 92, outcomes tracked over **three years.** The intervention framed social adversity on campus as **common and transient** — everyone struggles at first, and it passes — and used subtle attitude-change strategies so participants **generated the message themselves.** Over three years it raised African American students' GPA relative to multiple control groups and **halved the minority achievement gap**, with health benefits alongside.
 
-Note the self-generation mechanism. It is the same finding as the hostile-attribution work in essay 7: **arguing the case yourself moves you where being told does not.** That is now two independent literatures pointing at the same design principle, and it belongs in any practice you build.
+Note the self-generation mechanism. It is the same finding as the hostile-attribution work in lesson 7: **arguing the case yourself moves you where being told does not.** That is now two independent literatures pointing at the same design principle, and it belongs in any practice you build.
 
 ## Also
 Walton, G. M., & Cohen, G. L. (2007). A question of belonging: Race, social fit, and achievement. *Journal of Personality and Social Psychology, 92*, 82–96 — the construct of **belonging uncertainty**, the broader worry beneath stereotype threat: *can people like me belong here?* · Walton, G. M., Cohen, G. L., Cwir, D., & Spencer, S. J. (2012). Mere belonging: The power of social connections. *JPSP, 102*, 513–532. · Researchers describe belonging as a psychological **hub** — a single variable feeding many outcomes.
 
-## One nuance worth the essay
+## One nuance worth the lesson
 A deficit-reduction orientation to belonging — pursuing it to avoid rejection — is associated with poorer intrapersonal and interpersonal functioning than a growth orientation. Chasing belonging out of fear works differently than moving toward it.
 
 ## Honest limit

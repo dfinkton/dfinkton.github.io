@@ -1,5 +1,5 @@
 ---
-essay: 22
+lesson: 22
 title: "Touch"
 part: "Part Four — Other People"
 status: notes

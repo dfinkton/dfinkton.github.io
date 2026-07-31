@@ -1,5 +1,5 @@
 ---
-essay: 1
+lesson: 1
 title: "Focus and Attention"
 part: "Part One — Attention and Observation"
 status: notes

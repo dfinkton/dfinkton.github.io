@@ -1,5 +1,5 @@
 ---
-essay: 42
+lesson: 42
 title: "Flourishing: Going beyond the baseline"
 part: "Part Six — Design and Horizon"
 status: notes

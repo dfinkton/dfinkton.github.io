@@ -1,5 +1,5 @@
 ---
-essay: 33
+lesson: 33
 title: "Money"
 part: "Part Five — Conditions"
 status: notes

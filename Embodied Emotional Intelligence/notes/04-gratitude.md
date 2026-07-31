@@ -1,5 +1,5 @@
 ---
-essay: 4
+lesson: 4
 title: "Gratitude"
 part: "Part One — Attention and Observation"
 status: notes
@@ -7,7 +7,7 @@ cross_references: [6, 30, 36]
 ---
 
 ## Scope
-Attention pointed at your own life. Attention pointed at someone else's good fortune is essay 30.
+Attention pointed at your own life. Attention pointed at someone else's good fortune is lesson 30.
 
 ## What it's for
 A practice everyone recommends, where the evidence says something more specific than the recommendation does.
@@ -34,7 +34,7 @@ Directing attention toward what is present rather than what is missing. Written 
 - **But** cognitive bias modification meta-analyses show small therapeutic effects with publication bias indications. Direct attention retraining has a weak record.
 - Baumeister's own framing: good prevails by force of numbers, not by reweighting the bias.
 
-## Gratitude as a mediator — the finding that changes this essay
+## Gratitude as a mediator — the finding that changes this lesson
 - "An attitude of gratitude: How psychological and social resources mediate the protective effect of religiosity on depressive symptoms." MIDUS 2 (N = 1,052) and MIDUS Refresher (N = 625). **Gratitude and social support fully mediated the relation between religiosity and psychological wellbeing, replicated across both independent national samples.** Cross-sectional — association, not causation.
 - *Journal of Happiness Studies* (2021) — gratitude mediated religiosity's relation to life satisfaction and depression across two samples.
 - Post-hoc mediation analysis of a six-week gratitude RCT: gratitude at four weeks mediated the intervention's effect on mental wellbeing.
@@ -44,6 +44,6 @@ Directing attention toward what is present rather than what is missing. Written 
 ## The honest argument, corrected
 The *intervention* literature on gratitude is weak — bolt-on exercises barely beat other bolt-on activities. The *mechanism* literature is strong — gratitude mediates religiosity's effect on wellbeing across national samples, and thanksgiving prayer works through reduced ruminative self-focused attention with mediation evidence.
 
-Those are not contradictory, and the difference between them may be the most useful thing in the essay: **a bolt-on exercise performs differently than an embedded orientation.** That generalizes to everything else in the series.
+Those are not contradictory, and the difference between them may be the most useful thing in the lesson: **a bolt-on exercise performs differently than an embedded orientation.** That generalizes to everything else in the series.
 
 Two further constraints. Frequency was a weak predictor in Poloma and Pendleton, so "prolonged" is probably the wrong emphasis. And ritual prayer is saturated with thanksgiving content while associating with higher negative affect — so recited gratitude is not sufficient. Self-generated, personally meaningful attention appears to be doing the work.
