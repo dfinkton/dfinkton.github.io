@@ -102,6 +102,28 @@ Embodied Emotional Intelligence/
 
 **Current state:** the format is agreed and written down. **Focus and Attention (1) is finished and published.** Nothing else in the curriculum is drafted. The curriculum page is published and shrinks as lessons ship — see "The curriculum page shrinks as lessons ship" in `eei-lesson-guide.md`.
 
+### Open decision: bold leads as navigation, across the whole lesson
+
+**Not settled. Do not act on this without asking.**
+
+Focus and Attention (1) is the only page on the site using bold sentence-leads or `###`
+subheadings. Every book chapter, some of them 13,000 words, has zero of both. Within the
+lesson the split is stark: The Challenge and The Benefit have no bold at all, the Overview
+and What to Expect have four each, and The Evidence has 28 bold leads under 8 subheadings —
+roughly one marker every 75 words.
+
+That happened by accident rather than by decision, and it makes the page read like
+documentation next to the rest of the writing.
+
+The open question is which way to resolve it. The reason to **add** bold leads to the other
+sections is navigation: these are workbook lessons meant to be returned to and re-run, and a
+reader coming back for the practice or the road map should be able to find it without
+re-reading. The reason to **strip** it from The Evidence is house style — nothing else on
+the site does this, and consistency across the body of work has its own value.
+
+Decide once, for the whole curriculum, not lesson by lesson. Whichever way it goes, the
+answer belongs in `lesson-format.md` under Prose style so it stops being reinvented.
+
 ### Workflow for Writing a Lesson
 **`lesson-format.md` is the authority** for the seven-section structure, the order of work, the two vocabulary passes, and the publishing checklist. Do not keep a second copy of the process here — the copy that used to live in this file went stale within one lesson.
 

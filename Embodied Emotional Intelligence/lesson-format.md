@@ -241,6 +241,15 @@ methodological criticism of Gottman's prediction figures, the fact that
 emotion-differentiation research is mostly correlational. This half is not answerable to
 the body. It guards against claims the reader will import on their own.
 
+**A study used as illustration does not need its methods aired.** State limits where the
+lesson's claims depend on the study. Where it is there to make something visible rather than
+to carry a claim, the limits change nothing a reader would do or believe, and airing them
+buys the reader nothing. The test is that question, not whether the study has limits —
+every study has limits. The first lesson's heat-pad study was its most vivid, appeared in two
+body sections, and had a four-entry walkthrough in The Evidence before anyone asked what a
+reader was meant to do with fourteen self-selected participants. None of the practice
+advice rested on it. The whole walkthrough came out.
+
 **The section is not limited to what the body claims.** It also serves someone who wants to
 go deeper into the literature, so a strong study earns a place even when nothing above
 cites it — marked as going further than this lesson claims.
@@ -300,6 +309,19 @@ So before writing a limitation, read what the authors state as theirs. It is usu
 specific and more interesting than the generic doubt — in that study, that this work can
 only be done with non-invasive scanning, so they can *"merely speculate about the
 neurobiological mechanisms."* That is a real limit. *Poor track record* is a mood.
+
+**Do not claim a literature is empty.** *Nobody has measured this*, *no trial has tested that*,
+*nobody has raced these against each other* — these are the easiest sentences in the section to
+write and the hardest to defend, because they assert something about every study ever run. On
+the first lesson four of them went in and three turned out to be wrong: anchors have been
+compared on outcome, informal practice frequency has been measured, and a review of the
+meditation literature covering the same ground as the brain-training one exists. Each was found
+by a single search, after the sentence had already been written.
+
+Write what is established and what is not, rather than what the field has failed to do. *The size
+has not been established* is defensible; *nobody has measured it* is a claim about the whole
+literature. If an absence genuinely matters to the argument, go and look first, and say what you
+looked for.
 
 **An unbacked claim gets cut, not labelled.** If a claim has nothing behind it, marking it
 as untested does not rescue it; it puts an unsupported assertion on the page with a
