@@ -25,7 +25,9 @@ Tracking one feeling arrival to departure. Logging patterns across weeks. Notice
 - The critical review of MAT in *Mindfulness* (2023), identifying four problems in its supporting literature.
 
 ## Central teaching
-Acceptance is the part that does the work. Monitoring on its own came out **level with an active control, not below it** (Lindsay 2018), and the authors say directly that they found no evidence monitoring-only training worsened anyone's stress response. So the teaching is not that watching harms you — it is that watching alone does not help.
+For the stress response, acceptance is the part that did the work. Monitoring on its own came out **level with an active control, not below it** (Lindsay 2018), and the authors say directly that they found no evidence monitoring-only training worsened anyone's stress response. So the teaching is not that watching harms you — it is that watching alone did not lower stress reactivity in that trial.
+
+**Scope that claim carefully.** It is one outcome, in one contrast, over fourteen days. It is not a finding that acceptance is the active ingredient in everything, and the series thesis in `eei-lesson-guide.md` no longer says it is: ReSource trained sensing alone, through breath meditation and body scan, and improved attention with no acceptance component anywhere in that module. What you point the practice at is what changes. This lesson pairs the two because the outcomes *this* lesson is about are the ones where the pairing has been tested.
 
 A rough patch is still common, and it has its own evidence rather than needing to be derived from this mechanism: 83% of people through an eight-week program reported at least one meditation-related side effect, 58% something they experienced as unpleasant, and 6–14% something bad that lasted (Britton 2021). Rest the "expect to feel worse" teaching on that.
 

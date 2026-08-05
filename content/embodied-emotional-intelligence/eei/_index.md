@@ -31,7 +31,7 @@ So moving forward, we will talk about what I have found to be the most useful fr
 
 ## Not one skill
 
-In a nine-month study, adults were trained in three different practices one after another—attention and body awareness, compassion and caring for others, and seeing things from your own and other people's points of view. Each one produced measurable change in a different part of the brain, and each improved a different capacity. Attention improved most after attention practice. Compassion improved most after compassion practice. The ability to read other minds improved most after perspective practice.
+In a [nine-month study](/embodied-emotional-intelligence/eei/focus-and-attention/), adults were trained in three different practices one after another—attention and body awareness, compassion and caring for others, and seeing things from your own and other people's points of view. Each one produced measurable change in a different part of the brain, and each improved a different capacity. Attention improved most after attention practice. Compassion improved most after compassion practice. The ability to read other minds improved most after perspective practice.
 
 They did not substitute for each other.
 

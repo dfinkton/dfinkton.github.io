@@ -23,17 +23,27 @@ Neuroscience earns its place only twice — when it gives a reader a usable imag
 
 ## Series thesis
 
-Sensing and accepting are separate capacities that have to be trained together.
+**You get the capacity you practise.** These are separable capacities, trained separately, and no single practice delivers them all.
 
-**The direct evidence is one trial.** Lindsay and colleagues (2018) gave 153 stressed adults fourteen days of either monitoring plus acceptance, monitoring alone, or a matched coping control, all recorded by the same instructor. Monitoring plus acceptance lowered stress reactivity. Monitoring alone came out level with the control. That establishes acceptance as the ingredient doing the work.
+**The direct evidence is the ReSource Project** (Valk et al., 2017). The same people ran three trainings in sequence, thirteen weeks each: Presence trained attention and body awareness through breath meditation and body scan; Affect trained care through loving-kindness and paired work on difficult feelings; Perspective trained seeing a thought as an event and taking another person's view. Each module improved its own target — attention after Presence, compassion after Affect, theory of mind after Perspective — and none substituted for the others. Each thickened a different part of the cortex, and each person's structural change tracked their own behavioural gain on the thing that module trained. The authors' conclusion: *the type of mental training matters.*
 
-**The other three supports are the same shape read onto other literatures, not independent tests of it.** Worth knowing which is which before leaning on any of them.
+Because everyone did all three in sequence, each module acts as a control for the others, with two further control groups alongside. That design is why this carries the thesis rather than merely illustrating it.
+
+**This is the claim that justifies the curriculum's shape.** A year of separate lessons in spirals only makes sense if capacities are specific and separable. Simons et al. (2016) point the same way from the other side: training one mental ability produces gains on the trained task, less on near neighbours, and little in everyday life.
+
+### A recurring pattern beneath it: sensing and accepting
+
+Sensing and accepting are separate capacities, and for some outcomes the combination beats either part. This is a pattern the series returns to — Observation (3), Judgment (7), Anxiety (9), Talk About It (25) — not the foundation it was previously written as.
+
+**Where it has actually been tested:** Lindsay et al. (2018) gave 153 stressed adults fourteen days of monitoring plus acceptance, monitoring alone, or a matched coping control. Monitoring plus acceptance lowered stress reactivity; monitoring alone came out level with the control. So acceptance was what moved the stress response in that contrast. **That is one outcome, in one contrast, over fourteen days.** It is not a finding that acceptance is the active ingredient in everything, and ReSource is evidence it is not — Presence trained sensing alone and improved attention without any acceptance component.
+
+**The other supports are the same shape read onto other literatures, not independent tests.** Worth knowing which is which before leaning on any of them.
 
 - **Empathy vs. compassion training** — Klimecki et al. (2014). Cite it for what compassion adds, not for what empathy alone costs. Compassion training raised positive affect against the control clearly. The harm half did not hold up: empathy training raising negative affect was a within-group change that reached only P = 0.09 against the control group, the control's negative affect fell over the same interval anyway, the two groups were scanned sequentially rather than randomly assigned, all 53 participants were women, and the outcome is how someone felt watching a short video clip in a scanner.
-- **Expert practitioner data** — Lutz et al. (2013). The endpoint looks like the thesis, but the study never separated sensing from accepting. Consistent with it, not evidence for it.
+- **Expert practitioner data** — Lutz et al. (2013). The endpoint looks like the pattern, but the study never separated sensing from accepting. Consistent with it, not evidence for it.
 - **Decentering** — meta-awareness, then disidentification, then reduced reactivity. A structural parallel, not a test.
 
-**Do not write "sensitivity without acceptance is worse than not sensing at all."** That was the earlier phrasing here and it is wrong. The one trial that tested it found monitoring alone level with the control rather than below it, and the authors say so directly. The evidence that self-watching goes with distress comes from questionnaire studies of people who do it *untrained*, and it is correlational. Safety warnings belong where a specific lesson's own evidence puts them.
+**Do not write "sensitivity without acceptance is worse than not sensing at all."** That was an earlier phrasing here and it is wrong. The one trial that tested it found monitoring alone level with the control rather than below it, and the authors say so directly. The evidence that self-watching goes with distress comes from questionnaire studies of people who do it *untrained*, and it is correlational. Safety warnings belong where a specific lesson's own evidence puts them.
 
 ## Writing constraints for every lesson
 
