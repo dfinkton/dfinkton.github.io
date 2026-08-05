@@ -288,6 +288,19 @@ that is technically defensible and wastes the round — *this figure has no sour
 finding when the figure is a vignette in a passage explicitly about how something feels from
 the inside.
 
+**A caveat needs a source the same way a claim does.** An unsourced hedge is an unbacked
+claim wearing modesty, and it is harder to spot because it sounds careful. *Findings about
+brain structure changing after brief training have a poor track record* went into the first
+lesson with nothing behind it — whose findings, which failures, how poor. Worse, it
+displaced what the authors did report: that each module's cortical change tracked that same
+person's improvement on the behaviour it trained. The hedge was not just unsupported, it
+contradicted the paper.
+
+So before writing a limitation, read what the authors state as theirs. It is usually more
+specific and more interesting than the generic doubt — in that study, that this work can
+only be done with non-invasive scanning, so they can *"merely speculate about the
+neurobiological mechanisms."* That is a real limit. *Poor track record* is a mood.
+
 **An unbacked claim gets cut, not labelled.** If a claim has nothing behind it, marking it
 as untested does not rescue it; it puts an unsupported assertion on the page with a
 disclaimer attached, and a curriculum full of those is a curriculum nobody should trust. Cut
@@ -343,13 +356,26 @@ lessons stay — those are for the reader, not the narrator.
 in The Evidence, where a judgment is being made — *I would treat this as promising rather
 than established.* Elsewhere, prefer the claim over a report of the claim.
 
-**Every analogy must teach.** A good one carries the mechanism and gets room to breathe:
-the best basketball players miss half their shots and never stop missing, and what they
-have is a fast feedback loop — that one was long, that one drifted left, adjust, shoot
-again. A weak one gestures at meaning it does not deliver: *the lift is the repetition and
+**Every analogy must teach, and it should do one job.** A good one reaches something the
+prose around it cannot: *the best players in the world miss about half their shots, and
+they never stop missing. Nobody watches a professional miss and concludes they cannot
+shoot.* That earns its place by going at the reader's self-judgment, which a flat statement
+of the mechanism does not touch.
+
+A weak one gestures at meaning it does not deliver: *the lift is the repetition and
 standing at the bar is not.* If the reader has to work out what maps to what, cut it.
-Test the mapping against the rest of the lesson too — an analogy that implies a claim the
-evidence section contradicts is worse than no analogy.
+
+**Cut the parts the prose already covered.** That basketball analogy originally carried the
+mechanism as well — *a fast, quiet feedback loop: that one was long, that one drifted left,
+adjust, shoot again* — sitting one paragraph after the mechanism had been stated plainly.
+Re-teaching in figurative terms what was just taught in literal ones costs the reader
+twenty words and returns nothing.
+
+**Test the mapping against the rest of the lesson.** An analogy implying a claim the
+evidence section contradicts is worse than no analogy. Watch too for one that argues a
+neighbouring claim rather than the one it sits under: a shooter's feedback loop exists to
+make the next shot go in, which maps to drifting *less* — not to the return being the
+practice, which is what that paragraph was actually about.
 
 **Never flatten a gradient into a binary.** This is the most common way the writing goes
 wrong, because binaries sound crisp. *It never stops* and *you can move this a lot but
