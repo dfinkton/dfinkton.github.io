@@ -183,18 +183,6 @@ The wandering isn't a beginner's problem that experienced people have solved—i
 
 ## The Evidence
 
-### The Heat Pad Study
-
-**Everyone in that scanner was meditating.** [Lutz and colleagues, 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC3787201/) scanned fourteen long-term practitioners — averaging around 27,000 lifetime hours, with 10,000 as the floor to qualify — against fourteen people matched to them for age and sex. Every trial opened with a cue to enter one of two states and 45 seconds to settle into it: *open presence*, an effortless openness to whatever arrives, or *focused attention* on a fixation cross.
-
-Then twelve seconds at 38°C, then ten seconds at either that person's own painful temperature — calibrated in advance, somewhere between 46 and 49°C — or one six degrees below that, which did not hurt. Half the trials were painful and half were not. The warm stretch predicted nothing, and the anticipatory response built anyway.
-
-**The two ratings were separated on purpose, and that separation is the finding.** After each trial people rated intensity and unpleasantness as two different questions. Experts matched novices on intensity and came in lower on unpleasantness. Underneath, their pain regions and amygdala ran quieter before the heat arrived — and in the left anterior insula, the quieter they ran the more lifetime hours that person had, with age accounted for. During the pain itself the regions that decide how much something grabs you worked harder in the experts. Across the run the groups moved apart: novice anticipatory activity climbed, expert activity during pain fell.
-
-**The "Two Arrows" is not research.** The story of the two arrows comes from the [Sallatha Sutta](https://www.accesstoinsight.org/tipitaka/sn/sn36/sn36.006.than.html), which is roughly 2,500 years old. The scanner results happen to line up with it—intensity ratings unchanged, unpleasantness ratings down—which is worth noticing and is not the same as testing it.
-
-**Fourteen people in each group, and nobody was assigned to become a meditator.** These were people who had already spent decades at it, compared against people who had not, and groups like that differ in ways the training has nothing to do with. The link between practice hours and a quieter insula is a correlation inside a small group, not evidence the hours caused the quiet. The study shows the pattern exists. It does not tell you what your practice will do to you.
-
 ### What Drifting Costs
 
 **Almost nothing chronic worriers worry about happens.** [LaFreniere and Newman, 2020](https://pubmed.ncbi.nlm.nih.gov/32402257/) had twenty-nine people diagnosed with generalized anxiety disorder record their worries for ten days, then followed those worries for thirty. 91.4% did not come true, and the most common individual result was 100%. They were selected for worrying far more than most, so this measures the worry that brings people to treatment.
@@ -209,7 +197,9 @@ Then twelve seconds at 38°C, then ten seconds at either that person's own painf
 
 ### How the Practice Works
 
-**There is no anchor that is best for everyone.** [Anderson and Farb, 2018](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02521/full) had 82 beginners try three different anchors: the breath, a repeated phrase, and a green circle on a screen. Afterwards, 49% preferred the breath, 30% the phrase, and 21% the image. More than half (56%) ended up preferring something other than what they predicted they would like before starting. The claim that all anchors work rests on the mechanism—noticing and returning is the same mental act whatever you were pointed at.
+**There is no anchor that is best for everyone.** [Anderson and Farb, 2018](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02521/full) had 82 beginners try three different anchors: the breath, a repeated phrase, and a green circle on a screen. Afterwards, 49% preferred the breath, 30% the phrase, and 21% the image. More than half — 56% — ended up preferring something other than what they had predicted before starting.
+
+Anchors have been raced against each other, once and weakly. A [retrospective comparison](https://pmc.ncbi.nlm.nih.gov/articles/PMC8967094/) of 34 adults doing three-minute sessions found breath and mantra holding people in a calm state longer than an external point. Thirty-four people, three minutes each, and a consumer EEG headband deciding what counts as calm — and even taken at face value, a group average does not tell an individual reader which anchor suits them. That is the thing Anderson and Farb actually demonstrates: people's own predictions were wrong more often than right.
 
 **Wandering, noticing, shifting and holding each run on different machinery.** [Hasenkamp and colleagues, 2012](https://pubmed.ncbi.nlm.nih.gov/21782031/) had fourteen practitioners press a button whenever they caught their mind wandering in the scanner, which let the four phases be modelled separately. Wandering used the default mode network—the system that runs when people are left alone with their thoughts. Noticing used the regions that flag salience. Shifting and holding attention ran on the executive regions, the ones that direct effort.
 
@@ -223,7 +213,7 @@ So sleep loss does not dull you evenly. It takes away the specific capacity this
 
 ### What the Road Looks Like
 
-**A few weeks in, it will feel like your mind has got worse.** Mingyur calls this the waterfall, and says it is often the first thing people hit when they begin. That is one teacher reporting what he sees in his students and what happened to him — worth having, and not a measurement. Whether the wandering actually increased is a separate question, and nobody can answer it.
+**A few weeks in, it will feel like your mind has got worse.** Mingyur calls this the waterfall, and says it is often the first thing people hit when they begin. That is one teacher reporting what he sees in his students and what happened to him — worth having, and not a measurement. Whether the wandering actually increased is a separate question, and a count of noticed episodes cannot settle it.
 
 In the [Hasenkamp](https://pubmed.ncbi.nlm.nih.gov/21782031/) study the practitioners pressed a button every time they caught their mind wandering, averaging 15.5 presses across twenty minutes. That count did not differ between the most-practised participants and the least, and it did not track lifetime hours at all.
 
@@ -241,15 +231,21 @@ Everyone in that scanner was already a practitioner, so the figure cannot tell y
 
 ### Side Effects
 
-**What people actually report.** The commonest are anxiety, low mood, and cognitive oddities — trouble concentrating, confusion, a sense that memory has gone strange ([Farias and colleagues, 2020](https://onlinelibrary.wiley.com/doi/10.1111/acps.13225)). [Britton's](https://pubmed.ncbi.nlm.nih.gov/35174010/) interviews sort the ones that matter into two clusters: hyperarousal, meaning anxiety, agitation and sleeplessness, and dissociation, meaning emotional blunting, a sense of unreality, and feeling detached from yourself.
+**Most of what gets counted is not harm.** [Britton and colleagues, 2021](https://pubmed.ncbi.nlm.nih.gov/35174010/) interviewed 96 people who had finished an eight-week mindfulness course, using a 44-item instrument put to them by someone who was not their teacher. 83% reported at least one change they attributed to the meditation.
 
-**How often, and why the published rates run from 4% to 83%.** [Farias and colleagues, 2020](https://onlinelibrary.wiley.com/doi/10.1111/acps.13225) screened 6,742 citations and included 83 studies. Overall, 8.3% reported an adverse event. But split by study type, it was 3.7% in experimental studies and 33.2% in observational ones. Meanwhile, [Britton and colleagues, 2021](https://pubmed.ncbi.nlm.nih.gov/35174010/) used a 44-item interview and found 83% reported at least one side effect, about 40% one that affected their life outside the practice, with 14% reporting a bad effect that lasted more than a day, and 6% more than a month.
+That is not a harm figure, and the authors say so plainly: not all of these were negative or adverse, since some were neutral, mixed, or positive in how they felt or what they did. The number counts changes, not damage. 58% reported something they found unpleasant. 37% reported something that reached into life outside the practice. And for 57% of participants, the longest such change lasted under an hour.
 
-Trials that wait for participants to complain find almost nothing. Studies that systematically ask find a great deal. The spread is about the asking.
+**How often, and why the published rates run from 4% to 83%.** [Farias and colleagues, 2020](https://onlinelibrary.wiley.com/doi/10.1111/acps.13225) screened 6,742 citations and included 83 studies. Overall, 8.3% reported an adverse event. Split by study type, it was 3.7% in experimental studies and 33.2% in observational ones.
+
+Trials that wait for participants to complain find almost nothing. Studies that systematically ask find a great deal. The spread is about the asking — Britton's open-ended question, *have you had any unpleasant or challenging experiences*, missed nearly 70% of what the item-by-item interview turned up.
 
 Those rates need a baseline next to them, and it is closer than it looks. Measured the same way, ordinary psychotherapy produces new or worsening symptoms in 42–51% of people and lasting bad effects in 3–14%. Meditation sits in the same range — the ordinary risk profile of doing something that works.
 
-**The symptom that does the most damage is the one that does not feel like damage.** Hyperarousal feels bad, so people notice it and report it. Dissociation does not — it was less common in [Britton's](https://pubmed.ncbi.nlm.nih.gov/35174010/) sample and less likely to be experienced as unpleasant, and it carried five to ten times the risk of a bad effect that lasted. The authors are direct about what follows. Accepting those symptoms non-judgmentally is not enough, and should not be the only response.
+**Four experiences carried most of the lasting risk, and they were the rare ones.** Executive dysfunction, insomnia, emotional blunting and a disturbed sense of self were each reported by under 5% of the sample, and each raised the risk of an effect that lasted by six to fourteen times.
+
+The commoner difficulties did not do that. Anxiety, distortions in the sense of time and space, and traumatic memories resurfacing showed up in 10 to 25% of people, and none predicted lasting harm, because most instances did not produce enduring impairment.
+
+So frequency and severity run in opposite directions. The experiences most people have are mostly not the ones that persist, and the ones that persist are mostly not the ones people have. Two of the four — emotional blunting and a disturbed sense of self — were also among the least likely to be *experienced* as unpleasant, which is what makes them worth naming to someone who would otherwise wait to feel bad before treating them as a signal.
 
 ### Noticing and Allowing
 
@@ -259,11 +255,13 @@ Those rates need a baseline next to them, and it is closer than it looks. Measur
 
 ### The Limits
 
-**Nobody has measured how much sooner you notice.** The direction holds up: practitioners report it consistently, and the counting problem in the [Hasenkamp](https://pubmed.ncbi.nlm.nih.gov/21782031/) study exists precisely because detection sharpens with experience. What is missing is a size. In that study, during the phase where attention shifts back, activity in a region tied to self-referential thought dropped below baseline in the five most-practised participants while it persisted in the other nine. The authors read that as possibly a faster or more efficient disengagement, and note it could equally mean a well-learned task takes less neural work. Nobody has put a clock on how long a trained person takes to come back from a drift, so this is a direction without a number attached.
+**You notice sooner. How much sooner is not established.** The direction holds up: practitioners report it consistently, and the counting problem in the [Hasenkamp](https://pubmed.ncbi.nlm.nih.gov/21782031/) study exists precisely because detection sharpens with experience. In that study, during the phase where attention shifts back, activity in a region tied to self-referential thought dropped below baseline in the five most-practised participants while it persisted in the other nine. The authors read that as possibly a faster or more efficient disengagement, and note it could equally mean a well-learned task takes less neural work. What has not been established is the size: a measured latency, trained against untrained. So this is a direction without a number attached.
 
-**Short times, many times is not from this research.** Every dose in this lesson comes from studies of sustained sessions. The instruction to practice for seconds at a time throughout the day comes from a teaching tradition, passed on because a modest practice you keep beats a serious one you quit. Treat the longer sitting as the evidenced version, and the short reps as the road that gets you there.
+**Short times, many times has some evidence, and it does not point the way the instruction does.** Every dose in this lesson comes from studies of sustained sessions, so the seconds-long reps are an extrapolation from them rather than a tested protocol. And [Britton's](https://pubmed.ncbi.nlm.nih.gov/35174010/) study measured something close. People who ended up with a bad effect lasting more than a week did not differ in how many minutes of formal sitting they did. They did differ in informal practice — brief bits of attention through the day — at 13.5 sessions a week against 4.3, and informal frequency correlated with the number of events that reached into their lives.
 
-**Training one mental skill rarely improves the others.** [Simons and colleagues, 2016](https://journals.sagepub.com/doi/abs/10.1177/1529100616661983) went through the evidence for commercial brain-training programs and found the same gradient everywhere: people get better at the task they practised, less at closely related tasks, and barely at all at everyday life. That review is about brain-training games rather than meditation, and nobody has run the equivalent on attention practice — but there is no obvious reason this would be the exception.
+That is one correlation in one study, it is small, and the direction is open: people having a hard time may well practise informally more *because* they are having a hard time. It is not a reason to stop. It is a reason not to claim the short reps are the safe, evidence-free option — the nearest measurement to them found something worth watching.
+
+**Training one mental skill rarely improves the others.** [Simons and colleagues, 2016](https://journals.sagepub.com/doi/abs/10.1177/1529100616661983) went through the evidence for commercial brain-training programs and found the same gradient everywhere: people get better at the task they practised, less at closely related tasks, and barely at all at everyday life. That review is about brain-training games rather than meditation, so applying it here is an inference — but there is no obvious reason attention practice would be the exception, and the meditation literature that does exist points the same way, with gains concentrated on the trained capacity.
 
 It bears on this lesson directly, because the lesson claims attention is the ground every other emotional skill runs on. That is a claim about carrying a trained capacity into a distant domain, which is exactly the kind the brain-training literature keeps failing to support. What is well evidenced is the near end: attention practice improves attention, including your ability to notice where your attention has gone. Everything past that is argued in this lesson rather than demonstrated by it.
 
