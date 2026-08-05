@@ -82,7 +82,9 @@ Two more things that are **not** part of the 42, despite sitting in the same sit
 - **42 Prayers is a separate work.** It shares the site section and the number 42. It has nothing to do with the curriculum.
 
 ### Project Overview
-A 42-lesson curriculum on embodied emotional intelligence maturing into emotional wisdom. Each lesson is a **workbook lesson** — it teaches one emotional capacity, backed by research cited throughout, and gives the reader a practice (usually several methods, ordered by effectiveness) for embodying it. Written for someone working on this themselves, or someone helping another person.
+A yearlong curriculum on embodied emotional intelligence maturing into emotional wisdom, designed to be repeated. Each lesson is a **workbook lesson** — it teaches one emotional capacity, backed by research cited throughout, and gives the reader a practice (usually several methods, ordered by effectiveness) for embodying it. Written for someone working on this themselves.
+
+**Never state a lesson count in reader-facing copy.** Internally there are 42 lessons and the notes and lesson numbers use that. Publicly it is a yearlong curriculum designed to be repeated — no number, because the count is not a commitment. This applies to page descriptions, the homepage, `llms.txt`, and anything else a reader or crawler sees.
 
 ### Architecture
 ```

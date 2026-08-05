@@ -1,6 +1,6 @@
 ---
 title: "Embodied Emotional Intelligence — Lesson Format"
-subtitle: "The structure every one of the 42 lessons follows"
+subtitle: "The structure every lesson follows"
 date: 2026-07-31
 status: internal working document
 ---
@@ -21,6 +21,78 @@ the lesson list — lives in `eei-lesson-guide.md`. This file covers shape only.
 
 ---
 
+## How a lesson gets built
+
+### Plan first
+
+Before any prose, build section-by-section notes in `notes/NN-<slug>.md`. One heading per
+lesson section, and under each:
+
+- the claims that section will make
+- the source behind each one
+- whether that source has been checked against the primary text, or is still taken on trust
+- what is still open
+
+This is the file you work from and write back into. As each section gets drafted, record
+what the sources actually said — especially where they disagreed with what you expected
+them to say.
+
+**Verification belongs here, not at the end.** A wrong citation changes the paragraph built
+on it. On the first lesson there was no planning file, and the cost landed twice: sources
+were checked after prose had already been written on top of them, so four claims had to
+change late; and The Evidence shipped a draft missing entries for a claim the body was
+making in three separate places. Both are planning failures, not writing failures.
+
+The planning file also tells you when a section is ready. A section whose claims have no
+sources yet is a section that will get written on assumption.
+
+This sits alongside whatever the notes file already holds — scope, studies, framing, the
+honest notes. It does not replace them; the topical material is what feeds it.
+
+```markdown
+## Plan — The Challenge
+- Claim: [what the section will assert]
+  - Source: [author, year, link]
+  - Checked: yes / no / partial — [what was confirmed, what wasn't]
+- Open: [question that has to be answered before this section can be written]
+
+## Plan — The Benefit
+...
+```
+
+Two things worth recording as you go, because both cost a round on the first lesson:
+**where a source says something narrower than the claim it is being used for**, and
+**which claims are yours rather than the literature's** — a claim from teaching experience
+is not disqualified, but it has to be known as one before The Evidence gets built.
+
+### Then draft, one section at a time, in this order
+
+**The Challenge → The Benefit → The Practice → What to Expect → The Evidence → The
+Overview → The Quotation.**
+
+Not the order they appear in, and each position has a reason:
+
+- **The Evidence** has to answer to whatever the body ended up claiming, so it cannot be
+  written until the body has settled.
+- **The Overview** summarizes a finished lesson. There is nothing to state flat until
+  there is something settled to state.
+- **The Quotation** goes last because it has to be tested against the body, and until the
+  lesson exists there is no body to test it against. On the first lesson the original
+  epigraph led on *allowing* — a capacity that lesson explicitly hands to Observation — and
+  that was only visible once everything else was finished.
+
+**Do not draft the whole lesson in one pass.** The first lesson was written that way and
+had to be rebuilt section by section. The failure is not visible while it is happening — a
+lesson drafted in one pass reads as though it holds together, and only comes apart when
+each claim gets checked against its source.
+
+**A section you have not revised yet is a stale artifact, not a draft to edit.** Once the
+sections above it have been rewritten, whatever sits below was written against a body that
+no longer exists. Rebuild it from what the lesson now claims. Editing it into shape carries
+the old lesson's assumptions forward invisibly.
+
+---
+
 ## 1. Quotation
 
 One quotation at the top, no header.
@@ -29,6 +101,13 @@ One quotation at the top, no header.
 restatement of the title.
 
 **Length:** one to three sentences.
+
+**Test it against the body,** the same way an analogy gets tested. Two ways this goes
+wrong. A quotation that leads on a capacity the lesson hands to a different lesson points
+the reader away before they start. And a quotation that contradicts the body is worse than
+none — William James on attention being *"the very root of judgment, character, and will"*
+is the most-quoted line in the field and directly contradicts a lesson that says attention
+does not teach you judgment. The obvious epigraph is often the wrong one.
 
 **Verification:** traced to a primary source — the actual book, paper, interview, or
 translation. Quote sites are not sources. A series that promises *what we know and
@@ -53,7 +132,7 @@ point.
 
 This also carries the grounding that makes the lesson standalone. Define the terms
 this lesson uses, including ones defined in other lessons. Re-establish the dashboard
-framing in a couple of sentences where it's needed. Don't reproduce the introduction.
+framing in a couple of sentences where it's needed. Don't reproduce the curriculum page.
 
 **Failure mode:** teasing. No "we'll come back to what to do about this."
 
@@ -97,10 +176,17 @@ different words.
 
 ## 5. The Practice
 
-The most supported ways to work on this, **ordered most effective first.**
+The most supported ways to work on this, **ordered most effective first where the evidence
+supports a ranking.**
 
 **Job:** the methods. Plural — this is a practice, not an exercise. What actually works,
 in what order, and what to do when the first approach isn't available.
+
+**Where nothing ranks, say so.** Sometimes the honest finding is that the options are
+interchangeable and the choice is personal. No anchor for attention works best for
+everyone, and the research showing that people mispredict which one will suit them is more
+useful to a reader than a ranking would be. Inventing an order the evidence does not
+support is worse than presenting a set and saying how to choose.
 
 **Include the dose.** Embodiment is repetition until effort becomes reflex, so a method
 without a schedule is incomplete: how often, how long per session, how long before it
@@ -141,15 +227,31 @@ Why we think this, how the studies were built, and where it's uncertain or conte
 this section isn't carrying the argument — it's for the reader who wants to know how we
 know.
 
-Walk through the studies: how they were designed, who was in them, what was actually
-measured, what came out. Then the uncertainties and the opposing views — Barrett against
-Panksepp, the methodological criticism of Gottman's prediction figures, the fact that
-emotion-differentiation research is mostly correlational.
+**Lead each entry with the claim, not the study.** The unit is a claim the lesson makes,
+followed by how we know it — how the study was built, who was in it, what was measured,
+what came out, and where it is thin. A study backing three claims gets three entries, and
+that repetition is the point: a reader arrives holding one claim and has to be able to find
+it. Organizing by study instead buries the answer inside material about something else.
 
-**Written in standard English, with any technical term defined as it's used.** The
-model is the introduction's gloss: *"the regions of their brains that register
-salience—how much something grabs your attention."* A few words in passing, not a
-sentence of throat-clearing.
+**Follow the order the reader met the claims in.** They came from a specific place in the
+body and will look for them in the same sequence.
+
+**Then the uncertainties and the opposing views** — Barrett against Panksepp, the
+methodological criticism of Gottman's prediction figures, the fact that
+emotion-differentiation research is mostly correlational. This half is not answerable to
+the body. It guards against claims the reader will import on their own.
+
+**The section is not limited to what the body claims.** It also serves someone who wants to
+go deeper into the literature, so a strong study earns a place even when nothing above
+cites it — marked as going further than this lesson claims.
+
+**Subheadings are fine here.** When the section gets long enough to need scanning, group
+the entries under `###` headings of your own. The seven top-level headers are what stay
+fixed from lesson to lesson; what happens inside one does not.
+
+**Written in standard English, with any technical term defined as it's used.** The model
+is a gloss in passing: *"the regions of their brains that register salience—how much
+something grabs your attention."* A few words, not a sentence of throat-clearing.
 
 Which means precise notation mostly stays out. Write *a small-to-medium improvement*
 rather than an effect size and a confidence interval, and **link the study** so anyone
@@ -171,12 +273,28 @@ weakest-evidenced part of an otherwise strong method*. Many readers will stop be
 The Evidence, and they should not come away believing more than we know.
 
 But this is not a licence to hedge everything, and hedging is not free — a body paragraph
-loaded with qualifiers is one the reader stops trusting and stops finishing. The test is what
-it costs the reader to be wrong. *Attention practice is not a treatment for ADHD* carries a
-real cost and gets its caveat at the point of the claim. *You notice sooner when you have
-drifted* costs a reader nothing if it turns out to be softer than stated, so it goes in clean
-with a citation and the calibration waits. Say it cleanly, cite it, and let The Evidence carry
-how strong each leg is.
+loaded with qualifiers is one the reader stops trusting and stops finishing.
+
+**The test is what it costs the reader to be wrong.** *Attention practice is not a treatment
+for ADHD* carries a real cost and gets its caveat at the point of the claim. *You notice
+sooner when you have drifted* costs a reader nothing if it turns out to be softer than
+stated, so it goes in clean with a citation and the calibration waits. Say it cleanly, cite
+it, and let The Evidence carry how strong each leg is.
+
+This is also the test for whether an objection to a draft is worth raising at all. A
+limiting claim, a safety instruction, or an illustrative vignette costs a reader nothing if
+it turns out softer than stated. Matching a rule against one of those produces a correction
+that is technically defensible and wastes the round — *this figure has no source* is not a
+finding when the figure is a vignette in a passage explicitly about how something feels from
+the inside.
+
+**An unbacked claim gets cut, not labelled.** If a claim has nothing behind it, marking it
+as untested does not rescue it; it puts an unsupported assertion on the page with a
+disclaimer attached, and a curriculum full of those is a curriculum nobody should trust. Cut
+it or find the source. The one exception is a claim so obvious that nobody has studied it
+precisely because nobody doubts it — *planning helps you avoid some pain*, *a crisis that is
+eating your attention will keep eating it until it is dealt with*. Those read as unbacked
+because there is no trial to run.
 
 **Write for the self-guided reader.** Every lesson assumes one person doing this for
 themselves. Someone may have pointed them here, and that is all the pointing needs to
@@ -321,7 +439,7 @@ part: "Part Two — The Drives"
 date: YYYY-MM-DD
 description: "One sentence. Required — drives search and LLM retrieval."
 weight: 120                  # lesson number × 10
-cross_references: [13, 19]   # from the notes file
+cross_references: [13, 19]   # every lesson this one links to, plus any the notes plan
 unverified: []               # must be empty before publishing
 aliases: []
 ---
@@ -341,20 +459,34 @@ content.
 ## Publishing checklist
 
 1. `unverified:` is empty.
-2. Quotation traced to a primary source.
+2. Quotation traced to a primary source, and tested against the body.
 3. All seven parts present, in order, with the standard headers.
-4. Reads cold — terms defined, no dependence on having read the introduction.
+4. Reads cold — terms defined, no dependence on having read anything else.
 5. The Challenge is written so a reader can identify their own variant.
 6. The Practice includes a dose, and flags worse-before-better where it applies.
 7. Pass two done across the whole lesson — no unglossed jargon left, and every
    qualifier, hedge and conditional from pass one still standing.
-8. The Evidence links out to the studies rather than printing effect sizes.
-9. `description` set.
-10. **Linked from the introduction.** The spiral lists in
-    `content/embodied-emotional-intelligence/eei/_index.md` are the curriculum's
-    navigation hub — turn this lesson's entry into a link when it publishes. Hand-
-    maintained, so it drifts silently if skipped.
-11. Added to `static/llms.txt` — also hand-maintained, same failure mode.
+8. The Evidence links out to the studies rather than printing effect sizes, and every
+   claim the body makes has an entry. A claim asserted in three sections and answered in
+   none is the easiest thing to miss when the section gets rebuilt.
+9. `description` set, and `cross_references` matches the links actually in the lesson.
+10. Moved to `content/embodied-emotional-intelligence/eei/`, filename **without** the
+    lesson number — the URL is `/eei/<slug>/` and the numbering stays internal. Check for
+    a byte-order mark before the front matter; shell redirects on Windows add one silently
+    and it breaks front-matter parsing.
+11. **Linked from the curriculum page.** The spiral lists in
+    `content/embodied-emotional-intelligence/eei/_index.md` are the navigation hub — turn
+    this lesson's entry into a link when it publishes. Hand-maintained, so it drifts
+    silently if skipped.
+12. Added to `static/llms.txt` — also hand-maintained, same failure mode.
+13. **No lesson count anywhere a reader or crawler sees.** Publicly this is a yearlong
+    curriculum designed to be repeated. Internally there are 42 lessons and the numbering
+    is used freely; the number stays out of page descriptions, the homepage, `llms.txt`,
+    and link text.
+14. **Anything this lesson now covers properly comes off the curriculum page.** That page
+    previewed lessons before they existed. When a lesson ships, its share of that preview
+    moves into the lesson or into the notes, so the two do not say the same thing at
+    different levels of rigour.
 
 ---
 

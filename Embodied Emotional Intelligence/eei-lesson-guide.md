@@ -17,6 +17,8 @@ for, the thesis, and which lessons have to stay out of each other's way.
 
 Embodied emotional intelligence maturing into emotional wisdom — intelligence applied to your own emotional life, practised until it runs without being called, over enough years and enough real situations that it becomes judgement rather than technique. Every entry should be readable as: *here is what a person actually does, here is what to expect, here is what we know and don't.*
 
+**Publicly this is a yearlong curriculum designed to be repeated.** A reader works through it over a year and comes back around at a deeper level — that is what the spirals are for. Internally there are 42 lessons and the numbering is used freely in notes, filenames and front matter. **The count never appears in anything a reader or crawler sees:** not in page descriptions, not on the homepage, not in `llms.txt`, not in link text. The number is a working plan, not a promise.
+
 Neuroscience earns its place only twice — when it gives a reader a usable image (naming a feeling quiets the alarm) or when it establishes that something is real rather than folk belief. Brain-region detail beyond that belongs to a different book.
 
 ## Series thesis
@@ -36,7 +38,14 @@ Sensing and accepting are separate capacities that have to be trained together.
 ## Writing constraints for every lesson
 
 ### Self-containment
-Readers will land on a single lesson from a search without having read the others. Each one must re-establish enough to stand alone — the dashboard framing, the notice-and-allow distinction where relevant — without becoming a repeat of the introduction. Aim for two or three sentences of re-grounding, then get to the material.
+Readers will land on a single lesson from a search without having read the others. Each one must re-establish enough to stand alone — the dashboard framing, the notice-and-allow distinction where relevant — without becoming a repeat of the curriculum page. Aim for two or three sentences of re-grounding, then get to the material.
+
+### The curriculum page shrinks as lessons ship
+`content/embodied-emotional-intelligence/eei/_index.md` is the navigation hub, and it opens with the definitions — intelligence, emotional, embodied, wisdom — because those are series-level and belong nowhere else. Everything after them was written before any lesson existed, so it previewed material the lessons would later teach properly and with citations.
+
+**When a lesson ships, its share of that preview comes off the page** and moves into the lesson or into that lesson's notes. Panksepp's seven systems went to Emotional Awareness, the monitoring-and-acceptance passage to Observation, Listening and Overriding to their own lessons. What stays is whatever justifies the page itself: the definitions, the argument that these are separable capacities rather than one meter, and the spirals.
+
+The reason is not only length. A preview written without citations, sitting above a lesson that makes the same claim carefully, means the site says the same thing twice at different levels of rigour — and the looser version is the one a reader hits first.
 
 ### Division of labour
 Four lessons converge on abstraction and distance from thought. Keep them separate or they will repeat each other:
