@@ -30,3 +30,27 @@ Acceptance is the part that does the work. Monitoring on its own came out **leve
 A rough patch is still common, and it has its own evidence rather than needing to be derived from this mechanism: 83% of people through an eight-week program reported at least one meditation-related side effect, 58% something they experienced as unpleasant, and 6–14% something bad that lasted (Britton 2021). Rest the "expect to feel worse" teaching on that.
 
 The evidence that watching *does* hurt is about people who do it untrained — Desrosiers (2014), Pearson (2015) — and it is correlational, single-timepoint questionnaire work. Do not let it borrow the trial's strength.
+
+## Moved from the introduction, 5 Aug 2026
+*This is the section that carried the wrong thesis. Kept verbatim for the writing, NOT for the claim — see Central teaching above. "Noticing, on its own, makes things worse" is not what the trial found.*
+
+### The part that decides whether any of this works
+Noticing and accepting are two different skills. And noticing, on its own, makes things worse.
+
+Learning to catch what is happening inside you turns the volume up—it increases both your awareness and your reactivity, meaning how hard and how fast you react. Acceptance is the separate skill that changes your relationship to what you are now hearing. Only together do they reduce distress.
+
+Which means: when you start paying close attention to your internal states, there is a period where you will likely feel worse. That is not the practice failing. That is the first half working while the second half is still missing. If you notice fear, and then immediately judge or fight yourself for feeling afraid, you have just set off a second alarm about the first one. You create a loop that feeds itself and leaves you more reactive than when you started.
+
+So the instruction is not notice and fix. It is notice and allow.
+
+## Moved from the introduction, 5 Aug 2026
+*First half is this lesson. The second half — what your actions do to other people's dashboards — belongs to the Collision spiral.*
+
+### Mapping the patterns
+Once you can name what you feel and sit with it, the next question is what it does.
+
+Each drive proposes an action, and the proposals are predictable enough to map. Your anger proposes something specific—for one person that is escalation, turning the heat up; for another it is withdrawal, going quiet and pulling away; for another a cutting remark delivered calmly. These are personal. Someone else's anger does not push them where yours pushes you.
+
+Then comes the harder half, which most people skip: watching what your actions do to other people's dashboards.
+
+Your raised voice arrives in someone else's body as threat, and their fear system responds before they have decided anything. Your withdrawal arrives as abandonment. Your fixing arrives as being brushed aside. None of this is about intent. The signal your behavior sends is not the signal you meant to send, and the gap between those two is where most damaged relationships actually live.

@@ -35,3 +35,13 @@ Gross and John expected members of lower-status groups to suppress more often, b
 
 ## One finding that supports the embodiment claim
 Reappraisal can operate implicitly and automatically rather than deliberately, and unconscious reappraisal is relatively effortless while still reducing emotional reactivity. The prefrontal regions supporting intentional downregulation are also engaged during uninstructed modulation. That is what embodiment looks like in this literature — the same machinery, running without being called.
+
+## Moved from the introduction, 5 Aug 2026
+*The whole framing of this lesson.*
+
+### Overriding
+Override sounds like suppression. It should not be.
+
+Pushing a feeling down does not remove it. It removes your access to the information while leaving the physical state—the racing heart, the tight chest—running underneath, which is the worst of both. You lose the data and keep the cost.
+
+The version worth practicing is different. You feel the thing fully, you name what it is asking for, and you choose a different action than the one it proposed. There are three main ways to do that—delaying, changing what you understand the situation to mean, and finding a different outlet for what the emotion actually wants. Each gets its own treatment later.

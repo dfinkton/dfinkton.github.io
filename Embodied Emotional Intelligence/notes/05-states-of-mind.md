@@ -20,3 +20,13 @@ Ahmed, Bittencourt-Hewitt & Sebastian (2015), *Developmental Cognitive Neuroscie
 
 ## Framing
 The network that ruminates is the network that plans and reads other minds. Control over entry and exit, not silence.
+
+## Moved from the introduction, 5 Aug 2026
+*The hot/cold point is this lesson. The list of conditions points at 31-36.*
+
+### Conditions
+None of this works equally well at all times. Reasoning that is fully available when you are calm is often unavailable when you are not—every adult knows this from the inside, having worked out exactly what they should have said about twenty minutes after the conversation ended.
+
+Certain conditions also weaken the whole system, and most people carry several at once. Sleep loss is the best documented. Alcohol, hunger, long-running stress, and money pressure all measurably reduce the capacity this work runs on. Each gets its own lesson, because each matters more than it looks.
+
+If you have tried to be steadier and failed, this is usually the explanation. Not that you lack the ability—that you were attempting a genuinely difficult skill in conditions that weaken it.
