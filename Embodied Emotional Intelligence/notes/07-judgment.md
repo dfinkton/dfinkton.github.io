@@ -25,6 +25,13 @@ Generating alternatives before responding. Self-persuasion: arguing the benign c
 - Dodge, K. A., & Godwin, J. (2013). *Psychological Science, 24*, 456–465. — Attributional change mediates the effect of prevention on antisocial behavior.
 - Self-persuasion experiments (2018, *Journal of Abnormal Child Psychology*): children who recorded a video arguing for nonhostile intentions reduced their own bias; replicated. Effects on aggression were small.
 
+## Opening quotation candidates
+All three surfaced while looking for a lesson-1 epigraph and were moved here — they are decentering lines, and decentering is this lesson's territory. **None is verified.** Each needs tracing to the actual book or talk before use; all three currently circulate mainly on quote aggregators.
+
+- **Eckhart Tolle** — *"The moment you start watching the thinker, a higher level of consciousness becomes activated."* Likely *The Power of Now* (1997), probably chapter 1. The most on-target of the three: watching the thinker is exactly this lesson's technique.
+- **Nisargadatta Maharaj** — *"There is nothing to do. Just watch. To do nothing is the most difficult of all practices... As you watch your mind, you discover yourself as the watcher."* Usually cited to *I Am That*; the ellipsis suggests it has been stitched from separate passages, so check whether it is one continuous quote.
+- **Anthony de Mello** — *"Awareness is not the same as thinking. Awareness is watching the thought."* Presumably *Awareness* (1990), assembled posthumously from talks.
+
 ## Practices — thoughts
 Seeing a thought as a mental event rather than a fact. Naming the thought as a thought. Noticing the difference between what you perceived and the story built on it.
 

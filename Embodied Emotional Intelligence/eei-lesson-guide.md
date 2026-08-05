@@ -21,7 +21,17 @@ Neuroscience earns its place only twice — when it gives a reader a usable imag
 
 ## Series thesis
 
-Sensitivity without acceptance is worse than not sensing at all. The two capacities have to be trained together. Supported at three scales — beginner mechanism over weeks (Monitor and Acceptance Theory), social-emotional capacity (empathy vs. compassion training), and endpoint after decades (expert practitioner data). The decentering literature is a fourth instance of the same shape: meta-awareness, then disidentification, then reduced reactivity.
+Sensing and accepting are separate capacities that have to be trained together.
+
+**The direct evidence is one trial.** Lindsay and colleagues (2018) gave 153 stressed adults fourteen days of either monitoring plus acceptance, monitoring alone, or a matched coping control, all recorded by the same instructor. Monitoring plus acceptance lowered stress reactivity. Monitoring alone came out level with the control. That establishes acceptance as the ingredient doing the work.
+
+**The other three supports are the same shape read onto other literatures, not independent tests of it.** Worth knowing which is which before leaning on any of them.
+
+- **Empathy vs. compassion training** — Klimecki et al. (2014). Cite it for what compassion adds, not for what empathy alone costs. Compassion training raised positive affect against the control clearly. The harm half did not hold up: empathy training raising negative affect was a within-group change that reached only P = 0.09 against the control group, the control's negative affect fell over the same interval anyway, the two groups were scanned sequentially rather than randomly assigned, all 53 participants were women, and the outcome is how someone felt watching a short video clip in a scanner.
+- **Expert practitioner data** — Lutz et al. (2013). The endpoint looks like the thesis, but the study never separated sensing from accepting. Consistent with it, not evidence for it.
+- **Decentering** — meta-awareness, then disidentification, then reduced reactivity. A structural parallel, not a test.
+
+**Do not write "sensitivity without acceptance is worse than not sensing at all."** That was the earlier phrasing here and it is wrong. The one trial that tested it found monitoring alone level with the control rather than below it, and the authors say so directly. The evidence that self-watching goes with distress comes from questionnaire studies of people who do it *untrained*, and it is correlational. Safety warnings belong where a specific lesson's own evidence puts them.
 
 ## Writing constraints for every lesson
 
@@ -88,9 +98,9 @@ Two overlap pairs to write knowing about each other: **Care (15)** is the drive,
 
 **Two lessons where the gap is my searching, not the field:** Boundaries (11) — assertiveness-training literature untouched. Sexual Attraction (17) — responsive versus spontaneous desire, Basson's model, untouched.
 
-**Lessons where the evidence is genuinely thin, and the lesson should say so:** Sadness and Grief (12), De-escalation (26), Turning It Up (37).
+**Lessons where the evidence is genuinely thin, and the lesson should say so:** Sadness and Grief (12), De-escalation (27), Turning It Up (39).
 
-**A search-failure pattern to guard against.** Impermanence (13) and Sympathetic Joy (29) were both logged here as thin. Both were wrong. The literatures exist under other names — *nonattachment* and *equanimity* for the first, *appreciative joy* for the second, the latter published mostly by Chinese researchers. Searching in the vocabulary of Western clinical and affective science returned absence. **Before recording any construct as unstudied, search its name in the tradition it comes from, and in the journals and languages that tradition publishes in.** Listening (18) is a framing rather than a findings lesson.
+**A search-failure pattern to guard against.** Impermanence (13) and Sympathetic Joy (30) were both logged here as thin. Both were wrong. The literatures exist under other names — *nonattachment* and *equanimity* for the first, *appreciative joy* for the second, the latter published mostly by Chinese researchers. Searching in the vocabulary of Western clinical and affective science returned absence. **Before recording any construct as unstudied, search its name in the tradition it comes from, and in the journals and languages that tradition publishes in.** Listening (18) is a framing rather than a findings lesson.
 
 ## Verification list
 

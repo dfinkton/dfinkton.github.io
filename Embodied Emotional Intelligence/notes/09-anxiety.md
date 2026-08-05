@@ -12,6 +12,11 @@ Owns the forward-facing version of abstraction — worry as verbal-linguistic av
 ## What it's for
 The most common reason a reader arrives at this material, and the one place the series should show its own machinery working.
 
+## Opening quotation — strong candidate
+Bobby McFerrin, "Don't Worry, Be Happy" (1988): *"In every life we have some trouble / But when you worry you make it double."*
+
+Considered for lesson 1 and moved here, where it is the thesis rather than a supporting movement. It states the second arrow in eight words — the trouble is the first arrow, the worry is the one you fire yourself — and it does it playfully, which suits a lesson readers arrive at while anxious. Two things to settle before using it: confirm the exact lyric against a licensed source rather than a lyrics site, and check whether quoting a song line needs different handling from quoting a book.
+
 ## The framing
 Anxiety is not a drive. Panksepp's list has FEAR. Anxiety is closer to fear with no present object, plus time, plus repetitive thought — a compound rather than a primitive. Saying so is the teaching: it tells the reader which separate capacities to reach for rather than offering a single technique for a thing that isn't single.
 

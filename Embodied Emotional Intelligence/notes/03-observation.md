@@ -7,7 +7,12 @@ cross_references: [1, 2, 6, 7, 9, 19]
 ---
 
 ## What it's for
-Watching without acting — and the discovery that watching alone makes things worse.
+Watching without acting — and the discovery that watching alone is not the part that helps.
+
+## Opening quotation candidate — handle with care
+**Jiddu Krishnamurti** — *"To watch without judgment is the highest form of intelligence."* Non-judgment is this lesson's half of the pair, so the fit is right. The sourcing is not.
+
+It traces to Marshall Rosenberg's *Nonviolent Communication*, which quotes it and attributes it to Krishnamurti, and it circulates in at least three different wordings — *observe yourself without judgment*, *observe without evaluating*, *watch without judgment*. Multiple wordings of one sentence is the signature of a line passed hand to hand rather than read. I could not find it in Krishnamurti's own published talks. The Krishnamurti Foundation archives are the place to settle it; if it does not turn up there, the honest move is to cite Rosenberg for the formulation or drop it.
 
 ## Practices
 Tracking one feeling arrival to departure. Logging patterns across weeks. Notice-and-allow, not notice-and-fix. What to do during the rough patch.
@@ -20,4 +25,8 @@ Tracking one feeling arrival to departure. Logging patterns across weeks. Notice
 - The critical review of MAT in *Mindfulness* (2023), identifying four problems in its supporting literature.
 
 ## Central teaching
-Expect a period where you feel worse. That is the first half working while the second half is missing.
+Acceptance is the part that does the work. Monitoring on its own came out **level with an active control, not below it** (Lindsay 2018), and the authors say directly that they found no evidence monitoring-only training worsened anyone's stress response. So the teaching is not that watching harms you — it is that watching alone does not help.
+
+A rough patch is still common, and it has its own evidence rather than needing to be derived from this mechanism: 83% of people through an eight-week program reported at least one meditation-related side effect, 58% something they experienced as unpleasant, and 6–14% something bad that lasted (Britton 2021). Rest the "expect to feel worse" teaching on that.
+
+The evidence that watching *does* hurt is about people who do it untrained — Desrosiers (2014), Pearson (2015) — and it is correlational, single-timepoint questionnaire work. Do not let it borrow the trial's strength.

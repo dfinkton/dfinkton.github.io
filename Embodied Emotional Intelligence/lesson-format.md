@@ -12,9 +12,9 @@ not change from lesson to lesson.
 
 These are lessons in a workbook, not essays. They are instructional, structured the same
 way every time, cited throughout, and meant to be returned to and re-run. The reader is
-either working on this themselves or helping someone else, and the aim is that they come
-away understanding the learning and holding proven ways to embody it. Each lesson stands
-alone — readers arrive from a search and may only ever read this one.
+working on this themselves, and the aim is that they come away understanding the learning
+and holding proven ways to embody it. Each lesson stands alone — readers arrive from a
+search and may only ever read this one.
 
 Series-level material — the thesis, the division of labour between overlapping lessons,
 the lesson list — lives in `eei-lesson-guide.md`. This file covers shape only.
@@ -111,8 +111,8 @@ kill it.
 
 **Safety:** where a practice can make things worse before better, say so *here*, at the
 point of instruction, as well as in What to Expect. A reader can act on this section and
-never scroll further. Observation and emotional awareness are the clear cases — the
-series thesis is that noticing without accepting makes people worse.
+never scroll further. What counts as worse-before-better is specific to the practice, so
+it comes out of that lesson's own evidence rather than from a rule set in advance.
 
 **Failure mode:** abstraction. "Notice your patterns" is not a practice.
 
@@ -139,7 +139,7 @@ Why we think this, how the studies were built, and where it's uncertain or conte
 
 **Job:** depth, not justification. Claims are already attributed where they're made, so
 this section isn't carrying the argument — it's for the reader who wants to know how we
-know, and for someone deciding whether to use this with another person.
+know.
 
 Walk through the studies: how they were designed, who was in them, what was actually
 measured, what came out. Then the uncertainties and the opposing views — Barrett against
@@ -166,20 +166,86 @@ Enough that a reader knows this isn't opinion. The Evidence section then carries
 detail. There is no separate bibliography; The Evidence is the reference section, in
 prose.
 
-**Signal confidence inline.** *Reliably*, *in one small trial*, *this is the
+**Signal confidence inline, when it is relevant.** *Reliably*, *in one small trial*, *this is the
 weakest-evidenced part of an otherwise strong method*. Many readers will stop before
 The Evidence, and they should not come away believing more than we know.
 
-**Helper notes stay out of the spine.** Where something genuinely differs for someone
-guiding another person, add a short inline note in a consistent form the self-guided
-reader can skip. Only where it differs — not in every section, and not in the lessons
-that are already about other people.
+But this is not a licence to hedge everything, and hedging is not free — a body paragraph
+loaded with qualifiers is one the reader stops trusting and stops finishing. The test is what
+it costs the reader to be wrong. *Attention practice is not a treatment for ADHD* carries a
+real cost and gets its caveat at the point of the claim. *You notice sooner when you have
+drifted* costs a reader nothing if it turns out to be softer than stated, so it goes in clean
+with a citation and the calibration waits. Say it cleanly, cite it, and let The Evidence carry
+how strong each leg is.
+
+**Write for the self-guided reader.** Every lesson assumes one person doing this for
+themselves. Someone may have pointed them here, and that is all the pointing needs to
+be — hand a motivated person the link. No helper notes and no instructions for running
+this with someone else. That is a different project with limited upside, and a reader
+who isn't motivated won't be carried through it by one who is.
+
+Lessons whose subject is other people — repair, boundaries, de-escalation — are still
+about the reader's own relationships. And telling a reader to involve someone else for
+their own safety is not a helper note; it stays.
 
 **Cross-references are inline links** at the point the other lesson becomes relevant.
 No closing "related lessons" block; it implies the reader is mid-sequence.
 
 **Plain English everywhere,** not only in The Evidence — see the two-pass process
 below. That section is just where jargon accumulates fastest.
+
+---
+
+## Prose style
+
+Clarity above everything. When a simple explanation will do, use it. These rules are about
+sentences, not structure, and they apply to every section.
+
+**Say the thing.** Cut the throat-clearing that introduces a claim instead of making it.
+*The framing this series uses is that emotions are dashboard lights* is worse than
+*emotions are information, lights on a dashboard.* Same for *here is the whole point,
+stated flat, so that a reader who reads nothing else still has it* — just state the point.
+*And what happens next is the entire lesson* is filler; write what happens next.
+
+**Do not narrate the document.** No *we will come to that*, no *the rest is detail:
+what people do instead, what the returning gets you...*, no *see The Evidence*, no
+table of contents for a page the reader can see. Each lesson stands alone, so it should
+not read as a chapter aware of its own position. Inline cross-reference links to other
+lessons stay — those are for the reader, not the narrator.
+
+**The narrator recedes.** First person is fine occasionally, and it earns its place most
+in The Evidence, where a judgment is being made — *I would treat this as promising rather
+than established.* Elsewhere, prefer the claim over a report of the claim.
+
+**Every analogy must teach.** A good one carries the mechanism and gets room to breathe:
+the best basketball players miss half their shots and never stop missing, and what they
+have is a fast feedback loop — that one was long, that one drifted left, adjust, shoot
+again. A weak one gestures at meaning it does not deliver: *the lift is the repetition and
+standing at the bar is not.* If the reader has to work out what maps to what, cut it.
+Test the mapping against the rest of the lesson too — an analogy that implies a claim the
+evidence section contradicts is worse than no analogy.
+
+**Never flatten a gradient into a binary.** This is the most common way the writing goes
+wrong, because binaries sound crisp. *It never stops* and *you can move this a lot but
+never to zero* are different claims, and the second one is both truer and the one that
+makes someone practice. Watch for *never*, *always*, *what never happens is*, and for
+absolutes smuggled in as emphasis — *their minds still went everywhere* when what happened
+is *they still wandered*. Where two things both improve, say both and say how they compound.
+
+Note this is the sentence-level twin of the pass-two rule below about deleting qualifiers.
+There, nuance is lost by simplifying vocabulary. Here, it is lost by reaching for a
+stronger, cleaner-sounding claim than the evidence supports.
+
+**State the fact, link the source, move on.** Study design does not belong in the body.
+*Experienced meditators with more than a thousand hours of practice, asked to watch their
+breath for twenty minutes, still lost it about fifteen times* plus a link is the body
+version. Participant counts, control conditions, effect sizes, confounds and the authors'
+own caveats go in The Evidence, which exists for exactly this. A body paragraph that stops
+the instruction to explain a study is in the wrong section.
+
+**Numbers must have a source.** If a figure cannot be traced, cut it rather than softening
+it. An invented *about fifteen seconds of noticing* reads exactly like a researched one,
+which is the problem.
 
 ---
 
