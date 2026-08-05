@@ -309,6 +309,14 @@ their own safety is not a helper note; it stays.
 **Cross-references are inline links** at the point the other lesson becomes relevant.
 No closing "related lessons" block; it implies the reader is mid-sequence.
 
+**Only link a lesson that has already shipped.** Until then, name the capacity in prose
+and leave it unlinked — *Observation is where allowing gets trained*. A dead link is worse
+than a plain noun, and worst where the reference is a safety instruction: the first lesson
+went live telling a reader whose habit of leaving their body is old and familiar to start
+with Observation instead, and that link 404'd. The front matter's `cross_references` still
+lists every intended lesson whether it exists or not — that is the map of what to come back
+and link once each target ships.
+
 **Plain English everywhere,** not only in The Evidence — see the two-pass process
 below. That section is just where jargon accumulates fastest.
 
@@ -479,11 +487,15 @@ content.
     this lesson's entry into a link when it publishes. Hand-maintained, so it drifts
     silently if skipped.
 12. Added to `static/llms.txt` — also hand-maintained, same failure mode.
-13. **No lesson count anywhere a reader or crawler sees.** Publicly this is a yearlong
+13. **Inbound links added from lessons already published.** Any live lesson that names
+    this capacity in prose can now link to it. Check each published lesson's
+    `cross_references` for this lesson's number — that is the list of pages waiting on it.
+    Skipped, and the curriculum quietly stays a set of disconnected pages.
+14. **No lesson count anywhere a reader or crawler sees.** Publicly this is a yearlong
     curriculum designed to be repeated. Internally there are 42 lessons and the numbering
     is used freely; the number stays out of page descriptions, the homepage, `llms.txt`,
     and link text.
-14. **Anything this lesson now covers properly comes off the curriculum page.** That page
+15. **Anything this lesson now covers properly comes off the curriculum page.** That page
     previewed lessons before they existed. When a lesson ships, its share of that preview
     moves into the lesson or into the notes, so the two do not say the same thing at
     different levels of rigour.

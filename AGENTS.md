@@ -97,20 +97,18 @@ Embodied Emotional Intelligence/
 │   ├── 02-emotional-awareness.md
 │   ├── ...
 │   └── 42-flourishing.md
-└── lessons/                        # Completed drafts (ready to publish) — currently empty
+└── lessons/                        # Drafts in progress. A finished lesson moves to content/ and does not stay here
 ```
 
-**Current state:** the format is agreed and written down. Zero of the 42 are drafted. The introduction is published; nothing else in the curriculum is.
+**Current state:** the format is agreed and written down. **Focus and Attention (1) is finished and published.** Nothing else in the curriculum is drafted. The curriculum page is published and shrinks as lessons ship — see "The curriculum page shrinks as lessons ship" in `eei-lesson-guide.md`.
 
 ### Workflow for Writing a Lesson
-1. Read `lesson-format.md` — the 7-section structure is fixed and applies to all 42
-2. Load the note file: `notes/XX-lesson-name.md`
-3. Read the research notes, cross-references, and honest notes
-4. **Pass one** — write the draft for clarity. Full nuance, whatever vocabulary the idea needs. Do not simplify yet.
-5. **Pass two** — go back and replace words a 7th-grade reader wouldn't know. Change words, never claims. See "Writing in two passes" in `lesson-format.md`.
-6. Save completed draft to `lessons/XX-lesson-name.md`
-7. When ready to publish: copy to `content/embodied-emotional-intelligence/eei/` with Hugo front matter, after clearing the `unverified:` list
-8. Link it from the spiral lists in the introduction (`content/embodied-emotional-intelligence/eei/_index.md`) — that's the curriculum's navigation hub — and add it to `static/llms.txt`. Both are hand-maintained and drift silently.
+**`lesson-format.md` is the authority** for the seven-section structure, the order of work, the two vocabulary passes, and the publishing checklist. Do not keep a second copy of the process here — the copy that used to live in this file went stale within one lesson.
+
+1. Read `lesson-format.md` start to finish.
+2. Load the lesson's note file, `notes/XX-lesson-name.md`, and build the section-by-section plan in it: every claim the section will make, the source behind it, and whether that source has been checked against the primary text. Verification happens here, not at the end.
+3. Draft one section at a time, in the order the format file gives — Challenge, Benefit, Practice, What to Expect, Evidence, Overview, Quotation. Not the order they appear in, and each position has a reason.
+4. Work the publishing checklist at the end of `lesson-format.md`. It covers the file move, the byte-order-mark trap, the spiral-list link, `llms.txt`, and the rule that no lesson count appears in anything a reader sees.
 
 ### Lesson List (42 lessons in 6 parts)
 **Part One — Attention and Observation:** Focus, Emotional Awareness, Observation, Gratitude, States of Mind, Rumination, Judgment
