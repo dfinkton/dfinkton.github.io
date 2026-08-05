@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Focus and Attention"
 lesson: 1
 part: "Part One — Attention and Observation"
