@@ -32,7 +32,7 @@ Think about shooting a basketball. The best players in the world miss about half
 
 Focus works exactly like that. When scientists put experienced meditators—people with over a thousand hours of practice—into a brain scanner and asked them to watch their breath for twenty minutes, they still lost focus about fifteen times. That's roughly once every eighty seconds ([Hasenkamp and colleagues, 2012](https://pubmed.ncbi.nlm.nih.gov/21782031/)). These were experts, and their attention still wandered.
 
-You won't make every shot. But you can make a lot more than you make now. Practice does two things: your attention drifts less often, and it re-engages more efficiently once it does ([Mrazek and colleagues, 2013](https://journals.sagepub.com/doi/10.1177/0956797612459659); [Hasenkamp and colleagues, 2012](https://pubmed.ncbi.nlm.nih.gov/21782031/)). Those two things add up—fewer trips away, and each one taking less out of you. You don't get a perfectly silent mind; you just get to spend far more of your day exactly where you meant to be.
+You won't make every shot. But you can make a lot more than you make now. Practice does two things: your attention drifts less often, and it re-engages more efficiently once it does ([Mrazek and colleagues, 2013](https://journals.sagepub.com/doi/10.1177/0956797612459659); [Hasenkamp and colleagues, 2012](https://pubmed.ncbi.nlm.nih.gov/21782031/)). Those two things add up—fewer trips away, and each one taking less effort to come back from. You don't get a perfectly silent mind; you just get to spend far more of your day exactly where you meant to be.
 
 It also takes a lot less time than you might think. Just thirteen minutes a day changed attention, memory, and mood in people who had never meditated before—at eight weeks, though not yet at four ([Basso and colleagues, 2019](https://pubmed.ncbi.nlm.nih.gov/30153464/)). One minute a day is a completely fine place to start. A session can even be seconds long. The teacher Yongey Mingyur Rinpoche advises **short times, many times**—take one intentional breath, many times a day, while you wait for the kettle to boil or before you open your laptop. That advice comes from a teaching tradition, and it holds up: short, frequent practice has real evidence behind it, not just longer sessions, and a tiny practice you actually keep beats a serious one you quit by day three.
 
@@ -100,7 +100,7 @@ This doesn't mean you stop thinking about the past or the future. Thinking about
 
 The goal of attention practice isn't an empty head; it is a mind you can actually steer — the ability to realize you are thinking, and to ask yourself: *Am I working on this, or am I just spinning?*
 
-From the inside, it doesn't feel like perfect concentration; it feels like a shorter leash. Your mind still bolts, but it leaves less often, and coming back costs you less each time. Before training, your mind leaves a difficult conversation and by the time you catch it, you've missed a whole paragraph and have to work to find your place again. After, the leaving is shorter and the return is easier — you pick the thread back up without the same jolt.
+From the inside, it doesn't feel like perfect concentration; it feels like a shorter leash. Your mind still bolts, but it leaves less often, and coming back takes less effort each time. Before training, your mind leaves a difficult conversation and by the time you catch it, you've missed a whole paragraph and have to work to find your place again. After, the leaving is shorter and the return is easier — you pick the thread back up without the same jolt.
 
 That shorter leash changes how a normal day feels. A drifting mind gets captured by algorithms, feeds, and highly engineered distractions, and when you are used to that level of constant, frantic stimulation, quiet moments start to feel like an uncomfortable itch.
 
@@ -175,7 +175,7 @@ A few situations make this work less well. Naming them means that if you hit a w
 - **Acute distress:** Sitting alone with your own interior when you are completely overwhelmed is the wrong order of operations. Steady yourself first, ideally with another person, and come back to this later.
 - **An unresolved crisis:** If a genuine life situation is actively eating your attention, that attention is not coming back until the situation is dealt with.
 
-One last thing, so it doesn't catch you off guard years from now: this does not turn into effortless focus on demand. Long after the practice is well established, your mind still leaves. It leaves less often, and coming back costs less, but it leaves.
+One last thing, so it doesn't catch you off guard years from now: this does not turn into effortless focus on demand. Long after the practice is well established, your mind still leaves. It leaves less often, and coming back takes less effort, but it leaves.
 
 The wandering isn't a beginner's problem that experienced people have solved—it is the thing you are practicing on.
 
