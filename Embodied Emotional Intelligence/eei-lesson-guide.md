@@ -1,7 +1,7 @@
 ---
 title: "Embodied Emotional Intelligence — Lesson Guide"
 subtitle: "Series overview, writing constraints, and cross-references"
-date: 2026-07-25
+date: 2026-08-06
 status: internal working document
 ---
 
@@ -9,9 +9,12 @@ status: internal working document
 
 Individual lesson notes are in the `notes/` folder, one file per lesson. Completed drafts go in `lessons/`.
 
-The structure every lesson follows — the seven sections, citation handling, and the
-publishing checklist — is in `lesson-format.md`. This file covers the series: what it's
-for, the thesis, and which lessons have to stay out of each other's way.
+The structure every lesson follows — the seven sections, citation handling, and prose
+style — is in `lesson-format.md`. What to check and when, plus the publishing checklist,
+is in `verification-checklist.md`. What each already-verified source supports and cannot
+support is in `source-ledger.md` — check it before re-verifying anything. This file
+covers the series: what it's for, the thesis, and which lessons have to stay out of each
+other's way.
 
 ## What this series is for
 
@@ -68,50 +71,50 @@ Two overlap pairs to write knowing about each other: **Care (15)** is the drive,
 
 ## Lesson list
 
-| # | Title | Part |
-|---|-------|------|
-| 1 | Focus and Attention | Attention and Observation |
-| 2 | Emotional Awareness | Attention and Observation |
-| 3 | Observation: Monitoring and Acceptance | Attention and Observation |
-| 4 | Gratitude | Attention and Observation |
-| 5 | States of Mind | Attention and Observation |
-| 6 | Rumination | Attention and Observation |
-| 7 | Judgment: Reading Intent, Reading Your Own Thoughts | Attention and Observation |
-| 8 | Fear and Anger | The Drives |
-| 9 | Anxiety | The Drives |
-| 10 | Shame and Self-Criticism | The Drives |
-| 11 | Boundaries | The Drives |
-| 12 | Sadness, Grief, and Slowing Down | The Drives |
-| 13 | Impermanence | The Drives |
-| 14 | Joy, Play, and Curiosity | The Drives |
-| 15 | Care and Its Failure Mode | The Drives |
-| 16 | Status Seeking and Testosterone | The Drives |
-| 17 | Sexual Attraction | The Drives |
-| 18 | Listening | The Choice |
-| 19 | Overriding | The Choice |
-| 20 | Breath | The Choice |
-| 21 | Distress Tolerance | The Choice |
-| 22 | Touch | Other People |
-| 23 | Co-regulation | Other People |
-| 24 | Belonging | Other People |
-| 25 | Talk About It | Other People |
-| 26 | Stopping A Fight | Other People |
-| 27 | De-escalation | Other People |
-| 28 | Repair | Other People |
-| 29 | Compassion | Other People |
-| 30 | Sympathetic Joy | Other People |
-| 31 | Sleep | Conditions |
-| 32 | Food and Water | Conditions |
-| 33 | Money | Conditions |
-| 34 | Mind-Altering Substances | Conditions |
-| 35 | Movement | Conditions |
-| 36 | Nature | Conditions |
-| 37 | Designing the Room | Design and Horizon |
-| 38 | Dose, Difficulty, and How You'd Know | Design and Horizon |
-| 39 | Turning It Up | Design and Horizon |
-| 40 | Purpose and Storytelling | Design and Horizon |
-| 41 | Mastery & Wisdom | Design and Horizon |
-| 42 | Flourishing: Going beyond the baseline | Design and Horizon |
+| # | Title | Part | Status |
+|---|-------|------|--------|
+| 1 | Focus and Attention | Attention and Observation | Shipped 2026-08-06 |
+| 2 | Emotional Awareness | Attention and Observation | |
+| 3 | Observation: Monitoring and Acceptance | Attention and Observation | |
+| 4 | Gratitude | Attention and Observation | |
+| 5 | States of Mind | Attention and Observation | |
+| 6 | Rumination | Attention and Observation | |
+| 7 | Judgment: Reading Intent, Reading Your Own Thoughts | Attention and Observation | |
+| 8 | Fear and Anger | The Drives | |
+| 9 | Anxiety | The Drives | |
+| 10 | Shame and Self-Criticism | The Drives | |
+| 11 | Boundaries | The Drives | |
+| 12 | Sadness, Grief, and Slowing Down | The Drives | |
+| 13 | Impermanence | The Drives | |
+| 14 | Joy, Play, and Curiosity | The Drives | |
+| 15 | Care and Its Failure Mode | The Drives | |
+| 16 | Status Seeking and Testosterone | The Drives | |
+| 17 | Sexual Attraction | The Drives | |
+| 18 | Listening | The Choice | |
+| 19 | Overriding | The Choice | |
+| 20 | Breath | The Choice | |
+| 21 | Distress Tolerance | The Choice | |
+| 22 | Touch | Other People | |
+| 23 | Co-regulation | Other People | |
+| 24 | Belonging | Other People | |
+| 25 | Talk About It | Other People | |
+| 26 | Stopping A Fight | Other People | |
+| 27 | De-escalation | Other People | |
+| 28 | Repair | Other People | |
+| 29 | Compassion | Other People | |
+| 30 | Sympathetic Joy | Other People | |
+| 31 | Sleep | Conditions | |
+| 32 | Food and Water | Conditions | |
+| 33 | Money | Conditions | |
+| 34 | Mind-Altering Substances | Conditions | |
+| 35 | Movement | Conditions | |
+| 36 | Nature | Conditions | |
+| 37 | Designing the Room | Design and Horizon | |
+| 38 | Dose, Difficulty, and How You'd Know | Design and Horizon | |
+| 39 | Turning It Up | Design and Horizon | |
+| 40 | Purpose and Storytelling | Design and Horizon | |
+| 41 | Mastery & Wisdom | Design and Horizon | |
+| 42 | Flourishing: Going beyond the baseline | Design and Horizon | |
 
 ## Open research
 
@@ -123,4 +126,11 @@ Two overlap pairs to write knowing about each other: **Care (15)** is the drive,
 
 ## Verification list
 
-Slagter on the attentional blink · Neff and the self-compassion measurement debate · Garfinkel & Critchley interoception dimensions · Verduyn on emotion duration · Steele & Josephs alcohol myopia · Volanen Healthy Learning Mind · DBT recovery and dropout figures · McEwen allostatic load · opiates and emotional numbing
+Flagged figures for lessons not yet drafted. When a lesson's notes file gets created,
+carry its relevant item into that file's own open-questions rather than tracking it here
+— this list is a pre-drafting index, not a substitute for the notes file's verification
+record. Drop an item once its lesson ships with `unverified: []` (Slagter on the
+attentional blink was the first — resolved and cited in Lesson 1, removed from this list
+2026-08-06).
+
+Neff and the self-compassion measurement debate · Garfinkel & Critchley interoception dimensions · Verduyn on emotion duration · Steele & Josephs alcohol myopia · Volanen Healthy Learning Mind · DBT recovery and dropout figures · McEwen allostatic load · opiates and emotional numbing

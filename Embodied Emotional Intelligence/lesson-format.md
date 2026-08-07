@@ -1,7 +1,7 @@
 ---
 title: "Embodied Emotional Intelligence — Lesson Format"
 subtitle: "The structure every lesson follows"
-date: 2026-07-31
+date: 2026-08-06
 status: internal working document
 ---
 
@@ -17,7 +17,30 @@ and holding proven ways to embody it. Each lesson stands alone — readers arriv
 search and may only ever read this one.
 
 Series-level material — the thesis, the division of labour between overlapping lessons,
-the lesson list — lives in `eei-lesson-guide.md`. This file covers shape only.
+the lesson list — lives in `eei-lesson-guide.md`. This file covers shape and prose.
+Checking claims — what to verify and when, plus the publishing checklist — lives in
+`verification-checklist.md`. Run that alongside this one; it is not optional reading,
+it is a pass you run per claim while drafting.
+
+---
+
+## Working process
+
+Darryl drafts prose by hand in a parallel `.txt` file next to the lesson
+(`lessons/NN-<slug>...txt`) — he overwrites it in place, so re-read it before responding
+rather than working from a copy read minutes earlier. The assistant's job is research and
+verification, not re-voicing him: hand back proposed edits as a numbered list with
+reasons, not prose rewrites, and let him decide what to apply.
+
+Revising text already in the `.md` goes one paragraph at a time, confirmed before moving
+to the next. Do not batch fixes across a section, and do not fix something adjacent that
+wasn't asked about — flag it and wait. When he questions a sentence, that is a question,
+not authorization to rewrite the section around it.
+
+Section build order for a lesson in progress: **The Challenge → The Benefit → The
+Practice → What to Expect → The Evidence → The Overview → The Quotation** (reasons below,
+under *How a lesson gets built*). A section below the one currently being revised is a
+stale artifact of the old draft, not a base to edit, until it gets its own pass.
 
 ---
 
@@ -113,6 +136,12 @@ does not teach you judgment. The obvious epigraph is often the wrong one.
 translation. Quote sites are not sources. A series that promises *what we know and
 don't* cannot open with something the internet invented. Untraceable means cut it; a
 lesson may ship without a quotation rather than with a false one.
+
+*Exception — contemplative teachers.* For a teacher quoted from an oral or teaching
+tradition, with no journal article or fixed edition to check against, corroboration
+across multiple independent teaching pages or the tradition's own materials is enough —
+it does not need to block publishing. This does not extend to research citations, which
+still need the actual paper.
 
 ```markdown
 > Quotation text goes here.
@@ -297,39 +326,9 @@ that is technically defensible and wastes the round — *this figure has no sour
 finding when the figure is a vignette in a passage explicitly about how something feels from
 the inside.
 
-**A caveat needs a source the same way a claim does.** An unsourced hedge is an unbacked
-claim wearing modesty, and it is harder to spot because it sounds careful. *Findings about
-brain structure changing after brief training have a poor track record* went into the first
-lesson with nothing behind it — whose findings, which failures, how poor. Worse, it
-displaced what the authors did report: that each module's cortical change tracked that same
-person's improvement on the behaviour it trained. The hedge was not just unsupported, it
-contradicted the paper.
-
-So before writing a limitation, read what the authors state as theirs. It is usually more
-specific and more interesting than the generic doubt — in that study, that this work can
-only be done with non-invasive scanning, so they can *"merely speculate about the
-neurobiological mechanisms."* That is a real limit. *Poor track record* is a mood.
-
-**Do not claim a literature is empty.** *Nobody has measured this*, *no trial has tested that*,
-*nobody has raced these against each other* — these are the easiest sentences in the section to
-write and the hardest to defend, because they assert something about every study ever run. On
-the first lesson four of them went in and three turned out to be wrong: anchors have been
-compared on outcome, informal practice frequency has been measured, and a review of the
-meditation literature covering the same ground as the brain-training one exists. Each was found
-by a single search, after the sentence had already been written.
-
-Write what is established and what is not, rather than what the field has failed to do. *The size
-has not been established* is defensible; *nobody has measured it* is a claim about the whole
-literature. If an absence genuinely matters to the argument, go and look first, and say what you
-looked for.
-
-**An unbacked claim gets cut, not labelled.** If a claim has nothing behind it, marking it
-as untested does not rescue it; it puts an unsupported assertion on the page with a
-disclaimer attached, and a curriculum full of those is a curriculum nobody should trust. Cut
-it or find the source. The one exception is a claim so obvious that nobody has studied it
-precisely because nobody doubts it — *planning helps you avoid some pain*, *a crisis that is
-eating your attention will keep eating it until it is dealt with*. Those read as unbacked
-because there is no trial to run.
+**Sourcing caveats, absence claims, unbacked assertions, and numbers all have their own
+checks — run `verification-checklist.md` per claim while drafting, not as a final pass.**
+The rules that used to sit here moved there; this file keeps shape and prose.
 
 **Write for the self-guided reader.** Every lesson assumes one person doing this for
 themselves. Someone may have pointed them here, and that is all the pointing needs to
@@ -346,11 +345,9 @@ No closing "related lessons" block; it implies the reader is mid-sequence.
 
 **Only link a lesson that has already shipped.** Until then, name the capacity in prose
 and leave it unlinked — *Observation is where allowing gets trained*. A dead link is worse
-than a plain noun, and worst where the reference is a safety instruction: the first lesson
-went live telling a reader whose habit of leaving their body is old and familiar to start
-with Observation instead, and that link 404'd. The front matter's `cross_references` still
-lists every intended lesson whether it exists or not — that is the map of what to come back
-and link once each target ships.
+than a plain noun, and worst where the reference is a safety instruction. The front
+matter's `cross_references` still lists every intended lesson whether it exists or not —
+that is the map of what to come back and link once each target ships.
 
 **Plain English everywhere,** not only in The Evidence — see the two-pass process
 below. That section is just where jargon accumulates fastest.
@@ -416,10 +413,6 @@ breath for twenty minutes, still lost it about fifteen times* plus a link is the
 version. Participant counts, control conditions, effect sizes, confounds and the authors'
 own caveats go in The Evidence, which exists for exactly this. A body paragraph that stops
 the instruction to explain a study is in the wrong section.
-
-**Numbers must have a source.** If a figure cannot be traced, cut it rather than softening
-it. An invented *about fifteen seconds of noticing* reads exactly like a researched one,
-which is the problem.
 
 ---
 
@@ -502,10 +495,10 @@ aliases: []
 ```
 
 `unverified` is the publishing gate. The notes carry flagged figures — Tronick's 70%
-mismatch rate, the DBT recovery and dropout numbers, Slagter on the attentional blink,
-the Volanen dose finding. Anything still flagged goes in this list, and the lesson does
-not move to `content/embodied-emotional-intelligence/eei/` until it's empty. Either
-verify against a primary source or write the lesson without the number.
+mismatch rate, the DBT recovery and dropout numbers, the Volanen dose finding. Anything
+still flagged goes in this list, and the lesson does not move to
+`content/embodied-emotional-intelligence/eei/` until it's empty. Either verify against a
+primary source or write the lesson without the number.
 
 Hugo ignores fields it doesn't recognize, so these are safe to carry into published
 content.
@@ -514,39 +507,7 @@ content.
 
 ## Publishing checklist
 
-1. `unverified:` is empty.
-2. Quotation traced to a primary source, and tested against the body.
-3. All seven parts present, in order, with the standard headers.
-4. Reads cold — terms defined, no dependence on having read anything else.
-5. The Challenge is written so a reader can identify their own variant.
-6. The Practice includes a dose, and flags worse-before-better where it applies.
-7. Pass two done across the whole lesson — no unglossed jargon left, and every
-   qualifier, hedge and conditional from pass one still standing.
-8. The Evidence links out to the studies rather than printing effect sizes, and every
-   claim the body makes has an entry. A claim asserted in three sections and answered in
-   none is the easiest thing to miss when the section gets rebuilt.
-9. `description` set, and `cross_references` matches the links actually in the lesson.
-10. Moved to `content/embodied-emotional-intelligence/eei/`, filename **without** the
-    lesson number — the URL is `/eei/<slug>/` and the numbering stays internal. Check for
-    a byte-order mark before the front matter; shell redirects on Windows add one silently
-    and it breaks front-matter parsing.
-11. **Linked from the curriculum page.** The spiral lists in
-    `content/embodied-emotional-intelligence/eei/_index.md` are the navigation hub — turn
-    this lesson's entry into a link when it publishes. Hand-maintained, so it drifts
-    silently if skipped.
-12. Added to `static/llms.txt` — also hand-maintained, same failure mode.
-13. **Inbound links added from lessons already published.** Any live lesson that names
-    this capacity in prose can now link to it. Check each published lesson's
-    `cross_references` for this lesson's number — that is the list of pages waiting on it.
-    Skipped, and the curriculum quietly stays a set of disconnected pages.
-14. **No lesson count anywhere a reader or crawler sees.** Publicly this is a yearlong
-    curriculum designed to be repeated. Internally there are 42 lessons and the numbering
-    is used freely; the number stays out of page descriptions, the homepage, `llms.txt`,
-    and link text.
-15. **Anything this lesson now covers properly comes off the curriculum page.** That page
-    previewed lessons before they existed. When a lesson ships, its share of that preview
-    moves into the lesson or into the notes, so the two do not say the same thing at
-    different levels of rigour.
+Moved to `verification-checklist.md` — run it in full before a lesson ships.
 
 ---
 
