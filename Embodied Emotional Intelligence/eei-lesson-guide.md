@@ -116,6 +116,22 @@ Two overlap pairs to write knowing about each other: **Care (15)** is the drive,
 | 41 | Mastery & Wisdom | Design and Horizon | |
 | 42 | Flourishing: Going beyond the baseline | Design and Horizon | |
 
+## Drafting order
+
+Ship in spiral order — the reader path on the curriculum page
+(`content/embodied-emotional-intelligence/eei/_index.md`) — not internal numbering.
+Decided 2026-08-06: shipping by number left Spiral One, the path the site actually
+recommends a reader start on, mostly unlinked for months while later-part lessons went
+live first. Internal `lesson`, `part`, and `weight` in front matter don't change — they're
+the permanent ID. This is the writing queue.
+
+- **Spiral One — The Baseline:** 1 → 2 → 3 → 31 → 32 → 24 → 8 → 12 → 14 → 15 → 20 → 22
+- **Spiral Two — The Friction:** 5 → 6 → 7 → 4 → 33 → 35 → 36 → 34 → 9 → 10 → 19 → 21 → 29
+- **Spiral Three — The Collision:** 40 → 13 → 16 → 30 → 17 → 11 → 23 → 26 → 27 → 28 → 25
+- **Spiral Four — Wisdom:** 18 → 39 → 37 → 38 → 42 → 41
+
+**Next up: Lesson 2, Emotional Awareness.**
+
 ## Open research
 
 **Two lessons where the gap is my searching, not the field:** Boundaries (11) — assertiveness-training literature untouched. Sexual Attraction (17) — responsive versus spontaneous desire, Basson's model, untouched.
