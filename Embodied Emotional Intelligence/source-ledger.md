@@ -308,22 +308,32 @@ rests on the weakest slice (N=5 experiments, authors flag the low power). Mantra
 area is clean and verified, including for silent recitation, but was cut from the draft
 as an example arriving from nowhere for this reader.
 
-**Carter and colleagues, 2005** ([PubMed](https://pubmed.ncbi.nlm.nih.gov/15936259/)) —
-76 Tibetan monks tested at or near their Himalayan retreats; binocular rivalry.
-**Within-subject**, which is what makes it strong: the same monks did one-point
-(focused attention) and compassion meditation. One-point produced "major increases in
-the durations of perceptual dominance"; the most experienced one-point meditators "were
-able to resist visual switching for the whole five minutes of the experiment," reporting
-"only a single stable image." Compassion meditation produced "no observable change in
-the rate of 'visual switching.'" Same people, same task, technique swapped, effect gone.
-**Verification level — read this before strengthening the claim:** Current Biology full
-text is paywalled (Cell/ScienceDirect 403 to every route tried; the Unpaywall-listed USQ
-repository copy is dead) and PubMed carries no abstract. Wording above is verified
-against the University of Queensland institutional release (Pettigrew's own university)
-and Nature's news coverage — **not the primary text.** The complete-stability detail
-belongs to the most experienced practitioners only; a draft sentence attributing it to
-the monks generally was caught and corrected. Do not extend past these quoted phrases
-without obtaining the full text.
+**Carter and colleagues, 2005** ([PubMed](https://pubmed.ncbi.nlm.nih.gov/15936259/); full text
+obtained 2026-08-11, Current Biology 15(11):R412–R413, PDF read directly) —
+76 Tibetan monks total in the study (5–54 yrs training, including three "retreatist"
+meditators with 20+ yrs in isolated retreats), tested at/near their Himalayan, Zanskar
+and Ladakhi retreats. **The one-point-vs-compassion comparison — the thing this lesson
+cites — used 23 of those 76, not the full 76.** Binocular rivalry induced via
+head-mounted goggles (horizontal/vertical gratings to each eye). Within-subject: most of
+the 23 served as their own controls, doing both meditation types.
+
+Exact findings: compassion meditation ("a non-referential contemplation of suffering
+within the world combined with the emanation of loving kindness") produced "no
+observable change in rivalry rate." One-point meditation ("through the maintained focus
+of attention on a single object, the mind is calmed") produced "extreme increases in
+perceptual dominance durations," reported by **50% of monks** after a period of
+one-point practice. Separately, during one-point meditation itself, "three (including
+two of the 'retreatists') reported complete perceptual stability throughout the entire
+5 minute meditation period" — i.e. 2 of the 3 retreatists plus one non-retreatist, not a
+clean experience-predicts-stability story. Authors' own causal framing: "the finding
+that the increase in prolongation/stabilization was specific to only one of the
+meditation types... suggests that the effect is real, rather then simply reflecting
+miscommunication or a general incapability to perform the task."
+
+Not part of this comparison, don't conflate: a separate motion-induced-blindness
+experiment (different paradigm) found the single most experienced retreatist (25 yrs)
+sustained a disappearance for 723 seconds during active suppression — a striking number,
+but from a different task and a sample of one, not usable as general evidence.
 
 **Valentine and Sweet, 1999** ([DOI](https://doi.org/10.1080/13674679908406332)) —
 Concentrative vs mindfulness practitioners, Wilkins' counting test. Both beat controls;
