@@ -285,6 +285,100 @@ mind-wandering; do not analogize across (that overreach was made and retracted).
 Novices showed gradual *increase* in anticipatory activity over rounds (the full text
 confirms this direction; an abstract-based challenge to it was wrong).
 
+### Practice-type specificity (researched August 2026, Lesson 1 "The Practice")
+
+The claim these support: attention is not one skill, and which mode you train decides
+what you get. All four verified against primary sources after a supplied citation list
+turned out to be partly unreliable (see "Rejected" below).
+
+**Fox and colleagues, 2016** ([PubMed](https://pubmed.ncbi.nlm.nih.gov/27032724/); PDF read in full) —
+78 fMRI/PET studies; ALE meta-analysis of 257 foci from 31 experiments, 527 people.
+Four categories with enough studies to analyze (focused attention, mantra recitation,
+open monitoring, loving-kindness/compassion), three more suggestive (visualization,
+sense-withdrawal, non-dual). Authors' own summary line is the one the lesson uses:
+activation patterns are "congruent with the psychological and behavioral aims of each
+practice" — the machinery matched the job. Also: "distinct meditation styles recruit
+largely non-overlapping neural networks"; "convergence is the exception rather than the
+rule." Activations d=0.59, deactivations d=-0.74. **Cannot support:** insula as a
+compassion-specific signature — insula is the *one* region recruited by all four
+categories ("Only a single area (insular cortex) was recruited by all four meditation
+categories"), i.e. the paper's convergence finding, not a specificity example. A
+supplied summary had this backwards. Compassion's somatosensory cluster is real but
+rests on the weakest slice (N=5 experiments, authors flag the low power). Mantra→Broca's
+area is clean and verified, including for silent recitation, but was cut from the draft
+as an example arriving from nowhere for this reader.
+
+**Carter and colleagues, 2005** ([PubMed](https://pubmed.ncbi.nlm.nih.gov/15936259/)) —
+76 Tibetan monks tested at or near their Himalayan retreats; binocular rivalry.
+**Within-subject**, which is what makes it strong: the same monks did one-point
+(focused attention) and compassion meditation. One-point produced "major increases in
+the durations of perceptual dominance"; the most experienced one-point meditators "were
+able to resist visual switching for the whole five minutes of the experiment," reporting
+"only a single stable image." Compassion meditation produced "no observable change in
+the rate of 'visual switching.'" Same people, same task, technique swapped, effect gone.
+**Verification level — read this before strengthening the claim:** Current Biology full
+text is paywalled (Cell/ScienceDirect 403 to every route tried; the Unpaywall-listed USQ
+repository copy is dead) and PubMed carries no abstract. Wording above is verified
+against the University of Queensland institutional release (Pettigrew's own university)
+and Nature's news coverage — **not the primary text.** The complete-stability detail
+belongs to the most experienced practitioners only; a draft sentence attributing it to
+the monks generally was caught and corrected. Do not extend past these quoted phrases
+without obtaining the full text.
+
+**Valentine and Sweet, 1999** ([DOI](https://doi.org/10.1080/13674679908406332)) —
+Concentrative vs mindfulness practitioners, Wilkins' counting test. Both beat controls;
+long-term beat short-term. Mindfulness practitioners beat concentrative practitioners on
+**unexpected** stimuli, with no difference on expected ones. Abstract-level
+verification only.
+
+**Koch and Krenn, 2021** ([DOI](https://doi.org/10.1016/j.psychsport.2021.101925); PDF read in full) —
+N=75 elite athletes, and the elite bar is real: "only included if they were either part
+of the active national team or competed in the highest Austrian league." Open-skill
+(American football, basketball, canoe slalom, handball, Olympic sailing) vs closed-skill
+(archery, athletics, cross-country skiing, marathon, shooting, swimming, track-bike,
+triathlon). **Three of five tests significant, two not** — state the pattern, not a
+blanket claim: Trail Making F(3,70)=2.55, p=.03; flanker-switching variant F(3,69)=3.04,
+p=.02; 2-back F(3,70)=3.05, p=.02. Design Fluency ns (p=.09); standard flanker ns
+(p=.25). So the advantage sits on switching/reacting, not on plain inhibition. Authors'
+own caveats, both load-bearing: "effect sizes were small throughout the analyses
+restricting the generalizability of the findings" (partial η² ≈ .10–.13), and elite
+status is hard to standardize across sports. Cross-sectional — cannot rule out
+self-selection into reactive sports. Lesson gives it **one sentence**, deliberately.
+
+**Slagter and colleagues, 2007** — see the entry above under mind-wandering. Added a
+second use in Lesson 1 body text for open awareness. **Nuance to preserve:** the paper
+does *not* call the retreat practice "open monitoring." It describes Vipassana as
+beginning with "focusing or stabilizing concentration on an object such as the breath,"
+then broadening to "a non-reactive form of sensory awareness or 'bare' attention." FA
+sliding into OM, not pure OM. P3b mechanism verified: reduced T1-elicited P3b after
+retreat, and the individuals with the largest decrease showed the greatest T2
+improvement (r=-0.68, p=0.001).
+
+### Rejected for this section (checked, do not reuse)
+
+- **Heuschkel & Kuypers, 2020** — a psilocybin/depression review. Nothing to do with
+  meditation practice-type specificity. It was supplied as the citation anchoring
+  "well-documented phenomenon"; it does not support that or anything nearby.
+- **Jha, Krompinger & Baime, 2007 relabelled as FA-vs-OM** — the paper uses neither
+  term. It describes *both* groups as concentrative: MBSR participants "naive to
+  mindfulness techniques" in a course that "emphasized the development of concentrative
+  meditation skills," and retreat participants "experienced in concentrative meditation
+  techniques." Its variable is dose/experience, not technique type. Already cited
+  correctly elsewhere in Lesson 1 (orienting vs alerting) — leave that use alone.
+- **Amihai & Kozhevnikov, 2014** ([PLoS ONE](https://doi.org/10.1371/journal.pone.0102990)) —
+  **verified and legitimate**, just unused. Vajrayana (Deity, Rig-pa) vs Theravada
+  (Kasina, Vipassana), pre/post meditation on mental rotation and visual memory.
+  Vajrayana improved (MRT Deity F(1,14)=19.36, p<0.001; VMT Deity F(1,14)=26.41,
+  p<0.001), Theravada did not (F<1 throughout). Cut only to avoid a fourth citation in
+  one paragraph and because its arousal/visualization axis needs its own setup.
+  Available if that paragraph ever expands.
+
+**Standing lesson from this pass:** a supplied reading list arrived with real, findable
+papers carrying an FA/OM specificity narrative bolted on whether or not the paper framed
+it that way, plus one citation that was simply the wrong paper. Verify every claim
+against the primary source before drafting, regardless of how confident the summary
+sounds or how legitimate the surrounding citations are.
+
 ## Long-term practice and expertise
 
 **Brefczynski-Lewis and colleagues, 2007** ([PubMed](https://pubmed.ncbi.nlm.nih.gov/17596341/)) —
