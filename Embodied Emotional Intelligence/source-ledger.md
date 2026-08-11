@@ -1757,3 +1757,149 @@ used nonclinical samples.
   effect size and implying it describes an average reader — the size shrinks
   substantially outside clinical samples (0.83 → 0.51 → 0.28 across Honkalampi's three
   population types), so name the direction, not the magnitude.
+
+## Beyond therapy — does training work outside a clinical setting?
+
+Darryl's challenge: the "Is it trainable?" section above answers only for psychotherapy
+(Mazza et al. 2026). He asked for the full range of things shown to build this skill —
+"whatever is shown to work" — and an honest read on what it works for and how well,
+specifically rejecting two possible conclusions in advance: that people who lack this
+skill can never gain it, and that gaining it doesn't change outcomes. Five sources, none
+of them therapy, each verified against its own full text.
+
+**Classroom curriculum — real effect, but on the classroom, not directly on the child.**
+**Hagelskamp, Brackett, Rivers & Salovey, 2013**, *American Journal of Community
+Psychology* 51:530–543 (full text read, open access). Two-year cluster-randomized trial,
+62 urban schools, 144 fifth/sixth-grade classrooms, comparing RULER (a curriculum built
+entirely around teaching an emotion vocabulary — the "Feeling Words Curriculum") against
+standard instruction. Blind-rated classroom quality rose in RULER schools: emotional support g=0.48, p=.043;
+instructional support g=0.71, p=.005; classroom organization g=0.56, p=.026 — moderate to
+large by convention — and the gain in instructional quality ran **through** the earlier
+gain in emotional climate (84% of the effect on instructional support, 81% of the effect
+on organization, was mediated by Year-1 emotional-support gains, both indirect-effect CIs
+excluding zero). **What this study does not show:** it measured the classroom's emotional climate by
+independent observation, not each student's own emotion vocabulary or differentiation.
+The authors say so directly in their limitations: "further analysis must examine RULER's
+impacts on students' (and teachers') emotional literacy skills" — that direct test is
+future work, not this paper. Use this for "a structured emotion-vocabulary curriculum
+changes something real and observable," not for "children's own differentiation improved
+by X amount."
+
+**Brief, self-directed concept learning — small, but a direct hit on differentiation
+itself.** **Vedernikova, Kuppens & Erbas, 2021**, "From Knowledge to Differentiation,"
+*Frontiers in Psychology* 12:703757 (full text read, open access, PMC8662934). N=120
+adults split 60/60. Five days of online, unsupervised learning: text definitions,
+situational examples and images for 12 emotions, with a comparison exercise on day 5.
+Negative emotion differentiation rose in the experimental group and not the control,
+η²p=0.174 (medium), p<.001, and the gain was still there a month later (p=.015) with no
+further training in between. Downstream effects on distress or wellbeing were, in the
+authors' own words, "very inconsistent" — trending the right direction but not clearly
+established in this sample. **Read this as: differentiation itself is directly teachable
+in days, without a therapist, and the gain outlasts the teaching. Whether that specific
+gain moves mental health was not demonstrated here either way** — underpowered to show
+it, not shown to be absent.
+
+**Mindfulness, tested directly on differentiation rather than on alexithymia.**
+**Guendelman, Lutz, Koenig, Bayer & Dziobek, 2025**, *[title on emotion differentiation
+and heart-rate variability]*, full text read, open access (PMC12263662). N=68 healthy
+adults with no meditation history, randomized to 8-week MBSR or a reading-and-discussion
+control. This matters against Mazza et al.'s finding above that meditation was the
+*weakest* category for reducing alexithymia (g=−0.14, ns) — Guendelman measured a
+different thing, differentiation via momentary self-report (mDES), not the TAS-20. Result:
+negative emotion differentiation rose significantly more under MBSR, χ²=4.21, p=.04,
+medium effect; positive differentiation did not move (ns). But change in differentiation
+did **not** correlate with change in depression, stress, wellbeing, mindfulness, or
+self-compassion (all ns, r's from −.13 to .29) — the authors attribute this partly to being
+underpowered for that specific test at N=68. **So: mindfulness moved the skill itself in 8
+weeks. It did not, in this trial, show that the moved skill changed how people felt.**
+That is a real, stated gap, not a hidden one — say both halves.
+
+**A trained gain generalizing to real downstream behavior, outside the lab's own outcome
+measure.** **Cameron, Payne & Doris, 2013**, "Morality in High Definition," *Journal of
+Experimental Social Psychology* 49:719–725. Two experiments: one measured people's
+existing emotion differentiation, one trained/manipulated it directly. In both, people who
+differentiated finely (naturally or after training) discounted an irrelevant disgust cue
+when making an unrelated moral judgment; people who didn't, let the incidental disgust
+bias the judgment. **Verification note:** the exact effect sizes and p-values for
+Experiment 2 (the trained-manipulation one, which is the one that answers "if you train
+it, does the behavior change") could not be obtained — ScienceDirect, Academia.edu (403),
+ResearchGate and the UNC dissertation repository (bot-blocked) were all dead ends, per
+this ledger's standing rule against routing around paywalls. The qualitative finding
+above is independently confirmed across the paper's own abstract and two independent
+secondary summaries, so it's usable, but don't state a specific number for this one. If
+you can get the PDF into downloads, I can pull the exact stats.
+
+**Free, self-directed practice, pooled across the largest sample of anyone above.**
+**Frattaroli, 2006**, "Experimental Disclosure and Its Moderators," *Psychological
+Bulletin* 132:823–865 (full text read). Meta-analysis of 146 studies, N=10,994 — this is
+expressive writing: sitting alone and writing about an emotionally significant experience,
+no instructor, no curriculum, most protocols under an hour total. **Overall effect: r=.075
+[.052,.098], p=3×10⁻⁹** — small, but the confidence interval clears zero by a wide margin
+at this sample size. Broken out: subjective sense of benefit was largest (r=.159);
+reported illness behavior/doctor visits r=.072; psychological health r=.056 (general
+distress carried most of that, r=.102); physiological measures r=.060 (immune markers
+r=.099); work/school/relationship functioning r=.046; **health behaviors themselves did
+not move, r=.007, ns** — disclosure changes how people feel and function, not whether they
+exercise or see a doctor. Under the best-studied conditions (three-plus sessions, private,
+paid, directed prompts) the effect roughly doubles toward r≈.20 — still well under formal
+psychotherapy's r=.322, but achieved with nothing but a notebook. **The one finding that
+answers Darryl's question most directly: alexithymia did not significantly moderate the
+effect.** People who came in worse at identifying and describing their own feelings
+benefited from expressive writing about as much as people who didn't — the practice was
+not gated by the starting skill.
+
+**A correction to how the age-curve finding gets used above.** Nook et al. 2018 and
+Carstensen et al. 2000 are cross-sectional: older people differentiate more finely than
+younger people, on average, at one point in time. Neither study tests why. **"No
+intervention at all" overstates what this shows** — it means no *researcher-administered*
+program, not that nothing was learned. It's also in tension with this lesson's own claim
+that formal teaching stops around second grade and whatever people carry afterward they
+"mostly picked up by accident" — accident isn't absence of input, it's uneven, informal
+input: more hard situations lived through, more or less reward for naming things
+depending on who was around. That is a plausible reading of why the population average
+rises with age, but it is a reading, not something either study measured directly, and it
+implies real variance between individuals rather than a guarantee that time alone does
+this for everyone.
+
+**Downstream outcomes from trained differentiation — checked directly rather than assumed
+absent.** The two studies above that moved differentiation without showing a mental-health
+correlation (Vedernikova, Guendelman) are not the whole literature, and it would be wrong
+to generalize from them to "training the skill hasn't been shown to change outcomes."
+Two further sources close that gap, one cleanly and one conditionally:
+
+- **Kircanski, Lieberman & Craske, 2012**, "Feelings Into Words," *Psychological Science*
+  23:1086–1091 (full text read, open access, PMC4721564). RCT, N=88 spider-fearful adults,
+  four conditions (affect labeling, reappraisal, distraction, exposure alone) during a
+  brief live-spider exposure. At 1-week follow-up, the affect-labeling group showed a
+  significantly larger drop in physiological fear response (skin conductance) than every
+  other condition (d=0.64–0.85, p's .005–.044) and marginally more approach behavior than
+  distraction (p=.054) — more steps toward touching the spider. This is differentiation-
+  adjacent training (putting a specific word on the fear in the moment) changing a real,
+  physiological and behavioral outcome, not just a self-report measure of the skill itself.
+  Limitation the authors state: affect labeling didn't reduce *reported* fear more than
+  the other conditions, only the physiological/behavioral measures; experimenters were not
+  blind to condition.
+- **Matt, Seah & Coifman, 2024**, "Effects of a brief online emotion word learning task on
+  negative emotion differentiation, emotional self-efficacy, and prospective distress,"
+  *PLOS ONE* (full text read, open access, PMC10901351). N=118, a design close to
+  Vedernikova's. Overall, the intervention did not significantly beat the neutral control
+  on differentiation (p=.174) or on distress at 1-week or 2-month follow-up — a real null,
+  stated plainly. But among participants who engaged more with the task, post-task
+  differentiation significantly predicted lower distress a week later (b=−.10, 95% CI
+  [−.22,−.01]). **Read this as: the causal chain from training to differentiation to less
+  distress does show up, conditional on the training actually landing** — a brief,
+  low-engagement task that doesn't move the skill also doesn't move the outcome, which is
+  a dose-response finding, not a failure of the idea.
+
+**What this section is for in the lesson.** The developmental data show the skill rising
+with age on average, most plausibly through accumulated, informal, unevenly-distributed
+experience rather than through nothing at all. Mazza et al. 2026 shows formal
+psychotherapy moves it, medium effect, though not on every facet. The five non-therapy
+sources above show the same is true outside a clinic, at every scale from a school
+curriculum to a five-day online task to a single afternoon of labeling a feeling out loud
+during exposure to a spider — and two of those show the trained gain reaching a real
+outcome beyond the training itself (a spider-fearful person's physiological fear response
+and approach behavior; a college student's distress two months out, conditional on the
+training actually engaging them). **Nothing found in this pass supports the idea that
+people who don't currently show this skill can't gain it, or that gaining it doesn't
+change anything downstream.**
