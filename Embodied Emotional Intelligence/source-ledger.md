@@ -389,6 +389,90 @@ it that way, plus one citation that was simply the wrong paper. Verify every cla
 against the primary source before drafting, regardless of how confident the summary
 sounds or how legitimate the surrounding citations are.
 
+### Attention is ancestral (researched August 2026, Lesson 1 opener to "The Practice")
+
+Replaced a framing that called attention practice "thousands of years old," which made
+attention read as a human cultural invention. The point is the opposite: the equipment
+predates humanity by a very long way.
+
+**Knudsen, 2018** ([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC6204111/)),
+*Trends in Neurosciences* 41(11):789–805 — carries the **attention-specific** half.
+"The midbrain stimulus selection network, which monitors the environment continuously
+for behaviorally relevant stimuli, appeared already well differentiated at the beginning
+of vertebrate evolution." Hub is the optic tectum (superior colliculus in mammals),
+"a conspicuously laminated structure even in the earliest vertebrate species." Forebrain
+attention networks are the later, more elaborated layer (most developed in primates);
+the midbrain spatial-attention network is the ancient one (most elaborated in birds).
+**Gives no figure in millions of years** — do not attribute the number to this paper.
+
+**Isa, Marquez-Legorreta, Grillner & Scott, 2021** ([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8190998/)),
+*Current Biology* 31(11):R741–R762 — carries the **number**. "The fundamentals of the
+retino-thalamic and retino-colliculo-thalamic pathways are shared across 450 million
+years of the vertebrate history, spanning from cyclostomes to mammals among modern
+species." Cyclostomes = lampreys and hagfish, "the oldest group of extant vertebrates."
+Tectum/SC "evolutionarily conserved among all vertebrates, but tailored to the sensory
+specialties of each lineage."
+
+**The stitch, and why the lesson says "at least":** the 450-million-year figure is
+attached to the *visual pathways running through* the superior colliculus, not stamped
+on the word "attention." Knudsen supplies the attention claim, Isa supplies the span.
+Two sources doing two jobs in one sentence — a fair synthesis, not one paper's headline.
+Darryl's "at least 450 million years old" is the correctly calibrated phrasing: 450 My
+is the span the fundamentals are *shared across*, so the wiring is at minimum that old.
+Do not tighten "at least" to "is."
+
+**Craik, Govoni, Naveh-Benjamin & Anderson, 1996** ([PubMed](https://pubmed.ncbi.nlm.nih.gov/8683192/)),
+*JEP: General* 125(2):159–180 — **verified but currently unused.** Four experiments,
+divided attention crossed with encoding vs retrieval. "At encoding, DA was associated
+with large reductions in memory performance, but small increases in RT... In contrast,
+DA at retrieval resulted in small or no reductions in memory." The asymmetry is the
+useful part: splitting attention while taking something in costs you most of it;
+splitting it while reaching for what you already know costs little. Verified for a
+"you learn what you attend to" beat that was cut to keep the opener from bloating.
+Available if that argument ever gets its own paragraph.
+
+### Open lead — your attention defaults were installed by your history
+
+**Darryl's argument, August 2026, not yet placed in any lesson.** Where you have put
+attention before shapes where it goes now, automatically. If you grew up somewhere
+dangerous, your attention learned to hunt for danger, and it keeps doing it after the
+danger is gone. That makes deliberate attention practice matter *more* for people with
+that history, not less — you are working against an installed default you did not
+choose. Candidate homes: Lesson 1 The Challenge (already runs the stuck-alarm and
+hypervigilance material), or its own beat; also relevant to Rumination (6) and
+Judgment (7).
+
+**Le Pelley, Mitchell, Beesley, George & Wills, 2016** ([PubMed](https://pubmed.ncbi.nlm.nih.gov/27504933/)),
+*Psychological Bulletin* 142(10):1111–1140 — carries **one arm** of that argument. Four
+findings: attention is biased toward stimuli that reliably predict their consequences
+(learned predictiveness, after Mackintosh 1975); that bias is stronger for predictors of
+high-value outcomes (learned value); the competing Pearce–Hall uncertainty account gets
+less support; and — **the load-bearing one here** — learned predictiveness and learned
+value modulate "both deliberate attentional focus, and more automatic attentional
+capture," which the authors say "does not appear to fit the traditional view of attention
+as being either goal-directed or stimulus-driven," naming it "derived" attention. So:
+learning installs attentional pulls that operate below deliberate control. Abstract-level
+verification only.
+
+**What this paper cannot carry, and the gap that has to be filled elsewhere:**
+- **Nothing developmental.** No childhood, no early-life timing, no critical periods.
+  Within-experiment associative learning in adults. "What happened early in your life"
+  is not this paper's claim.
+- **Nothing about trauma or danger.** The learned-value work is built largely on reward
+  (points, money). Threat generalizes in principle but was not tested. The literature to
+  chase for that arm: **Bar-Haim, Lamy, Pergamin, Bakermans-Kranenburg & van IJzendoorn,
+  2007**, *Psychological Bulletin*, threat-related attentional bias meta-analysis —
+  **unverified lead, not yet checked against the primary text.**
+- **The compounding loop is an inference, not a finding.** "Attention shapes what you
+  learn → what you learn shapes attention → repeat" requires gluing Craik 1996 (one arm)
+  to Le Pelley 2016 (the other). Neither paper tests the full cycle. Honest as Darryl's
+  framing with each arm cited for its own half; **not** honest stated as established.
+
+**Do not reuse the earlier misreading:** Le Pelley was first reached for as a source for
+"attention enables learning" and set aside as the wrong direction. That judgment was
+right about *that* claim and wrong as a verdict on the paper — it is the correct source
+for learning→attention, which is a distinct and useful claim for this curriculum.
+
 ## Long-term practice and expertise
 
 **Brefczynski-Lewis and colleagues, 2007** ([PubMed](https://pubmed.ncbi.nlm.nih.gov/17596341/)) —
