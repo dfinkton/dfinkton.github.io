@@ -598,7 +598,11 @@ OCR line-wrapping when grepping book scans. "Short times, many times" corroborat
 across Tergar teaching materials (teacher-quotation standard, not research standard).
 
 **Matthieu Ricard, *YES! Magazine* (2009)** — Eagle/crows passage verified against the
-published interview.
+published interview. **Link note (Aug 2026):** could not locate the original yesmagazine.org
+URL for this 2009 piece ("Cultivating an Eagle Mind," Winter 2009 issue) — it does not
+surface in search and may no longer be live on their site. Linked instead to a syndicated
+copy at awakin.org, which carries the same verified text. Replace with the original if
+it's ever found.
 
 **Levenson, Ekman & Ricard, 2012** ([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3742737/); *Emotion* 12(3):650–658, DOI 10.1037/a0027472) —
 Case study, Ricard named as subject and co-author, 40+ years practice. Four physiological
