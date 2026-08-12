@@ -142,7 +142,7 @@ Those choices are not interchangeable. Across 78 brain-imaging studies, the majo
 
 Early on this matters less. You are building the basic ability to hold your attention and bring it back, and almost any anchor does that. The further in you go, the more what you choose decides what you get.
 
-And this is the most important part of the entire process: the moment you catch yourself not paying attention, you are already back. You haven't failed. Catching your mind wandering and pulling it back to your anchor is the practice — the repetition that builds the muscle. Each of those four moments—attention on the anchor, the mind leaving, the catch, the return—shows up as its own distinct activity in the brain ([Hasenkamp and colleagues, 2012](https://pubmed.ncbi.nlm.nih.gov/21782031/)).
+Catching your mind wandering and pulling it back to your anchor is the practice — the repetition that builds the muscle. Each of those four moments—attention on the anchor, the mind leaving, the catch, the return—shows up as its own distinct activity in the brain ([Hasenkamp and colleagues, 2012](https://pubmed.ncbi.nlm.nih.gov/21782031/)). This is the most important part of the entire process: the moment you catch yourself not paying attention, you are already back. You haven't failed.
 
 One exception is worth naming. Sitting still with your own mind takes away the distraction that was covering whatever is underneath it. For most people what is underneath is boredom and a to-do list. For some—especially anyone carrying something that has never been dealt with—it is grief or fear arriving with nothing in the way. Watching the breath has its own version of this: for some people it makes breathing feel effortful and strange, and the strangeness turns into panic.
 
@@ -150,11 +150,19 @@ Neither of those means you are doing it wrong, and neither one means push harder
 
 Start small, keep track, and slowly increase the challenge. Again, this is no different than learning a sport or an instrument. If you try to sit still in silence for an hour on your very first day, it will likely be too difficult and you will stop.
 
-Instead, try one minute a day for the first week. Just one minute, but do it every single day. The next week, go up to two minutes. Keep stepping it up week by week until you reach a level that works for your life. For myself, my sweet spot is about 20 to 40 minutes, twice a day, which is more than most people need. Yours might be different. The goal isn't to hit a specific number of minutes; it is to find the daily volume that keeps your mind anchored when you need it most.
+Instead, try one minute a day for the first week. Just one minute, but do it every single day. The next week, go up to two minutes. Keep stepping it up week by week.
+
+**Build to ten minutes a day, and do it every day.**
+
+Ten is not a number someone guessed at. When researchers put ten-minute and thirty-minute daily sessions head to head, the two groups came out the same on well-being, distress, and mindfulness ([Fincham and colleagues, 2023](https://doi.org/10.1007/s12671-023-02119-2)). Going longer is fine. It is just not where most of the benefit comes from.
+
+For myself, my sweet spot is about 20 to 40 minutes, twice a day, which is more than most people need. Yours might be different.
+
+It also helps to see what the far end of this actually costs. Ten minutes a day for twenty-five years adds up to more than fifteen hundred hours. The experts in the heat-pad study had over ten thousand — an hour every day for nearly thirty years. The practitioners whose attention regions had started working less hard had between nineteen and forty-four thousand, which is several hours a day for decades. Those numbers are not targets. They are what a life built around this looks like, and you do not need one to get what matters for an ordinary week.
 
 Small daily amounts really do work, and they take a while. In one study, people who had never meditated were randomly assigned to either thirteen minutes a day of guided meditation or thirteen minutes a day of listening to a podcast, for eight weeks. Attention, memory and mood all improved in the meditation group—at eight weeks, but not yet at four ([Basso and colleagues, 2019](https://pubmed.ncbi.nlm.nih.gov/30153464/)). If you are five weeks in and nothing has changed, that is roughly what the research would predict.
 
-In one way this is not like learning an instrument. With an instrument, effort is the main lever. With attention, sleep is. Across about seventy studies of short-term sleep loss, lapses of simple attention took the biggest hit of anything measured, while the ability to reason barely moved ([Lim and Dinges, 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC3290659/)). If you are sleeping five hours a night and practicing ten minutes a day, the ten minutes is not the lever. Fix the sleep first.
+In one way this is not like learning an instrument. With an instrument, effort is the main lever. With attention, sleep is. Simple attention is less a skill you build than a state your body has to be in, and the longer you are awake the harder the pressure to sleep pushes back — until the brain starts taking small amounts without asking, in lapses you do not choose and often do not notice. You cannot decide your way out of that. Across about seventy studies of short-term sleep loss, lapses of simple attention took the biggest hit of anything measured, while the ability to reason barely moved ([Lim and Dinges, 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC3290659/)). If you are sleeping five hours a night and practicing ten minutes a day, the ten minutes is not what is holding you back. Fix the sleep first.
 
 If you want a little more structure, there are several excellent apps and programs available, most of them free. Many of them include guided sessions where you practice focusing your attention on specific ideas—like compassion, forgiveness, impermanence, or gratitude.
 

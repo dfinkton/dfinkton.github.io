@@ -192,12 +192,42 @@ Brief training alone is not a lasting intervention.
 161 people, daily practice two weeks, ~10-min vs ~30-min sessions: no difference in
 well-being, distress, or mindfulness.
 
-**Cearns & Clark, 2023** ([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10548318/)) —
+**Cearns & Clark, 2023** ([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10548318/);
+also [JMIR 2023;25:e43358](https://www.jmir.org/2023/1/e43358), PDF read in full) —
 280,000 real app sessions, 10,000+ people. Session length barely moved mood; days per
 week did — each extra day raised mood; 4–7 days/week more than twice the long-term
 retention of once-weekly. Nonlinear crossover: before ~20th session, short/medium
 sessions tied to higher mood; after, 21–30-min sessions ahead for mood and recovery
 speed; after ~80 sessions, shorter sessions ahead again for day-to-day mood stability.
+
+### The floor question: none of the duration studies measured below ~5 minutes
+
+Checked August 2026 when deciding what daily dose to recommend. **Every source this
+lesson uses for "frequency beats duration" bottoms out around 5–10 minutes.** None of
+them can speak to one-minute or seconds-long sessions:
+
+- **Fincham 2023** compared ~10 min vs ~30 min. Nothing below 10 was tested at all.
+- **Cearns & Clark 2023** never reports a category below **5–10 minutes** — that band is
+  the *reference group* in every comparison in the results. Sessions were trimmed at 30
+  minutes and harmonized to the nearest 5 minutes. Sub-5-minute sessions never appear as
+  their own category.
+- **Bowles & Van Dam 2025** collected duration in bands (0–15, 15–30, 30–60, 60+ min)
+  and used the **midpoint** — so a 2-minute session and a 14-minute session are
+  arithmetically identical in that analysis. It cannot distinguish "duration doesn't
+  matter" from "duration doesn't matter above ~5 minutes."
+
+**Consequence for the lesson:** the Overview's "a session can even be seconds long" is
+carried by Mingyur (teacher-quotation standard), not by Fincham/Cearns, even though those
+two citations sit in the same sentence. Darryl's resolution, August 2026: the short
+durations are where you *start* to build the habit, not where you land — so the claim is
+about onboarding, not about efficacy at that dose. Do not extend Fincham or Cearns to
+defend sub-5-minute practice as effective.
+
+**Why the recommendation is "ten minutes":** 10 is the lowest duration ever tested
+head-to-head against a substantially longer one and found equivalent (Fincham). 13 is the
+lowest with a clean active-controlled beginner RCT showing real gains (Basso). 5 appears
+only as the bottom edge of a bin, never isolated, never in a trial — printing it as a
+target would make the weakest-supported number the headline.
 
 **Bowles & Van Dam, 2025** ([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12336962/)) —
 2–4 year follow-up: practice frequency mattered ~2.5x more than session duration.
