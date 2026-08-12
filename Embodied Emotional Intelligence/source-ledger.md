@@ -584,10 +584,10 @@ training produced this. Findings: adjusted average variation in gamma activity >
 greater in practitioners during meditation; and the group difference was already present
 in the **resting baseline before meditation began**, with relative gamma correlating with
 lifetime hours at that baseline (r=0.79, P<0.02) — the trait-not-state point Lesson 1 uses.
-**Cannot support:** that Matthieu Ricard was one of the eight subjects. He is a co-author
-and the contributions statement puts him on "designed research"; the paper never names
-its subjects. Media reports say Davidson scanned him, but the paper does not establish it
-— Lesson 1 is worded to avoid the claim.
+**Correction (Aug 2026):** earlier note here said Ricard's status as a subject couldn't be
+supported, since the paper itself never names subjects. DF confirmed he was a subject as
+well as a co-author, corroborated by multiple secondary sources (matthieuricard.org's own
+description of the paper, among others). Lesson 1 now states this directly.
 
 ## Teachers and quotations (verified wording)
 
@@ -599,6 +599,39 @@ across Tergar teaching materials (teacher-quotation standard, not research stand
 
 **Matthieu Ricard, *YES! Magazine* (2009)** — Eagle/crows passage verified against the
 published interview.
+
+**Levenson, Ekman & Ricard, 2012** ([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3742737/); *Emotion* 12(3):650–658, DOI 10.1037/a0027472) —
+Case study, Ricard named as subject and co-author, 40+ years practice. Four physiological
+channels (heart rate, finger pulse, skin conductance, general movement) plus FACS facial
+coding, across open-presence meditation, focused meditation, a distraction control, and an
+unanticipated 115-dB/100-ms acoustic startle. **Key result: his response magnitude was
+similar to 12 age-matched controls** — not eliminated. Both meditation types reduced
+responses relative to the distraction condition (p<.05); open presence reduced them more
+than focused concentration. **This corrects a widely circulated myth**, not this paper's
+own claim: an earlier informal Ekman observation (reported via Goleman's *Destructive
+Emotions*, describing "Lama Öser") became "a monk has no startle reflex at all." Ekman has
+publicly corrected this, quoted in *The Chronicle of Higher Education*'s "The Monk and the
+Gunshot": "People heard me talk about the fact that I couldn't see the startle, and they
+just assumed that he eliminated it. It's a very popular finding, and people like to write
+about it, but it's wrong." **Sourcing note:** the Chronicle piece itself returned a 403 on
+direct fetch; the quote is corroborated verbatim across two independent secondary sources
+(consistent wording, both attributing it to Ekman by name), which clears this project's
+bar for usable-but-flagged. Confirm the quote's exact sequencing (both sentences run
+together, no material omitted) if it's ever quoted again — verified Aug 2026.
+
+**Ricard's own account of the practice** — verified against primary interview transcripts,
+Aug 2026. "Emotionally it's me, me, me all day long. It makes you not really happy, and
+quite miserable some times" — [Today.com interview](https://www.today.com/kindness/secrets-kindness-matthieu-ricard-worlds-happiest-man-t53146).
+"We do exercise every morning, twenty minutes, to be fit. We don't sit for twenty minutes
+to cultivate compassion," plus chess/piano and "potential vs. actualized" analogies — [On
+Being interview with Krista Tippett](https://onbeing.org/programs/happiness-is-practice-not-pleasure-matthieu-ricard/).
+"Afflictive mental states... begin with self-centeredness, with an increase in the gap
+between self and others" — his own piece for *YES! Magazine*, syndicated on DailyGood.
+**Cannot support:** "it literally rewired his brain to be happy" — that phrasing came from
+a secondary source DF supplied and does not trace to Ricard or to any of the neuroscience
+papers; dropped rather than used. Also cannot support any specific numeric ranking of
+Ricard's own frontal-asymmetry score against other tested subjects (the widely repeated
+"beat 150 subjects" claim) — not found in any peer-reviewed source; not used in Lesson 1.
 
 **Matthieu Ricard, *New York Times Magazine* (2023)** — On the "happiest man in the
 world" label, interviewed by David Marchese: "It's a big joke. We cannot know the level
