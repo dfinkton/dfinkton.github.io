@@ -164,23 +164,27 @@ In one way this is not like learning an instrument. With an instrument, effort i
 
 If you want a little more structure, there are several excellent apps and programs available, many of them free. Most include guided sessions where you practice focusing your attention on specific ideas—like compassion, forgiveness, impermanence, or gratitude.
 
-Most of the research behind this lesson runs on one particular program. Jon Kabat-Zinn took the plain practice of anchoring your attention and bringing it back, built it into an eight-week course for hospital patients, and called it Mindfulness-Based Stress Reduction — MBSR. Nearly everything below is either that course or a descendant of it.
+Jon Kabat-Zinn took the plain practice of anchoring your attention and bringing it back, built it into an eight-week course for hospital patients, and called it Mindfulness-Based Stress Reduction — MBSR.
 
-How you take it seems to matter less than whether you actually do it. MBSR taught live over video works about as well as MBSR taught in a room ([Hoge and colleagues, 2025](https://pubmed.ncbi.nlm.nih.gov/40324655/)), and the app studies report effects in the same general range as the in-person trials, though nobody has compared the two directly. Pick the one you will keep opening. Two narrow exceptions are worth knowing. Social anxiety improved more when people were physically in the room together, which makes sense, since sitting with strangers is the thing being practiced. And among online programs, having a real person supporting you roughly doubled the benefit for stress, while making no difference to depression, anxiety, or well-being ([Sommers-Spijkerman and colleagues, 2021](https://doi.org/10.2196/28168)). If you are dealing with a lot of stress or depression, talking it through with a professional tends to help.
+MBSR taught live over video works about as well as MBSR taught in a room ([Hoge and colleagues, 2025](https://pubmed.ncbi.nlm.nih.gov/40324655/)), and the app studies report effects in the same general range as the in-person trials. Pick the one you will keep opening. There are a few exceptions worth knowing. Social anxiety improved more when people were physically in the room together, which makes sense, since sitting with strangers is the thing being practiced. And among online programs, having a real person supporting you roughly doubled the benefit for stress, while making no difference to depression, anxiety, or well-being ([Sommers-Spijkerman and colleagues, 2021](https://doi.org/10.2196/28168)). If you are dealing with a lot of stress or depression, talking it through with a professional tends to help.
 
 Here are a few good places to start:
 
-**[Humin Wellbeing App](https://humin.org/wellbeing-tools/app)** — the Healthy Minds Program, built by the organization Richard Davidson founded. He is the senior author on the heat-pad study earlier in this lesson, which makes this the closest thing to practicing with the people doing the research. Free and ad-free; you do have to register.
+**[Humin Wellbeing App](https://humin.org/wellbeing-tools/app)** — the Healthy Minds Program, built by Humin, the nonprofit Richard Davidson founded. Davidson directs the Center for Healthy Minds at the University of Wisconsin–Madison and has spent decades studying what meditation does to the brain, including the heat-pad study earlier in this lesson and the scans that first put Yongey Mingyur Rinpoche's brain activity on record. Free and ad-free; you do have to register.
 
 **[Palouse Mindfulness](https://palousemindfulness.com/)** — the complete eight-week MBSR course, free, with no account, no signup, and no payment of any kind.
 
 **[Insight Timer](https://insighttimer.com/)** — the largest free library of guided practice anywhere. It does require an account, and most of the structured courses sit behind a paid tier.
 
-Those three you work through on your own schedule. These two put you with a teacher and a group:
+Those three you work through on your own schedule. These two are taught, with a live instructor and a group:
 
-**[Tergar: Joy of Living](https://joy.tergar.org/)** — Yongey Mingyur Rinpoche's own program, and the closest you can get to studying with the teacher quoted earlier in this lesson. You can join a cohort and move through it alongside other people with a live instructor, or work through the hundred-plus video teachings at your own pace. Registration required.
+**[MBSR at the UMass Center for Mindfulness](https://www.ummhealth.org/services-treatments/center-mindfulness/mindfulness-programs/mbsr)** — the original eight-week course, taught live in a cohort over video: weekly two-and-a-half-hour classes, a full-day session, and one-on-one time with an instructor. It costs $650.
 
 **[MBCT at the UMass Center for Mindfulness](https://www.ummhealth.org/services-treatments/center-mindfulness/mindfulness-programs/mbct)** — an eight-week course in Mindfulness-Based Cognitive Therapy, or MBCT: the MBSR structure with cognitive therapy added on top, built for people at risk of falling back into depression. Cognitive therapy is the part of standard talk therapy that works on what you do with a thought once you have caught it. Taught live in a cohort over video, with weekly two-and-a-half-hour classes, a full-day session, and one-on-one time with an instructor. It costs $650.
+
+One program does not sit neatly in either list, because it was built to cover both:
+
+**[Tergar: Joy of Living](https://joy.tergar.org/)** — Yongey Mingyur Rinpoche's own program, and the closest you can get to studying with the teacher quoted earlier in this lesson. The core course is self-guided, over a hundred video teachings you work through at your own pace, with an online community, cohort options, and live guides available if you want them. Once you are ready to go further, Tergar also runs more advanced courses with live instruction, in person and online. Registration required.
 
 ## What to Expect
 
