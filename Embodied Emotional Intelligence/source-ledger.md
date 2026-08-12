@@ -55,13 +55,20 @@ often without losing the first; novices improved less. Self-selected retreatants
 randomized.
 
 **Brandmeyer & Delorme, 2018** ([PubMed](https://pubmed.ncbi.nlm.nih.gov/27815577/); author PDF at sccn.ucsd.edu) —
-Probe-caught (random 30–90s intervals), experts vs non-experts, one-hour sit. Experts:
-significantly fewer mind-wandering trials (p=0.00038) and lower "depth" of wandering —
-a 0–3 immersion rating at the probe, **not** a duration measure (depth 1.14 vs 1.59,
-p=0.03). **Cannot support:** episode duration or "catching faster" — "truncate" and
-"faster" appear nowhere in the paper; duration is named in the intro as an open question
-and never measured. A circulating summary attributing a duration finding to this paper
-is fabricated.
+Probe-caught (random 30–90s intervals), experts vs non-experts, one-hour sit, n=24 after
+one exclusion (12 per group). **Quantified in the text (added Aug 2026, full PDF read):**
+experts averaged 75.4% meditation trials / 24.6% mind-wandering trials (SE 4.4,
+p=0.00014); non-experts 42.7% / 57.3% (SE 6.2, ns within group). Between groups the gap
+is 32.7 points, p=0.00038. Also lower "depth" of wandering — a 0–3 immersion rating at
+the probe, **not** a duration measure (depth 1.14 vs 1.59, p=0.03).
+**Read the groups correctly:** "expert" = daily practice of 2+ hours for a year or more
+(mean 14.8 h/week); "non-expert" = trained and familiar with the techniques but
+practicing irregularly (mean 3.2 h/week). **This is heavy vs light practice, not
+meditators vs non-meditators** — do not describe the comparison group as people who have
+never meditated. **Cannot support:** episode duration or "catching faster" — "truncate"
+and "faster" appear nowhere in the paper; duration is named in the intro as an open
+question and never measured. A circulating summary attributing a duration finding to this
+paper is fabricated.
 
 **Jha, Krompinger & Baime, 2007** ([PubMed](https://pubmed.ncbi.nlm.nih.gov/17672382/)) —
 Beginners after eight weeks improved orienting (redirecting attention once wandered);
@@ -137,6 +144,60 @@ Veterans with diagnosed PTSD: gains in symptoms and day-to-day functioning.
 Founding chronic-pain and anxiety studies. 1992: 22 patients; 18 reached at three years,
 improvement still significant (82%). **No comparison group in either** — durable
 improvement in participants, cannot isolate the technique as the ingredient.
+**Recurring error to watch (caught again in Lesson 1, Aug 2026):** 82% is the *follow-up
+rate* — the share of the original cohort the researchers managed to reach. It is not the
+share of patients who improved. "82% were still significantly improved three years later"
+is wrong; the correct form is "18 of the original 22 were reached, and their improvement
+was still significant."
+
+**Strauss, Cavanagh, Oliver & Pettman, 2014** ([PLoS ONE 9(4):e96110](https://doi.org/10.1371/journal.pone.0096110)) —
+12 RCTs, 578 participants with a *current* anxiety or depressive disorder. MBCT
+depression g=−0.73 [−1.36, −0.09], significant; MBSR anxiety g=−0.55 [−1.18, 0.09] and
+primary symptom severity g=−0.75 [−1.81, 0.31], both non-significant. **Do not read this
+as "MBCT beats MBSR."** It is confounded by indication: the MBCT trials were depression
+trials and the MBSR trials were anxiety trials — the authors state no depression-focused
+MBSR trials existed to include. It compares MBCT-on-depression with MBSR-on-anxiety.
+
+**Haller, Breilmann, Schröter, Dobos & Cramer, 2021** ([Sci Rep 11:20385](https://doi.org/10.1038/s41598-021-99882-w)) —
+23 RCTs, DSM-5 anxiety disorders only. Against CBT as the common comparator: MBCT
+comparable, MBSR significantly lower (SMD=0.50 [0.17, 0.83] favoring CBT). Against TAU
+both beat it. **Cannot support "MBCT outperforms MBSR":** the two were never run head to
+head; this is an indirect comparison across separate trials, 3 MBCT vs 8 MBSR, anxiety
+disorders only. Cut from Lesson 1 for that reason.
+
+**Hoge and colleagues, 2025** ([J Affect Disord 384:163–172](https://pubmed.ncbi.nlm.nih.gov/40324655/)) —
+The one clean test of delivery format. MBSR taught live over videoconference vs MBSR
+taught in person, for diagnosed anxiety disorders; non-inferiority demonstrated within
+the pre-specified margin of −0.40 (95% CI −0.34 to 0.25). **The one exception:** in-person
+had greater impact on social anxiety than its videoconference version. Note the trial's
+main arm was MBSR vs escitalopram — the format comparison is the second phase, added
+when the pandemic forced remote delivery.
+
+**Delivery format — what cannot be claimed (settled Aug 2026).** There is **no
+head-to-head trial of an app against a teacher-led course.** A widely repeated line that
+apps are "less potent than in-person" rests on comparing app effect sizes against an
+in-person figure of d≈0.89, which is not active-controlled and so not comparable. Compare
+like with like instead: app trials (**Gál, Ștefan & Cristea, 2021**, *J Affect Disord*
+279:131–142 — stress g=0.46, depression g=0.33, anxiety g=0.28, well-being g=0.29) land
+in the same range as Goyal's active-controlled in-person numbers (anxiety d=0.38,
+depression d=0.30). **So: say the formats all seem to work and that nobody has compared
+them directly.** Do not rank them. This correction was caught by DF after the "apps work
+less strongly" claim was drafted into Lesson 1.
+
+**Sommers-Spijkerman, Austin, Bohlmeijer & Pots, 2021** ([JMIR Ment Health 8(7):e28168](https://doi.org/10.2196/28168)) —
+97 trials, 125 comparisons of *online* MBIs. Pre-post: depression g=0.34, stress g=0.44,
+mindfulness g=0.40, anxiety g=0.26; well-being significant only after removing outliers
+or low-quality studies. **The guidance finding (used in Lesson 1):** guided beat unguided
+on **stress only** — guided g=0.61 [0.43, 0.82] vs unguided g=0.34 [0.21, 0.47], P=.02.
+Guidance did *not* significantly moderate depression, anxiety, well-being, or mindfulness.
+Note the paper is internally inconsistent here: Results give 0.61 vs 0.34, the Discussion
+gives 0.42 vs 0.21 for the same comparison. Direction is identical (guided ≈ double), so
+the lesson says "roughly doubled" rather than quoting a number. **Also the direct test of
+program type:** intervention type was *not* a significant moderator — the authors'
+conclusion is that "MBSR, MBCT, ACT, and hybrid MBIs are equally effective in improving
+mental health." This is the strongest available evidence against ranking MBCT over MBSR.
+Caveat: online delivery throughout; 34% of studies at high risk of bias; publication bias
+indicated for every outcome except stress.
 
 **Hilton and colleagues, 2017** ([DOI](https://doi.org/10.1007/s12160-016-9844-2); PDF read) —
 38 RCTs, 3,536 chronic-pain patients across conditions. Pain SMD=0.32, no difference by
@@ -510,6 +571,24 @@ Inverted-U in sustained-attention regions: ~19,000-hr practitioners more activat
 novices; ~44,000-hr practitioners less. Basis for the "holding attention stops costing
 what it did" claim, stated as "seems to."
 
+**Lutz, Greischar, Rawlings, Ricard & Davidson, 2004** ([PNAS 101:16369](https://pmc.ncbi.nlm.nih.gov/articles/PMC526201/)) —
+8 long-term Tibetan practitioners (Nyingmapa/Kagyupa, 10,000–50,000 lifetime hours over
+15–40 years, mean age 49) vs 10 controls (mean age 21 — the age gap is a real confound,
+note it if the claim ever gets load-bearing). **The controls were not untrained:** "no
+previous meditative experience but had declared an interest," then given instruction and
+asked to practice one hour daily for the week before recording. Never describe them as
+people who had never meditated — the contrast is decades against one week, which is the
+more interesting framing anyway. Practice was *compassion /
+loving-kindness*, *not* breath-focus — say so, or the reader will assume attention
+training produced this. Findings: adjusted average variation in gamma activity >30-fold
+greater in practitioners during meditation; and the group difference was already present
+in the **resting baseline before meditation began**, with relative gamma correlating with
+lifetime hours at that baseline (r=0.79, P<0.02) — the trait-not-state point Lesson 1 uses.
+**Cannot support:** that Matthieu Ricard was one of the eight subjects. He is a co-author
+and the contributions statement puts him on "designed research"; the paper never names
+its subjects. Media reports say Davidson scanned him, but the paper does not establish it
+— Lesson 1 is worded to avoid the claim.
+
 ## Teachers and quotations (verified wording)
 
 **Yongey Mingyur Rinpoche, *The Joy of Living* (2007)** — Epigraph ("The expectations
@@ -520,6 +599,12 @@ across Tergar teaching materials (teacher-quotation standard, not research stand
 
 **Matthieu Ricard, *YES! Magazine* (2009)** — Eagle/crows passage verified against the
 published interview.
+
+**Matthieu Ricard, *New York Times Magazine* (2023)** — On the "happiest man in the
+world" label, interviewed by David Marchese: "It's a big joke. We cannot know the level
+of happiness through neuroscience." He rejects the label consistently across interviews
+(elsewhere: "a nonsense idea"). Use it whenever the label appears — the lesson should
+never repeat the media framing without his objection to it.
 
 **Sallatha Sutta** (Thanissaro Bhikkhu translation, accesstoinsight.org) — second arrow.
 
