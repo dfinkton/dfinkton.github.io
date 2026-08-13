@@ -29,8 +29,11 @@ each entry for the handful of sources still flagged `needs follow-up`).
 Experience sampling, 2,250 adults, phone pings. Minds elsewhere in 46.9% of samples.
 Pleasant wandering left people no happier than being present; neutral/unpleasant left
 them worse. Time-lagged analysis: wandering preceded the mood dip, not the reverse.
-People wandered to pleasant topics more often than unpleasant (42.5% vs 26.5%) — the
-"wandering minds go somewhere dark" intuition is wrong on this data.
+**Read the topic split carefully — an earlier version of this note framed it wrongly.**
+Pleasant (42.5%) is the largest single category, but it is not a majority: 57.5% of
+wandering goes somewhere neutral (31%) or unpleasant (26.5%). Saying minds "go somewhere
+pleasant more often than somewhere unpleasant" is true of the pairwise comparison and
+misleading about the whole, because it implies wandering is mostly pleasant. It isn't.
 **Exact figures confirmed against the PDF, Aug 2026.** Of wandering samples: pleasant
 42.5%, neutral 31%, unpleasant 26.5% (these sum to 100 — they are shares of wandering,
 not of all samples, despite the paper's looser "of samples" phrasing). Happiness versus
