@@ -352,6 +352,11 @@ preferring a different anchor than predicted.
 **Anchor EEG comparison** ([PMC8967094](https://pmc.ncbi.nlm.nih.gov/articles/PMC8967094/)) —
 Retrospective, 34 adults, 3-min sessions, consumer EEG: breath/mantra held calm longer
 than external point. Weak; cite only as "anchors have been compared," not as a ranking.
+**Removed from Lesson 1 (Aug 2026).** The entry was almost entirely methodology critique
+of a weak study, and once every Evidence paragraph got a scannable headline, this one's
+headline had to announce its own uselessness ("too small to settle anything"). Its only
+real function was preempting a reader who found the study elsewhere — not worth a slot.
+Anderson & Farb already carries the "no anchor is best for everyone" claim on its own.
 
 ## Side effects and limits
 
