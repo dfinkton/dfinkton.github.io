@@ -216,10 +216,24 @@ indicated for every outcome except stress.
 condition; depression SMD=0.15 with zero heterogeneity across 12 trials.
 
 **Dunning and colleagues, 2019** ([Wiley](https://acamh.onlinelibrary.wiley.com/doi/10.1111/jcpp.12980)) —
-Kids/teens, restricted to 17 active-controlled trials: depression d=0.47, mindfulness
-d=0.42, anxiety/stress d=0.18. **Cannot support:** "same kind of active control as
-Goyal" — their active arms were mostly attention-placebo, not matched treatments; that
-clause was cut from lesson 1.
+**33 RCTs, >3,600 children and adolescents**; the 17 active-controlled trials are a subset
+analyzed separately, *not* the scope of the review (an earlier Lesson 1 sentence said
+"restricted their meta-analysis to the 17 trials" — wrong, corrected Aug 2026). Active
+subset: depression d=0.47, mindfulness d=0.42, anxiety/stress d=0.18. Interventions were
+programs built for young people — school courses (Learning to BREATHE, Mindfulness in
+Schools Programme) adapted from MBSR/MBCT, plus mindfulness-based yoga, Soles of the Feet,
+and author-created variants.
+**Cannot support — two separate prohibited comparisons, both attempted and both cut:**
+(1) "same kind of active control as Goyal" — Dunning's active arms were mostly
+attention-placebo, Goyal's were matched treatments. Cut from Lesson 1 once, then
+reintroduced Aug 2026 as "the same kind of trials find in adults" and cut again. Do not
+compare these two effect sizes as if the designs match.
+(2) Comparing Dunning's depression figure to the Cipriani antidepressant or Hofmann &
+Smits CBT benchmarks — the CBT benchmark is for *anxiety*, and both cross
+population/intervention/comparator lines.
+**Consequence for the headline:** Dunning studied only children and adolescents. It makes
+no adult comparison, so it cannot on its own support "works even better in kids and teens
+than in adults." That claim needs its own source or a weaker headline.
 
 **Ye and colleagues, 2024** ([PubMed](https://pubmed.ncbi.nlm.nih.gov/38799491/)) —
 5 RCTs, MBCT for late-life depression/anxiety: g=0.53 / g=0.43. Small base.
