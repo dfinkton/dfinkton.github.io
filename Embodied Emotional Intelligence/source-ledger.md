@@ -31,6 +31,15 @@ Pleasant wandering left people no happier than being present; neutral/unpleasant
 them worse. Time-lagged analysis: wandering preceded the mood dip, not the reverse.
 People wandered to pleasant topics more often than unpleasant (42.5% vs 26.5%) — the
 "wandering minds go somewhere dark" intuition is wrong on this data.
+**Exact figures confirmed against the PDF, Aug 2026.** Of wandering samples: pleasant
+42.5%, neutral 31%, unpleasant 26.5% (these sum to 100 — they are shares of wandering,
+not of all samples, despite the paper's looser "of samples" phrasing). Happiness versus
+current activity: pleasant b=−0.52, **not significant** (so "no happier" is exact, not a
+hedge); neutral b=−7.2, P<0.001; unpleasant b=−23.9. **Do not lump neutral and unpleasant
+together** — unpleasant is more than three times worse, and an earlier Lesson 1 sentence
+flattened them into one "considerably less happy." Also avoid "far more often" for
+42.5 vs 26.5; it is roughly 1.6x, and the paper's own comparison is pleasant against
+neutral and unpleasant combined.
 
 **Mrazek and colleagues, 2013** ([Psych Science](https://journals.sagepub.com/doi/10.1177/0956797612459659)) —
 RCT, undergraduates, two weeks mindfulness training vs nutrition class. Fewer off-task
