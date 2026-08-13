@@ -238,8 +238,19 @@ than in adults." That claim needs its own source or a weaker headline.
 **Ye and colleagues, 2024** ([PubMed](https://pubmed.ncbi.nlm.nih.gov/38799491/)) —
 5 RCTs, MBCT for late-life depression/anxiety: g=0.53 / g=0.43. Small base.
 
-**Hatch and colleagues, 2023** ([T&F](https://tandfonline.com/doi/abs/10.1080/13607863.2022.2102140)) —
-Older adults, anxiety, 7 trials, program-independent.
+**Hatch, Webber, Rej, Finlayson & Kessler, 2023** ([T&F](https://tandfonline.com/doi/abs/10.1080/13607863.2022.2102140);
+*Aging & Mental Health* 27(6):1045–1055; PDF read in full Aug 2026) — **A systematic review
+with narrative summary, NOT a meta-analysis.** They screened 2,709 studies, included 7 RCTs,
+355 participants total (individual samples 36–141), and explicitly did not pool results
+statistically — do not write "pooled" for this one. Interventions were MBSR and MBCT,
+several modified for older adults, plus derivatives (MAPS, BREATHE). Comparators varied:
+attention control, treatment-as-usual, and in one case no active control group. Outcomes
+were pre-post change on anxiety scales.
+**The program-independence line is verbatim from the abstract:** "Regardless of the
+mindfulness-based meditation intervention used, a reduction in symptoms of anxiety in
+participants was reported post-intervention." Authors' own conclusion is hedged —
+"appear to be promising" — and they call for more RCTs.
+**Year:** cite as 2023 (print issue June 2023). The PDF's 2022 is the online-first date.
 
 **Gliske and colleagues, 2026** ([DOI](https://doi.org/10.1007/s12671-026-02917-4); PDF read) —
 Meta-review, 17 systematic reviews, perinatal. Fear of childbirth clearest (SMD 0.71 and
