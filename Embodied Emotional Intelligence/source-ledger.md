@@ -127,8 +127,20 @@ controlled** — runs higher than Goyal by design: anxiety g=0.63, depression g=
 anxiety/mood-disorder subgroup g=0.97 / g=0.95, held at 12-week median follow-up.
 Reports **Hedges' g, not Cohen's d** — a d/g mislabel here was caught and fixed.
 
-**Hoge and colleagues, 2013** ([PubMed](https://pubmed.ncbi.nlm.nih.gov/23541163/)) —
-MBSR vs active comparison for GAD: response ~2/3 vs 40%.
+**Hoge and colleagues, 2013** ([PubMed](https://pubmed.ncbi.nlm.nih.gov/23541163/); *J Clin
+Psychiatry* 74(8):786–792) — 93 adults with DSM-IV generalized anxiety disorder randomized
+to 8-week MBSR or Stress Management Education (SME), an attention-matched control of
+didactic classes on stress physiology, sleep, nutrition, time management, exercise — **no
+meditation content**. Response (CGI-I of 1 "very much improved" or 2 "much improved"):
+**66% (29/44) MBSR vs 40% (14/35) SME, p=0.025**; RR 1.65 [1.04–2.60], NNT 3.9.
+**Critical detail added Aug 2026 — the earlier entry omitted it:** MBSR did **not** beat SME
+on the trial's pre-specified **primary** outcome, the Hamilton Anxiety Rating Scale. It won
+on secondary measures only (CGI-S, CGI-I, BAI). The 66%-vs-40% figure everyone quotes is a
+secondary outcome. Never cite it without knowing that.
+**Removed from Lesson 1 (Aug 2026):** dropped from the diagnosed-populations entry because
+it shows MBSR works *within* a diagnosed group against an alternative — it never compares
+diagnosed to non-diagnosed people, so it cannot support a "works even better in diagnosed
+people" claim. Kept here in case a future lesson needs a straight GAD result.
 
 **Kuyken and colleagues, 2016** ([JAMA Psychiatry](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2517515)) —
 Individual patient data, 9 trials: MBCT completers relapsed less over the following year
