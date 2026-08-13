@@ -296,6 +296,28 @@ rather than an effect size and a confidence interval, and **link the study** so 
 who wants the figures can go get them. Where an exact number genuinely does work for
 the reader, give it plainly and say what it means.
 
+**An effect size is defined by its control group, so figures from different studies rarely
+compare.** Same intervention, same people, same outcome — change the control and the number
+changes. Lesson 1's own citations run from d=0.30 (active controls) to g=0.95 (no control)
+for roughly "mindfulness helps depression," and almost none of that spread is the practice
+behaving differently. Two consequences: print a number and you owe the reader the control it
+was measured against, and never rank two studies' effect sizes against each other unless the
+paragraph's argument *is* about the control difference.
+
+**Never state a comparison the paper doesn't make.** A study of children cannot support
+"works better than in adults" however the numbers look beside an adult study. Setting three
+papers' figures side by side is the lesson's claim, not the research's — and it is the
+lesson that will be wrong.
+
+**A paragraph with no citation of its own is a footnote — merge it into the entry above.**
+Two in Lesson 1 opened by restating the entry they followed, which is why neither carried a
+source. Giving them headlines would have dressed up the structural problem instead of
+fixing it.
+
+**State the direction of effect.** "Significant gains in depression, anxiety, and stress"
+says the training made those worse. One noun cannot cover measures moving in both
+directions.
+
 ---
 
 ## Rules that cut across every section
