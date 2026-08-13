@@ -42,6 +42,37 @@ Practice → What to Expect → The Evidence → The Overview → The Quotation*
 under *How a lesson gets built*). A section below the one currently being revised is a
 stale artifact of the old draft, not a base to edit, until it gets its own pass.
 
+### Order of passes when revising a section that already exists
+
+Learned the expensive way on Lesson 1's Evidence section, where dozens of wording edits
+went into entries that a structural pass would have cut or merged outright.
+
+**0. Read this file first.** The rework on Lesson 1 was mostly re-deriving rules already
+written here — lead with the claim, define terms as they're used, keep notation out and
+link the study. They were never consulted.
+
+**1. Structural pass, whole section, before any wording.** For every entry, three
+questions, answered in writing before anything gets reworded:
+- Does it earn its place, or is it backing a claim this lesson doesn't make?
+- Does it make one claim, or is it several studies stacked under one heading?
+- Does it have its own citation? A paragraph without one is usually a footnote to the
+  entry above it, and wants merging rather than a new headline.
+
+Cut and merge decisions all get made here. Rewording an entry that's about to be deleted
+is the single largest source of wasted passes.
+
+**2. Verification pass on everything that survived.** Open the source. The ledger is a
+pointer to a verified reading, not a substitute for one — an entry that doesn't say it was
+read in full can't support specifics, and a thin entry reads as authoritative while being
+unable to carry prose. Two of Lesson 1's worst errors came from writing off a one-line
+ledger note and from copying a verb ("pooled") off the adjacent citation.
+
+**3. Wording pass last.**
+
+**4. After any cut, grep for what referenced it.** Removing Goyal's effect sizes silently
+broke two other paragraphs that cited that range by digit. Deleting a number, a study, or
+a claim is not a local edit.
+
 ---
 
 ## How a lesson gets built

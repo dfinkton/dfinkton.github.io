@@ -16,6 +16,28 @@ after verifying a new one.** An entry here means the primary text was read or ch
 directly in a drafting session; it does not mean every number in the paper was audited —
 only the ones the entry states.
 
+## Mark every entry with how deeply it was verified
+
+Added Aug 2026 after a thin entry — "Older adults, anxiety, 7 trials, program-independent" —
+produced two errors in Lesson 1. It read as authoritative and could not support a sentence.
+**A one-line entry is a pointer to a source, not a licence to write specifics from it.**
+
+Tag each entry with one of these, so a later session knows what it can lean on:
+
+- **`full text read`** — the PDF or full article was read. Specifics are safe to write from
+  the entry, within what the entry actually states.
+- **`abstract only`** — abstract or publisher page checked. Safe for the headline finding
+  and the design; **go read the paper before writing sample sizes, effect sizes, control
+  conditions, or any subgroup result.**
+- **`secondary source`** — verified through reporting, a review citing it, or a syndicated
+  copy rather than the original. Say which. Usable, but flag it in the prose decision and
+  replace with the primary when it can be got.
+
+**If an entry carries no tag, treat it as `abstract only`.** Two of Lesson 1's worst errors
+came from writing prose off an untagged one-line note, and from copying a verb ("pooled")
+off the citation sitting next to it in the lesson — a systematic review became a
+meta-analysis because the entry didn't say which it was.
+
 Currently covers Lesson 1 (Focus and Attention, verified July–August 2026) and Lesson 2
 (Emotional Awareness, broad literature search and pressure-test pass, 2026-08-09 through
 2026-08-10, including a full-text pass on 8 supplied PDFs on 2026-08-10 — see notes on
