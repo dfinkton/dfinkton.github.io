@@ -1142,14 +1142,32 @@ cold or distant, socially inhibited, and non-assertive; to lower social support 
 and to lower affection for others.
 **Weakness:** primary studies (e.g. BMC Psychiatry 2023), **no pooled estimate located.**
 
-### I2. Higher emotional awareness goes with more social support, closeness and help-seeking. `OPEN — the four citations were chased 18 Aug 2026 and none supports it; the claim itself has not been searched`
-This entry previously read *"the strongest interpersonal evidence we have precisely because
-it is LEAS-based."* **The citations do not support it. That is a finding about this entry's
-sourcing, not about the claim** — no search for the claim has been run, and several verified
-sources elsewhere in this project point the same way (Zhang X 2025: higher alexithymia, lower
-perceived social support and more negative help-seeking attitudes; Panahi 2018: the whole
-marital-satisfaction effect running through loneliness; [[I1]]: lower social support
-received). What the four citations turn out to be:
+### I2. Difficulty identifying and describing feelings goes with less social support and more reluctance to seek help. `SUPPORTED — four verified sources converging; the original four citations were chased 18 Aug 2026 and none supports it`
+
+**What is verified, and it is the association itself:**
+- **Zhang X and colleagues, 2025** (abstract read verbatim) — **N = 430**, men after radical
+  prostatectomy, mean age 69.9. Higher alexithymia → **lower perceived social support** and
+  **more negative attitudes toward seeking professional psychological help**, with support and
+  stress mediating. Narrow population; Normative Male Alexithymia Scale, not TAS-20.
+- **Panahi and colleagues, 2018** (full text read) — 108 Iranian couples. The direct
+  alexithymia → marital-satisfaction path was non-significant and dropped; **the whole effect
+  ran through loneliness** (β=0.34 → −0.45).
+- **Humphreys, Wood & Parker, 2009** (full text read) — N=158 undergraduates. Lower
+  relationship (r=−.45) and sexual (r=−.44) satisfaction.
+- **[[I1]]** — lower social support received, cold/distant and non-assertive interpersonal
+  style. No pooled estimate located.
+
+**What was lost when the original citations failed, and it is narrower than the claim:** a
+**LEAS-based** — i.e. performance-measured rather than self-reported — version, at the
+positive pole, covering **interpersonal closeness** specifically. Every verified source above
+is self-report and sits at the alexithymia pole. **Rowsell, Ciarrochi, Deane & Heaven (2016)**,
+*Journal of Research on Adolescence* 26(1):115–125 — three-year longitudinal, reciprocal model
+between emotion identification skill and perceived social support — is the retrieval that would
+restore it.
+
+This entry previously read *"the strongest interpersonal evidence we have precisely because it
+is LEAS-based."* **That superlative was mine and the LEAS sourcing was wrong.** What the four
+citations turn out to be:
 
 - **Barchard & Hakstian 2004**, *Educational and Psychological Measurement* 64:437–462 —
   located. It relates emotional-intelligence composites to fluid intelligence, crystallised
