@@ -1142,10 +1142,14 @@ cold or distant, socially inhibited, and non-assertive; to lower social support 
 and to lower affection for others.
 **Weakness:** primary studies (e.g. BMC Psychiatry 2023), **no pooled estimate located.**
 
-### I2. Higher emotional awareness goes with more social support, closeness and help-seeking. `UNSOURCED — all four citations chased 18 Aug 2026 and none supports it`
+### I2. Higher emotional awareness goes with more social support, closeness and help-seeking. `OPEN — the four citations were chased 18 Aug 2026 and none supports it; the claim itself has not been searched`
 This entry previously read *"the strongest interpersonal evidence we have precisely because
-it is LEAS-based."* **It has no verified source behind it.** What the four citations turn out
-to be:
+it is LEAS-based."* **The citations do not support it. That is a finding about this entry's
+sourcing, not about the claim** — no search for the claim has been run, and several verified
+sources elsewhere in this project point the same way (Zhang X 2025: higher alexithymia, lower
+perceived social support and more negative help-seeking attitudes; Panahi 2018: the whole
+marital-satisfaction effect running through loneliness; [[I1]]: lower social support
+received). What the four citations turn out to be:
 
 - **Barchard & Hakstian 2004**, *Educational and Psychological Measurement* 64:437–462 —
   located. It relates emotional-intelligence composites to fluid intelligence, crystallised
