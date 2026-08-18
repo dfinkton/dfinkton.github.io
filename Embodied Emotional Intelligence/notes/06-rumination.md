@@ -36,3 +36,29 @@ Catching the switch from concrete to abstract. Asking *what happened* rather tha
 
 ## Two honest notes
 Rumination more consistently predicts the *onset* of depression than its duration, though it interacts with negative cognitive style to predict duration. And contrary to the original theory, positive distraction has **not** consistently correlated with lower depressive symptoms in correlational studies — even though dozens of experimental studies show distraction relieves depressed mood in the lab. "Just distract yourself" works on a short timescale and does not show up as a life strategy.
+## Analysing why you feel it makes it worse — relocated from the Lesson 2 register, 2026-08-13
+
+**Webb, Miles & Sheeran (2012)**, *Psychological Bulletin* 138(4):775–808, **k = 306** — the
+meta this project had been leaning on (Egger's p=.44, fail-safe N=9,285 — but see the DISPUTE note: those statistics cover publication bias only, and Augustine & Hemenover 2013, Psych Bull 139(3):725-729, dispute the inclusion criteria and effect-size selection in print; a reply exists at PMID 23607434 and neither is read in full).
+Primary text read; full entry in `source-ledger.md`.
+
+Three operations that are routinely described as "paying attention to your feelings" have three
+different signs:
+
+| Operation | Effect on regulation success |
+|---|---|
+| Using the feeling as a **cue to act** | **+0.44 to +0.86** |
+| **Reliving** the feeling | **−0.14** |
+| **Analysing why you have it** | **−0.34** |
+
+**The −0.34 is this lesson's finding.** "Working out why I feel this way" is the most intuitive thing
+to recommend to someone who is upset, and it is the worst-performing of the three. It is also
+precisely what rumination is, which is why it sits here rather than in the awareness lesson.
+
+Note what this does **not** say: brief identification of the feeling was not tested in either
+condition. This is not evidence against naming — it is evidence against dwelling and against
+explaining.
+
+**A counterweight to hold onto:** Moon & Berenbaum (2009), inside the same literature, found that a
+**mood checklist reduced binge eating.** Ticking a box is not analysing.
+

@@ -53,3 +53,86 @@ So disclosure and co-rumination are separable, and the separator is the same one
 
 ## The prayer link
 Self-disclosure mediated the mental-health association for colloquial and meditative prayer and did not meditate petitionary or ritual (*Journal of Religion and Health*, 2014, N = 296). People disclosing to something that does not audibly respond still showed the effect — which is the strongest available argument that the listener's response is not the mechanism.
+
+## Social sharing — researched 2026-08-13, relocated from the Lesson 2 register
+
+**Nils, F., & Rimé, B. (2012). "Beyond the myth of venting: Social sharing modes determine the
+benefits of emotional disclosure." *European Journal of Social Psychology*, DOI 10.1002/ejsp.1880.**
+Primary text read. Full entry in `source-ledger.md`.
+
+**Design.** N=89 (53 female), mean age 20.5. **The listeners were the participants' own intimates**
+— 69% close friend, 21% partner, 10% sibling — each coached into a role and blind to the hypotheses
+(compliance 5.83/7). **2×2: socio-affective (empathic) vs neutral × cognitive reframing vs none.**
+Stimulus: a 9½-minute film (child prostitution testimony, livestock abuse, Nazi camp footage).
+Measured right after the conversation and **again at 48 hours, after re-watching the film.**
+
+**Empathic listening did not soothe. It raised the emotional impact** — 7.01 vs 6.23, F(1,85)=4.09,
+p<.05. Their own Hypothesis 1 predicted exactly that: such conditions "temporarily **enhance** rather
+than dampen emotional arousal." What empathy *did* produce, **at Time 1 only**: emotional proximity
+6.46 vs 5.95 and loneliness 30.60 vs 35.09 (both p<.05). **Both gone at 48 hours.** No effect on
+either worldview measure.
+
+**The misattribution result — the sharpest finding for this lesson.** At 48 hours the empathic group
+rated the conversation as **more beneficial** (4.51 vs 3.96, p<.10) on three items: it *made me feel
+better*, *enabled me to take a different perspective*, *ended up reducing my negative feelings.*
+
+> "**In fact, neither a change in perspective nor a reduction of negative feelings resulted from the
+> socio-affective conditions. That participants in these conditions reported the opposite subjective
+> impressions supports our speculation that the venting hypothesis originates from a
+> misattribution.**"
+
+**They got closeness, and read it as recovery.** All three claimed benefits were absent.
+
+**Factual reframing worked, and held.** Emotional impact **5.70 vs 7.08 at 48 hours**, F(1,77)=7.43,
+p<.01; beliefs about human nature 3.86 vs 3.41, p<.01. **No interaction anywhere** — the two modes
+are independent channels, so this is not "reframing instead of comfort," it is two separate things.
+
+**What "cognitive work" consisted of, operationally — this matters for what to teach.** The listener
+first said the feelings were *"completely normal and legitimate"*, then supplied **specific factual
+counter-evidence**: the footage contributed to changed paedophilia law in Thailand, the closure of
+the cattle markets shown, the Nuremberg conviction of 80 Nazis, and humans also build vaccines and
+MSF. **Validate, then inform. Not reassurance, and not "look on the bright side."**
+
+**Independent replication of the pattern. Lepore, Fernandez-Berrocal, Ragan & Ramos (2004)** ran four
+arms: a **challenging** confederate, a **validating** confederate, talking alone, and no-talk control.
+**Only the challenging condition produced superior recovery.** Supportive did not.
+
+**Their sequencing recommendation, which bears on where this sits in the arc:** "soon after
+experiencing an emotion… people are **not open to changing their perspective**," so socio-affective
+first, cognitive later. **This is their inference from the timing literature, not something the study
+tested.**
+
+**Two limits to respect.**
+1. **There is no no-conversation condition.** All four cells held a 5–10 minute conversation; the
+   "control" is *neutral listening*. So this study **cannot show that sharing beats not sharing** —
+   that comes from Mendolia & Kleck (1993) and Lepore et al. (2000, 2004), which had no-talk arms.
+   What it shows is narrower: empathic sharing produced more self-reported upset than neutral
+   sharing, and factual reframing produced less.
+2. **A quote circulating in these notes is not in the paper** — the "perpetual cycle… unchanged
+   appraisal… continue to fuel sharing" phrasing. Their version: relief "is bound to be evanescent.
+   It will dissolve in hours, leaving the emotional impact of the episode to resurface **together
+   with a renewed need to share.**" The other wording may be Rimé 2009. **Unverified; do not quote.**
+
+**Kennedy-Moore & Watson (1999), quoted approvingly by the authors:** "the venting hypothesis and its
+corollaries are myths. Whether or not expression of distress is beneficial depends on **what is
+expressed, to whom, and how.**"
+
+## Emotional vocabulary is social, and its value is conditional on the listener
+
+Moved here from the Lesson 2 register because these are claims about *pairs*, not about a person's
+own awareness. All still thinly sourced.
+
+- **Croyle & Waltz (2002)**, 56 couples: **higher LEAS in women predicted *lower* relationship
+  quality — and that reversed when partners' scores converged.** The only mechanism in this project
+  that makes emotional vocabulary *conditionally* useful rather than straightforwardly good.
+  **Unread in full.**
+- **Yelsma & Marrow:** expressiveness *discrepancy* hurts both partners. **Unread.**
+- **Frye-Cox & Hesse:** N=155 couples, dyadic, full mediation. **Unread.**
+- **Subscale ordering (one undergraduate sample, N=158):** *difficulty describing* feelings
+  outpredicts *difficulty identifying* them for relationship and sexual satisfaction (−.43/−.42 vs
+  −.34/−.29). **The one place in the whole review where the verbal facet wins** — which is why it
+  belongs in the talking lesson rather than the noticing one.
+- **Chervonsky & Hunt:** suppression hurts social outcomes; positive and general expression helps.
+  **The anger exception is not usable as stated** — see lesson 8. Get the operationalisation.
+- **Expressive suppression** (Webb, Miles & Sheeran, k=306): changes **behaviour +0.97** but
+  **experience only +0.10**, and costs **−0.22 physiologically.** It changes what other people see.
