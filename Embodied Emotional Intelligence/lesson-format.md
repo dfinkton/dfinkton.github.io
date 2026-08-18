@@ -232,6 +232,13 @@ cannot fix, who it helps less, what it does not replace. Research uncertainty be
 in The Evidence. Keeping these apart stops the same caveat being written twice in
 different words.
 
+**Walk the same ground as The Challenge, in the same order.** Added 18 Aug 2026 after two
+Benefit drafts invented an arc and both were wrong. The Challenge has already laid out
+specific costs in a specific sequence — for Lesson 2, the outburst, then the partner, then
+who stays in your life, then perception, then the body. **The Benefit answers them in that
+order.** The arc does not need inventing, the reader feels the second section as a reply to
+the first, and nothing gets promised that no cost was named for.
+
 ---
 
 ## 5. The Practice
@@ -427,6 +434,25 @@ lessons stay — those are for the reader, not the narrator.
 **The narrator recedes.** First person is fine occasionally, and it earns its place most
 in The Evidence, where a judgment is being made — *I would treat this as promising rather
 than established.* Elsewhere, prefer the claim over a report of the claim.
+
+**Every paragraph is something that happens to the reader, and the citation lands at the
+end.** Set 18 Aug 2026 after a Benefit draft that read as an argument where The Challenge
+reads as an experience. The Challenge works because each paragraph is a thing occurring to
+a person — you snap, your partner defends, they guess wrong, you seek treatment for the
+wrong ailment — and the source arrives after a sentence that was already about the reader:
+*people who struggle to identify their feelings harm themselves more (Norman et al., 2020).*
+**Never build the sentence around the study.** Writing outward from a ledger entry produces
+the reverse, and drags the entry's contents into the prose with it.
+
+**No study design in the prose.** No sample sizes, no *researchers followed*, no *pooled
+across seventeen samples*, no *in a review of*, no effect sizes or intervals. State what is
+true of people, cite it, move on. Design and numbers are what The Evidence is for, and
+repeating them in the body is the same caveat written twice.
+
+**Name the capacity once, then use that word.** A pronoun whose referent drifts between the
+skill, the moment, the lesson and the payoff makes a section unreadable while every
+individual sentence looks fine. If *it* is doing that work, the underlying problem is that
+the section has not decided what the thing is called.
 
 **Every analogy must teach, and it should do one job.** A good one reaches something the
 prose around it cannot: *the best players in the world miss about half their shots, and
