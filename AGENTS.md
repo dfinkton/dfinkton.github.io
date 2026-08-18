@@ -91,7 +91,10 @@ A yearlong curriculum on embodied emotional intelligence maturing into emotional
 Embodied Emotional Intelligence/
 ├── eei-lesson-guide.md             # Curriculum overview, writing constraints, cross-references
 ├── lesson-format.md                # The 7-section structure every lesson follows
-├── an-introduction-to-...md        # The introduction (already written, published)
+├── verification-checklist.md       # What to verify and when. Run per claim while drafting
+├── source-ledger.md                # One entry per verified source: what it supports, what it cannot.
+│                                   #   Shared across all 42 lessons. CHECK HERE BEFORE RE-VERIFYING ANYTHING
+├── claims-register.md              # Per-lesson: what we believe, how much weight it holds, what would change it
 ├── notes/                          # One file per lesson (research notes)
 │   ├── 01-focus-and-attention.md
 │   ├── 02-emotional-awareness.md
@@ -100,7 +103,16 @@ Embodied Emotional Intelligence/
 └── lessons/                        # Drafts in progress. A finished lesson moves to content/ and does not stay here
 ```
 
-**Current state:** the format is agreed and written down. **Focus and Attention (1) is finished and published.** Nothing else in the curriculum is drafted. The curriculum page is published and shrinks as lessons ship — see "The curriculum page shrinks as lessons ship" in `eei-lesson-guide.md`.
+**The introduction is not in this folder.** It lives only as the published page at
+`content/embodied-emotional-intelligence/eei/_index.md`. Earlier versions of this file
+pointed at an `an-introduction-to-...md` working draft at the EEI root; no such file exists.
+
+**`lessons/*.txt` is gitignored** — see the rule in `.gitignore`. That is where Darryl drafts
+prose, and he overwrites it in place, so nothing in it is recoverable once replaced. **When he
+accepts a round of edits, mirror it into the tracked `.md` draft and commit.** Revisions have
+been lost this way before and the work had to be redone.
+
+**Current state:** the format is agreed and written down. **Focus and Attention (1) is finished and published.** **Emotional Awareness (2) is in drafting** — The Challenge and The Evidence have drafts in `lessons/`, with the research pass recorded in `source-ledger.md` and `claims-register.md`. Nothing else in the curriculum is drafted. The curriculum page is published and shrinks as lessons ship — see "The curriculum page shrinks as lessons ship" in `eei-lesson-guide.md`.
 
 ### Open decision: bold leads as navigation, across the whole lesson
 
@@ -127,8 +139,8 @@ answer belongs in `lesson-format.md` under Prose style so it stops being reinven
 ### Workflow for Writing a Lesson
 **`lesson-format.md` is the authority** for the seven-section structure, the order of work, the two vocabulary passes, and the publishing checklist. Do not keep a second copy of the process here — the copy that used to live in this file went stale within one lesson.
 
-1. Read `lesson-format.md` start to finish.
-2. Load the lesson's note file, `notes/XX-lesson-name.md`, and build the section-by-section plan in it: every claim the section will make, the source behind it, and whether that source has been checked against the primary text. Verification happens here, not at the end.
+1. Read `lesson-format.md` start to finish, and `verification-checklist.md` for what to check and when.
+2. Load the lesson's note file, `notes/XX-lesson-name.md`, and build the section-by-section plan in it: every claim the section will make, the source behind it, and whether that source has been checked against the primary text. Verification happens here, not at the end. **Check `source-ledger.md` before verifying any source — sources recur across lessons and it records what each one cannot support, not just what it can.** Add an entry there after verifying a new one, tagged with how deeply it was checked.
 3. Draft one section at a time, in the order the format file gives — Challenge, Benefit, Practice, What to Expect, Evidence, Overview, Quotation. Not the order they appear in, and each position has a reason.
 4. Work the publishing checklist at the end of `lesson-format.md`. It covers the file move, the byte-order-mark trap, the spiral-list link, `llms.txt`, and the rule that no lesson count appears in anything a reader sees.
 
@@ -236,11 +248,13 @@ dfjrwebsite/
 ├── Embodied Emotional Intelligence/  # EEI lesson curriculum (working docs, not published)
 │   ├── eei-lesson-guide.md
 │   ├── lesson-format.md
-│   ├── an-introduction-to-embodied-emotional-intelligence.md
+│   ├── verification-checklist.md
+│   ├── source-ledger.md              # Verified sources, shared across all lessons
+│   ├── claims-register.md            # Per-lesson claim status
 │   ├── notes/                        # 42 individual lesson note files
 │   │   ├── 01-focus-and-attention.md
 │   │   └── ... (42 total)
-│   └── lessons/                      # Completed lesson drafts
+│   └── lessons/                      # Lesson drafts in progress (*.txt here is gitignored scratch)
 ├── static/                 # Static assets
 │   ├── CNAME              # Custom domain for GitHub Pages
 │   ├── robots.txt         # Crawler permissions (AI bots explicitly allowed)
