@@ -206,15 +206,20 @@ Thompson. **Leverage: total.** Governs every sentence. Not taught — it discipl
 Multiple independent literatures. **This is the single most useful predictor of whether a finding
 will hold**, and it explains most apparent contradictions below.
 
-**A3. Body awareness and emotional awareness are barely related — and unrelated in the population
-this lesson is for. `VALIDATED — abstract read verbatim 14 Aug`**
+**A3. Self-reported body awareness and self-reported emotional awareness correlate weakly, and
+not at all in healthy samples. `VALIDATED — abstract read verbatim 14 Aug`**
 **Trevisan, Altschuler, Bagdasarov, Carlos, Duan, Hamo, Kala, McNair, Parker, Stahl, Winkelman, Zhou
 & McPartland (2019)**, *Journal of Abnormal Psychology* 128(8):765–776, PMID 31380655.
 **66 independent samples, N = 7,146. r = −.162, p=.001, 95% CI [−.252, −.068].** Verbatim:
 "the relationship was **nonsignificant in healthy, typically developing samples**."
-**Leverage: very high, and it cuts against the lesson's intuitive framing.** The heaviest single
-piece of evidence in this audit. A general-audience claim that noticing the body teaches you your
-emotions rests on a null.
+
+**What it bounds:** a claim that scoring higher on a body-awareness questionnaire goes with
+scoring higher on an emotional-awareness questionnaire. It is a correlation between two
+self-report instruments in cross-sectional samples.
+
+**What it does not bound:** whether attending to the body is a useful route into noticing an
+emotion. That is a practice question and A4 is the direct test of it — the MAIA subscale defined
+as the sensation-to-emotion link did move with body scan.
 
 **A4. A body scan does not improve raw detection of sensation — but it does improve the felt
 connection between sensation and emotion. `VALIDATED — full text read 14 Aug`**
