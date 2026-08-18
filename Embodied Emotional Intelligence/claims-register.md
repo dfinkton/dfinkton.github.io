@@ -1142,12 +1142,32 @@ cold or distant, socially inhibited, and non-assertive; to lower social support 
 and to lower affection for others.
 **Weakness:** primary studies (e.g. BMC Psychiatry 2023), **no pooled estimate located.**
 
-### I2. Higher emotional awareness goes with more social support, closeness and help-seeking. `SUPPORTED`
-**Evidence, LEAS — and therefore not confounded with distress:** empathy, tendency to seek
-help for emotional problems, actual social support received, interpersonal closeness
-(Barchard & Hakstian 2004; Ciarrochi 2003; Lumley 2005). In **460 breast cancer patients**,
-higher LEAS went with greater satisfaction and security in relationships (Weihs 2012).
-**This is the strongest interpersonal evidence we have precisely because it is LEAS-based.**
+### I2. Higher emotional awareness goes with more social support, closeness and help-seeking. `UNSOURCED — all four citations chased 18 Aug 2026 and none supports it`
+This entry previously read *"the strongest interpersonal evidence we have precisely because
+it is LEAS-based."* **It has no verified source behind it.** What the four citations turn out
+to be:
+
+- **Barchard & Hakstian 2004**, *Educational and Psychological Measurement* 64:437–462 —
+  located. It relates emotional-intelligence composites to fluid intelligence, crystallised
+  intelligence and visual-spatial ability. **Not about social support, closeness or
+  help-seeking.** (Located by search; abstract not read verbatim — a lead, not evidence.)
+- **Ciarrochi, Caputi & Mayer 2003**, *Personality and Individual Differences*, "The
+  distinctiveness and utility of a measure of trait emotional awareness" — located, and it is
+  a measurement/validity paper. Not indexed in Europe PMC. PDF is on Ciarrochi's own site.
+- **Lumley 2005** — the Europe PMC record for that year is alexithymia-and-pain work plus a
+  multi-method measurement paper (*Emotion* 5(3):329–342). **Nothing matching this claim.**
+- **"Weihs 2012" — NOT FOUND.** Eight Weihs KL papers 2011–2013, none on LEAS and
+  relationship satisfaction or security. **The "460 breast cancer patients" detail matches
+  Goldman, Chuning, Lane, Smith & Weihs (2025), already in this register at [[B6]] — where
+  the finding runs the other way:** higher emotional awareness predicted *greater* depression
+  at baseline, and with low social support, greater depression and lower optimism. **The same
+  cohort was being cited in two places with opposite valence.**
+
+**Do not use this claim until a real source is found.** The best candidate is already on the
+retrieval list: **Rowsell, Ciarrochi, Deane & Heaven (2016)**, *Journal of Research on
+Adolescence* 26(1):115–125 — three-year longitudinal, reporting a reciprocal model between
+emotion identification skill and perceived social support. Longitudinal and interpersonal,
+which almost nothing else here is.
 
 ### I3. Alexithymia relates to lower relationship and sexual satisfaction. `SUPPORTED — downgraded from VALIDATED`
 **Humphreys, Wood & Parker, 2009**, *Personality and Individual Differences* 46:43–47
@@ -2273,12 +2293,29 @@ Ariely 2026, two pre-registered experiments (N=111, N=115), replicating Nook 202
 Interaction ηp²=.14 and .07. Effects washed out by 1–2 day follow-up.
 **Consequence:** the order matters, and awareness is not a free precursor to other methods.
 
-### Q3. Low granularity does not stop people selecting regulation strategies — it stops the strategies working. `PROMISING, UNREPLICATED`
-Kalokerinos 2019, two experience-sampling studies. People *lower* in granularity used
-reappraisal and social sharing **more**, not less; the strategies were less effective. The
-authors call it a "scattergun" approach.
-**Why it matters:** it inverts the intuitive mechanism the lesson would otherwise assume
-("can't name it, so can't act"). One paper.
+### Q3. Low differentiation does not change which regulation strategies people select — it makes the strategies work less well. `SUPPORTED — abstract read verbatim 18 Aug 2026`
+**Kalokerinos EK, Erbas Y, Ceulemans E & Kuppens P (2019)**, "Differentiate to Regulate: Low
+Negative Emotion Differentiation Is Associated With Ineffective Use but Not Selection of
+Emotion-Regulation Strategies," *Psychological Science* 30(6):863–879, PMID 30990768.
+Two experience-sampling studies, **N = 200 (34,660 measurements) and N = 101 (6,282
+measurements)**.
+
+Verbatim: "we found **few relationships between differentiation and the selection** of
+putatively adaptive or maladaptive strategies. Instead, we found interactions between
+differentiation and strategies in predicting negative emotion. **Among low differentiators,
+all strategies (Study 1) and four of six strategies (Study 2) were more strongly associated
+with increased negative emotion than they were among high differentiators.**"
+
+Authors' own conclusion: "effective regulation may underlie differentiation benefits."
+
+**CORRECTED 18 Aug.** This entry previously said low differentiators "used reappraisal and
+social sharing **more**, not less," and called it a "scattergun" approach. **Neither is in the
+abstract, and the paper's title says the opposite: selection was largely unrelated to
+differentiation.** The finding is about effectiveness, not choice. The wrong version was
+repeated twice in conversation before the paper was retrieved.
+
+**Why it matters:** the authors state the lesson's own thesis — the benefit of telling
+feelings apart runs through what you then do, not through the telling itself.
 
 ### Q4. Finer anger distinctions go with less aggression on angry days. `SUPPORTED, CORRELATIONAL ONLY`
 Pond 2012, three daily-diary studies, N=628 undergraduates: 17%, 43% and 16% less
