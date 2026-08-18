@@ -6177,3 +6177,110 @@ rather than an effect (Wu & Guo, Su, Zhang B).
 Adjacent is not disqualifying — the committed draft uses Chida & Steptoe and Mostofsky, framed
 as what an uncaught emotion does to the body. What each entry above states is what that
 particular source can and cannot carry.
+
+---
+
+# Lesson 2, Benefit-section retrieval — 18 Aug 2026
+
+Four sources pulled for The Benefit. Every entry below rests on an abstract read verbatim from
+the Europe PMC record, or on full text read directly.
+
+## Kalokerinos and colleagues, 2019 — the mechanism claim, and the register had it backwards
+
+**Kalokerinos EK, Erbas Y, Ceulemans E & Kuppens P (2019)**, "Differentiate to Regulate: Low
+Negative Emotion Differentiation Is Associated With Ineffective Use but Not Selection of
+Emotion-Regulation Strategies," *Psychological Science* 30(6):863–879
+([DOI](https://doi.org/10.1177/0956797619838763); PMID 30990768) — `abstract only`.
+
+Two experience-sampling studies. **N = 200 with 34,660 measurements; N = 101 with 6,282
+measurements.**
+
+Verbatim: "we found **few relationships between differentiation and the selection** of putatively
+adaptive or maladaptive strategies. Instead, we found interactions between differentiation and
+strategies in predicting negative emotion. **Among low differentiators, all strategies (Study 1)
+and four of six strategies (Study 2) were more strongly associated with increased negative
+emotion than they were among high differentiators.**"
+
+Authors' conclusion: "**effective regulation may underlie differentiation benefits.**"
+
+**Use it for:** telling your feelings apart does not change which strategies you reach for. It
+changes how well they work. **Cannot support:** that people low in differentiation use more
+strategies, or fewer — the paper reports selection as largely unrelated. The claims register
+said "used reappraisal and social sharing more, not less" and called it a scattergun approach;
+neither is in the paper, and the title says the opposite.
+
+## Ciarrochi, Heaven & Supavadeeprasit, 2008 — the source I2 needed, and it is longitudinal
+
+**Ciarrochi J, Heaven PCL & Supavadeeprasit S (2008)**, "The link between emotion identification
+skills and socio-emotional functioning in early adolescence: a 1-year longitudinal study,"
+*Journal of Adolescence* 31(5):565–582 ([DOI](https://doi.org/10.1016/j.adolescence.2007.10.004);
+PMID 18083221) — `abstract only`.
+
+**N = 667 high school students**, measured in **Grade 8 and again in Grade 9**. Emotion
+identification skill (EIS), social support, positive and negative affect. Structural equation
+modelling.
+
+Verbatim: "**low EIS predicted increases in fear, decreases in positive affect, and decreases in
+the quality and quantity of social support.** Amongst boys, low EIS also predicted increases in
+sadness." Separately, negative affect rose and positive affect fell across the year for the
+whole sample.
+
+**Use it for:** difficulty identifying what you feel predicts *later* loss of social support, in
+both quality and quantity — the directional version of the claim, not just a correlation.
+**Scope:** early adolescents, Australian, self-report EIS, one year. **This is the properly
+identified source for the claim the register had been attributing to "Ciarrochi 2003."**
+
+## Rowsell and colleagues, 2014 — the register's citation was wrong in year, journal and finding
+
+**Rowsell HC, Ciarrochi J, Heaven PCL & Deane FP (2014)**, "The role of emotion identification
+skill in the formation of male and female friendships: a longitudinal study," *Journal of
+Adolescence* 37(2):103–111 ([DOI](https://doi.org/10.1016/j.adolescence.2013.11.005);
+PMID 24439616) — `abstract only`.
+
+The register listed this as **"Rowsell, Ciarrochi, Deane & Heaven (2016), *Journal of Research
+on Adolescence* 26(1):115–125 — three-year longitudinal, reciprocal model between emotion
+identification skill and perceived social support."** **No such paper is findable.** The real
+one is 2014, in a different journal, runs five years not three, and reports something narrower.
+
+**N = 795 (406 male, 389 female)** across five Australian high schools, annually **Grade 8 to
+Grade 12**; **468 completed Grade 12**. Peer-based objective measure of social functioning
+(friendship nominations), subjective EIS.
+
+Verbatim: "EIS in early adolescence was predictive of friendships **for females** in late
+adolescence. Specifically, girls starting out with low EIS in Grade 8 tended to have **fewer
+female friendships and more male friendships** in Grade 12. **There were no effects for males.**
+Lower initial EIS was associated with significant improvements in awareness over time, but
+**these improvements had no effect on friendships in Grade 12.**"
+
+**Cannot support:** a reciprocal model with perceived social support; any claim about males; or
+a claim that improving emotion identification improves friendships — the paper tested that and
+found nothing. **Use it for, if at all:** friendship *composition* in adolescent girls. Thin,
+and Ciarrochi 2008 above is the better source for the social-support claim.
+
+## Trentacosta & Fine, 2010 — pooled evidence for emotion knowledge and social outcomes
+
+**Trentacosta CJ & Fine SE (2010)**, "Emotion Knowledge, Social Competence, and Behavior Problems
+in Childhood and Adolescence: A Meta-Analytic Review," *Social Development* 19(1):1–29
+([DOI](https://doi.org/10.1111/j.1467-9507.2009.00543.x); PMID 21072259, PMC2975582) —
+**`full text read`**. Random-effects models.
+
+| Relation | Mean r | Independent samples | Fail-safe N |
+|---|---|---|---|
+| Emotion knowledge × **social competence** | **.22** | 63 | 76 |
+| Emotion knowledge × **internalizing problems** | **−.17** | 19 | 13 |
+| Emotion knowledge × **externalizing problems** | **−.17** | 34 | 24 |
+
+**Heterogeneity, and it matters for two of the three.** Social competence: heterogeneous, and
+**none of the sample or method moderators explained it**. Internalizing: homogeneous, consistent
+across community and clinic subgroups. Externalizing: heterogeneous, and it moves a lot —
+community **−.13** vs clinic **−.26**, and by who rated the behaviour, placement status **−.37**,
+observer **−.33** and DSM diagnosis **−.33** against parent **−.05**, teacher **−.14** and
+combined sources **−.10**.
+
+Authors' own framing: "relatively consistent yet **modest** relations."
+
+**Use it for:** knowing what emotions are goes with being more socially competent, r=.22 across
+63 samples. **Scope:** childhood and adolescence, and "emotion knowledge" is recognising and
+labelling discrete emotions — a further construct again, not TAS-20 alexithymia and not
+differentiation. **Cannot support:** the externalizing figure as a single number. Who does the
+rating changes it by a factor of seven.

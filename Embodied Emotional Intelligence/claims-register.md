@@ -1157,13 +1157,25 @@ and to lower affection for others.
 - **[[I1]]** — lower social support received, cold/distant and non-assertive interpersonal
   style. No pooled estimate located.
 
-**What was lost when the original citations failed, and it is narrower than the claim:** a
-**LEAS-based** — i.e. performance-measured rather than self-reported — version, at the
-positive pole, covering **interpersonal closeness** specifically. Every verified source above
-is self-report and sits at the alexithymia pole. **Rowsell, Ciarrochi, Deane & Heaven (2016)**,
-*Journal of Research on Adolescence* 26(1):115–125 — three-year longitudinal, reciprocal model
-between emotion identification skill and perceived social support — is the retrieval that would
-restore it.
+**And the longitudinal leg, retrieved 18 Aug and now the best source for this claim:**
+**Ciarrochi, Heaven & Supavadeeprasit, 2008**, *Journal of Adolescence* 31(5):565–582,
+PMID 18083221 (abstract read verbatim). **N = 667 high school students, Grade 8 then Grade 9.**
+Structural equation modelling: **low emotion identification skill predicted decreases in the
+quality and quantity of social support** a year later, plus increases in fear and decreases in
+positive affect; among boys, increases in sadness. **This is directional, not just correlational,
+and it is almost certainly what the register was reaching for with "Ciarrochi 2003."**
+
+**Pooled evidence on the same territory:** **Trentacosta & Fine, 2010**, *Social Development*
+19(1):1–29 (full text read). **Emotion knowledge × social competence, r = .22 across 63
+independent samples**, fail-safe N=76. Childhood and adolescence; "emotion knowledge" is
+recognising and labelling discrete emotions, a further construct again.
+
+**What is still not sourced, and it is narrower than the claim:** a **LEAS-based** —
+performance-measured rather than self-reported — version at the positive pole covering
+**interpersonal closeness** specifically. **"Rowsell 2016" was chased and does not exist**; the
+real paper is Rowsell and colleagues **2014**, *Journal of Adolescence*, on friendship
+composition in adolescent girls, with **no effects for males** and **no effect of improving EIS
+on friendships**. See the ledger entry. It does not restore this.
 
 This entry previously read *"the strongest interpersonal evidence we have precisely because it
 is LEAS-based."* **That superlative was mine and the LEAS sourcing was wrong.** What the four
@@ -1185,11 +1197,8 @@ citations turn out to be:
   at baseline, and with low social support, greater depression and lower optimism. **The same
   cohort was being cited in two places with opposite valence.**
 
-**Do not use this claim until a real source is found.** The best candidate is already on the
-retrieval list: **Rowsell, Ciarrochi, Deane & Heaven (2016)**, *Journal of Research on
-Adolescence* 26(1):115–125 — three-year longitudinal, reporting a reciprocal model between
-emotion identification skill and perceived social support. Longitudinal and interpersonal,
-which almost nothing else here is.
+**Write the claim from Ciarrochi 2008, Zhang X 2025, Panahi 2018 and Trentacosta & Fine 2010,
+which are the sources that verify it.**
 
 ### I3. Alexithymia relates to lower relationship and sexual satisfaction. `SUPPORTED — downgraded from VALIDATED`
 **Humphreys, Wood & Parker, 2009**, *Personality and Individual Differences* 46:43–47
@@ -2406,10 +2415,13 @@ version wrongly turned "we didn't look" into "there's nothing there."
    thinnest-sourced part of Tier 1b.
 4. **Voltmer & von Salisch, 2017**, "Three meta-analyses of children's emotion knowledge
    and their school success," *Learning and Individual Differences* 59:107–118.
-5. **Rowsell, Ciarrochi, Deane & Heaven, 2016**, *Journal of Research on Adolescence*
-   26(1):115–125 — three-year longitudinal study reporting a **reciprocal** model between
-   emotion identification skill and perceived social support. Longitudinal and interpersonal,
-   which almost nothing else in this register is.
+5. *(Retrieved 18 Aug and removed from this list. The entry described "Rowsell, Ciarrochi,
+   Deane & Heaven, 2016, Journal of Research on Adolescence, three-year longitudinal,
+   reciprocal model with perceived social support." No such paper exists. The real one is
+   Rowsell and colleagues 2014, Journal of Adolescence, on friendship composition in
+   adolescent girls — no effects for males, and improving emotion identification had no
+   effect on friendships. **Ciarrochi, Heaven & Supavadeeprasit 2008 is the longitudinal
+   social-support source instead**; both are in the ledger.)*
 3. **Maroti 2018 PDF** (M3) — the negative-affect control result sets the size of all of
    Tier 1.
 4. **Chervonsky & Hunt 2017 PDF** (I4) — the only source separating which emotions help
