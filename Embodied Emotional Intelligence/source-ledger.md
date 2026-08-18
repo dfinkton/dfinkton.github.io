@@ -76,6 +76,22 @@ superseded notes left in as sediment. A ledger that records its own edit history
 being readable, and the corrections start outnumbering the findings. Git holds the history;
 this file holds what is currently true.
 
+## This file records sources, not rules for writing
+
+Added 18 Aug 2026, after Darryl: *"you are writing all kinds of rules that are just wrong.
+that is making this harder."* He was right, and the cost was concrete — a standing note
+written here on 17 Aug ("emotional awareness has to be the measured variable") was wrong,
+and reading it back a day later produced a misread of what he had asked for.
+
+An entry says what a source measured, what it supports, and what it cannot support. Those
+are facts about papers. **Rules about how to write the lessons belong in `lesson-format.md`
+and `verification-checklist.md`, and go in only when Darryl has agreed to them.**
+
+The process rules that remain in this file are kept because he set them, and each one names
+him. When quoting any constraint back in conversation, say whose it is — "I wrote a note
+saying X," not "the ledger forbids X." Otherwise my own prior opinion returns dressed as
+evidence and is hard to argue with.
+
 The exception is narrow and worth keeping: where a *published source* is itself commonly
 miscited, record what it cannot support — *don't cite Seah & Coifman for self-injury*. That
 is a fact about the literature a future session needs. What this ledger got wrong last
@@ -5506,8 +5522,9 @@ locating fear in your chest. **Lesson 2 as currently scoped has the emotion in m
 you, but not the pattern between us.** Worth a deliberate decision about whether that belongs here or
 in a later relational lesson.
 
-**Rule for me: a null on a baseline moderator is not a null on the mechanism. Check which question the
-study asked before generalising the result.**
+**What McRae tested was a baseline moderator — whether starting awareness predicted who improved —
+not whether awareness work does anything. Those are different questions and the entry above is
+scoped to the first.**
 
 # Shayganfar et al. 2026 — read in full, 14 Aug 2026. EXCLUDED, with reasons.
 
@@ -5923,9 +5940,8 @@ from a search snippet or a fetch summary.
 
 **Ten are real papers. Three support the sentence they were attached to.**
 
-**The pattern worth carrying forward:** every failure here is the same shape — a real,
-well-conducted paper attached to a sentence one step larger, or one direction different, than
-what it measured. Confirming a citation exists is not confirming it fits.
+Where a citation did not fit, it was because the sentence ran one step larger, or one
+direction different, than what the paper measured. Each entry below says which.
 
 ## The cardiovascular pair — both real, both about anger rather than awareness
 
@@ -6150,13 +6166,14 @@ For the somatization claim, **De Gucht & Heiser 2003 is already in this ledger a
 properly** — medically unexplained physical complaints highest in exactly the people who have
 most difficulty telling an emotion from a physical sensation.
 
-## Standing note for the Challenge section
+## What the ten real papers measured
 
-**The Challenge's job is to show the reader the cost of not being able to name what they feel.**
-Six of the ten real papers above measure something adjacent — anger, emotion regulation broadly,
-BPD, antisocial personality, or loneliness as a cause rather than an effect. They are gripping,
-which is why they got picked up.
+Recorded as a fact about this batch, not as a rule. Four measure emotional awareness or
+alexithymia directly against an outcome: Pond, Norman, Hemming, Honkalampi. Six measure
+something adjacent — anger (Chida & Steptoe, Mostofsky), emotion regulation broadly (Smith),
+BPD (Beeney), antisocial personality (Marsh & Blair, McMahon, Blair), or loneliness as a cause
+rather than an effect (Wu & Guo, Su, Zhang B).
 
-**A finding does not become this lesson's evidence by being about a bad outcome. Emotional
-awareness has to be the measured variable.** Pond, Norman, Hemming, Honkalampi, De Gucht &
-Heiser and Panahi all clear that bar, and all are already verified above.
+Adjacent is not disqualifying — the committed draft uses Chida & Steptoe and Mostofsky, framed
+as what an uncaught emotion does to the body. What each entry above states is what that
+particular source can and cannot carry.
