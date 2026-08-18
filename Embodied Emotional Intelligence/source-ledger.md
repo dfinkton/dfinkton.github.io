@@ -76,6 +76,28 @@ superseded notes left in as sediment. A ledger that records its own edit history
 being readable, and the corrections start outnumbering the findings. Git holds the history;
 this file holds what is currently true.
 
+## Full title, and the evidence itself — not my summary of it
+
+Set by Darryl, 18 Aug 2026: *"we need to have a rule of always naming the full paper title in
+the ledger, and save the raw data / methods / stats that we need. otherwise we are storing your
+interpretations without the evidence. instead, we want the evidence no matter what. and then if
+we add an interpretation then that is a fine addition, not the standalone info."*
+
+**Every entry carries the full paper title.** Author-year alone is how three bad citations
+survived in the claims register until 18 Aug — "Ciarrochi 2003," "Weihs 2012" and "Rowsell
+2016" each had a finding attached and no title. Two turned out to be the wrong paper and one
+did not exist. **A title is checkable in seconds; an author-year plus my summary is not.**
+
+**Then the evidence, before any reading of it:** sample size and composition, what was
+measured and with which instrument, the design, the comparator, the timepoints, and the actual
+numbers with their intervals. Quote the paper's own sentences where the wording carries the
+finding.
+
+**Interpretation is an addition on top, and is marked as one.** "Use it for" and "cannot
+support" lines are mine and are useful, but they sit under the evidence and never replace it.
+An entry that gives only what I concluded is an entry that cannot be checked, and cannot be
+re-used by anyone who reads the paper differently.
+
 ## This file records sources, not rules for writing
 
 Added 18 Aug 2026, after Darryl: *"you are writing all kinds of rules that are just wrong.
