@@ -6,7 +6,7 @@ With body scans, you might encounter intense feelings or physical discomfort tha
 
 Progress is often hard to see from the inside. Day-to-day changes are usually small. If you judge the practice solely by whether you "feel different," you might conclude nothing is happening. That is the value of keeping a written record. The notes give you objective data. Over time, the information in your notes can reveal patterns your memory may miss.
 
-It takes a season, not a few days. Building this kind of awareness takes time. Your brain is learning a new way to process information. Plan on practicing consistently for a couple of months rather than expecting a quick fix in a week.
+It takes a season, not a few days. Building this kind of awareness takes time. Plan on practicing consistently for a couple of months rather than expecting a quick fix in a week.
 
 Hard days make you go backward. On the day after a stressful event, people actually get worse at telling their feelings apart. So on the days you want these tools the most—during a fight, a deadline, or after bad news—you will have the fewest words available. This is completely normal. Your nervous system is just simplifying things to help you survive the pressure.
 
