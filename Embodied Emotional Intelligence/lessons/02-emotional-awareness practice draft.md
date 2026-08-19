@@ -28,6 +28,8 @@ Set two to six alarms spread evenly across your morning, afternoon, and evening.
 
 **Record your data (optional).** If you find it helpful, keep a quick note in a journal, a spreadsheet, or a notepad app on your phone with the date, the time, the words above 0 with their numbers, and where you felt them. If nothing is there, write down that nothing was there. A flat check-in is data, not a failed attempt.
 
+After two or three weeks, add the real-time piece. By then the words will start arriving before you consult the list, and you can begin naming feelings as they happen rather than only when an alarm sounds. When something lands, say what it is while it is still happening—aloud if you are somewhere you can, silently if you are not. Use more than one word when more than one fits, since naming both what is on the surface and what sits underneath it tends to do more than settling on a single label. This does not replace the scheduled check-ins. Keep those running.
+
 ### The Body Scan
 
 The body scan is the second practice. Here, you move your attention slowly through your body to notice what is physically present without trying to change any of it. Lie on your back somewhere you will not be interrupted, or sit upright if lying down puts you to sleep, and close your eyes.
@@ -40,7 +42,7 @@ Your mind will naturally wander. That is not a failure; noticing where your mind
 
 ### The Partner Check-In
 
-In the third practice, you and another person take turns exploring your emotional and physical states aloud. The entire exercise takes about ten to twelve minutes. Sit facing each other and agree in advance who will speak first.
+In the third practice, you and another person take turns exploring your emotional and physical states aloud. The entire exercise takes about ten to twelve minutes. Sit facing each other, agree in advance who will speak first, and set a timer for about two and a half minutes per answer so that neither of you is watching the clock.
 
 The listener asks two specific questions in sequence. After asking a question, the listener remains completely silent—offering no responses, no reassurance, and no fixing—until the speaker is finished answering.
 
