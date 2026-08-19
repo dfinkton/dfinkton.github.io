@@ -2941,8 +2941,34 @@ Nothing else. No teaching, no vocabulary instruction, no therapy content.
   t(54)=−3.17, p=.003, **d=0.43**. The control group did not move (t(23)=−0.41, p=.683,
   d=0.08). Controlling for baseline, group added 6.7% of explained variance, F(1,76)=6.14,
   **p=.015**, B=0.25 [0.05, 0.45].
-- **Positive emotion differentiation did not** — d=0.20, p=.136; group term p=.069. The
-  fifth independent null on positive differentiation in this ledger.
+- **Positive emotion differentiation: upward trend, underpowered, not significant.**
+  ESM group t(54)=-1.52, **p=.136, d=0.20**, 95% CI [-0.21, 0.03]. Control t(23)=0.60,
+  p=.558, d=0.12. Baseline explained 16.3% of post variance, F(1,77)=14.98, p<.001; adding
+  group added 3.6%, **F(1,76)=3.40, p=.069**. The authors' own words: "some (nonsignificant)
+  improvement." **State it as a trend the study lacked the power to detect, not as a null.**
+
+**The twelve adjectives, and the practice set is not the assessment set.**
+- **Assessment periods (5-day baseline and 5-day post), 12 items.** Negative (8): down,
+  irritated, lonely, restless, agitated, suspicious, guilty, anxious. Positive (4): cheerful,
+  satisfied, enthusiastic, relaxed. Rated 0-7.
+- **The 6-week practice itself used 10 items** — verbatim: "All these adjectives except for
+  'restless' and 'agitated' were also included in the 6-week ESM period." So six negative and
+  four positive during the practice.
+
+**Baseline emotion differentiation (1 - ICC, Fisher-Z; higher = more differentiated), ESM
+group vs control:** Negative **0.17 (0.37)** vs 0.04 (0.27), t=2.22, p=.141. Positive
+**0.12 (0.35)** vs 0.06 (0.36), t=0.47, p=.496. **Positive started slightly lower than
+negative — there was no ceiling.**
+
+**Baseline item means (ESM vs control), 0-7 scale:** lonely 2.60/2.37 - down 2.86/3.08 -
+irritated 2.69/2.81 - anxious 1.97/1.89 - suspicious 2.00/2.15 - guilty 2.14/2.34 -
+restless 3.37/3.55 - agitated 3.03/3.14 - relaxed 4.06/3.94 - satisfied 3.67/3.48 -
+enthusiastic 2.91/2.74. No significant group differences on any item.
+
+**Depression was measured (HDRS-17) and tested as a predictor.** Adding HDRS change to the
+model explained an additional 3.3% of negative differentiation, **F(1,75)=3.05, p=.085**, and
+3.5% of positive, **F(1,75)=3.44, p=.068**; group remained significant for negative in that
+step. **The differentiation gain was not explained by symptom change.**
 - **No dose-response.** Number of completed reports added nothing: ΔR²=.04, p=.117 for
   negative; ΔR²=.00, p=.801 for positive. Participants completed a mean of 149.76 beeps
   (SD=21.33, range 87–224).
@@ -2957,6 +2983,13 @@ Nothing else. No teaching, no vocabulary instruction, no therapy content.
   unknown whether gains generalize past the 12 emotions probed; unknown whether the gain
   persists or whether it moves depressive symptoms — they say directly that future work
   should establish *"after what period of ESM changes become apparent."*
+
+**What this study does and does not show, stated flat.** It shows the practice moves
+negative emotion differentiation in this population. **It does not show that moving
+differentiation changes anything else.** The authors could not test it: verbatim, "the most
+substantial improvements in depressive symptoms in the sample occurred after post
+assessment," and they call for future studies to "investigate if the improvement in negative
+emotion differentiation is actually accompanied by a decrease in depressive symptoms.
 
 **Why this matters for the lesson.** It is a controlled comparison, in a clinical sample,
 where the intervention *is* the practice — repeatedly naming and rating specific emotions —

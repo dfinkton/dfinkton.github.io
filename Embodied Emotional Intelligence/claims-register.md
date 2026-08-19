@@ -129,8 +129,8 @@ what the authors call "calming of the mind." **Different, and both available.**
 
 | Practice | Outcome | Result | Population |
 |---|---|---|---|
-| **Rating 12 named emotions, 10×/day, 3 days/wk, 6 weeks** — Widdershoven 2019, n=55 vs 24 | **negative emotion differentiation** (ICC from EMA) | **d = 0.43** | MDD outpatients, medicated, mean age 48 |
-| same | **positive** differentiation | **ns** (fifth independent null) | same |
+| **Rating 10 named emotions (6 negative, 4 positive), 10×/day, 3 days/wk, 6 weeks** — Widdershoven 2019, n=55 vs 24 | **negative emotion differentiation** (ICC from EMA) | **d = 0.43** | MDD outpatients, medicated, mean age 48 |
+| same | **positive** differentiation | **d = 0.20, p=.136; group p=.069 — upward trend, underpowered** | same |
 | same | dose-response | **ns**, but range restricted (all ≥87 reports) | same |
 | **Naming fear aloud during live exposure** — Kircanski, one study | **skin conductance, 1 week later** | **d = 0.64–0.85**, dose-responsive | spider-fearful |
 | same | **self-reported fear** | **no benefit at any timepoint** | same |
@@ -315,9 +315,10 @@ good pedagogy for your own experience; they may manufacture false confidence abo
 **B4. Repeatedly rating specific emotions moves negative differentiation. `SUPPORTED — full text
 read`**
 Widdershoven 2019: **d = 0.43**, controlled, n=55 vs 24; 6 weeks × 3 days/week × 10 ratings/day of
-12 named emotions. **The intervention *was* the practice** — no teaching. **No dose-response**
-(p=.117, restricted range). **Positive differentiation did not move** — the fifth independent null on
-that. **Leverage: very high.** This is the closest thing to evidence for the lesson's practice.
+10 named emotions (6 negative, 4 positive; the 12-item set was the assessment, not the practice). **The intervention *was* the practice** — no teaching. **No dose-response**
+(p=.117, restricted range). **Positive differentiation showed an upward trend the study was
+underpowered to detect** — d=0.20, p=.136, group term p=.069; the authors call it "some
+(nonsignificant) improvement." Baselines were 0.17 negative and 0.12 positive, so no ceiling. **Leverage: very high.** This is the closest thing to evidence for the lesson's practice.
 
 **B5. Where people feel emotions in the body is mappable and cross-culturally stable.
 `VALIDATED — full text read`**
