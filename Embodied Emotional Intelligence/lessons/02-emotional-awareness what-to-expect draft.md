@@ -4,7 +4,7 @@ None of these practices require equipment or money, none of them are physically 
 
 Big emotions might suddenly surface. When you finally stop and pay attention to your body, you might encounter intense feelings or physical discomfort that you have been unconsciously ignoring. A simple body scan can sometimes trigger a sudden wave of grief, anxiety, or physical tension. This is not a sign that the practice is failing or that you are doing it wrong; it is simply your body releasing what is already there. If it ever feels like too much to handle, stop the practice and seek support before continuing.
 
-It is hard to feel the progress early on. In the beginning, the changes are so gradual that you often will not notice them day to day. When researchers study this, they frequently find that a person's baseline is improving before they actually feel any different. Your day-to-day gut feeling about your progress just isn't a reliable metric at the start. This is exactly why keeping written notes helps. The notes will show you that in week one you only had a single word for everything, but by week four you are catching blends and locating them in your body much faster.
+Progress is often hard to see from the inside. Day-to-day changes are usually small. If you judge the practice solely by whether you "feel different," you might conclude nothing is happening. That is the value of keeping a written record. The notes give you objective data. Over time, the information in your notes can reveal patterns your memory may miss.
 
 It takes a season, not a few days. Building this kind of awareness takes time. Your brain is learning a new way to process information. Plan on practicing consistently for a couple of months rather than expecting a quick fix in a week.
 
