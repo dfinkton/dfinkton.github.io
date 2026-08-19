@@ -2,7 +2,7 @@
 
 None of these practices require equipment or money, none of them are physically strenuous, and most people can do all three without trouble. But a few things are worth knowing before you start, mostly so that normal parts of the process do not feel like you are doing it wrong.
 
-Big emotions might suddenly surface. When you finally stop and pay attention to your body, you might encounter intense feelings or physical discomfort that you have been unconsciously ignoring. A simple body scan can sometimes trigger a sudden wave of grief, anxiety, or physical tension. This is not a sign that the practice is failing or that you are doing it wrong; it is simply your body releasing what is already there. If it ever feels like too much to handle, stop the practice and seek support before continuing.
+With body scans, you might encounter intense feelings or physical discomfort that you have been unconsciously ignoring. Noticing your bodily sensations can sometimes trigger a sudden wave of grief, anxiety, or physical tension. This is not a sign that the practice is failing or that you are doing it wrong. If it ever feels like too much to handle, pause the practice. Discomfort is fine. If you are feeling overwhelm, stop the practice and seek support before continuing.
 
 Progress is often hard to see from the inside. Day-to-day changes are usually small. If you judge the practice solely by whether you "feel different," you might conclude nothing is happening. That is the value of keeping a written record. The notes give you objective data. Over time, the information in your notes can reveal patterns your memory may miss.
 
