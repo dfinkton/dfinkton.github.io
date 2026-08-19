@@ -28,11 +28,11 @@ Set two to six alarms spread evenly across your morning, afternoon, and evening.
 
 **Record your data (optional).** If you find it helpful, keep a quick note in a journal, a spreadsheet, or a notepad app on your phone with the date, the time, the words above 0 with their numbers, and where you felt them. If nothing is there, write down that nothing was there. A flat check-in is data, not a failed attempt.
 
-For the first two or three weeks, you are only checking in when an alarm tells you to. Somewhere around week three, the words will start showing up on their own—you will be in the middle of a conversation and notice that what you are feeling is guilt, without having stopped to run the list. When that starts happening, you can begin naming feelings at the moment they arrive rather than waiting for the next scheduled check-in.
+For the first few weeks, rely entirely on the alarms to prompt you. Eventually—usually around week three—the words will begin arriving on their own. You might be mid-conversation and suddenly realize you are feeling guilt without having run through the list.
 
-It works the same way. Something happens, you feel it, and you name what it is while it is still going on—out loud if you are somewhere you can say it, silently if you are not. Use more than one word when more than one fits. "This is anger, and underneath it something closer to fear" does more than picking a single label and moving on.
+When this spontaneous recognition starts, begin naming your emotions exactly as they happen. When an emotion surfaces, label it in the moment—out loud if you have the privacy, or silently if you do not. If it is a blend, name the blend. Acknowledging, "This is anger, and underneath it is fear," is much more useful than forcing a single label.
 
-The alarms do not stop when you add this. The scheduled check-ins are what keep the words available, and the in-the-moment version is what you get for having them.
+Keep the scheduled alarms running even after this shift happens. The daily check-ins are the physical maintenance that keeps the vocabulary accessible; catching your feelings in real time is simply the reward for doing the maintenance.
 
 ### The Body Scan
 
