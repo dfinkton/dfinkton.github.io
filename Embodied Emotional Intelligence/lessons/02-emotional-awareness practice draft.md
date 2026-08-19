@@ -28,7 +28,11 @@ Set two to six alarms spread evenly across your morning, afternoon, and evening.
 
 **Record your data (optional).** If you find it helpful, keep a quick note in a journal, a spreadsheet, or a notepad app on your phone with the date, the time, the words above 0 with their numbers, and where you felt them. If nothing is there, write down that nothing was there. A flat check-in is data, not a failed attempt.
 
-After two or three weeks, add the real-time piece. By then the words will start arriving before you consult the list, and you can begin naming feelings as they happen rather than only when an alarm sounds. When something lands, say what it is while it is still happening—aloud if you are somewhere you can, silently if you are not. Use more than one word when more than one fits, since naming both what is on the surface and what sits underneath it tends to do more than settling on a single label. This does not replace the scheduled check-ins. Keep those running.
+For the first two or three weeks, you are only checking in when an alarm tells you to. Somewhere around week three, the words will start showing up on their own—you will be in the middle of a conversation and notice that what you are feeling is guilt, without having stopped to run the list. When that starts happening, you can begin naming feelings at the moment they arrive rather than waiting for the next scheduled check-in.
+
+It works the same way. Something happens, you feel it, and you name what it is while it is still going on—out loud if you are somewhere you can say it, silently if you are not. Use more than one word when more than one fits. "This is anger, and underneath it something closer to fear" does more than picking a single label and moving on.
+
+The alarms do not stop when you add this. The scheduled check-ins are what keep the words available, and the in-the-moment version is what you get for having them.
 
 ### The Body Scan
 
