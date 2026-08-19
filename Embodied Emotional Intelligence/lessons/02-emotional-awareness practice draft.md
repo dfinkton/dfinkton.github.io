@@ -24,7 +24,7 @@ Set two to six alarms spread evenly across your morning, afternoon, and evening.
 
 **Locate the feeling.** For any score above zero, pinpoint exactly where the sensation sits in your body—the jaw, the chest, the stomach, the throat, and the shoulders are the usual places. Two or three emotions registering above 0 at once is normal; blends are where most of the feelings that have no clean name actually live.
 
-**Check your physical baseline.** Check three physical states: tired, hungry, and in pain. These get mistaken for emotions more often than anything else. A high score on anger at four in the afternoon that turns out to be hunger is a common and useful discovery.
+**Check your physical baseline.** Check three physical states: tired, hungry, and in pain. These physical states are frequently mistaken for emotions. A high score on anger at four in the afternoon that turns out to be hunger is a common and useful discovery.
 
 **Record your data (optional).** If you find it helpful, keep a quick note in a journal, a spreadsheet, or a notepad app on your phone with the date, the time, the words above 0 with their numbers, and where you felt them. If nothing is there, write down that nothing was there. A flat check-in is data, not a failed attempt.
 
