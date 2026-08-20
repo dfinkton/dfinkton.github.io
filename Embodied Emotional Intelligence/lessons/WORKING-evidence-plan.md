@@ -31,7 +31,7 @@ to evaluate. Conclusions come from the data, not from interpretation laid on top
 | 12 | Awareness is the weakest predictor | full text read | no |
 | 13 | The check-in works | full text read | no |
 | 14 | Naming in the moment | full text read | no |
-| 15 | Plain words, provided words | **N=20 dissertation** | no |
+| 15 | Why a short list of plain words is enough | full text read | **drafted** |
 | 16 | The body scan | full text read | no |
 | 17 | The partner check-in | partial — **COI + design flag** | no |
 | 18 | Bodily locations of emotion | PDF read in full | **drafted — keep** |
@@ -48,8 +48,10 @@ to evaluate. Conclusions come from the data, not from interpretation laid on top
 1. ~~De Gucht (#7) too thin~~ — **RESOLVED 20 Aug.** Darryl located the paper; 16
    publications, 18 samples, mean r=0.23. **Leaves a correction owed to The Challenge:
    "unexplained" overstates what was measured.**
-2. **Torre 2016 (#15) is 20 people in an unpublished dissertation**, and the eleven-word
-   list rests on it.
+2. ~~Torre 2016 (#15)~~ — **DROPPED 20 Aug.** N=20 unpublished dissertation, author calls it
+   underpowered, outcome is amygdala activity, and its "free response" arm was told to pick
+   from five supplied words — so it does not test provided against self-generated. The body
+   makes no claim from it. **Replaced by Israelashvili's definitional finding.**
 3. **Silveira 2023 (#17)** needs two things stated wherever it appears: Tania Singer was
    scientific and curriculum advisor 2021–2023 to a start-up commercialising the Affect
    Dyad, and the trial is not two-arm — all contrasts are against a waitlist, so
@@ -59,6 +61,7 @@ to evaluate. Conclusions come from the data, not from interpretation laid on top
 
 - Trentacosta & Fine 2010 — covered better by Ciarrochi, which is longitudinal.
 - Widen & Russell 2008 — informed the word list, but nothing in the body claims it.
+- Torre 2016 — see above.
 
 ---
 
@@ -264,15 +267,32 @@ emerged at any timepoint" for self-reported fear.** Authors' limits: the reappra
 instruction was thin next to real therapy, the no-instruction group may have labelled
 silently anyway, experimenters weren't blind.
 
-### 15. Plain words, provided words — THIN, RESOLVE FIRST
+### 15. Why a short list of plain words is enough
 
-**Plain words do more than precise ones, and words you're given do more than words you
-generate.** Torre 2016, doctoral dissertation. Primary text read. fMRI, **20 students**.
-"Angry" produced greater amygdala reduction than "irritated" or "enraged"; how intense the
-word was made no difference; provided labels deactivated the right amygdala where free
-response did not (p=.004). **Twenty people, one unpublished dissertation, and the eleven-word
-list rests on it.** Converging support for provided-over-generated comes from three unrelated
-literatures on planning, none about emotion words.
+**What the research measures is using a few words discriminatingly, not knowing many words.**
+Israelashvili and colleagues 2019, *Cognition and Emotion*. Open access, primary text read in
+full. Same paper as entry 9, different claim.
+
+The way emotion differentiation is actually scored matters here. Participants rated 20
+emotionally negative photographs on the same 20 emotion words, 0 to 6, untimed. The score is
+how much a person's ratings covary across different pictures: someone who rates every
+unpleasant image about the same way on every word scores low, and someone whose ratings move
+with the situation scores high. **Everyone in the study worked from an identical 20-word
+list.** What separated people was how they used it.
+
+The authors state the construct directly: **"emotion differentiation does not refer to the
+richness of one's emotion vocabulary per se, but rather to the adequate and differentiated use
+of emotion words targeted to specific situations."**
+
+**Why it belongs here:** the check-in hands the reader eleven words rather than asking them to
+build a vocabulary, and this is the reason. The thing that tracked with reading other people
+accurately, across 363 students and a preregistered replication of 217 adults, was the
+discriminating use of a fixed word list.
+
+**Two honest limits.** This is how the instrument is built and what the authors say it
+captures — it is the definition of the construct, not a separate experiment comparing short
+lists against long ones. And only negative emotion differentiation was measured; the authors
+note there is no validated measure of the positive side.
 
 ### 16. The body scan
 
