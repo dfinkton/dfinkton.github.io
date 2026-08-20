@@ -25,13 +25,12 @@ to evaluate. Conclusions come from the data, not from interpretation laid on top
 | 6 | Anger and the heart (2 studies, 1 entry) | abstract only | no |
 | 7 | Physical symptoms | landing page + snippets — **resolved** | **drafted** |
 | 8 | Losing social support over a year | abstract only | no |
-| 9 | Reading other people | full text read | no |
+| 9 | Reading other people | full text read | **drafted** |
 | 10 | Strategies work less well | abstract only | no |
 | 11 | A class of costly behaviour | full text read | no |
 | 12 | Awareness is the weakest predictor | full text read | no |
 | 13 | The check-in works | full text read | no |
 | 14 | Naming in the moment | full text read | no |
-| 15 | Why a short list of plain words is enough | full text read | **drafted** |
 | 16 | The body scan | full text read | no |
 | 17 | The partner check-in | partial — **COI + design flag** | no |
 | 18 | Bodily locations of emotion | PDF read in full | **drafted — keep** |
@@ -62,6 +61,10 @@ to evaluate. Conclusions come from the data, not from interpretation laid on top
 - Trentacosta & Fine 2010 — covered better by Ciarrochi, which is longitudinal.
 - Widen & Russell 2008 — informed the word list, but nothing in the body claims it.
 - Torre 2016 — see above.
+- A separate entry on vocabulary size. Israelashvili's own 20-word list runs coarse and fine
+  together (rage, anger and irritation all appear), so it supports nothing about short or
+  plain lists. The word-list detail now sits inside entry 9, where it explains the measure.
+  **The eleven-word list is a design decision with no study behind it.**
 
 ---
 
@@ -185,18 +188,34 @@ throughout, one country, one year.
 
 ### 9. Reading other people
 
-**People who tell their own feelings apart more finely also read other people more
-accurately — but the direction is unknown.** Israelashvili and colleagues 2019, *Cognition and
-Emotion*. Open access, primary text read in full. Study 1: 363 first-year psychology students,
-mean age 19. Study 2: 217 US adults on MTurk, mean age 37, **preregistered**. Differentiation
-measured by rating 20 emotionally negative photographs on 20 negative emotion words and
-computing how much those ratings covary. Recognition measured with three tasks — faces;
-faces, body and voice; eyes only. Association held across all three, betas 0.235 to 0.322, all
-p<.001. **The model explained 4–10% of the variance.** Their preregistered prediction — that
-differentiation would matter most when least information was available — failed. Controlling
-for verbal IQ, the association survived on two of three tasks. Authors' first stated
-limitation: "experimental research will be needed to illuminate whether emotion
-differentiation predicts emotion recognition or vice versa." All expressions posed by actors.
+**Knowing your own feelings goes with reading other people's.** Israelashvili, Oosterwijk,
+Sauter & Fischer 2019, "Knowing me, knowing you: emotion differentiation in oneself is
+associated with recognition of others' emotions," *Cognition and Emotion* 33(7):1461–1471.
+Open access, primary text read in full.
+
+Two studies. The first: 363 first-year psychology students, mean age 19. The second: 217 US
+adults recruited online, mean age 37, **preregistered** and deliberately a different
+population.
+
+How your own feelings were measured: everyone rated the same 20 emotionally negative
+photographs on the same 20 emotion words, 0 to 6. The score is how much a person's ratings
+covary from picture to picture — rate every unpleasant image about the same way and you score
+low, let the ratings move with what is in front of you and you score high. **Everyone worked
+from an identical word list, so what the score captures is how discriminatingly the words were
+used, not how many words anyone knew.**
+
+How reading others was measured: three separate tasks — faces; faces with body and voice; and
+eyes only. The association held on all three, standardised betas 0.235 to 0.322, all p<.001.
+
+**The size is small.** The model explained between 4 and 10 percent of the variance in reading
+other people. Their preregistered prediction — that knowing your own feelings would matter most
+when the least information was available, the eyes-only task — failed; the three tasks did not
+differ. Controlling for verbal ability, the association survived on two of the three.
+
+**Direction is not established, and the authors say so first:** "experimental research will be
+needed to illuminate whether emotion differentiation predicts emotion recognition or vice
+versa." All the expressions people judged were posed by actors, and only negative emotions
+were measured — the authors note there is no validated measure for the positive side.
 
 ### 10. The strategies work less well
 
@@ -266,33 +285,6 @@ Approach behaviour same direction, marginal. **"No significant between-group dif
 emerged at any timepoint" for self-reported fear.** Authors' limits: the reappraisal
 instruction was thin next to real therapy, the no-instruction group may have labelled
 silently anyway, experimenters weren't blind.
-
-### 15. Why a short list of plain words is enough
-
-**What the research measures is using a few words discriminatingly, not knowing many words.**
-Israelashvili and colleagues 2019, *Cognition and Emotion*. Open access, primary text read in
-full. Same paper as entry 9, different claim.
-
-The way emotion differentiation is actually scored matters here. Participants rated 20
-emotionally negative photographs on the same 20 emotion words, 0 to 6, untimed. The score is
-how much a person's ratings covary across different pictures: someone who rates every
-unpleasant image about the same way on every word scores low, and someone whose ratings move
-with the situation scores high. **Everyone in the study worked from an identical 20-word
-list.** What separated people was how they used it.
-
-The authors state the construct directly: **"emotion differentiation does not refer to the
-richness of one's emotion vocabulary per se, but rather to the adequate and differentiated use
-of emotion words targeted to specific situations."**
-
-**Why it belongs here:** the check-in hands the reader eleven words rather than asking them to
-build a vocabulary, and this is the reason. The thing that tracked with reading other people
-accurately, across 363 students and a preregistered replication of 217 adults, was the
-discriminating use of a fixed word list.
-
-**Two honest limits.** This is how the instrument is built and what the authors say it
-captures — it is the definition of the construct, not a separate experiment comparing short
-lists against long ones. And only negative emotion differentiation was measured; the authors
-note there is no validated measure of the positive side.
 
 ### 16. The body scan
 
