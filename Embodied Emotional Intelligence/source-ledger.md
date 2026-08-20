@@ -1979,9 +1979,28 @@ been citing all week. Directly relevant to the lesson's own "locate it in the bo
 practice, and to Nummenmaa et al. 2014 above (already flagged as an uncited gap for
 that same practice).
 
-**De Gucht & Heiser, 2003**, "Alexithymia and somatisation: quantitative review of the
-literature," *Journal of Psychosomatic Research* 54(5):425–434, PMID 12726898
-(abstract verified via PubMed; full text paywalled at Elsevier, not chased further).
+**De Gucht & Heiser, 2003**, "Alexithymia and somatisation: A quantitative review of the
+literature," *Journal of Psychosomatic Research* 54(5):425–434, PMID 12726898,
+DOI 10.1016/S0022-3999(02)00467-1. **UPGRADED 20 Aug 2026** — Darryl supplied the
+ScienceDirect landing page, whose section snippets carry the design and the headline figure.
+Results tables remain paywalled. `abstract + section snippets read`
+
+**The numbers this entry previously lacked:** **16 publications yielding 18 study samples**,
+found via Medline and PsycLIT, restricted to studies using one of the three versions of the
+TAS. **Mean correlation between total alexithymia and somatic symptom reporting, all samples
+combined and weighted by sample size, r = 0.23** — the authors' "small to moderate." All but
+two samples found a significant positive correlation. People with a somatoform condition
+scored higher than healthy controls at moderate-to-large effect sizes; comparisons against
+other medical and psychiatric conditions were **inconclusive**, which the authors attribute
+either to confounding or to the association being non-specific.
+
+**Two author-stated limits, and the second one constrains the lesson's wording.** Only **one
+prospective study** existed, so verbatim: "the presence of only one prospective study does
+not allow to draw conclusions on alexithymia as a predisposing factor for somatisation."
+And: the questionnaires used **"can only check for symptoms, not whether these symptoms are
+medically explained or not,"** so "it is not possible to draw conclusions on somatisation
+properly defined." **Cannot support "medically unexplained symptoms" — what was measured is
+symptom reporting.**
 A meta-analytic review (Medline/PsycLIT search, meta-analytic technique applied to
 pool results — exact study count not visible in the abstract). Findings, in the
 authors' own words: **"a small to moderate relationship was found between general

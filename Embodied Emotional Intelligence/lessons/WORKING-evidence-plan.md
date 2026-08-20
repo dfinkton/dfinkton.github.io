@@ -23,7 +23,7 @@ to evaluate. Conclusions come from the data, not from interpretation laid on top
 | 4 | Suicidal thinking, and why attempts differ | full text read | no |
 | 5 | Substance use | full text read | no |
 | 6 | Anger and the heart (2 studies, 1 entry) | abstract only | no |
-| 7 | Unexplained physical symptoms | **abstract only — TOO THIN** | no |
+| 7 | Physical symptoms | landing page + snippets — **resolved** | **drafted** |
 | 8 | Losing social support over a year | abstract only | no |
 | 9 | Reading other people | full text read | no |
 | 10 | Strategies work less well | abstract only | no |
@@ -34,7 +34,7 @@ to evaluate. Conclusions come from the data, not from interpretation laid on top
 | 15 | Plain words, provided words | **N=20 dissertation** | no |
 | 16 | The body scan | full text read | no |
 | 17 | The partner check-in | partial — **COI + design flag** | no |
-| 18 | Bodily locations of emotion | PDF read in full | no |
+| 18 | Bodily locations of emotion | PDF read in full | **drafted — keep** |
 | 19 | More is not better for everyone | abstract only | no |
 | 20 | Hard days run backwards | full text read | no |
 | U1 | Four constructs that disagree | full text summarised — get PDF | no |
@@ -45,8 +45,9 @@ to evaluate. Conclusions come from the data, not from interpretation laid on top
 
 ## Three problems to resolve before writing
 
-1. **De Gucht & Heiser 2003 (#7) is too thin to write from.** Abstract only; study count and
-   effect sizes are not visible. Either chase the PDF or state direction without size.
+1. ~~De Gucht (#7) too thin~~ — **RESOLVED 20 Aug.** Darryl located the paper; 16
+   publications, 18 samples, mean r=0.23. **Leaves a correction owed to The Challenge:
+   "unexplained" overstates what was measured.**
 2. **Torre 2016 (#15) is 20 people in an unpublished dissertation**, and the eleven-word
    list rests on it.
 3. **Silveira 2023 (#17)** needs two things stated wherever it appears: Tania Singer was
@@ -135,14 +136,35 @@ incidence elevated 2.43-fold, rising with anger intensity. **Both measure anger,
 of anger** — they illustrate the body carrying an unexamined feeling rather than testing
 anything about noticing.
 
-### 7. Unexplained physical symptoms — TOO THIN, RESOLVE FIRST
+### 7. Physical symptoms — RESOLVED 20 Aug, PDF located in Downloads
 
-**Distress that isn't named often arrives as physical symptoms instead.** De Gucht & Heiser
-2003, *Journal of Psychosomatic Research*. **Abstract only; full text paywalled and not
-chased.** Meta-analytic review of alexithymia and somatisation. In the authors' words, "a
-small to moderate relationship" between general alexithymia and somatic symptom reporting,
-with difficulty identifying feelings strongest and externally-oriented thinking "virtually
-unrelated." **Study count and effect sizes are not visible in the abstract.**
+**People who have the most trouble telling a feeling from a bodily sensation report the most
+physical symptoms.** De Gucht & Heiser 2003, "Alexithymia and somatisation: a quantitative
+review of the literature," *Journal of Psychosomatic Research* 54(5):425–434. Publisher
+landing page with section snippets read; the full results tables are still behind the
+paywall. Medline and PsycLIT searches, restricted to studies using one of the three versions
+of the Toronto Alexithymia Scale. **16 publications yielding 18 study samples.**
+
+Across all 18 samples, weighted by sample size, the **mean correlation between total
+alexithymia and physical symptom reporting was 0.23** — small to moderate. All but two samples
+found a significant positive association. Of the three components, **difficulty identifying
+feelings showed the strongest association, and externally-oriented thinking was "virtually
+unrelated."** That component is defined in this literature as difficulty identifying feelings
+*and distinguishing between feelings and bodily sensations*, which is precisely the confusion
+the lesson describes. People with a diagnosed somatoform condition scored higher than healthy
+controls with moderate to large effects; comparisons against other medical and psychiatric
+conditions were inconclusive.
+
+**Two limits the authors state themselves.** Only one prospective study existed, so nothing
+here establishes alexithymia as a predisposing factor rather than a correlate. And more
+important for how the lesson words this: **the questionnaires used "can only check for
+symptoms, not whether these symptoms are medically explained or not,"** so what was measured
+is symptom reporting in general, not medically unexplained symptoms.
+
+**CORRECTION OWED TO THE CHALLENGE.** The Challenge currently reads "the ones who report the
+most *unexplained* physical complaints." The studies could not establish that the symptoms
+were unexplained. The rest of that sentence — that the association is strongest in people who
+struggle to tell an emotion from a sensation — is exactly right.
 
 ## From The Benefit
 
@@ -281,17 +303,31 @@ The authors abstained from objective measures entirely — every interoception o
 self-report or app-based diary. **Declared conflict of interest: Tania Singer was scientific
 and curriculum advisor 2021–2023 to a start-up commercialising the Affect Dyad.**
 
-### 18. Bodily locations of emotion
+### 18. Bodily locations of emotion — DRAFTED, decide whether it earns its place
 
-**Emotions have consistent bodily locations across cultures.** Nummenmaa and colleagues 2014,
-*PNAS*. PDF read in full. Five experiments, 701 participants in the body-mapping work. People
-coloured where in a body outline they felt activation and deactivation for each emotion.
-Classifiers told emotions apart from the maps well above chance. Maps agreed across Finnish,
-Swedish and Taiwanese samples, mean r=0.70 between West European and East Asian groups.
-**Authors' caveat: the maps may reflect learned linguistic association rather than
-physiological patterning, and the study cannot connect them to any underlying bodily
-activation.** **The only support for the "locate the feeling in your body" step, which is
-otherwise unsourced anywhere in the lesson.**
+**Where people feel an emotion in the body is consistent enough that a computer can tell
+which emotion it is, and it holds across cultures.** Nummenmaa and colleagues 2014, *PNAS*.
+PDF read in full. Five experiments, 701 participants. People were shown a blank body outline
+alongside an emotion word, a story, a film clip or a face, and coloured in where they felt
+activity increasing and where they felt it decreasing. The maps came out distinct enough per
+emotion that a classifier could identify the emotion from the colouring well above chance,
+and they matched across Finnish, Swedish and Taiwanese participants — a correlation of about
+0.70 between the West European and East Asian groups.
+
+**What it supports:** that "where do you feel it" is a real question with a stable answer,
+rather than a prompt people answer at random. That is the assumption the locate-it step in
+the check-in rests on, and nothing else in the lesson supports it.
+
+**What it does not support:** that finding the location does anything for you. Nobody was
+trained, nothing was measured before and after, and no outcome was tracked. **The authors
+also state they cannot rule out that the maps reflect learned language about emotion rather
+than actual bodily patterning** — people may be colouring in what we all say about anger
+rather than what anger does. The task is self-report throughout.
+
+**Decision, 20 Aug: keep.** It justifies asking the question, which is the job it needs to
+do — the check-in asks people to locate the feeling and nothing else in the lesson supports
+that step. It says nothing about the benefit of asking, and should not be written as if it
+does.
 
 ### 19. More is not better for everyone
 
