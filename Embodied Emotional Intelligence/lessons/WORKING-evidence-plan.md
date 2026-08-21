@@ -232,33 +232,30 @@ stated by the researchers.** Abstract only — full text not read.
 
 ### 11. Telling unpleasant feelings apart and a range of harmful behaviors
 
-**People who can tell which unpleasant feeling they are having - anxious, ashamed, angry -
-rather than just registering "bad," binge eat less, act aggressively less, relapse on
-substances less, skip treatment less, and self-injure less.** Seah & Coifman 2022, "Emotion
-Differentiation and Behavioral Dysregulation in Clinical and Non-Clinical Samples: A
-Meta-Analysis," *Emotion*. PDF obtained, full text read.
+**People who can tell whether they feel anxious, ashamed, or angry - instead of just "bad" -
+binge eat less, act aggressively less, relapse on substances less, skip treatment less, and
+self-injure less.** Seah & Coifman 2022, "Emotion Differentiation and Behavioral Dysregulation
+in Clinical and Non-Clinical Samples: A Meta-Analysis," *Emotion*. PDF obtained, full text
+read.
 
-**17 samples, 2,182 people.** The behaviors named in the paper - binge eating, aggression,
-substance relapse, treatment non-adherence, self-injury, and others not individually broken
-out - are pooled into a single measure of dysregulated behavior. Against that pooled measure,
-negative emotion differentiation correlates at r=-.15 [-.21, -.09], p<.001.
+**17 samples, 2,182 people.** The paper pools binge eating, aggression, substance relapse,
+treatment non-adherence, self-injury, and other behaviors into one measure. Against that
+pooled measure, telling feelings apart correlates at r=-.15 [-.21, -.09], p<.001.
 
-**This holds after accounting for how much negative emotion someone feels overall** (partial
-r=-.09, p=.023, computed from the 11 studies with the data to do so) - so it is not simply
-that people who feel less distress also differentiate better. **It does not depend on clinical
-status** (Q=.01, p=.91) or on how distressed people are (moderation by mean negative affect,
-not significant).
+**The effect holds after accounting for how much negative emotion someone feels overall**
+(partial r=-.09, p=.023, from the 11 studies with that data) - so it isn't just that
+less-distressed people differentiate better. It also doesn't depend on clinical status
+(Q=.01, p=.91).
 
-**One component, looked at on its own, comes out differently.** The single study of
-self-injury inside the pool - Zaki and colleagues 2013, 63 people with borderline personality
-disorder - was not independently significant: r=-.09, 95% CI [-.40, .24], p=.59. The pooled
-result across all 17 samples is significant; that one component, tested alone on 63 people, is
-not.
+**One piece of the pool looked different alone.** The single self-injury study inside it -
+Zaki and colleagues 2013, 63 people with borderline personality disorder - was not
+significant by itself: r=-.09, p=.59. The pooled result across all 17 samples is significant;
+that one study, on its own, is not.
 
-**Publication bias checked and unlikely.** Funnel plot symmetric; trim-and-fill found two
-possibly missing studies and moved the estimate only to -.14; fail-safe N of 187 against 17
-known studies. Entirely correlational - the authors state directly that "more research is
-needed to establish causality."
+**Publication bias looks unlikely:** the funnel plot is symmetric, trim-and-fill barely moved
+the estimate (to -.14), and the fail-safe N is 187 against 17 known studies. It's
+correlational - the authors say directly that "more research is needed to establish
+causality."
 
 ### 12. Awareness is the weakest predictor
 
