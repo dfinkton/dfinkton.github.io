@@ -487,7 +487,13 @@ a secondary citation; it is 2014**).
 **Searched, not found, DROPPED per the rule:**
 - **Subic-Wrana 2010** — no title, not located. The **2005** paper is read and stays; the 2010 lead is
   deleted.
-- **Frye-Cox & Hesse** — no title, not located. Deleted from the retrieval queue.
+- **Frye-Cox & Hesse** — ~~not located~~ **FOUND 21 Aug 2026.** Frye-Cox NE & Hesse CR (2013),
+  "Alexithymia and marital quality: the mediating roles of loneliness and intimate
+  communication," *Journal of Family Psychology* 27(2):203–211, PMID 23544920. Abstract read
+  verbatim. N=155 couples, actor-partner interdependence models. Loneliness and intimate
+  communication fully mediated the alexithymia–marital-quality link for both spouses:
+  higher alexithymia → greater loneliness → lower intimate communication → lower marital
+  quality. Now cited in Lesson 2's Evidence section alongside Panahi 2018.
 - **Yelsma & Marrow** — no title, not located. Deleted from the retrieval queue.
 
 *(All three were Lesson 25 material, and all three were bare author-year leads inherited from
