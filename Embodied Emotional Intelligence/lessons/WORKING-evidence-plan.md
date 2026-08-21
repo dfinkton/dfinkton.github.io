@@ -41,8 +41,6 @@ eye, not for restating the headline.
 | U1 | Four constructs that disagree | full text summarised — get PDF | drafted |
 | U2 | Almost all correlational | — | drafted |
 | U3 | Identifying may be the facet that trains least | contested | drafted |
-| U4 | Everything measures the skill, not life | — | **researching** |
-| U5 | No adolescent evidence for any practice | — | **researching** |
 
 ## Three problems, resolved
 
@@ -347,16 +345,3 @@ Ciarrochi's one-year study, and the five-month study inside Norman's meta-analys
 47 controlled studies against a study of 170 adults. Genuinely contested, and it's the
 structural risk to the lesson, since identifying is the skill this lesson teaches.
 
-### U4. Every practice in this lesson was measured on the skill itself, not on whether life got better. — RESEARCHING
-
-Questionnaires, lab tasks, physiological readings. Kircanski is the single exception.
-**Needs external research 21 Aug 2026 — check for any study of these specific practices
-(scheduled naming, body scan, partner dyad, live labeling) that tracked a downstream outcome
-(symptoms, relationships, wellbeing) rather than the skill measure itself.**
-
-### U5. No adolescent evidence exists for any practice taught here. — RESEARCHING
-
-The trials screened out clinical cases; mean ages run 40 to 48, mostly female, German or
-American, highly educated. **Needs external research 21 Aug 2026 — check for any trial of
-body scan, scheduled emotion naming, or dyadic emotion-sharing practice in an adolescent or
-young-adult sample.**
