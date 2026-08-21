@@ -39,7 +39,7 @@ eye, not for restating the headline.
 | 18 | Bodily locations of emotion | PDF read in full | drafted — keep |
 | 19 | More is not better for everyone | abstract only | drafted |
 | 20 | Hard days run backwards | full text read | drafted |
-| U1 | Two measures of emotional awareness barely correlate | full text read | drafted |
+| 21 | Two measures of emotional awareness barely correlate | full text read | drafted |
 | U3 | Identifying may be the facet that trains least | contested | drafted |
 
 ## Three problems, resolved
@@ -340,9 +340,7 @@ correlated with differentiation on the same day but none predicted it forward th
 did. The authors resist calling it dysfunction — no wellbeing measure moderated the effect,
 and they argue the narrowing may be adaptive.
 
-## Uncertainties and opposing views
-
-### U1. Self-reporting how aware you are of your emotions and demonstrating that awareness on a task are only weakly related.
+### 21. Self-reporting how aware you are of your emotions and demonstrating that awareness on a task are only weakly related.
 
 Maroti, Lilliengren & Bileviciute-Ljungar 2018, "The Relationship Between Alexithymia and
 Emotional Awareness: A Meta-Analytic Review of the Correlation Between TAS-20 and LEAS,"
@@ -355,6 +353,8 @@ discussion they note that other researchers have found the self-report measure t
 general distress while the performance measure doesn't, which they raise as a possible
 reason for the weak correlation — but that comparison wasn't something this meta-analysis
 tested itself.
+
+## Uncertainties and opposing views
 
 ### U3. One meta-analysis found interventions move describing feelings and externally-oriented thinking but not identifying them — another found the opposite.
 
