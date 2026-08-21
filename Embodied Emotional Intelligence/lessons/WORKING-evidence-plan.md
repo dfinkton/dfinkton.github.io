@@ -274,7 +274,7 @@ predicted change on six of eight scales and integrating it into daily life on se
 eight; practice duration predicted only two, weakly. Screened healthy adults, mean age 40s,
 70–78% female, German, highly educated.
 
-### 16a. A compassion-focused training that includes a partner-sharing practice lowered the body's actual hormonal stress response, not just how stressed people said they felt.
+### 16a. A compassion-focused, partner-sharing practice lowered the body's actual hormonal stress response, not just how stressed people said they felt.
 
 Engert, Kok, Papassotiriou, Chrousos & Singer 2017, "Specific reduction in cortisol stress
 reactivity after social but not attention-based mental training," *Science Advances*
