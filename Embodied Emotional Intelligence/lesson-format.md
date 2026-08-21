@@ -331,8 +331,38 @@ something grabs your attention."* A few words, not a sentence of throat-clearing
 
 Which means precise notation mostly stays out. Write *a small-to-medium improvement*
 rather than an effect size and a confidence interval, and **link the study** so anyone
-who wants the figures can go get them. Where an exact number genuinely does work for
-the reader, give it plainly and say what it means.
+who wants the figures can go get them.
+
+**No unexplained effect sizes.** You do not have to include them at all. If you do, the
+reader must be able to understand what the number is measuring: what was done, to whom,
+against what comparison, and what outcome moved. A number without that context is noise
+on the page.
+
+### Four rules for writing an entry
+
+Set 21 Aug 2026 after entry 2 took eight passes. Check these before drafting each entry.
+
+**1. The headline is the claim, in plain English.** Not a description of the evidence base
+— *"Two studies found the same shape"* — and not the statistics restated — *"X was not
+independently related to Y once Z was accounted for."* Write the finding the way a person
+would say it: *"Being unable to name your feelings leads to loneliness, and to a less
+satisfying marriage."*
+
+**2. The body is what the study did and what it showed.** Who was studied, what was
+measured, what came out. **Do not go hunting for a limitation to append.** Caveats belong
+in an entry when the lesson's claim depends on them, not as a reflex that makes the writing
+feel rigorous.
+
+**3. Standard English, including for the statistics.** *Predicted*, *associated with*,
+*mediated*, *moderated* are jargon and mostly avoidable. A path model in plain English is
+a chain: *the harder someone found it to name what they felt, the lonelier they were; and
+the lonelier they were, the less satisfied with their marriage.* Gloss any term you must
+keep, in a few words.
+
+**4. A mediator is a step along the path, not a competing explanation.** When a direct
+path is non-significant and the indirect path is significant, the effect is still there —
+it travels through the mediator. That is a finding about *how* something happens, and it
+does not weaken the claim. Reading it as "so it isn't really the cause" is wrong.
 
 **An effect size is defined by its control group, so figures from different studies rarely
 compare.** Same intervention, same people, same outcome — change the control and the number
