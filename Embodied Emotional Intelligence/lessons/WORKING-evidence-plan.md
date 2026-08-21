@@ -188,7 +188,7 @@ throughout, one country, one year.
 
 ### 9. Reading other people
 
-**Knowing your own feelings goes with reading other people's.** Israelashvili, Oosterwijk,
+**People who know their own feelings tend to read other people better.** Israelashvili, Oosterwijk,
 Sauter & Fischer 2019, "Knowing me, knowing you: emotion differentiation in oneself is
 associated with recognition of others' emotions," *Cognition and Emotion* 33(7):1461–1471.
 Open access, primary text read in full.
@@ -232,7 +232,7 @@ stated by the researchers.** Abstract only — full text not read.
 
 ### 11. A class of costly behaviour
 
-**Finer distinctions go with less of a whole class of costly behaviour.** Seah & Coifman 2022,
+**People who tell their unpleasant feelings apart do less of a whole class of costly things.** Seah & Coifman 2022,
 *Emotion*. PDF obtained, full text read. Meta-analysis, 17 samples, 2,182 people. Binge eating,
 aggression, substance relapse, treatment non-adherence, self-injury and others **pooled as one
 class**, r=−.15, I²=43.8%. Holds after controlling for mean negative affect (partial r=−.09).
