@@ -2744,18 +2744,26 @@ turns out to be two instruments disagreeing rather than two findings disagreeing
 
 **Maroti, Lilliengren & Bileviciute-Ljungar, 2018**, "The Relationship Between Alexithymia
 and Emotional Awareness: A Meta-Analytic Review of the Correlation Between TAS-20 and
-LEAS," *Frontiers in Psychology* (full text fetched and summarized; **get the PDF before
-printing figures**). 21 studies, 28 independent samples, **N=2,857**, 57% female.
+LEAS," *Frontiers in Psychology* (**UPGRADED 21 Aug 2026 — full text read**, Darryl located
+the PDF). 21 studies, 28 independent samples, **N=2,857**, 57% female.
 
-- **Pooled r = −0.122 [−0.180, −0.064]**, p<0.001. Adjusted for publication bias, −0.092.
-  I²=48.4%.
-- No moderation by sample type (healthy, psychiatric, medical), age, or gender.
+- **Pooled r = −0.122 [−0.180, −0.064]**, Z=−4.092, p<0.001. Adjusted for publication bias
+  via trim-and-fill (four studies trimmed), **−0.092**. Heterogeneity moderate: Q=52.32,
+  p=0.002, **I²=48.39**.
+- No moderation by sample type (healthy, psychiatric, medical), age (meta-regression
+  intercept=−0.063, p=0.648), or percentage female (intercept=−0.230, p=0.145).
 - Authors' conclusion: the two "measure different aspects of emotional functioning" and
   "alexithymia and emotional awareness are distinct constructs." They recommend using both,
   never interchangeably.
-- **The finding that matters most:** TAS-20, but not LEAS, correlates with negative affect —
-  and **controlling for negative affect rendered TAS-20 associations non-significant while
-  leaving LEAS unaffected.**
+- **CORRECTION, 21 Aug 2026.** This entry previously stated as this paper's finding: "TAS-20,
+  but not LEAS, correlates with negative affect — and controlling for negative affect
+  rendered TAS-20 associations non-significant while leaving LEAS unaffected." **That is not
+  a result of this meta-analysis.** The paper states plainly, as one of its own limitations,
+  that "distress/negative affect... was not used as a covariate" in the analysis. The
+  negative-affect claim appears only in the discussion, where the authors cite *other*
+  papers (Lane et al. 2015b for the TAS-20 link; Bydlowski 2005, Subic-Wrana 2005, Consoli
+  2009 for LEAS being unaffected) as a possible explanation for the weak correlation. Do not
+  cite this paper for that comparison.
 
 **What follows for this lesson.** Nearly every large association in the Lesson 2 material
 below — depression r≈.32–.46, sleep r=.44, suicidal ideation r=.54, anxiety SMD=0.97 — was

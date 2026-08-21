@@ -39,7 +39,7 @@ eye, not for restating the headline.
 | 18 | Bodily locations of emotion | PDF read in full | drafted — keep |
 | 19 | More is not better for everyone | abstract only | drafted |
 | 20 | Hard days run backwards | full text read | drafted |
-| U1 | Four constructs that disagree | full text summarised — get PDF | drafted |
+| U1 | Two measures of emotional awareness barely correlate | full text read | drafted |
 | U3 | Identifying may be the facet that trains least | contested | drafted |
 
 ## Three problems, resolved
@@ -342,16 +342,19 @@ and they argue the narrowing may be adaptive.
 
 ## Uncertainties and opposing views
 
-### U1. "Emotional awareness" is at least four different things that don't agree with each other.
+### U1. Self-reporting how aware you are of your emotions and demonstrating that awareness on a task are only weakly related.
 
-Maroti, Lilliengren & Bileviciute-Ljungar 2018, *Frontiers in Psychology*. Full text fetched
-and summarised — get the PDF before printing figures. 21 studies, 28 independent samples,
-2,857 people. The self-report alexithymia questionnaire and the performance-based awareness
-scale correlate at r=−0.122. No moderation by sample type, age or gender. The self-report
-measure correlates with negative affect and the performance measure does not, and
-controlling for negative affect made the self-report associations non-significant while
-leaving the performance ones intact. Authors: the two "measure different aspects of
-emotional functioning," and should never be used interchangeably.
+Maroti, Lilliengren & Bileviciute-Ljungar 2018, "The Relationship Between Alexithymia and
+Emotional Awareness: A Meta-Analytic Review of the Correlation Between TAS-20 and LEAS,"
+*Frontiers in Psychology*. Full text read. 21 studies, 28 independent samples, 2,857 people.
+The self-report alexithymia questionnaire and the performance-based awareness scale
+correlate at r=−0.122, adjusted to −0.092 once publication bias is accounted for. No
+difference by population type, age, or gender. The authors' own conclusion: the two "measure
+different aspects of emotional functioning," and are "distinct constructs." In their
+discussion they note that other researchers have found the self-report measure tracks
+general distress while the performance measure doesn't, which they raise as a possible
+reason for the weak correlation — but that comparison wasn't something this meta-analysis
+tested itself.
 
 ### U3. One meta-analysis found interventions move describing feelings and externally-oriented thinking but not identifying them — another found the opposite.
 
