@@ -719,9 +719,7 @@ as this lesson's foundation; both belong elsewhere. **This is Lesson 2 only.**
 
 **Load-bearing and still unverified — the honest list:**
 
-- **[[P5]] is the structural problem.** Interventions move *describing* and *externally-oriented
-  thinking* but **not identifying feelings** — and identifying is the facet carrying nearly every
-  outcome in Tier 1. If that holds, the lesson's central skill is the one that doesn't train.
+- ~~[[P5]]~~ — retired 21 Aug 2026. See P5's own entry.
   `CONTESTED`, and the highest-stakes open question in this file.
 - **Trainability is asserted more than measured.** [[P6]]: three of six cited studies turn out to be
   an uncontrolled trial (n=72), a phase I trial (n=24), and one study that isn't about training.
@@ -1661,16 +1659,25 @@ that teach it.** The evidence for the pause comes from elsewhere entirely.
 Review of Social Psychology* 36(1)); the MCII-anger paper (*Frontiers in Psychology* 2018,
 9:1838); results from NCT03693209 if posted.
 
-### P5. Interventions move describing feelings and externally-oriented thinking, but not identifying feelings. `CONTESTED — the most important open question in the lesson`
-**For:** Mazza 2026, meta-analysis, 47 studies, controlled: DIF g=−0.06 ns, DDF −0.39,
-EOT −0.45. Identifying is the facet carrying nearly every outcome in Tier 1.
-**Against:** Zompa 2025, 170 adults with binge eating disorder, 16 weeks of DBT modules
-that explicitly teach identifying and labelling: DIF d=−0.27 p<.01, while DDF (−0.13) and
-EOT (−0.22) did **not** move — the exact reverse.
-**Hypothesis worth testing:** interventions that explicitly teach identifying move
-identifying; the pooled average of interventions that mostly don't teach it doesn't.
-**Blocker:** Zompa has no control group and is one clinical population. No controlled trial
-of this appears to exist.
+### P5. RETIRED 21 Aug 2026 — this was not a genuine contest and should not be treated as one.
+Full text of Mazza 2026 read. The DIF/DDF/EOT breakdown cited here is a post-hoc exploratory
+analysis (not one of the paper's three preregistered aims), based on 16 of 53 effect sizes,
+and the authors state directly: "firm conclusions cannot be drawn from this limited and
+varied pool of effects." They extend that caution to all three facets, not just DIF, because
+the TAS-20 subscales have known reliability problems — which is why they used the total
+score, not the subscales, as their actual outcome throughout the paper.
+
+Zompa 2025 has no control group, and the paper's own authors call for a randomised trial.
+Comparing it to Mazza's exploratory subgroup as "the exact reverse" gave a small,
+uncontrolled, heavily confounded pre-post cohort the same evidentiary weight as a controlled
+meta-analysis. It isn't that weight, and this was not a fair comparison to draw.
+
+**What is not in question:** Mazza's actual headline finding — that psychological
+intervention reduces alexithymia overall — is robust: g=−0.52, p<.001, 47 controlled
+studies, N=3,368. Whether identifying specifically trains better or worse than describing is
+an open, low-stakes detail buried in underpowered exploratory data. It does not bear on
+whether this lesson's own practices work, which stand on their own evidence
+(Widdershoven, Kircanski).
 
 ### P6. Emotional awareness measured by LEAS can be trained. `WEAKENED — three of the six citations identified, and they are thin`
 Lane 2021 asserts psychoeducation and psychotherapy improve LEAS, citing six studies
