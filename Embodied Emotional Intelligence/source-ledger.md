@@ -2765,12 +2765,16 @@ the PDF). 21 studies, 28 independent samples, **N=2,857**, 57% female.
   2009 for LEAS being unaffected) as a possible explanation for the weak correlation. Do not
   cite this paper for that comparison.
 
-**What follows for this lesson.** Nearly every large association in the Lesson 2 material
-below — depression r≈.32–.46, sleep r=.44, suicidal ideation r=.54, anxiety SMD=0.97 — was
-measured with the TAS-20. If controlling for negative affect removes TAS-20 associations,
-a substantial part of that evidence base may be measuring distress rather than awareness.
-This is not a hedge to bury in an Evidence section; it is a question about whether the
-headline numbers describe the thing the lesson is about.
+**What this actually establishes, and no more.** Several large associations in the Lesson 2
+material below — depression, sleep, suicidal ideation, anxiety — are measured with the
+TAS-20 rather than the LEAS. Whether TAS-20 scores substantially track general distress
+rather than a distinct construct is a real concern, but **not one this meta-analysis
+tested or established** — see `claims-register.md`'s M3 entry, tagged "SUPPORTED — but not
+by Maroti." The strongest single piece of evidence for it, Leising, Grande & Faber 2009
+("The Toronto Alexithymia Scale (TAS-20): a measure of general psychological distress"), is
+itself unread — known only via Maroti's citation of it. **Until that paper and the three
+negative-affect-control studies are read directly, this stays a named, plausible concern,
+not a demonstrated one.**
 
 ## The same split appears on the non-verbal side
 
