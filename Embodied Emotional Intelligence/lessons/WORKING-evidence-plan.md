@@ -232,7 +232,7 @@ stated by the researchers.** Abstract only — full text not read.
 
 ### 11. A class of costly behaviour
 
-**People who tell their unpleasant feelings apart do less of a whole class of costly things.** Seah & Coifman 2022,
+**People who tell their unpleasant feelings apart binge eat, relapse, and act aggressively less.** Seah & Coifman 2022,
 *Emotion*. PDF obtained, full text read. Meta-analysis, 17 samples, 2,182 people. Binge eating,
 aggression, substance relapse, treatment non-adherence, self-injury and others **pooled as one
 class**, r=−.15, I²=43.8%. Holds after controlling for mean negative affect (partial r=−.09).
