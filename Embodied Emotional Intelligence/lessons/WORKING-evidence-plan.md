@@ -27,7 +27,7 @@ to evaluate. Conclusions come from the data, not from interpretation laid on top
 | 8 | Losing social support over a year | abstract only | no |
 | 9 | Reading other people | full text read | **drafted** |
 | 10 | Strategies work less well | abstract only | no |
-| 11 | A class of costly behaviour | full text read | no |
+| 11 | Telling unpleasant feelings apart and a range of harmful behaviors | full text read | **drafted** |
 | 12 | Awareness is the weakest predictor | full text read | no |
 | 13 | The check-in works | full text read | no |
 | 14 | Naming in the moment | full text read | no |
@@ -230,16 +230,35 @@ increased negative emotion than they were among high differentiators." Authors' 
 "effective regulation may underlie differentiation benefits." **The lesson's central claim,
 stated by the researchers.** Abstract only — full text not read.
 
-### 11. A class of costly behaviour
+### 11. Telling unpleasant feelings apart and a range of harmful behaviors
 
-**People who tell their unpleasant feelings apart binge eat, relapse, and act aggressively less.** Seah & Coifman 2022,
-*Emotion*. PDF obtained, full text read. Meta-analysis, 17 samples, 2,182 people. Binge eating,
-aggression, substance relapse, treatment non-adherence, self-injury and others **pooled as one
-class**, r=−.15, I²=43.8%. Holds after controlling for mean negative affect (partial r=−.09).
-Doesn't depend on clinical status. Funnel plot symmetric; trim-and-fill moved it to −.14.
-**Do not cite for self-injury specifically** — the one self-injury study inside it was not
-independently significant. Entirely correlational; authors state "more research is needed to
-establish causality."
+**People who can tell which unpleasant feeling they are having - anxious, ashamed, angry -
+rather than just registering "bad," binge eat less, act aggressively less, relapse on
+substances less, skip treatment less, and self-injure less.** Seah & Coifman 2022, "Emotion
+Differentiation and Behavioral Dysregulation in Clinical and Non-Clinical Samples: A
+Meta-Analysis," *Emotion*. PDF obtained, full text read.
+
+**17 samples, 2,182 people.** The behaviors named in the paper - binge eating, aggression,
+substance relapse, treatment non-adherence, self-injury, and others not individually broken
+out - are pooled into a single measure of dysregulated behavior. Against that pooled measure,
+negative emotion differentiation correlates at r=-.15 [-.21, -.09], p<.001.
+
+**This holds after accounting for how much negative emotion someone feels overall** (partial
+r=-.09, p=.023, computed from the 11 studies with the data to do so) - so it is not simply
+that people who feel less distress also differentiate better. **It does not depend on clinical
+status** (Q=.01, p=.91) or on how distressed people are (moderation by mean negative affect,
+not significant).
+
+**One component, looked at on its own, comes out differently.** The single study of
+self-injury inside the pool - Zaki and colleagues 2013, 63 people with borderline personality
+disorder - was not independently significant: r=-.09, 95% CI [-.40, .24], p=.59. The pooled
+result across all 17 samples is significant; that one component, tested alone on 63 people, is
+not.
+
+**Publication bias checked and unlikely.** Funnel plot symmetric; trim-and-fill found two
+possibly missing studies and moved the estimate only to -.14; fail-safe N of 187 against 17
+known studies. Entirely correlational - the authors state directly that "more research is
+needed to establish causality."
 
 ### 12. Awareness is the weakest predictor
 
