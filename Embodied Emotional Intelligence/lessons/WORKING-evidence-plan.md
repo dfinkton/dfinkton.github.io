@@ -34,12 +34,12 @@ eye, not for restating the headline.
 | 13 | The check-in works | full text read | drafted |
 | 14 | Naming in the moment | full text read | drafted |
 | 16 | The body scan | full text read | drafted |
+| 16a | Cortisol moved for the partner-style practice, not the body scan | abstract read verbatim | drafted |
 | 17 | The partner check-in | partial — **COI + design flag** | drafted |
 | 18 | Bodily locations of emotion | PDF read in full | drafted — keep |
 | 19 | More is not better for everyone | abstract only | drafted |
 | 20 | Hard days run backwards | full text read | drafted |
 | U1 | Four constructs that disagree | full text summarised — get PDF | drafted |
-| U2 | Almost all correlational | — | drafted |
 | U3 | Identifying may be the facet that trains least | contested | drafted |
 
 ## Three problems, resolved
@@ -274,6 +274,24 @@ predicted change on six of eight scales and integrating it into daily life on se
 eight; practice duration predicted only two, weakly. Screened healthy adults, mean age 40s,
 70–78% female, German, highly educated.
 
+### 16a. A compassion-focused training that includes a partner-sharing practice lowered the body's actual hormonal stress response, not just how stressed people said they felt.
+
+Engert, Kok, Papassotiriou, Chrousos & Singer 2017, "Specific reduction in cortisol stress
+reactivity after social but not attention-based mental training," *Science Advances*
+3(10):e1700495. Abstract read verbatim. 313 healthy adults, part of the same 9-month
+ReSource project as entry 16. Three training arms — attention and interoception,
+socio-affective (compassion and a partner-based sharing practice), and socio-cognitive
+(perspective-taking) — were each tested against a standardized lab stressor, with
+self-report, hormonal, nervous-system and immune measures. All three training types reduced
+how stressed people said they felt. Only the socio-affective and socio-cognitive training
+reduced the actual hormonal stress response — cortisol secretion fell by up to 51%. The
+attention and body-scan training, the same module entry 16 describes, moved self-report only
+and had no effect on cortisol. Autonomic and immune markers didn't move for any of the three.
+This is a different trial than the one behind the partner check-in above, run on an earlier
+version of a similar partner-based practice, so it doesn't confirm that exact exercise — but
+it's the clearest case in this lesson of a practice being checked against something more than
+a questionnaire about itself.
+
 ### 17. Twelve minutes a day with a partner improves putting feelings into words, more than practising alone does.
 
 Silveira, Godara, Faschinger & Singer 2023, *Journal of Affective Disorders* 341:162–169.
@@ -334,11 +352,6 @@ measure correlates with negative affect and the performance measure does not, an
 controlling for negative affect made the self-report associations non-significant while
 leaving the performance ones intact. Authors: the two "measure different aspects of
 emotional functioning," and should never be used interchangeably.
-
-### U2. Almost everything in this lesson is correlational.
-
-Two exceptions run forward in time and both point the direction the lesson assumes —
-Ciarrochi's one-year study, and the five-month study inside Norman's meta-analysis.
 
 ### U3. One meta-analysis found interventions move describing feelings and externally-oriented thinking but not identifying them — another found the opposite.
 
