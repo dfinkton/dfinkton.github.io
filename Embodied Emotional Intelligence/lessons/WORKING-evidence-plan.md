@@ -40,7 +40,6 @@ eye, not for restating the headline.
 | 19 | More is not better for everyone | abstract only | drafted |
 | 20 | Hard days run backwards | full text read | drafted |
 | 21 | Two measures of emotional awareness barely correlate | full text read | drafted |
-| U3 | Identifying may be the facet that trains least | contested | drafted |
 
 ## Three problems, resolved
 
@@ -354,10 +353,4 @@ general distress while the performance measure doesn't, which they raise as a po
 reason for the weak correlation — but that comparison wasn't something this meta-analysis
 tested itself.
 
-## Uncertainties and opposing views
-
-### U3. One meta-analysis found interventions move describing feelings and externally-oriented thinking but not identifying them — another found the opposite.
-
-47 controlled studies against a study of 170 adults. Genuinely contested, and it's the
-structural risk to the lesson, since identifying is the skill this lesson teaches.
 
