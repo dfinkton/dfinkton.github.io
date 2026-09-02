@@ -68,3 +68,23 @@ cigarette refusal, flossing, homework.
 Control-Out. So the finding may only mean "aggression hurts social outcomes." **Get the
 operationalisation before citing the effect size.** How anger is voiced is very likely the whole
 question, and these studies do not tell us.
+
+## Anger and heart disease — relocated from Lesson 2 evidence, 2026-08-31
+
+**Chida & Steptoe, 2009** ([JACC 54(11):936–946](https://doi.org/10.1016/j.jacc.2008.11.044);
+PMID 19281923) — `abstract only`. Meta-analysis of prospective cohorts: **25 studies in
+initially healthy populations, 19 in populations with existing CHD.** Anger and hostility →
+**CHD events in healthy populations, HR 1.19 [1.05–1.35], p=0.008**; poor prognosis in CHD
+populations, **HR 1.24 [1.08–1.42], p=0.002**. Harmful effect in healthy populations greater
+in men than women. Authors report **indications of publication bias** in both sets, with
+fail-safe numbers of 2,020 and 750.
+
+**Mostofsky, Maclure, Tofler, Muller & Mittleman, 2013** ([Am J Cardiol 112(3):343–348](https://doi.org/10.1016/j.amjcard.2013.03.035);
+PMID 23642509) — `abstract only`. Case-crossover, **N = 3,886** interviewed during hospitalisation
+for acute MI. **Incidence of MI onset elevated 2.43-fold [2.01–2.90] within 2 hours of an anger
+outburst**, with a significant dose-response by anger intensity (p trend <0.001). Regular
+β-blocker users showed lower susceptibility.
+
+**Use for Lesson 8:** anger carried over time and anger let out in the moment both raise heart
+disease risk. These are about anger itself, not about awareness of anger — they show what an
+unexamined feeling does in the body.
