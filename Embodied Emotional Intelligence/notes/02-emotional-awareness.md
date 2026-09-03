@@ -2,7 +2,7 @@
 lesson: 2
 title: "Emotional Awareness"
 part: "Part One — Attention and Observation"
-status: notes
+status: published
 cross_references: [3, 6, 25]
 ---
 
