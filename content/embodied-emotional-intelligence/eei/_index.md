@@ -50,7 +50,7 @@ That is how the lessons ahead are organized. We will begin with the raw machiner
 This is the smallest set of tools that will actually work. Before attempting to untangle the history of your relationships, you must first be able to turn the dashboard on, recognize the signals, and make sure your body is in good enough shape for the machinery to run.
 
 - [Focus and attention](/embodied-emotional-intelligence/eei/focus-and-attention/) — Attention is the ground everything else runs on. How to hold it, and what spends it.
-- Emotional awareness — Feeling a signal and getting an accurate name on it, including where in your body it lives.
+- [Emotional awareness](/embodied-emotional-intelligence/eei/emotional-awareness/) — Feeling a signal and getting an accurate name on it, including where in your body it lives.
 - Observation — Watching a feeling without acting on it, and the difference between noticing-and-allowing and noticing-and-fixing.
 - Sleep — The largest single lever, and the one most people give away first.
 - Food and water — What hunger and thirst do to judgment.
