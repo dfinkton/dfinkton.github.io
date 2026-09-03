@@ -1,11 +1,10 @@
 ---
 title: "Emotional Awareness"
 lesson: 2
-part: "Part One — Attention and Observation"
+part: "Spiral One — The Body"
 date: 2026-09-02
 description: "Learning to notice and name what you feel — the foundation for everything else in this curriculum."
 weight: 20
-cross_references: [3, 6, 25]
 unverified: []
 aliases: []
 ---

@@ -1,9 +1,8 @@
 ---
 lesson: 4
 title: "Gratitude"
-part: "Part One — Attention and Observation"
+part: "Spiral Two — The Mind"
 status: notes
-cross_references: [6, 30, 36]
 ---
 
 ## Scope

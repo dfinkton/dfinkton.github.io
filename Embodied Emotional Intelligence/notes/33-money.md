@@ -1,9 +1,8 @@
 ---
 lesson: 33
 title: "Money"
-part: "Part Five — Conditions"
+part: "Spiral Two — The Mind"
 status: notes
-cross_references: [32]
 ---
 
 ## Studies

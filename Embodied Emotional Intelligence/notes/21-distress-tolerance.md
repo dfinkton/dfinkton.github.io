@@ -1,9 +1,8 @@
 ---
 lesson: 21
 title: "Distress Tolerance"
-part: "Part Three — The Choice"
+part: "Spiral Two — The Mind"
 status: notes
-cross_references: [13, 19]
 ---
 
 ## Studies

@@ -1,9 +1,8 @@
 ---
 lesson: 31
 title: "Sleep"
-part: "Part Five — Conditions"
+part: "Spiral One — The Body"
 status: notes
-cross_references: [32, 34]
 ---
 
 ## Key points

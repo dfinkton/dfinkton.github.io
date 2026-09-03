@@ -1,9 +1,8 @@
 ---
 lesson: 14
-title: "Joy, Play, and Curiosity"
-part: "Part Two — The Drives"
+title: "Joy"
+part: "Spiral One — The Body"
 status: notes
-cross_references: [15, 30]
 ---
 
 ## Key points

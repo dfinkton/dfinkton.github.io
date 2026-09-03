@@ -1,9 +1,8 @@
 ---
 lesson: 39
 title: "Turning It Up"
-part: "Part Six — Design and Horizon"
+part: "Spiral Four — Mastery"
 status: notes
-cross_references: []
 ---
 
 ## Key points

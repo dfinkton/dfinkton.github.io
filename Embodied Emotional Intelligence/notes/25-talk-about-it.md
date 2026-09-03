@@ -1,9 +1,8 @@
 ---
 lesson: 25
 title: "Talk About It"
-part: "Part Four — Other People"
+part: "Spiral Three — Others"
 status: notes
-cross_references: [2, 6, 26, 40]
 ---
 
 ## What it's for

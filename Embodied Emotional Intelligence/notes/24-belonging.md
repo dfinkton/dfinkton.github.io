@@ -1,9 +1,8 @@
 ---
 lesson: 24
 title: "Belonging"
-part: "Part Four — Other People"
+part: "Spiral One — The Body"
 status: notes
-cross_references: [7, 23]
 ---
 
 ## What it's for

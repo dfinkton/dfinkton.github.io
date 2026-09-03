@@ -1,9 +1,8 @@
 ---
 lesson: 2
 title: "Emotional Awareness"
-part: "Part One — Attention and Observation"
+part: "Spiral One — The Body"
 status: published
-cross_references: [3, 6, 25]
 ---
 
 ## What it's for

@@ -1,9 +1,8 @@
 ---
 lesson: 19
 title: "Overriding"
-part: "Part Three — The Choice"
+part: "Spiral Two — The Mind"
 status: notes
-cross_references: [3, 5, 7, 18, 20]
 ---
 
 ## Practices

@@ -90,8 +90,8 @@ recheck that jargon and acronyms are still defined where the reader actually mee
 first. Revising a section can move its content earlier in reading order without moving
 the definition it depends on along with it.
 
-**11. Cross-references match.** `cross_references` in the front matter matches the
-links actually in the lesson.
+**11. Cross-references match.** Inline links to other lessons match the lessons actually
+referenced in the prose.
 
 ---
 
@@ -110,7 +110,7 @@ Run once, in full, before a lesson ships.
 8. The Evidence links out to the studies rather than printing effect sizes, and every
    claim the body makes has an entry. A claim asserted in three sections and answered in
    none is the easiest thing to miss when the section gets rebuilt.
-9. `description` set, and `cross_references` matches the links actually in the lesson.
+9. `description` set.
 10. Moved to `content/embodied-emotional-intelligence/eei/`, filename **without** the
     lesson number — the URL is `/eei/<slug>/` and the numbering stays internal. Check for
     a byte-order mark before the front matter; shell redirects on Windows add one silently
@@ -121,11 +121,10 @@ Run once, in full, before a lesson ships.
     silently if skipped.
 12. Added to `static/llms.txt` — also hand-maintained, same failure mode.
 13. **Inbound links added from lessons already published.** Any live lesson that names
-    this capacity in prose can now link to it. Check each published lesson's
-    `cross_references` for this lesson's number — that is the list of pages waiting on it.
-    Skipped, and the curriculum quietly stays a set of disconnected pages.
-14. **No lesson count anywhere a reader or crawler sees.** Publicly this is a yearlong
-    curriculum designed to be repeated. Internally there are 42 lessons and the numbering
+    this capacity in prose can now link to it. Skipped, and the curriculum quietly stays
+    a set of disconnected pages.
+14. **No lesson count anywhere a reader or crawler sees.** Publicly this is a multi-year
+    curriculum designed to be repeated. Internally there are 44 lessons and the numbering
     is used freely; the number stays out of page descriptions, the homepage, `llms.txt`,
     and link text.
 15. **Anything this lesson now covers properly comes off the curriculum page.** That page

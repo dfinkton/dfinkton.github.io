@@ -1,9 +1,8 @@
 ---
-lesson: 9
+lesson: 27
 title: "Anxiety"
-part: "Part Two — The Drives"
+part: "Spiral Two — The Mind"
 status: notes
-cross_references: [3, 5, 6, 7, 8, 19, 20]
 ---
 
 ## Scope
@@ -23,7 +22,7 @@ Anxiety is not a drive. Panksepp's list has FEAR. Anxiety is closer to fear with
 This makes it an integration lesson. It demonstrates the series' central claim — that these are separable capacities that combine — by decomposing the most familiar problem into its parts.
 
 ## Practices, drawn from the other lessons
-Graduated exposure from Fear and Anger. Concrete-versus-abstract from Rumination. Decentering from Judgment — available when you are too activated for restructuring to get traction. Attention from Focus. Notice-and-allow from Observation. Sleep, caffeine and alcohol from the conditions lessons.
+Graduated exposure from Fear. Concrete-versus-abstract from Rumination. Decentering from Judgment — available when you are too activated for restructuring to get traction. Attention from Focus. Sleep, caffeine and alcohol from the body lessons.
 
 ## Worry belongs here
 With the future-versus-past distinction from rumination. McEvoy, Watson, Watkins & Nathan (2013), *Journal of Affective Disorders, 151*(1), 313–320 — worry and rumination as expressions of repetitive negative thinking, a transdiagnostic construct.

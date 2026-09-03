@@ -1,9 +1,8 @@
 ---
 lesson: 16
 title: "Status Seeking and Testosterone"
-part: "Part Two — The Drives"
+part: "Spiral Three — Others"
 status: notes
-cross_references: [17]
 ---
 
 ## Key points

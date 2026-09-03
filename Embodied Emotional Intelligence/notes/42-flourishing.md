@@ -1,9 +1,8 @@
 ---
 lesson: 42
 title: "Flourishing: Going beyond the baseline"
-part: "Part Six — Design and Horizon"
+part: "Spiral Four — Mastery"
 status: notes
-cross_references: [9]
 ---
 
 ## Studies

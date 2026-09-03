@@ -1,9 +1,8 @@
 ---
 lesson: 32
 title: "Food and Water"
-part: "Part Five — Conditions"
+part: "Spiral One — The Body"
 status: notes
-cross_references: [31, 33]
 ---
 
 ## Key points

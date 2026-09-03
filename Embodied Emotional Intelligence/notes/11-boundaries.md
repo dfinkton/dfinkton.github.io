@@ -1,9 +1,8 @@
 ---
 lesson: 11
 title: "Boundaries"
-part: "Part Two — The Drives"
+part: "Spiral Three — Others"
 status: notes
-cross_references: [10, 26]
 ---
 
 ## Key distinction

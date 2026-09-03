@@ -1,9 +1,8 @@
 ---
 lesson: 22
 title: "Touch"
-part: "Part Four — Other People"
+part: "Spiral One — The Body"
 status: notes
-cross_references: [23]
 ---
 
 ## Studies

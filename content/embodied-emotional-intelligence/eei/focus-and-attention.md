@@ -1,11 +1,10 @@
 ---
 title: "Focus and Attention"
 lesson: 1
-part: "Part One — Attention and Observation"
+part: "Spiral One — The Body"
 date: 2026-08-01
 description: "Attention is the ground every other emotional skill runs on. Why the wandering is the exercise rather than the failure, what actually improves with practice, how little you need to do and how long it takes to show, and where the research is solid and where it is not."
 weight: 10
-cross_references: [3, 5, 6, 9, 20, 31]
 unverified: []
 aliases: []
 ---
@@ -146,7 +145,7 @@ Catching your mind wandering and pulling it back to your anchor is the practice 
 
 One exception is worth naming. Sitting still with your own mind takes away the distraction that was covering whatever is underneath it. For most people what is underneath is boredom and a to-do list. For some—especially anyone carrying something that has never been dealt with—it is grief or fear arriving with nothing in the way. Watching the breath has its own version of this: for some people it makes breathing feel effortful and strange, and the strangeness turns into panic.
 
-Neither of those means you are doing it wrong, and neither one means push harder. Make the sessions shorter. Keep your eyes open. Use an anchor outside your body—sound, a dot on the wall, your feet on the floor—instead of one inside it. And get another person involved rather than grinding through it alone. If the habit of leaving your body is old, deep, and familiar, Observation is the better place to start, and you can come back to this.
+Neither of those means you are doing it wrong, and neither one means push harder. Make the sessions shorter. Keep your eyes open. Use an anchor outside your body—sound, a dot on the wall, your feet on the floor—instead of one inside it. And get another person involved rather than grinding through it alone. If the habit of leaving your body is old, deep, and familiar, start with an external anchor and come back to this when you are ready.
 
 Start small, keep track, and slowly increase the challenge. Again, this is no different than learning a sport or an instrument. If you try to sit still in silence for an hour on your very first day, it will likely be too difficult and you will stop.
 

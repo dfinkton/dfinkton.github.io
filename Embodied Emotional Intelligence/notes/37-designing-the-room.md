@@ -1,9 +1,8 @@
 ---
 lesson: 37
 title: "Designing the Room"
-part: "Part Six — Design and Horizon"
+part: "Spiral Four — Mastery"
 status: notes
-cross_references: [38]
 ---
 
 ## Studies

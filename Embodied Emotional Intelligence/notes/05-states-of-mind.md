@@ -1,13 +1,12 @@
 ---
 lesson: 5
 title: "States of Mind"
-part: "Part One — Attention and Observation"
+part: "Spiral Two — The Mind"
 status: notes
-cross_references: [6, 7, 9, 19]
 ---
 
 ## Scope
-Hot versus cold, and the DMN. Decentering goes to lesson 7; abstract-versus-concrete to lesson 6; the forward-facing version to lesson 9.
+Hot versus cold, and the DMN. Decentering goes to lesson 7; abstract-versus-concrete to lesson 6; the forward-facing version to lesson 27.
 
 ## What it's for
 Hot, cold, flooded, wandering — and which practices are available in which state.

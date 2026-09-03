@@ -1,9 +1,8 @@
 ---
 lesson: 12
-title: "Sadness, Grief, and Slowing Down"
-part: "Part Two — The Drives"
+title: "Sadness"
+part: "Spiral One — The Body"
 status: notes
-cross_references: [13]
 ---
 
 ## Key points

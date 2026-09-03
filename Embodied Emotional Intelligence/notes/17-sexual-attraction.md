@@ -1,9 +1,8 @@
 ---
 lesson: 17
-title: "Sexual Attraction"
-part: "Part Two — The Drives"
+title: "Physical Attraction and Sexuality"
+part: "Spiral Three — Others"
 status: notes
-cross_references: [16]
 ---
 
 ## Key points

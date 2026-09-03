@@ -1,9 +1,8 @@
 ---
 lesson: 29
 title: "Compassion"
-part: "Part Four — Other People"
+part: "Spiral Two — The Mind"
 status: notes
-cross_references: [4, 10, 15, 30]
 ---
 
 ## Scope

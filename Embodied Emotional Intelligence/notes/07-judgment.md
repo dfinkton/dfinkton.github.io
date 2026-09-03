@@ -1,9 +1,8 @@
 ---
 lesson: 7
 title: "Judgment: Reading Intent, Reading Your Own Thoughts"
-part: "Part One — Attention and Observation"
+part: "Spiral Two — The Mind"
 status: notes
-cross_references: [3, 5, 6, 9, 24]
 ---
 
 ## Scope

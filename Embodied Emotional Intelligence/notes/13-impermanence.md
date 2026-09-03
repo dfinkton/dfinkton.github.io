@@ -1,9 +1,8 @@
 ---
 lesson: 13
 title: "Impermanence"
-part: "Part Two — The Drives"
+part: "Spiral Three — Others"
 status: notes
-cross_references: [12, 19, 21]
 ---
 
 ## The framing, which reorganises the lesson

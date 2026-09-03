@@ -1,13 +1,12 @@
 ---
 lesson: 6
 title: "Rumination"
-part: "Part One — Attention and Observation"
+part: "Spiral Two — The Mind"
 status: notes
-cross_references: [2, 4, 5, 7, 9, 25, 36]
 ---
 
 ## Scope
-Owns abstract-versus-concrete self-focus, backward-facing. Worry and the forward-facing version belong to lesson 9.
+Owns abstract-versus-concrete self-focus, backward-facing. Worry and the forward-facing version belong to lesson 27.
 
 ## What it's for
 The inverse of this entire series, and the reason it needs its own lesson. Everything here teaches attending closely to internal states. Rumination is attending closely to internal states in the way that makes things worse. Without this lesson drawn explicitly, a reader could finish the observation lesson and begin ruminating on purpose, believing they are practicing.

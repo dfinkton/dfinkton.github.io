@@ -1,9 +1,8 @@
 ---
 lesson: 28
 title: "Repair"
-part: "Part Four — Other People"
+part: "Spiral Three — Others"
 status: notes
-cross_references: [10, 26, 27]
 ---
 
 ## The finding that organizes the lesson

@@ -1,9 +1,8 @@
 ---
 lesson: 10
 title: "Shame and Self-Criticism"
-part: "Part Two — The Drives"
+part: "Spiral Two — The Mind"
 status: notes
-cross_references: [8, 28, 29]
 ---
 
 ## What it's for

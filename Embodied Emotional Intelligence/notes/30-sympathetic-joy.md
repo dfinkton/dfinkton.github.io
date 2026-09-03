@@ -1,9 +1,8 @@
 ---
 lesson: 30
 title: "Sympathetic Joy"
-part: "Part Four — Other People"
+part: "Spiral Three — Others"
 status: notes
-cross_references: [4, 14, 29]
 ---
 
 ## Scope

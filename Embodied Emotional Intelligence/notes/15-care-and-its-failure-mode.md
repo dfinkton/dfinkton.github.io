@@ -1,9 +1,8 @@
 ---
 lesson: 15
 title: "Care and Its Failure Mode"
-part: "Part Two — The Drives"
+part: "Spiral One — The Body"
 status: notes
-cross_references: [14, 29]
 ---
 
 ## Scope

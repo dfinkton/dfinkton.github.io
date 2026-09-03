@@ -1,9 +1,8 @@
 ---
 lesson: 1
 title: "Focus and Attention"
-part: "Part One — Attention and Observation"
+part: "Spiral One — The Body"
 status: published
-cross_references: [3, 5, 6, 9, 20, 31]
 ---
 
 **Published** at `/embodied-emotional-intelligence/eei/focus-and-attention/`. Every source
@@ -14,7 +13,7 @@ Dinges, Watkins, Nolen-Hoeksema, Dittmar, Britton, Farias and Lindsay are all co
 see The Evidence in the published lesson for what each actually supports.
 
 ## What it's for
-Attention is the substrate. Observation is something you do with it. This comes first because nothing downstream works without it.
+Attention is the substrate. This comes first because nothing downstream works without it.
 
 ## Practices
 Sustained attention on one object. Noticing you've left and returning without treating the leaving as a failure. Attention as a limited resource and what spends it.

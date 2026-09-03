@@ -1,9 +1,8 @@
 ---
 lesson: 38
 title: "Dose, Difficulty, and How You'd Know"
-part: "Part Six — Design and Horizon"
+part: "Spiral Four — Mastery"
 status: notes
-cross_references: [37]
 ---
 
 ## Studies
@@ -11,7 +10,7 @@ Lally et al. (2010), *EJSP, 40*(6), 998–1009 — 66-day median, 18–254 day r
 ## Curriculum-design findings that apply to every lesson — relocated 2026-08-13
 
 These were sitting in the Lesson 2 register but they are not about emotional awareness. They govern
-how any of the 42 lessons should be built.
+how any of the 44 lessons should be built.
 
 - **Dose does not work the way anyone assumes. Eight within-study nulls or reversals** across
   independent literatures, including **two pre-registered hypotheses that failed in the opposite

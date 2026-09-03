@@ -1,9 +1,8 @@
 ---
 lesson: 23
 title: "Co-regulation"
-part: "Part Four — Other People"
+part: "Spiral Three — Others"
 status: notes
-cross_references: [22, 24, 26]
 ---
 
 ## Studies

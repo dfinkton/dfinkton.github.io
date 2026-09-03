@@ -1,9 +1,8 @@
 ---
 lesson: 35
 title: "Movement"
-part: "Part Five — Conditions"
+part: "Spiral One — The Body"
 status: notes
-cross_references: [20]
 ---
 
 ## What it's for

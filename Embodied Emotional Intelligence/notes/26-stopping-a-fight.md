@@ -1,13 +1,12 @@
 ---
 lesson: 26
 title: "Stopping A Fight"
-part: "Part Four — Other People"
+part: "Spiral Three — Others"
 status: notes
-cross_references: [25, 27, 28]
 ---
 
 ## What it's for
-Everyone argues. The difference is whether you can stop mid-argument without finishing it, and get back to care. This is distinct from Repair, which is what you say afterward, and from De-escalation, which is helping someone else come down.
+Everyone argues. The difference is whether you can stop mid-argument without finishing it, and get back to care. This includes recognizing when someone has passed the point of hearing reasoning, lowering your own arousal first, and giving someone an exit. This is distinct from Repair, which is what you say afterward.
 
 ## The core finding
 Gottman's repair-attempt work: repair attempts are **universal** — both stable and unstable couples make them. What separates the groups is whether they are **accepted**. In stable couples, attempts were met with softening, acknowledgment, an "I know." In divorcing couples they were ignored, dismissed, or answered with counter-attack. **Acceptance, not frequency, tracks with outcome.** And rejected repairs appear to do more harm than no repair at all — you learn not to reach.

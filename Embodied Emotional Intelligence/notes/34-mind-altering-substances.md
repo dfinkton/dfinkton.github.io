@@ -1,9 +1,8 @@
 ---
 lesson: 34
 title: "Mind-Altering Substances"
-part: "Part Five — Conditions"
+part: "Spiral Two — The Mind"
 status: notes
-cross_references: [3, 9, 31]
 ---
 
 ## Key points
@@ -34,7 +33,7 @@ Caffeine's main cost is not jitteriness. It is sleep — which is lesson 31, the
 ## Cannabis — used to regulate, associated with worse regulation, and specifically in the acceptance half
 - Systematic review of emotion regulation and cannabis use in young people (*Frontiers in Adolescent Medicine*, 2026): use in adolescence and young adulthood is associated with **specific rather than global** emotion-regulation difficulties — concentrated in impulse control, goal-directed behaviour, and **non-acceptance of emotional responses**, measured with the DERS and ERQ. Preliminary; few eligible studies; causal direction unestablished.
 
-That non-acceptance finding is worth pausing on. It is precisely the capacity that lesson 3 identifies as the thing that converts noticing into relief rather than into more reactivity.
+That non-acceptance finding is worth pausing on. Non-acceptance of emotional responses is the capacity that converts noticing into relief rather than into more reactivity.
 
 - Heitzeg, M. M., Cope, L. M., Martz, M. E., Hardee, J. E., & Zucker, R. A. (2015). *Developmental Cognitive Neuroscience, 16*, 71–83. Longitudinal, ages 13 to 23. Cannabis users reported consistently greater negative emotionality than controls — and **while controls' negative emotionality declined with age, users' stayed elevated.** Caudal dorsolateral prefrontal activation mediated the association. **The developmental improvement curve that lesson 42 is built on did not happen for them.**
 - Heavy users showed *less* neural activation to negative words across temporal, prefrontal and occipital cortices, insula and amygdala — while reporting *more* negative emotionality. A dissociation between felt negativity and neural response, which is blunting.

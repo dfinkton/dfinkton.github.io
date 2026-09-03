@@ -38,7 +38,7 @@ Good luck on your journey — and thanks for joining me on mine.
 ## Embodied Emotional Intelligence
 
 - [42 Prayers for Peace Love and Liberation](/embodied-emotional-intelligence/42-prayers/) — A collection of prayers for inner peace, loving connection, and collective liberation.
-- [Embodied Emotional Intelligence](/embodied-emotional-intelligence/eei/) — A yearlong curriculum on emotional intelligence maturing into wisdom, designed to be repeated.
+- [Embodied Emotional Intelligence](/embodied-emotional-intelligence/eei/) — A multi-year curriculum on emotional intelligence maturing into wisdom, designed to be repeated. In development.
 - [Loving Attention Is All You Need](/embodied-emotional-intelligence/essays/loving-attention-is-all-you-need/) (November 2025)
 - [God, Money, & Mind](/embodied-emotional-intelligence/essays/god-money-mind/) (March 2025)
 

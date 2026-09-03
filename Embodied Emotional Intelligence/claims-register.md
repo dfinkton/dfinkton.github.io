@@ -535,7 +535,7 @@ was about other lessons. Relocated, with sources left in the shared `source-ledg
 | Material | Moved to |
 |---|---|
 | If-then planning (642-test meta, Schweiger Gallo, Gollwitzer & Sheeran, Breitwieser & Reinelt), the reappraisal reconciliation, Webb's strategy taxonomy, expressive suppression | **19 — Overriding** |
-| Venting (Bushman, Geen & Quanty), the boundary prediction, anger's absence from the if-then literature, Chervonsky & Hunt's operationalisation problem | **8 — Fear and Anger** |
+| Venting (Bushman, Geen & Quanty), the boundary prediction, anger's absence from the if-then literature, Chervonsky & Hunt's operationalisation problem | **8 — Fear** |
 | Nils & Rimé social sharing, Lepore's challenging-vs-validating listener, partner convergence (Croyle & Waltz, Yelsma & Marrow, Frye-Cox & Hesse), the I3 subscale ordering | **25 — Talk About It** |
 | "Analysing why you feel it" (−0.34) | **6 — Rumination** |
 | Panksepp's seven, the Big Five/ANPS mapping, state-dependent decision-making, LUST | **5 — States of Mind** |
@@ -1579,7 +1579,7 @@ so it is recorded here rather than only in Lesson 19.**
 ### P20b. The pause — taught everywhere, isolated almost nowhere. `OPEN — searched 13 Aug 2026` 
 
 **SCOPE FLAG, 13 Aug 2026 — left in place deliberately, needs Darryl's call.** The pause spans at
-least three other lessons: **3 (Observation)** as monitoring/acceptance, **19 (Overriding)** as the
+least three other lessons: **19 (Overriding)** as the
 gap between stimulus and response, and **21 (Distress Tolerance)** as urge surfing. It is not
 obviously a Lesson 2 claim — noticing a feeling and pausing before acting on it are different moves.
 Not moved because the right destination is a design decision, not a filing one.

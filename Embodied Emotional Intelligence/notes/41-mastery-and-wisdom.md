@@ -1,9 +1,8 @@
 ---
 lesson: 41
 title: "Mastery & Wisdom"
-part: "Part Six — Design and Horizon"
+part: "Spiral Four — Mastery"
 status: notes
-cross_references: []
 ---
 
 ## Studies

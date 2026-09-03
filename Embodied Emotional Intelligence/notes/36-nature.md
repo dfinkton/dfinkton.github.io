@@ -1,9 +1,8 @@
 ---
 lesson: 36
 title: "Nature"
-part: "Part Five — Conditions"
+part: "Spiral Three — Others"
 status: notes
-cross_references: [4, 6]
 ---
 
 ## What it's for

@@ -76,15 +76,15 @@ They were called essays until July 2026 and renamed deliberately — an essay is
 | `content/embodied-emotional-intelligence/essays/` | "Other Emotional Essays" — 2 stubs linking to Medium | No |
 | `content/essays/` | The 8 UBI/poverty essays | No |
 
-Two more things that are **not** part of the 42, despite sitting in the same site section:
+Two more things that are **not** part of the curriculum, despite sitting in the same site section:
 
-- **The introduction is not a template.** It is a single orienting piece that defines terms and lays out the four spirals. It uses organic headers and carries no citations. The 42 lessons use a fixed seven-section structure with citations throughout (`lesson-format.md`). Do not infer the lesson format from the introduction.
+- **The introduction is not a template.** It is a single orienting piece that defines terms and lays out the four spirals. It uses organic headers and carries no citations. The 44 lessons use a fixed seven-section structure with citations throughout (`lesson-format.md`). Do not infer the lesson format from the introduction.
 - **42 Prayers is a separate work.** It shares the site section and the number 42. It has nothing to do with the curriculum.
 
 ### Project Overview
-A yearlong curriculum on embodied emotional intelligence maturing into emotional wisdom, designed to be repeated. Each lesson is a **workbook lesson** — it teaches one emotional capacity, backed by research cited throughout, and gives the reader a practice (usually several methods, ordered by effectiveness) for embodying it. Written for someone working on this themselves.
+A multi-year curriculum on embodied emotional intelligence maturing into emotional wisdom, designed to be repeated. Each lesson is a **workbook lesson** — it teaches one emotional capacity, backed by research cited throughout, and gives the reader a practice (usually several methods, ordered by effectiveness) for embodying it. Written for someone working on this themselves.
 
-**Never state a lesson count in reader-facing copy.** Internally there are 42 lessons and the notes and lesson numbers use that. Publicly it is a yearlong curriculum designed to be repeated — no number, because the count is not a commitment. This applies to page descriptions, the homepage, `llms.txt`, and anything else a reader or crawler sees.
+**Never state a lesson count in reader-facing copy.** Internally there are 44 lessons and the notes and lesson numbers use that. Publicly it is a multi-year curriculum designed to be repeated — no number, because the count is not a commitment. This applies to page descriptions, the homepage, `llms.txt`, and anything else a reader or crawler sees.
 
 ### Architecture
 ```
@@ -93,13 +93,13 @@ Embodied Emotional Intelligence/
 ├── lesson-format.md                # The 7-section structure every lesson follows
 ├── verification-checklist.md       # What to verify and when. Run per claim while drafting
 ├── source-ledger.md                # One entry per verified source: what it supports, what it cannot.
-│                                   #   Shared across all 42 lessons. CHECK HERE BEFORE RE-VERIFYING ANYTHING
+│                                   #   Shared across all 44 lessons. CHECK HERE BEFORE RE-VERIFYING ANYTHING
 ├── claims-register.md              # Per-lesson: what we believe, how much weight it holds, what would change it
 ├── notes/                          # One file per lesson (research notes)
 │   ├── 01-focus-and-attention.md
 │   ├── 02-emotional-awareness.md
 │   ├── ...
-│   └── 42-flourishing.md
+│   └── 46-play.md
 └── lessons/                        # Drafts in progress. A finished lesson moves to content/ and does not stay here
 ```
 
@@ -144,19 +144,17 @@ answer belongs in `lesson-format.md` under Prose style so it stops being reinven
 3. Draft one section at a time, in the order the format file gives — Challenge, Benefit, Practice, What to Expect, Evidence, Overview, Quotation. Not the order they appear in, and each position has a reason.
 4. Work the publishing checklist at the end of `lesson-format.md`. It covers the file move, the byte-order-mark trap, the spiral-list link, `llms.txt`, and the rule that no lesson count appears in anything a reader sees.
 
-### Lesson List (42 lessons in 6 parts)
-**Part One — Attention and Observation:** Focus, Emotional Awareness, Observation, Gratitude, States of Mind, Rumination, Judgment
-**Part Two — The Drives:** Fear/Anger, Anxiety, Shame, Boundaries, Sadness/Grief, Impermanence, Joy/Play, Care, Status, Sexual Attraction
-**Part Three — The Choice:** Listening, Overriding, Breath, Distress Tolerance
-**Part Four — Other People:** Touch, Co-regulation, Belonging, Talk About It, Stopping A Fight, De-escalation, Repair, Compassion, Sympathetic Joy
-**Part Five — Conditions:** Sleep, Food/Water, Money, Substances, Movement, Nature
-**Part Six — Design and Horizon:** Designing the Room, Dose/Difficulty, Turning It Up, Purpose/Storytelling, Mastery & Wisdom, Flourishing
+### Lesson List (44 lessons in 4 spirals)
+**Spiral One — The Body:** Focus, Emotional Awareness, Sleep, Food/Water, Movement, Belonging, Fear, Sadness, Grief, Joy, Play, Curiosity, Care, Breath, Touch
+**Spiral Two — The Mind:** States of Mind, Rumination, Judgment, Gratitude, Money, Substances, Anxiety, Shame, Anger, Overriding, Distress Tolerance, Compassion
+**Spiral Three — Others:** Nature, Purpose/Storytelling, Impermanence, Status, Sympathetic Joy, Physical Attraction and Sexuality, Boundaries, Co-regulation, Stopping A Fight, Repair, Talk About It
+**Spiral Four — Mastery:** Listening, Turning It Up, Designing the Room, Dose/Difficulty, Flourishing, Mastery & Wisdom
 
 ### Key Writing Constraints
-- **Structure is fixed:** Quotation → The Overview → The Challenge → The Benefit → The Practice → What to Expect → The Evidence. Same headers in all 42. Full spec in `lesson-format.md`.
+- **Structure is fixed:** Quotation → The Overview → The Challenge → The Benefit → The Practice → What to Expect → The Evidence. Same headers in all 44. Full spec in `lesson-format.md`.
 - **Self-containment:** Each lesson must stand alone (2-3 sentences of re-grounding, terms defined even if defined elsewhere)
-- **Division of labour:** Lessons 5, 6, 7, 9 all touch abstraction — keep separate
-- **Series thesis:** Sensitivity without acceptance is worse than not sensing at all
+- **Division of labour:** Lessons 5, 6, 7, 27 all touch abstraction — keep separate
+- **Series thesis:** You get the capacity you practise
 - **No target length:** It depends on the topic. Never pad a thin section to match a fuller chapter.
 - **Two passes:** Clarity first, vocabulary second — never both at once. 7th-grade *vocabulary* carrying adult *content*, not 7th-grade content. Pass two changes words, never claims; expect chapters to get longer, not shorter. "7th grade" is a heuristic for word choice, never a readability score to write toward.
 - **Plain English:** Technical terms defined as used, except where the term *is* the concept — those get kept and taught. Link the study rather than printing effect sizes and confidence intervals.

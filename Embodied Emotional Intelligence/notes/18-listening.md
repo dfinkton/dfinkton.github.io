@@ -1,9 +1,8 @@
 ---
 lesson: 18
 title: "Listening"
-part: "Part Three — The Choice"
+part: "Spiral Four — Mastery"
 status: notes
-cross_references: [19]
 ---
 
 ## Key points

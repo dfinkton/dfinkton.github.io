@@ -1,9 +1,11 @@
 ---
 title: "Embodied Emotional Intelligence"
-description: "A yearlong curriculum on embodied emotional intelligence maturing into emotional wisdom, designed to be repeated."
+description: "A multi-year curriculum on embodied emotional intelligence maturing into emotional wisdom, designed to be repeated. In development."
 weight: 20
 hide_list: true
 ---
+
+**This curriculum is in development.** The introduction below is complete. Lessons are being written and published as they are finished — the links that follow go live as each lesson ships.
 
 **Intelligence** is your brain's ability to learn, reason, solve problems, and adapt to new situations. It is the capacity and machinery you actively use to figure the world out. This is different from instinct, which is a built-in, automatic reaction—like flinching when you hear a loud noise. Intelligence is an active process.
 
@@ -43,62 +45,64 @@ That is why what follows is a curriculum of separate lessons rather than a singl
 
 Embodied emotional intelligence is not a straight line. You cannot pause your life, your marriage, or your job to spend three months mastering your attention before you are allowed to deal with your anger. Human beings learn in spirals. We learn a basic tool, test it against the friction of real life, and then return to it later at a deeper level.
 
-That is how the lessons ahead are organized. We will begin with the raw machinery, move outward into the friction inside you and the friction between you and other people, and finally arrive at wisdom.
+That is how the lessons ahead are organized. We will begin with the body, move into the mind, then outward into the world with other people, and finally arrive at mastery.
 
-### Spiral One: The Baseline (The Immediate Reality)
+### Spiral One: The Body
 
-This is the smallest set of tools that will actually work. Before attempting to untangle the history of your relationships, you must first be able to turn the dashboard on, recognize the signals, and make sure your body is in good enough shape for the machinery to run.
+The physical foundation. Before attempting to untangle the history of your relationships, you must first be able to turn the dashboard on, recognize the signals, and make sure your body is in good enough shape for the machinery to run.
 
 - [Focus and attention](/embodied-emotional-intelligence/eei/focus-and-attention/) — Attention is the ground everything else runs on. How to hold it, and what spends it.
 - [Emotional awareness](/embodied-emotional-intelligence/eei/emotional-awareness/) — Feeling a signal and getting an accurate name on it, including where in your body it lives.
-- Observation — Watching a feeling without acting on it, and the difference between noticing-and-allowing and noticing-and-fixing.
-- Sleep — The largest single lever, and the one most people give away first.
+- Sleep — What sleep does to the capacity for emotional regulation.
 - Food and water — What hunger and thirst do to judgment.
+- Movement — Moving the body as a way to steady yourself rather than to get fit.
 - Belonging — The settled sense of being among people where someone like you fits, and what its absence costs.
-- Fear and anger — The two defensive drives. Staying in discomfort long enough to learn the disaster does not arrive.
-- Sadness and grief — The drive most often treated as a malfunction, and what it is actually for.
-- Joy, play, and curiosity — The drives most adults override without noticing, and what that costs.
+- Fear — The drive to avoid damage. Staying in discomfort long enough to learn the disaster does not arrive.
+- Sadness — The drive most often treated as a malfunction, and what it is actually for.
+- Grief — The pain of loss and separation, and what it is for.
+- Joy — The feeling that signals safety and enough.
+- Play — The drive for physical engagement and rough-and-tumble, and what happens when adults stop.
+- Curiosity — The drive to explore, anticipate, and make sense of the world.
 - Care — The protective drive, and burnout as what happens when it goes wrong.
-- Breath — The most direct lever on how worked up you are, and the only one that works when nothing you can think of does.
+- Breath — A direct lever on how worked up you are.
 - Touch — Skin-to-skin with infants, holding someone who is upset, and when touch helps versus intrudes.
 
-### Spiral Two: The Friction (Internal Management)
+### Spiral Two: The Mind
 
-This pass assumes you are trying to use the baseline tools in the real world—and meeting resistance. This is where we introduce the tools for managing mental hijacks, tangled emotions, and the times when your body is running on empty.
+Internal friction. This pass assumes you are trying to use the baseline tools in the real world—and meeting resistance. The tools for managing mental hijacks, tangled emotions, and the things that erode your capacity from the inside.
 
 - States of mind — Hot, cold, flooded, wandering. Which practices are available in which state, and what to do with a mind that will not stop producing thoughts.
 - Rumination — Chewing over your own state in the way that makes it worse, and the difference between making sense of an experience and replaying it.
 - Judgment — Reading intent in other people, and judging whether your own thoughts are accurate. Both go wrong in similar ways.
 - Gratitude — Where you point your attention, why that seems to matter more than how often, and what the evidence does and doesn't support.
 - Money — What financial pressure takes from you before you notice.
-- Movement — Moving the body as a way to steady yourself rather than to get fit.
-- Nature — Time outside as one of the few things shown to reduce rumination directly, and the difference between visiting nature and feeling connected to it.
 - Mind-altering substances — SSRIs (antidepressants), alcohol, caffeine, cannabis, MDMA, opiates. Organized by what each does to the machinery rather than by what is legal.
 - Anxiety — Fear with nothing specific to point at, and time to work on you. Not one thing, which is why no single technique fixes it.
 - Shame — The feeling most likely to stop you doing any of this, and the difference between I did a bad thing and I am one.
+- Anger — The drive to fight back when you are held down or blocked from what you want. What it is actually asking you to do.
 - Overriding — Delay, rethinking what a situation means, and finding another outlet. What override is, and how it differs from shoving something down.
 - Distress tolerance — Staying in something uncomfortable without making it worse.
 - Compassion — Feeling for someone rather than with them, why the difference determines whether caring exhausts you, and the same practice turned inward.
 
-### Spiral Three: The Collision (Dealing With Other People)
+### Spiral Three: Others
 
-You are now regulating yourself while interacting with another person's dashboard. This requires applying all the previous skills at the same time while managing the friction of human connection.
+The world outside yourself. You are now regulating yourself while interacting with other people and with the environment. This requires applying all the previous skills at the same time while managing the friction of connection.
 
+- Nature — Time outside as one of the few things shown to reduce rumination directly, and the difference between visiting nature and feeling connected to it.
 - Purpose and storytelling — The story you tell about your own life, why the shape of it matters, and where you think you are going.
 - Impermanence — Not that this feeling will pass, but that everything you are holding is temporary.
 - Status seeking and testosterone — Why a room changes you, and what happens in rooms full of people your own age.
 - Sympathetic joy — The flip side nobody trains: taking pleasure in someone else's good fortune.
-- Sexual attraction — Treated directly rather than around.
+- Physical attraction and sexuality — Treated directly rather than around.
 - Boundaries — The difference between what you will do and what you demand someone else do, and the work of tolerating their displeasure.
 - Co-regulation — Borrowing steadiness from another person, and being the person someone else can borrow from.
-- Stopping a fight — Everyone argues. How to stop mid-argument without finishing it, and why accepting the other person's attempt to stop is the harder half.
-- De-escalation — What to do when someone has passed the point of hearing reason.
+- Stopping a fight — Everyone argues. How to stop mid-argument without finishing it, recognizing when someone has passed the point of hearing reason, and why accepting the other person's attempt to stop is the harder half.
 - Repair — What to say after you have lost it, and why recovering matters more than never breaking things in the first place.
 - Talk about it — Saying it out loud or writing it down. Why the benefit seems to come from organizing the experience rather than from getting it off your chest.
 
-### Spiral Four: Wisdom (Mastery and Environment)
+### Spiral Four: Mastery
 
-The final pass is where intelligence matures into wisdom. The machinery becomes largely automated, and the focus shifts to trusting your fine-tuned signals and shaping the environment around you.
+Integration and wisdom. The machinery becomes largely automated, and the focus shifts to trusting your fine-tuned signals and shaping the environment around you.
 
 - Listening — When your emotion is right and you should do what it says.
 - Turning it up — Deliberately raising a feeling when its energy is what the moment requires.

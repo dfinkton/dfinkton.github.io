@@ -1,9 +1,8 @@
 ---
 lesson: 20
 title: "Breath"
-part: "Part Three — The Choice"
+part: "Spiral One — The Body"
 status: notes
-cross_references: [9, 19]
 ---
 
 ## What it's for

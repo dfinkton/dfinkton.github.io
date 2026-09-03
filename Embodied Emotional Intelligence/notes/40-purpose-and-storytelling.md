@@ -1,9 +1,8 @@
 ---
 lesson: 40
 title: "Purpose and Storytelling"
-part: "Part Six — Design and Horizon"
+part: "Spiral Three — Others"
 status: notes
-cross_references: [25]
 ---
 
 ## What it's for

@@ -132,7 +132,7 @@ Not the order they appear in, and each position has a reason:
   there is something settled to state.
 - **The Quotation** goes last because it has to be tested against the body, and until the
   lesson exists there is no body to test it against. On the first lesson the original
-  epigraph led on *allowing* — a capacity that lesson explicitly hands to Observation — and
+  epigraph led on *allowing* — a capacity that lesson explicitly hands to the next lesson — and
   that was only visible once everything else was finished.
 
 **Do not draft the whole lesson in one pass.** The first lesson was written that way and
@@ -329,9 +329,11 @@ fixed from lesson to lesson; what happens inside one does not.
 is a gloss in passing: *"the regions of their brains that register salience—how much
 something grabs your attention."* A few words, not a sentence of throat-clearing.
 
-Which means precise notation mostly stays out. Write *a small-to-medium improvement*
+Which means precise notation mostly stays out of the body. Write *a small-to-medium improvement*
 rather than an effect size and a confidence interval, and **link the study** so anyone
-who wants the figures can go get them.
+who wants the figures can go get them. In The Evidence, include effect sizes when they are
+the finding — *g=0.21* for brief training fading overnight, or *d=0.30* against active
+controls versus *g=0.95* with no control. When the number is the point, print it.
 
 **No unexplained effect sizes.** You do not have to include them at all. If you do, the
 reader must be able to understand what the number is measuring: what was done, to whom,
@@ -426,7 +428,7 @@ be — hand a motivated person the link. No helper notes and no instructions for
 this with someone else. That is a different project with limited upside, and a reader
 who isn't motivated won't be carried through it by one who is.
 
-Lessons whose subject is other people — repair, boundaries, de-escalation — are still
+Lessons whose subject is other people — repair, boundaries, stopping a fight — are still
 about the reader's own relationships. And telling a reader to involve someone else for
 their own safety is not a helper note; it stays.
 
@@ -434,10 +436,8 @@ their own safety is not a helper note; it stays.
 No closing "related lessons" block; it implies the reader is mid-sequence.
 
 **Only link a lesson that has already shipped.** Until then, name the capacity in prose
-and leave it unlinked — *Observation is where allowing gets trained*. A dead link is worse
-than a plain noun, and worst where the reference is a safety instruction. The front
-matter's `cross_references` still lists every intended lesson whether it exists or not —
-that is the map of what to come back and link once each target ships.
+and leave it unlinked — *Emotional Awareness is where allowing gets trained*. A dead link
+is worse than a plain noun, and worst where the reference is a safety instruction.
 
 **Plain English everywhere,** not only in The Evidence — see the two-pass process
 below. That section is just where jargon accumulates fastest.
@@ -461,23 +461,13 @@ table of contents for a page the reader can see. Each lesson stands alone, so it
 not read as a chapter aware of its own position. Inline cross-reference links to other
 lessons stay — those are for the reader, not the narrator.
 
-**The narrator recedes.** First person is fine occasionally, and it earns its place most
-in The Evidence, where a judgment is being made — *I would treat this as promising rather
-than established.* Elsewhere, prefer the claim over a report of the claim.
+**The narrator recedes.** First person is fine in The Practice and What to Expect, where personal experience earns its place — *my favorite anchor*, *for myself, my sweet spot*. It also works in The Evidence, where a judgment is being made — *I would treat this as promising rather than established.* Elsewhere, prefer the claim over a report of the claim.
 
-**Every paragraph is something that happens to the reader, and the citation lands at the
-end.** Set 18 Aug 2026 after a Benefit draft that read as an argument where The Challenge
-reads as an experience. The Challenge works because each paragraph is a thing occurring to
-a person — you snap, your partner defends, they guess wrong, you seek treatment for the
-wrong ailment — and the source arrives after a sentence that was already about the reader:
-*people who struggle to identify their feelings harm themselves more (Norman et al., 2020).*
-**Never build the sentence around the study.** Writing outward from a ledger entry produces
-the reverse, and drags the entry's contents into the prose with it.
+**Every paragraph ends with something that happens to the reader, and the citation lands at the end.** Set 18 Aug 2026 after a Benefit draft that read as an argument where The Challenge reads as an experience. The Challenge works because each paragraph is a thing occurring to a person — you snap, your partner defends, they guess wrong, you seek treatment for the wrong ailment — and the source arrives after a sentence that was already about the reader: *people who struggle to identify their feelings harm themselves more (Norman et al., 2020).* **Never build the sentence around the study.** Writing outward from a ledger entry produces the reverse, and drags the entry's contents into the prose with it.
 
-**No study design in the prose.** No sample sizes, no *researchers followed*, no *pooled
-across seventeen samples*, no *in a review of*, no effect sizes or intervals. State what is
-true of people, cite it, move on. Design and numbers are what The Evidence is for, and
-repeating them in the body is the same caveat written twice.
+Paragraphs can begin with research setup as narrative — *researchers put people in a brain scanner and placed a small heat pad against their forearm* — as long as they end with the reader's experience, not with the study's conclusion.
+
+**Study design in the body is narrative, not evidence.** No sample sizes, no *pooled across seventeen samples*, no *in a review of*, no effect sizes or intervals in the body. But describing what researchers did as a story — the heat-pad experiment, the brain scanner setup, the 91% worry study — is how The Challenge and The Benefit work. The line is: study design can set up a claim, but it cannot support one. Support belongs in The Evidence.
 
 **Name the capacity once, then use that word.** A pronoun whose referent drifts between the
 skill, the moment, the lesson and the payoff makes a section unreadable while every
@@ -592,12 +582,11 @@ Both passes cover the whole lesson, not only The Evidence.
 ```yaml
 ---
 title: "Lesson Title"
-lesson: 12                    # 1–42
-part: "Part Two — The Drives"
+lesson: 12                    # 1–46
+part: "Spiral Two — The Mind"
 date: YYYY-MM-DD
 description: "One sentence. Required — drives search and LLM retrieval."
 weight: 120                  # lesson number × 10
-cross_references: [13, 19]   # every lesson this one links to, plus any the notes plan
 unverified: []               # must be empty before publishing
 aliases: []
 ---
@@ -623,7 +612,7 @@ Moved to `verification-checklist.md` — run it in full before a lesson ships.
 ## Length
 
 There is no target length. It depends on the topic. Sleep and shame have far more
-established research behind them than Turning It Up or De-escalation, and some
+established research behind them than Turning It Up, and some
 capacities need more practice detail than others. A lesson runs as long as its
 material earns.
 
