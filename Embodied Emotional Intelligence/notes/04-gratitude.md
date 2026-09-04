@@ -1,7 +1,7 @@
 ---
 lesson: 4
 title: "Gratitude"
-part: "Spiral Two — The Mind"
+part: "Spiral Two — The Inner World"
 status: notes
 ---
 

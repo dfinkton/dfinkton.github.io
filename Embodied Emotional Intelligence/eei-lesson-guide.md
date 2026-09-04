@@ -75,13 +75,13 @@ Two overlap pairs to write knowing about each other: **Care (15)** is the drive,
 |---|-------|------|--------|
 | 1 | Focus and Attention | The Body | Shipped 2026-08-06 |
 | 2 | Emotional Awareness | The Body | |
-| 4 | Gratitude | The Mind | |
-| 5 | States of Mind | The Mind | |
-| 6 | Rumination | The Mind | |
-| 7 | Judgment: Reading Intent, Reading Your Own Thoughts | The Mind | |
+| 4 | Gratitude | The Inner World | |
+| 5 | States of Mind | The Inner World | |
+| 6 | Rumination | The Inner World | |
+| 7 | Judgment: Reading Intent, Reading Your Own Thoughts | The Inner World | |
 | 8 | Fear | The Body | |
-| 27 | Anxiety | The Mind | |
-| 10 | Shame and Self-Criticism | The Mind | |
+| 27 | Anxiety | The Inner World | |
+| 10 | Shame and Self-Criticism | The Inner World | |
 | 11 | Boundaries | Others | |
 | 12 | Sadness | The Body | |
 | 13 | Impermanence | Others | |
@@ -90,21 +90,21 @@ Two overlap pairs to write knowing about each other: **Care (15)** is the drive,
 | 16 | Status Seeking and Testosterone | Others | |
 | 17 | Physical Attraction and Sexuality | Others | |
 | 18 | Listening | Mastery | |
-| 19 | Overriding | The Mind | |
+| 19 | Overriding | The Inner World | |
 | 20 | Breath | The Body | |
-| 21 | Distress Tolerance | The Mind | |
+| 21 | Distress Tolerance | The Inner World | |
 | 22 | Touch | The Body | |
 | 23 | Co-regulation | Others | |
 | 24 | Belonging | The Body | |
 | 25 | Talk About It | Others | |
 | 26 | Stopping A Fight | Others | |
 | 28 | Repair | Others | |
-| 29 | Compassion | The Mind | |
+| 29 | Compassion | The Inner World | |
 | 30 | Sympathetic Joy | Others | |
 | 31 | Sleep | The Body | |
 | 32 | Food and Water | The Body | |
-| 33 | Money | The Mind | |
-| 34 | Mind-Altering Substances | The Mind | |
+| 33 | Money | The Inner World | |
+| 34 | Mind-Altering Substances | The Inner World | |
 | 35 | Movement | The Body | |
 | 36 | Nature | Others | |
 | 37 | Designing the Room | Mastery | |
@@ -114,7 +114,7 @@ Two overlap pairs to write knowing about each other: **Care (15)** is the drive,
 | 41 | Mastery & Wisdom | Mastery | |
 | 42 | Flourishing: Going beyond the baseline | Mastery | |
 | 43 | Curiosity | The Body | |
-| 44 | Anger | The Mind | |
+| 44 | Anger | The Inner World | |
 | 45 | Grief | The Body | |
 | 46 | Play | The Body | |
 
@@ -128,7 +128,7 @@ live first. Internal `lesson`, `part`, and `weight` in front matter don't change
 the permanent ID. This is the writing queue.
 
 - **Spiral One — The Body:** 1 → 2 → 31 → 32 → 35 → 24 → 8 → 12 → 45 → 14 → 46 → 43 → 15 → 20 → 22
-- **Spiral Two — The Mind:** 5 → 6 → 7 → 4 → 33 → 34 → 27 → 10 → 44 → 19 → 21 → 29
+- **Spiral Two — The Inner World:** 5 → 6 → 7 → 4 → 33 → 34 → 27 → 10 → 44 → 19 → 21 → 29
 - **Spiral Three — Others:** 36 → 40 → 13 → 16 → 30 → 17 → 11 → 23 → 26 → 28 → 25
 - **Spiral Four — Mastery:** 18 → 39 → 37 → 38 → 42 → 41
 

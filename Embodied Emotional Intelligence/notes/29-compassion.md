@@ -1,7 +1,7 @@
 ---
 lesson: 29
 title: "Compassion"
-part: "Spiral Two — The Mind"
+part: "Spiral Two — The Inner World"
 status: notes
 ---
 

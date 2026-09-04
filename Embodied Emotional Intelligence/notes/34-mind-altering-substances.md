@@ -1,7 +1,7 @@
 ---
 lesson: 34
 title: "Mind-Altering Substances"
-part: "Spiral Two — The Mind"
+part: "Spiral Two — The Inner World"
 status: notes
 ---
 

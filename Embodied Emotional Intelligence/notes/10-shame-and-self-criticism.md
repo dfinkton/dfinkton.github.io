@@ -1,7 +1,7 @@
 ---
 lesson: 10
 title: "Shame and Self-Criticism"
-part: "Spiral Two — The Mind"
+part: "Spiral Two — The Inner World"
 status: notes
 ---
 

@@ -1,7 +1,7 @@
 ---
 lesson: 27
 title: "Anxiety"
-part: "Spiral Two — The Mind"
+part: "Spiral Two — The Inner World"
 status: notes
 ---
 

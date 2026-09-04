@@ -1,7 +1,7 @@
 ---
 lesson: 7
 title: "Judgment: Reading Intent, Reading Your Own Thoughts"
-part: "Spiral Two — The Mind"
+part: "Spiral Two — The Inner World"
 status: notes
 ---
 

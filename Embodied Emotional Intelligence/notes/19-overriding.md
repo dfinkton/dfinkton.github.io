@@ -1,7 +1,7 @@
 ---
 lesson: 19
 title: "Overriding"
-part: "Spiral Two — The Mind"
+part: "Spiral Two — The Inner World"
 status: notes
 ---
 

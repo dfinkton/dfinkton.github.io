@@ -146,7 +146,7 @@ answer belongs in `lesson-format.md` under Prose style so it stops being reinven
 
 ### Lesson List (44 lessons in 4 spirals)
 **Spiral One — The Body:** Focus, Emotional Awareness, Sleep, Food/Water, Movement, Belonging, Fear, Sadness, Grief, Joy, Play, Curiosity, Care, Breath, Touch
-**Spiral Two — The Mind:** States of Mind, Rumination, Judgment, Gratitude, Money, Substances, Anxiety, Shame, Anger, Overriding, Distress Tolerance, Compassion
+**Spiral Two — The Inner World:** States of Mind, Rumination, Judgment, Gratitude, Money, Substances, Anxiety, Shame, Anger, Overriding, Distress Tolerance, Compassion
 **Spiral Three — Others:** Nature, Purpose/Storytelling, Impermanence, Status, Sympathetic Joy, Physical Attraction and Sexuality, Boundaries, Co-regulation, Stopping A Fight, Repair, Talk About It
 **Spiral Four — Mastery:** Listening, Turning It Up, Designing the Room, Dose/Difficulty, Flourishing, Mastery & Wisdom
 

@@ -583,7 +583,7 @@ Both passes cover the whole lesson, not only The Evidence.
 ---
 title: "Lesson Title"
 lesson: 12                    # 1–46
-part: "Spiral Two — The Mind"
+part: "Spiral Two — The Inner World"
 date: YYYY-MM-DD
 description: "One sentence. Required — drives search and LLM retrieval."
 weight: 120                  # lesson number × 10

@@ -5,14 +5,14 @@ weight: 20
 hide_list: true
 ---
 
-**This curriculum is in development.** Lessons are being written and published as they are finished — the links that follow go live as each lesson ships.
+*This curriculum is in development. Lessons are being written and published as they are finished — the links that follow go live as each lesson ships.*
 
-Skills for the emotional parts of being human — one lesson at a time, built to be repeated.
+**Skills for the emotional parts of being human — one lesson at a time, built to be repeated.**
 
 **Jump to a spiral:**
 
 - [**The Body**](#spiral-one-the-body) — The physical foundation. 15 lessons.
-- [**The Mind**](#spiral-two-the-mind) — Internal friction. 12 lessons.
+- [**The Inner World**](#spiral-two-the-mind) — What pulls you off course. 12 lessons.
 - [**Others**](#spiral-three-others) — The world outside yourself. 11 lessons.
 - [**Mastery**](#spiral-four-mastery) — Integration and wisdom. 6 lessons.
 
@@ -81,9 +81,9 @@ The physical foundation. Before attempting to untangle the history of your relat
 - Breath — A direct lever on how worked up you are.
 - Touch — Skin-to-skin with infants, holding someone who is upset, and when touch helps versus intrudes.
 
-### Spiral Two: The Mind
+### Spiral Two: The Inner World
 
-Internal friction. This pass assumes you are trying to use the baseline tools in the real world—and meeting resistance. The tools for managing mental hijacks, tangled emotions, and the things that erode your capacity from the inside.
+What pulls you off course. This pass assumes you are trying to use the baseline tools in the real world—and meeting resistance. The tools for managing mental hijacks, tangled emotions, and the things that erode your capacity from the inside.
 
 - States of mind — Hot, cold, flooded, wandering. Which practices are available in which state, and what to do with a mind that will not stop producing thoughts.
 - Rumination — Chewing over your own state in the way that makes it worse, and the difference between making sense of an experience and replaying it.

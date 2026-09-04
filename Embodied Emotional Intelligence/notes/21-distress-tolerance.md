@@ -1,7 +1,7 @@
 ---
 lesson: 21
 title: "Distress Tolerance"
-part: "Spiral Two — The Mind"
+part: "Spiral Two — The Inner World"
 status: notes
 ---
 

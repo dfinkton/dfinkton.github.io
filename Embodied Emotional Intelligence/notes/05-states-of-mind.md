@@ -1,7 +1,7 @@
 ---
 lesson: 5
 title: "States of Mind"
-part: "Spiral Two — The Mind"
+part: "Spiral Two — The Inner World"
 status: notes
 ---
 

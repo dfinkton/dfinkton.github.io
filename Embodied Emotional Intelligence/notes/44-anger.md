@@ -1,7 +1,7 @@
 ---
 lesson: 44
 title: "Anger"
-part: "Spiral Two — The Mind"
+part: "Spiral Two — The Inner World"
 status: notes
 ---
 

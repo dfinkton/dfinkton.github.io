@@ -1,7 +1,7 @@
 ---
 lesson: 33
 title: "Money"
-part: "Spiral Two — The Mind"
+part: "Spiral Two — The Inner World"
 status: notes
 ---
 

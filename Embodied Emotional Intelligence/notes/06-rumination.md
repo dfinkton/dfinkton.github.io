@@ -1,7 +1,7 @@
 ---
 lesson: 6
 title: "Rumination"
-part: "Spiral Two — The Mind"
+part: "Spiral Two — The Inner World"
 status: notes
 ---
 
