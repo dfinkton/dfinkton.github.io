@@ -5,7 +5,19 @@ weight: 20
 hide_list: true
 ---
 
-**This curriculum is in development.** The introduction below is complete. Lessons are being written and published as they are finished — the links that follow go live as each lesson ships.
+**This curriculum is in development.** Lessons are being written and published as they are finished — the links that follow go live as each lesson ships.
+
+Skills for the emotional parts of being human — one lesson at a time, built to be repeated.
+
+**Jump to a spiral:**
+
+- [**The Body**](#spiral-one-the-body) — The physical foundation. 15 lessons.
+- [**The Mind**](#spiral-two-the-mind) — Internal friction. 12 lessons.
+- [**Others**](#spiral-three-others) — The world outside yourself. 11 lessons.
+- [**Mastery**](#spiral-four-mastery) — Integration and wisdom. 6 lessons.
+
+<details>
+<summary><strong>Read the introduction:</strong> definitions, the thesis, and how the curriculum works</summary>
 
 **Intelligence** is your brain's ability to learn, reason, solve problems, and adapt to new situations. It is the capacity and machinery you actively use to figure the world out. This is different from instinct, which is a built-in, automatic reaction—like flinching when you hear a loud noise. Intelligence is an active process.
 
@@ -46,6 +58,8 @@ That is why what follows is a curriculum of separate lessons rather than a singl
 Embodied emotional intelligence is not a straight line. You cannot pause your life, your marriage, or your job to spend three months mastering your attention before you are allowed to deal with your anger. Human beings learn in spirals. We learn a basic tool, test it against the friction of real life, and then return to it later at a deeper level.
 
 That is how the lessons ahead are organized. We will begin with the body, move into the mind, then outward into the world with other people, and finally arrive at mastery.
+
+</details>
 
 ### Spiral One: The Body
 
