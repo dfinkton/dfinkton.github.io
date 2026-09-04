@@ -5,8 +5,6 @@ weight: 20
 hide_list: true
 ---
 
-**Skills for the emotional parts of being human — one lesson at a time, built to be repeated.**
-
 Jump to a spiral:
 
 - [**The Body**](#spiral-one-the-body) — The physical foundation. 15 lessons.
