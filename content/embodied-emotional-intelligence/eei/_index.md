@@ -1,11 +1,9 @@
 ---
 title: "Embodied Emotional Intelligence"
-description: "A multi-year curriculum on embodied emotional intelligence maturing into emotional wisdom, designed to be repeated. In development."
+description: "Skills for the emotional parts of being human — one lesson at a time, built to be repeated. In development."
 weight: 20
 hide_list: true
 ---
-
-*This curriculum is in development. Lessons are being written and published as they are finished — the links that follow go live as each lesson ships.*
 
 **Skills for the emotional parts of being human — one lesson at a time, built to be repeated.**
 
