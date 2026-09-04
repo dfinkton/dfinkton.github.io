@@ -5,6 +5,8 @@ weight: 20
 hide_list: true
 ---
 
+*This curriculum is in development. Lessons are published as they are finished.*
+
 Jump to a spiral:
 
 - [**The Body**](#spiral-one-the-body) — The physical foundation. 15 lessons.
